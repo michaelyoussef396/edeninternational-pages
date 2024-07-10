@@ -258,5 +258,9 @@
         "imageUrl": "/192.webp",
         "description": "Esplora d-disinn arkitetturali, l-ippjanar urban, u l-bini sostenibbli. Iksbu l-ħiliet biex tfassal l-ambjent mibni."
       }
-    ]
+    ],
+    "studyInAustralia": {
+      "title": "Studi fl",
+      "highlightText": "Awstralja"
+    }
 }

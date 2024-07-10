@@ -258,5 +258,9 @@
         "imageUrl": "/192.webp",
         "description": "Istražite arhitektonsko dizajniranje, urbanističko planiranje i održivu gradnju. Steknite vještine oblikovanja izgrađenog okoliša."
       }
-    ]
+    ],
+    "studyInAustralia": {
+      "title": "Studiranje u",
+      "highlightText": "Australiji"
+    }
 }

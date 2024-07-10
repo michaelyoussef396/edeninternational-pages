@@ -258,5 +258,9 @@
       "imageUrl": "/192.webp",
       "description": "Mimari tasarım, kentsel planlama ve sürdürülebilir bina konularını inceleyin. İnşa edilmiş çevreyi şekillendirme becerilerini kazanın."
     }
-  ]
+  ],
+  "studyInAustralia": {
+    "title": "Avustralya'da",
+    "highlightText": "Eğitim"
+  }
 }

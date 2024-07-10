@@ -258,5 +258,9 @@
         "imageUrl": "/192.webp",
         "description": "探索建筑设计、城市规划和可持续建筑。获得塑造建筑环境的技能。"
       }
-    ]
+    ],
+    "studyInAustralia": {
+      "title": "在",
+      "highlightText": "澳大利亚留学"
+    }
 }

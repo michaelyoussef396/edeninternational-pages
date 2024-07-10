@@ -15,6 +15,7 @@ import shape7 from "@/public/shape-7.jpg";
 import women1 from "@/public/women-1.png";
 import shape8 from "@/public/shape-8.jpg";
 import mainImage from '@/public/main3.png'
+import AustraliaMain from "@/public/ThinkstockPhotos-535455441_12-5.webp";
 export const images = {
   mail,
   phone,
@@ -32,5 +33,6 @@ export const images = {
   shape7,
   women1,
   shape8,
-  mainImage
+  mainImage,
+  AustraliaMain
 };

@@ -258,5 +258,9 @@
         "imageUrl": "/192.webp",
         "description": "Explorer la conception architecturale, la planification urbaine et la construction durable. Acquérir les compétences pour façonner l'environnement bâti."
       }
-    ]
+    ],
+    "studyInAustralia": {
+      "title": "Étudier en",
+      "highlightText": "Australie"
+    }
 }

@@ -258,5 +258,9 @@
         "imageUrl": "/192.webp",
         "description": "Esplora la progettazione architettonica, la pianificazione urbana e l'edilizia sostenibile. Acquisisci le competenze per plasmare l'ambiente costruito."
       }
-    ]
+    ],
+    "studyInAustralia": {
+      "title": "Studiare in",
+      "highlightText": "Australia"
+    }
 }

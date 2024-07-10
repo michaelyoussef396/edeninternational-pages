@@ -258,5 +258,9 @@
         "imageUrl": "/192.webp",
         "description": "Pag-aralan ang architectural design, urban planning, at sustainable building. Makakuha ng mga kasanayan upang hubugin ang built environment."
       }
-    ]
+    ],
+    "studyInAustralia": {
+      "title": "Mag-aral sa",
+      "highlightText": "Australia"
+    }
 }

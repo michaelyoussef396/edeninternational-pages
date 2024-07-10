@@ -258,5 +258,9 @@
       "imageUrl": "/192.webp",
       "description": "Explore architectural design, urban planning, and sustainable building. Gain the skills to shape the built environment."
     }
-  ]
+  ],
+  "studyInAustralia": {
+    "title": "Study In",
+    "highlightText": "Australia"
+  }
 }

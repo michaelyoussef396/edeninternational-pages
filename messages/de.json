@@ -258,5 +258,9 @@
         "imageUrl": "/192.webp",
         "description": "Erforschen Sie architektonisches Design, Stadtplanung und nachhaltiges Bauen. Erwerben Sie die Fähigkeiten, um die gebaute Umwelt zu gestalten."
       }
-    ]
+    ],
+    "studyInAustralia": {
+      "title": "Studieren in",
+      "highlightText": "Australien"
+    }
 }

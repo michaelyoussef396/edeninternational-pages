@@ -258,5 +258,9 @@
         "imageUrl": "/192.webp",
         "description": "Explora el diseño arquitectónico, la planificación urbana y la construcción sostenible. Adquiere las habilidades para dar forma al entorno construido."
       }
-    ]
+    ],
+    "studyInAustralia": {
+      "title": "Estudiar En",
+      "highlightText": "Australia"
+    }
 }

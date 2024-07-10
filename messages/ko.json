@@ -258,5 +258,9 @@
         "imageUrl": "/192.webp",
         "description": "건축 설계, 도시 계획 및 지속 가능한 건축을 탐구합니다. 건축 환경을 형성하는 기술을 얻습니다."
       }
-    ]
+    ],
+    "studyInAustralia": {
+      "title": "호주에서",
+      "highlightText": "공부하기"
+    }
 }
