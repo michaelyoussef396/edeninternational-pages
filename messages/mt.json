@@ -114,5 +114,9 @@
       "worldwideOfficeHandle": "Uffiċċji Madwar id-Dinja",
       "successfulVisaProcess": "Proċess ta' Viża Suċċess",
       "satisfiedClientsMaintains": "Klijenti Sodisfatti"
+    },
+    "heroSectionStudent": {
+      "title": "student",
+      "highlightText": "viża"
     }
 }

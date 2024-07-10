@@ -45,8 +45,8 @@ const VisaCategories: React.FC = () => {
             <Image 
               src={images.visa2} // make sure this image path is correct
               alt="Student Visas"
-              layout="fill"
-              objectFit="cover"
+              fill
+              style={{ objectFit: 'cover' }}
             />
           </div>
           <h4 className="text-xl font-semibold mt-4">{t('studentVisa.title')}</h4>
@@ -66,8 +66,8 @@ const VisaCategories: React.FC = () => {
             <Image 
               src={images.visa1} // make sure this image path is correct
               alt="Migration"
-              layout="fill"
-              objectFit="cover"
+              fill
+              style={{ objectFit: 'cover' }}
             />
           </div>
           <h4 className="text-xl font-semibold mt-4">{t('migration.title')}</h4>

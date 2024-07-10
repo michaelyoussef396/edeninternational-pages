@@ -114,5 +114,9 @@
       "worldwideOfficeHandle": "전 세계 사무소 처리",
       "successfulVisaProcess": "성공적인 비자 처리",
       "satisfiedClientsMaintains": "만족한 고객 유지"
+    },
+    "heroSectionStudent": {
+      "title": "학생",
+      "highlightText": "비자"
     }
 }

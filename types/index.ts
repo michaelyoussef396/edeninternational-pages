@@ -1,8 +1,15 @@
+import { StaticImageData } from 'next/image';
 export interface LocaleLayoutProps {
     children: React.ReactNode;
     params: {
       locale: string;
     };
+  }
+  export interface HeroSectionProps {
+    imageSrc: StaticImageData;
+    title: string;
+    highlightText: string;
+    height: string;
   }
   
   // Types for IndexPage component

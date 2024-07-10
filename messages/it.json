@@ -114,5 +114,9 @@
       "worldwideOfficeHandle": "Gestione Ufficio a Livello Mondiale",
       "successfulVisaProcess": "Processo di Visto di Successo",
       "satisfiedClientsMaintains": "Mantenimento di Clienti Soddisfatti"
+    },
+    "heroSectionStudent": {
+      "title": "studente",
+      "highlightText": "visto"
     }
 }

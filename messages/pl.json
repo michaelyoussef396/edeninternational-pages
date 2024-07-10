@@ -114,6 +114,10 @@
     "worldwideOfficeHandle": "Obsługa Biura Na Całym Świecie",
     "successfulVisaProcess": "Pomyślny Proces Wizowy",
     "satisfiedClientsMaintains": "Utrzymanie Zadowolonych Klientów"
+  },
+  "heroSectionStudent": {
+    "title": "student",
+    "highlightText": "wiza"
   }
   }
   

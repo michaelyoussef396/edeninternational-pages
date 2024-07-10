@@ -114,5 +114,9 @@
       "worldwideOfficeHandle": "दुनिया भर के कार्यालय संभालें",
       "successfulVisaProcess": "सफल वीज़ा प्रक्रिया",
       "satisfiedClientsMaintains": "संतुष्ट ग्राहकों का रखरखाव"
-    }
+    },
+    "heroSectionStudent": {
+    "title": "छात्र",
+    "highlightText": "वीजा"
+  }
 }

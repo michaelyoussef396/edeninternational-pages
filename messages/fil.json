@@ -114,5 +114,9 @@
       "worldwideOfficeHandle": "Worldwide Office Handle",
       "successfulVisaProcess": "Matagumpay na Proseso ng Visa",
       "satisfiedClientsMaintains": "Satisfied Clients Maintains"
+    },
+    "heroSectionStudent": {
+      "title": "studyante",
+      "highlightText": "visa"
     }
 }

@@ -114,6 +114,10 @@
     "worldwideOfficeHandle": "Svetovna Pisarniška Ročica",
     "successfulVisaProcess": "Uspešen Vizumski Postopek",
     "satisfiedClientsMaintains": "Zadovoljni Klienti Ohranijo"
+  },
+  "heroSectionStudent": {
+    "title": "študent",
+    "highlightText": "viza"
   }
   }
   

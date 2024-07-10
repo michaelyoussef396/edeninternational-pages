@@ -7,7 +7,11 @@ export const topNavAnimation = {
     hidden: { opacity: 0, y: 50 },
     visible: { opacity: 1, y: 0, transition: { duration: 0.6 } },
   };
-
+  export const fadeIn = {
+    initial: { opacity: 0 },
+    animate: { opacity: 1 },
+    transition: { duration: 1 },
+  };
   export const transition = {
     type: "spring",
     mass: 0.5,

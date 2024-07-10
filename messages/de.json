@@ -114,5 +114,9 @@
       "worldwideOfficeHandle": "Weltweit tätiges Büro",
       "successfulVisaProcess": "Erfolgreicher Visaprozess",
       "satisfiedClientsMaintains": "Zufriedene Kunden"
+    },
+    "heroSectionStudent": {
+      "title": "Student",
+      "highlightText": "Visum"
     }
 }

@@ -114,5 +114,9 @@
       "worldwideOfficeHandle": "Svjetski ured",
       "successfulVisaProcess": "Uspješan proces vize",
       "satisfiedClientsMaintains": "Zadovoljni klijenti održavaju"
+    },
+    "heroSectionStudent": {
+      "title": "student",
+      "highlightText": "viza"
     }
 }

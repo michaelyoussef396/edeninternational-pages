@@ -34,8 +34,8 @@ const CountryList: React.FC = () => {
         <Image 
           src={images.shape7}
           alt="Background Shape"
-          layout="fill"
-          objectFit="cover"
+          fill
+          style={{ objectFit: 'cover' }}
           className="opacity-50"
         />
       </div>
@@ -84,8 +84,8 @@ const CountryList: React.FC = () => {
             <Image 
               src={images.women1}
               alt="About Us"
-              layout="fill"
-              objectFit="cover"
+              fill 
+              style={{ objectFit: 'cover' }}
             />
           </div>
         </motion.div>

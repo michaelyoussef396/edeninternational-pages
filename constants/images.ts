@@ -14,6 +14,7 @@ import visa2 from "@/public/visa-2.png";
 import shape7 from "@/public/shape-7.jpg";
 import women1 from "@/public/women-1.png";
 import shape8 from "@/public/shape-8.jpg";
+import mainImage from '@/public/main3.png'
 export const images = {
   mail,
   phone,
@@ -31,4 +32,5 @@ export const images = {
   shape7,
   women1,
   shape8,
+  mainImage
 };

@@ -114,5 +114,9 @@
       "worldwideOfficeHandle": "全球办公室处理",
       "successfulVisaProcess": "成功的签证处理",
       "satisfiedClientsMaintains": "满意的客户维持"
+    },
+    "heroSectionStudent": {
+      "title": "学生",
+      "highlightText": "签证"
     }
 }

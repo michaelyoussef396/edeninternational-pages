@@ -114,5 +114,9 @@
     "worldwideOfficeHandle": "Dünya Çapında Ofis İşlemleri",
     "successfulVisaProcess": "Başarılı Vize Süreci",
     "satisfiedClientsMaintains": "Memnun Müşteri Sürekliliği"
+  },
+  "heroSectionStudent": {
+    "title": "öğrenci",
+    "highlightText": "vize"
   }
 }

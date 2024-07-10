@@ -114,6 +114,10 @@
     "worldwideOfficeHandle": "Rukovanje Kancelarijom Širom Sveta",
     "successfulVisaProcess": "Uspešan Proces Vize",
     "satisfiedClientsMaintains": "Održavanje Zadovoljnih Klijenata"
+  },
+  "heroSectionStudent": {
+    "title": "student",
+    "highlightText": "viza"
   }
   }
   
