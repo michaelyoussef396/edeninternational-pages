@@ -118,6 +118,47 @@
   "heroSectionStudent": {
     "title": "xwendekar",
     "highlightText": "vîza"
+  },
+  "shoreServices": {
+    "onShoreTitle": "XIZMETÊN ME YA LI SER DERYAYÊ",
+    "offShoreTitle": "XIZMETÊN ME YA LI DERYAYÊ",
+    "forInternationalStudents": "BO XWENDEKARÊN NAVNETEWÎ",
+    "onShores": [
+      {
+        "title": "Guhertina Kursê",
+        "description": "Eden International alîkariya we dike ku kursêk li hemberî xwe hilbijêre an ku kursêkê ku berê çûbû biguhezînin."
+      },
+      {
+        "title": "Guhertina Zanîngehê an Rêxistina Zanistî",
+        "description": "Gelek xwendekar dixwazin zanîngehan/rexistinan biguhezînin bo fursêtên zêde jî berê nizanin çawa vê bikişînin. Em alîkariya wan dikin ku vê bikişînin."
+      },
+      {
+        "title": "Pêşragihandina Pêşîn Bo Koçberî an Jî Vîzekê Din",
+        "description": "Xwendekar dikarin lêkolînên xwe di demên xwenda de bikin. Dikarin pêkanîna xwe û pêwîstiyên xwe bo koçberiya pîşeyî û vîzayên din bi avokata koçberî ya herêmî ya ji Educube ve kontrol bikin."
+      },
+      {
+        "title": "Dirêjkirina Vîzaya Xwendekarî",
+        "description": "Te wan dersên xwe qedand û vîza ya te bi dawî bûne an jî te kursê xwe qedand û niha te biryar da ku ji bo vîzaya xwendekarî ya nû hewil bidin."
+      }
+    ],
+    "offShores": [
+      {
+        "title": "Lêkolîna Destpêkê",
+        "description": "Erteqandina hemû Sernivîskên Zanistî & Şehadetnameyên, Sertîfîkayên Kûrsa Zimanê Îngilîzî, Nasnameya Neteweyî, Pasport û hwd."
+      },
+      {
+        "title": "Lêkolîna Derhêner",
+        "description": "Em ragihandin derheqê hêranîna kursê, nirxên rê, pêdiviyên sponser, kî dikare sponser bibe û çiqas pereyê hewcedar e ku bêdayîn."
+      },
+      {
+        "title": "Bûrs",
+        "description": "Bi alîkariya kurt ji Educube ve, li ser herênên xwe hilan."
+      },
+      {
+        "title": "Hilbijartina Kurs û Zanîngehan",
+        "description": "Bi gelek zanîngehanên baş û kursên derveyî ji hilbijartin, biryara ku li kû û çi bixwînin dikare biryarek zehmet bibe."
+      }
+    ]
   }
   }
   

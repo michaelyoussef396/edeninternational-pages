@@ -118,6 +118,47 @@
   "heroSectionStudent": {
     "title": "študent",
     "highlightText": "viza"
+  },
+  "shoreServices": {
+    "onShoreTitle": "NAŠE STORITVE NA KRAJU SAMEM",
+    "offShoreTitle": "NAŠE ODDALJENE STORITVE",
+    "forInternationalStudents": "ZA MEDNARODNE ŠTUDENTE",
+    "onShores": [
+      {
+        "title": "Menjava Tečaja",
+        "description": "Eden International vam pomaga izbrati ustrezen tečaj ali zamenjati tečaj, ki že poteka."
+      },
+      {
+        "title": "Menjava Univerze ali Institucije",
+        "description": "Mnogi študentje želijo zamenjati svoje univerze/institucije za boljše priložnosti, vendar ne vedo, kako to storiti. Mi jim pomagamo pri tem."
+      },
+      {
+        "title": "Predhodna Ocena Za Migracijo Ali Drugo Vizo",
+        "description": "Študentje lahko opravijo oceno med študijem. Lahko preverijo svojo upravičenost in predpogoje za kvalificirano migracijo in druge vize s pomočjo notranjega migracijskega pravnika iz Educube."
+      },
+      {
+        "title": "Podaljšanje Študentske Vize",
+        "description": "Dokončali ste te predmete in vaša viza bo kmalu potekla ali ste zaključili tečaj in se zdaj odločili za prijavo na novo študentsko vizo."
+      }
+    ],
+    "offShores": [
+      {
+        "title": "Začetna Ocena",
+        "description": "Vrednotenje vseh akademskih prepisov in certifikatov, certifikata o tečaju angleškega jezika, nacionalne identitete, potnega lista itd."
+      },
+      {
+        "title": "Finančna Ocena",
+        "description": "Informiramo o stroških tečaja, potnih stroških, zahtevah za sponzorstvo, kdo je lahko sponzor in koliko denarja je potrebno."
+      },
+      {
+        "title": "Štipendije",
+        "description": "Prihranite pri stroških tečaja s pomočjo Educube."
+      },
+      {
+        "title": "Izbira Tečaja in Univerze",
+        "description": "S toliko odličnimi univerzami in tečaji v tujini za izbiro je odločitev, kje in kaj študirati, lahko težka."
+      }
+    ]
   }
   }
   

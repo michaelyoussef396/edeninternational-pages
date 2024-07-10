@@ -118,5 +118,46 @@
     "heroSectionStudent": {
       "title": "étudiant",
       "highlightText": "visa"
+    },
+    "shoreServices": {
+      "onShoreTitle": "NOS SERVICES SUR PLACE",
+      "offShoreTitle": "NOS SERVICES OFFSHORE",
+      "forInternationalStudents": "POUR LES ÉTUDIANTS INTERNATIONAUX",
+      "onShores": [
+        {
+          "title": "Changement de Cours",
+          "description": "Eden International vous aide à choisir un cours approprié ou à changer un cours déjà en cours."
+        },
+        {
+          "title": "Changement d'Université ou d'Institution",
+          "description": "De nombreux étudiants souhaitent changer d'université/institution pour de meilleures opportunités, mais ils ne connaissent pas la bonne procédure pour le faire. Nous les aidons à le faire."
+        },
+        {
+          "title": "Évaluation préalable pour la migration ou un autre visa",
+          "description": "Les étudiants peuvent faire évaluer leur situation pendant leurs études. Ils peuvent vérifier leur éligibilité et les prérequis pour la migration qualifiée et d'autres visas par l'avocat en migration interne d'Educube."
+        },
+        {
+          "title": "Extension du Visa Étudiant",
+          "description": "Vous avez terminé ces matières et votre visa est sur le point d'expirer ou vous avez terminé votre cours et maintenant vous avez décidé de demander un nouveau visa étudiant."
+        }
+      ],
+      "offShores": [
+        {
+          "title": "Évaluation Initiale",
+          "description": "Évaluation de tous les relevés de notes et certificats académiques, du certificat de cours de langue anglaise, de l'identité nationale, du passeport, etc."
+        },
+        {
+          "title": "Évaluation Financière",
+          "description": "Nous informons sur les frais de cours, les coûts de voyage, les exigences des sponsors, qui peut être un sponsor et combien d'argent est nécessaire à payer."
+        },
+        {
+          "title": "Bourses d'Études",
+          "description": "Économisez sur vos frais de cours avec un peu d'aide d'Educube."
+        },
+        {
+          "title": "Sélection des Cours et des Universités",
+          "description": "Avec tant de grandes universités et cours à l'étranger à choisir, décider où et quoi étudier peut être une décision difficile."
+        }
+      ]
     }
 }

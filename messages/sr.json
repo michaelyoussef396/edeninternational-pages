@@ -118,6 +118,47 @@
   "heroSectionStudent": {
     "title": "student",
     "highlightText": "viza"
+  },
+  "shoreServices": {
+    "onShoreTitle": "NAŠE USLUGE NA KOPNU",
+    "offShoreTitle": "NAŠE USLUGE NA MORU",
+    "forInternationalStudents": "ZA MEĐUNARODNE STUDENTE",
+    "onShores": [
+      {
+        "title": "Promena Kursa",
+        "description": "Eden International vam pomaže da izaberete odgovarajući kurs ili promenite kurs koji već traje."
+      },
+      {
+        "title": "Promena Univerziteta ili Institucije",
+        "description": "Mnogi studenti žele da promene svoje univerzitete/institucije za bolje prilike, ali ne znaju pravi način da to urade. Mi im pomažemo u tome."
+      },
+      {
+        "title": "Preliminarna Procena za Migraciju ili Drugu Vizu",
+        "description": "Studenti mogu da obave svoju procenu tokom studija. Mogu da provere svoju podobnost i preduslove za kvalifikovanu migraciju i druge vize kod unutrašnjeg migracijskog advokata iz Educube."
+      },
+      {
+        "title": "Produženje Studentske Vize",
+        "description": "Završili ste te predmete i vaša viza uskoro ističe ili ste završili kurs i sada ste odlučili da se prijavite za novu studentsku vizu."
+      }
+    ],
+    "offShores": [
+      {
+        "title": "Početna Procena",
+        "description": "Procena svih akademskih transkripata i sertifikata, sertifikata kursa engleskog jezika, nacionalne identifikacije, pasoša itd."
+      },
+      {
+        "title": "Finansijska Procena",
+        "description": "Informišemo o troškovima kursa, troškovima putovanja, zahtevima za sponzora, ko može biti sponzor i koliko novca je potrebno."
+      },
+      {
+        "title": "Stipendije",
+        "description": "Uštedite na troškovima kursa uz malu pomoć Educube."
+      },
+      {
+        "title": "Izbor Kursa i Univerziteta",
+        "description": "Sa toliko sjajnih univerziteta i kurseva u inostranstvu za izbor, odlučiti gde i šta studirati može biti teška odluka."
+      }
+    ]
   }
   }
   

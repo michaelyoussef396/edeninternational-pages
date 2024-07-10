@@ -118,5 +118,46 @@
     "heroSectionStudent": {
       "title": "student",
       "highlightText": "visa"
+    },
+    "shoreServices": {
+      "onShoreTitle": "OUR ON SHORE SERVICES",
+      "offShoreTitle": "OUR OFF SHORE SERVICES",
+      "forInternationalStudents": "FOR INTERNATIONAL STUDENTS",
+      "onShores": [
+        {
+          "title": "Course Change",
+          "description": "Eden International helps you to choose a suitable course or change a course which is already running."
+        },
+        {
+          "title": "University or Institution Change",
+          "description": "Many students want to change their Universities/Institutions for better opportunities but they don’t know the proper way to do this. We help them to do this."
+        },
+        {
+          "title": "Pre-assessment for migration or another Visa",
+          "description": "Students can have their assessment during studies. They can check their eligibility and prerequisite for skilled migration and other visas by in-house Migration Lawyer from Educube."
+        },
+        {
+          "title": "Student Visa Extension",
+          "description": "You've finished those subjects and your visa is about to expire or you've completed your course and now you've decided to apply for a new student visa."
+        }
+      ],
+      "offShores": [
+        {
+          "title": "Initial Assessment",
+          "description": "Valuation of all Academic Transcripts & Certificates, English Language Course Certificate, National Identity, Passport etc."
+        },
+        {
+          "title": "Financial Assessment",
+          "description": "We inform about course fees, travel costs, sponsor requirements, who can be a sponsor and how much money is required to pay."
+        },
+        {
+          "title": "Scholarships",
+          "description": "Save on your course fees with a little help from Educube."
+        },
+        {
+          "title": "Course & University Selection",
+          "description": "With so many great abroad universities and courses to choose from, deciding where and what to study can be a difficult decision."
+        }
+      ]
     }
 }

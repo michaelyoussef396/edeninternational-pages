@@ -118,5 +118,46 @@
     "heroSectionStudent": {
       "title": "学生",
       "highlightText": "签证"
+    },
+    "shoreServices": {
+      "onShoreTitle": "我们的境内服务",
+      "offShoreTitle": "我们的境外服务",
+      "forInternationalStudents": "为国际学生",
+      "onShores": [
+        {
+          "title": "课程变更",
+          "description": "Eden International 帮助您选择合适的课程或更改正在进行的课程。"
+        },
+        {
+          "title": "大学或机构变更",
+          "description": "许多学生希望更换大学/机构以获得更好的机会，但他们不知道正确的方法。我们帮助他们实现这一目标。"
+        },
+        {
+          "title": "移民或其他签证的预评估",
+          "description": "学生可以在学习期间进行评估。通过 Educube 的内部移民律师，他们可以检查自己是否符合技术移民和其他签证的资格和先决条件。"
+        },
+        {
+          "title": "学生签证延期",
+          "description": "您已经完成了这些课程，您的签证即将到期，或者您已经完成了课程，现在决定申请新的学生签证。"
+        }
+      ],
+      "offShores": [
+        {
+          "title": "初步评估",
+          "description": "评估所有学术成绩单和证书、英语课程证书、国家身份证、护照等。"
+        },
+        {
+          "title": "财务评估",
+          "description": "我们提供有关课程费用、旅行费用、赞助人要求、谁可以成为赞助人以及需要支付多少钱的信息。"
+        },
+        {
+          "title": "奖学金",
+          "description": "在 Educube 的帮助下节省课程费用。"
+        },
+        {
+          "title": "课程与大学选择",
+          "description": "有这么多优秀的国外大学和课程可供选择，决定去哪里和学习什么可能是一个艰难的决定。"
+        }
+      ]
     }
 }

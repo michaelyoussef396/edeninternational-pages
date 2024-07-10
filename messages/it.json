@@ -118,5 +118,46 @@
     "heroSectionStudent": {
       "title": "studente",
       "highlightText": "visto"
+    },
+    "shoreServices": {
+      "onShoreTitle": "I NOSTRI SERVIZI ON SHORE",
+      "offShoreTitle": "I NOSTRI SERVIZI OFF SHORE",
+      "forInternationalStudents": "PER STUDENTI INTERNAZIONALI",
+      "onShores": [
+        {
+          "title": "Cambio di Corso",
+          "description": "Eden International ti aiuta a scegliere un corso adatto o cambiare un corso già in corso."
+        },
+        {
+          "title": "Cambio di Università o Istituto",
+          "description": "Molti studenti vogliono cambiare le loro Università/Istituti per migliori opportunità ma non conoscono il modo corretto per farlo. Li aiutiamo a farlo."
+        },
+        {
+          "title": "Pre-valutazione per migrazione o altro Visto",
+          "description": "Gli studenti possono avere la loro valutazione durante gli studi. Possono verificare la loro idoneità e i prerequisiti per la migrazione qualificata e altri visti con l'avvocato di migrazione interno di Educube."
+        },
+        {
+          "title": "Estensione del Visto per Studenti",
+          "description": "Hai finito quelle materie e il tuo visto sta per scadere o hai completato il tuo corso e ora hai deciso di richiedere un nuovo visto per studenti."
+        }
+      ],
+      "offShores": [
+        {
+          "title": "Valutazione Iniziale",
+          "description": "Valutazione di tutte le Trascrizioni e Certificati Accademici, Certificato del Corso di Lingua Inglese, Identità Nazionale, Passaporto, ecc."
+        },
+        {
+          "title": "Valutazione Finanziaria",
+          "description": "Informiamo sui costi del corso, i costi di viaggio, i requisiti per i sponsor, chi può essere uno sponsor e quanti soldi sono necessari per pagare."
+        },
+        {
+          "title": "Borse di Studio",
+          "description": "Risparmia sulle tasse del corso con un piccolo aiuto da Educube."
+        },
+        {
+          "title": "Selezione del Corso e dell'Università",
+          "description": "Con così tante grandi università all'estero e corsi tra cui scegliere, decidere dove e cosa studiare può essere una decisione difficile."
+        }
+      ]
     }
 }

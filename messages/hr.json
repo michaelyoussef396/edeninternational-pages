@@ -118,5 +118,46 @@
     "heroSectionStudent": {
       "title": "student",
       "highlightText": "viza"
+    },
+    "shoreServices": {
+      "onShoreTitle": "NAŠE USLUGE NA KOPNU",
+      "offShoreTitle": "NAŠE USLUGE NA MORU",
+      "forInternationalStudents": "ZA MEĐUNARODNE STUDENTE",
+      "onShores": [
+        {
+          "title": "Promjena tečaja",
+          "description": "Eden International vam pomaže odabrati odgovarajući tečaj ili promijeniti tečaj koji već pohađate."
+        },
+        {
+          "title": "Promjena sveučilišta ili institucije",
+          "description": "Mnogi studenti žele promijeniti svoja sveučilišta/institucije zbog boljih prilika, ali ne znaju pravi način za to. Mi im pomažemo to učiniti."
+        },
+        {
+          "title": "Prethodna procjena za migraciju ili drugu vizu",
+          "description": "Studenti mogu imati svoju procjenu tijekom studija. Mogu provjeriti svoju podobnost i preduvjete za kvalificiranu migraciju i druge vize kod unutarnjeg pravnika za migracije iz Educubea."
+        },
+        {
+          "title": "Produženje studentske vize",
+          "description": "Završili ste te predmete, a vaša viza uskoro istječe ili ste završili svoj tečaj i sada ste odlučili prijaviti se za novu studentsku vizu."
+        }
+      ],
+      "offShores": [
+        {
+          "title": "Početna procjena",
+          "description": "Procjena svih akademskih transkripata i certifikata, certifikat o tečaju engleskog jezika, nacionalni identitet, putovnica itd."
+        },
+        {
+          "title": "Financijska procjena",
+          "description": "Informiramo vas o troškovima tečaja, troškovima putovanja, zahtjevima za sponzore, tko može biti sponzor i koliko je novca potrebno."
+        },
+        {
+          "title": "Stipendije",
+          "description": "Uštedite na troškovima tečaja uz malu pomoć Educubea."
+        },
+        {
+          "title": "Odabir tečaja i sveučilišta",
+          "description": "Uz toliko izvrsnih sveučilišta i tečajeva u inozemstvu za odabrati, odlučiti gdje i što studirati može biti teška odluka."
+        }
+      ]
     }
 }

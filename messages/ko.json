@@ -118,5 +118,46 @@
     "heroSectionStudent": {
       "title": "학생",
       "highlightText": "비자"
+    },
+    "shoreServices": {
+      "onShoreTitle": "우리의 육상 서비스",
+      "offShoreTitle": "우리의 해상 서비스",
+      "forInternationalStudents": "국제 학생을 위한",
+      "onShores": [
+        {
+          "title": "코스 변경",
+          "description": "Eden International은 적절한 과정을 선택하거나 이미 진행 중인 과정을 변경하는 데 도움을 줍니다."
+        },
+        {
+          "title": "대학 또는 기관 변경",
+          "description": "많은 학생들이 더 나은 기회를 위해 대학/기관을 변경하고 싶어 하지만 올바른 방법을 모릅니다. 우리는 그들이 이를 수행할 수 있도록 도와줍니다."
+        },
+        {
+          "title": "이민 또는 다른 비자를 위한 사전 평가",
+          "description": "학생들은 학업 중에 평가를 받을 수 있습니다. 그들은 in-house 이민 변호사로부터 기술 이민 및 기타 비자에 대한 자격과 요구 사항을 확인할 수 있습니다."
+        },
+        {
+          "title": "학생 비자 연장",
+          "description": "그 과목들을 끝내고 비자가 만료될 예정이거나 과정을 마치고 이제 새 학생 비자를 신청하기로 결정했습니다."
+        }
+      ],
+      "offShores": [
+        {
+          "title": "초기 평가",
+          "description": "모든 학업 성적 증명서 및 자격증, 영어 코스 증명서, 국가 신분증, 여권 등의 평가."
+        },
+        {
+          "title": "재정 평가",
+          "description": "우리는 코스 비용, 여행 비용, 후원 요구 사항, 누가 후원이 될 수 있는지 및 지불해야 할 금액에 대해 알려줍니다."
+        },
+        {
+          "title": "장학금",
+          "description": "Educube의 도움으로 코스 비용을 절약하세요."
+        },
+        {
+          "title": "코스 및 대학 선택",
+          "description": "해외 대학과 코스가 너무 많아 어디서 무엇을 공부할지 결정하는 것은 어려운 일일 수 있습니다."
+        }
+      ]
     }
 }

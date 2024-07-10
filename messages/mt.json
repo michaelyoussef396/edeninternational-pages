@@ -118,5 +118,46 @@
     "heroSectionStudent": {
       "title": "student",
       "highlightText": "viża"
+    },
+    "shoreServices": {
+      "onShoreTitle": "IS-SERVIZZI TAGĦNA ONSHORE",
+      "offShoreTitle": "IS-SERVIZZI TAGĦNA OFFSHORE",
+      "forInternationalStudents": "GĦAL STUDENTI INTERNAZZJONALI",
+      "onShores": [
+        {
+          "title": "Bidla fil-Kors",
+          "description": "Eden International jgħinek tagħżel kors xieraq jew tibdel kors li diġà qed isir."
+        },
+        {
+          "title": "Bidla fl-Università jew fl-Istituzzjoni",
+          "description": "Ħafna studenti jridu jibdlu l-Universitajiet/Istituzzjonijiet tagħhom għal opportunitajiet aħjar imma ma jafux kif jagħmlu dan b'mod xieraq. Aħna ngħinuhom jagħmlu dan."
+        },
+        {
+          "title": "Pre-valutazzjoni għal migrazzjoni jew viża oħra",
+          "description": "L-istudenti jistgħu jkollhom il-valutazzjoni tagħhom waqt l-istudji. Jistgħu jiċċekkjaw l-eliġibilità u l-prerekwiżiti tagħhom għall-migrazzjoni tas-sengħa u viżas oħra permezz ta' Avukat tal-Migrazzjoni tal-Educube."
+        },
+        {
+          "title": "Estensjoni tal-Viża ta' Student",
+          "description": "Inti lest dawk is-suġġetti u l-viża tiegħek qed toqrob li tiskadi jew inti lest il-kors tiegħek u issa ddeċidejt li tapplika għal viża ta' student ġdida."
+        }
+      ],
+      "offShores": [
+        {
+          "title": "Valutazzjoni Inizjali",
+          "description": "Valutazzjoni ta' Transkripti Akkademiċi u Ċertifikati kollha, Ċertifikat tal-Kors tal-Lingwa Ingliża, Identità Nazzjonali, Passaport eċċ."
+        },
+        {
+          "title": "Valutazzjoni Finanzjarja",
+          "description": "Aħna ninfurmawk dwar il-miżati tal-kors, l-ispejjeż tal-ivvjaġġar, ir-rekwiżiti tal-isponsor, min jista' jkun sponsor u kemm flus huma meħtieġa biex tħallas."
+        },
+        {
+          "title": "Boroż ta' Studju",
+          "description": "Iffranka fuq il-miżati tal-kors tiegħek bl-għajnuna ta' Educube."
+        },
+        {
+          "title": "Għażla ta' Kors u Università",
+          "description": "B'tant universitajiet barra l-pajjiż kbar u korsijiet x'jagħżlu, id-deċiżjoni dwar fejn u xiex jistudjaw tista' tkun diffiċli."
+        }
+      ]
     }
 }

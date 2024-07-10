@@ -118,5 +118,46 @@
     "heroSectionStudent": {
       "title": "studyante",
       "highlightText": "visa"
+    },
+    "shoreServices": {
+      "onShoreTitle": "ANG AMING MGA ON SHORE SERVICES",
+      "offShoreTitle": "ANG AMING MGA OFF SHORE SERVICES",
+      "forInternationalStudents": "PARA SA MGA INTERNATIONAL STUDENTS",
+      "onShores": [
+        {
+          "title": "Pagbabago ng Kurso",
+          "description": "Ang Eden International ay tumutulong sa iyo na pumili ng angkop na kurso o baguhin ang kurso na kasalukuyang tinatakbo."
+        },
+        {
+          "title": "Pagbabago ng Unibersidad o Institusyon",
+          "description": "Maraming mga estudyante ang nais magpalit ng kanilang mga Unibersidad/Institusyon para sa mas magagandang pagkakataon ngunit hindi nila alam ang tamang paraan upang gawin ito. Tinutulungan namin sila sa paggawa nito."
+        },
+        {
+          "title": "Paunang Pagsusuri para sa Migration o Ibang Visa",
+          "description": "Ang mga estudyante ay maaaring magkaroon ng kanilang pagsusuri habang nag-aaral. Maaari nilang suriin ang kanilang pagiging karapat-dapat at kinakailangan para sa skilled migration at iba pang mga visa sa pamamagitan ng in-house Migration Lawyer mula sa Educube."
+        },
+        {
+          "title": "Pagpapalawig ng Student Visa",
+          "description": "Natapos mo na ang mga subject at malapit nang mag-expire ang iyong visa o natapos mo na ang iyong kurso at ngayon ay napagpasyahan mong mag-apply para sa bagong student visa."
+        }
+      ],
+      "offShores": [
+        {
+          "title": "Paunang Pagsusuri",
+          "description": "Pagtatasa ng lahat ng Academic Transcripts at Certificates, English Language Course Certificate, National Identity, Passport atbp."
+        },
+        {
+          "title": "Pagtatasa ng Pananalapi",
+          "description": "Ipinapaalam namin tungkol sa mga bayarin sa kurso, mga gastos sa paglalakbay, mga kinakailangan sa sponsor, kung sino ang maaaring maging sponsor at kung magkano ang pera ang kinakailangan upang magbayad."
+        },
+        {
+          "title": "Mga Scholarship",
+          "description": "Mag-save sa iyong mga bayarin sa kurso sa tulong mula sa Educube."
+        },
+        {
+          "title": "Pagpili ng Kurso at Unibersidad",
+          "description": "Sa napakaraming magagandang unibersidad sa ibang bansa at mga kurso na mapagpipilian, ang pagpapasya kung saan at ano ang pag-aaralan ay maaaring maging isang mahirap na desisyon."
+        }
+      ]
     }
 }

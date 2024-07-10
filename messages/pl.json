@@ -118,6 +118,47 @@
   "heroSectionStudent": {
     "title": "student",
     "highlightText": "wiza"
+  },
+  "shoreServices": {
+    "onShoreTitle": "NASZE USŁUGI NA MIEJSCU",
+    "offShoreTitle": "NASZE USŁUGI ZDALNE",
+    "forInternationalStudents": "DLA STUDENTÓW MIĘDZYNARODOWYCH",
+    "onShores": [
+      {
+        "title": "Zmiana Kursu",
+        "description": "Eden International pomaga wybrać odpowiedni kurs lub zmienić kurs, który już trwa."
+      },
+      {
+        "title": "Zmiana Uniwersytetu lub Instytucji",
+        "description": "Wielu studentów chce zmienić uniwersytet/instytucję dla lepszych możliwości, ale nie wiedzą, jak to zrobić. Pomagamy im w tym."
+      },
+      {
+        "title": "Wstępna Ocena Do Migracji Lub Innej Wizy",
+        "description": "Studenci mogą mieć swoją ocenę podczas studiów. Mogą sprawdzić swoje kwalifikacje i wymagania wstępne do migracji zawodowej i innych wiz przez wewnętrznego prawnika migracyjnego z Educube."
+      },
+      {
+        "title": "Przedłużenie Wizy Studenckiej",
+        "description": "Skończyłeś te przedmioty i twoja wiza wkrótce wygaśnie lub ukończyłeś kurs i teraz zdecydowałeś się na nową wizę studencką."
+      }
+    ],
+    "offShores": [
+      {
+        "title": "Ocena Wstępna",
+        "description": "Wycena wszystkich transkryptów akademickich i certyfikatów, certyfikatu kursu języka angielskiego, dowodu tożsamości, paszportu itp."
+      },
+      {
+        "title": "Ocena Finansowa",
+        "description": "Informujemy o opłatach za kurs, kosztach podróży, wymaganiach dotyczących sponsorów, kto może być sponsorem i ile pieniędzy jest wymagane."
+      },
+      {
+        "title": "Stypendia",
+        "description": "Oszczędzaj na opłatach za kurs z pomocą Educube."
+      },
+      {
+        "title": "Wybór Kursu i Uniwersytetu",
+        "description": "Z tak wieloma świetnymi uniwersytetami i kursami za granicą do wyboru, podjęcie decyzji, gdzie i co studiować, może być trudnym wyborem."
+      }
+    ]
   }
   }
   

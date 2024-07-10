@@ -118,5 +118,46 @@
     "heroSectionStudent": {
       "title": "Student",
       "highlightText": "Visum"
+    },
+    "shoreServices": {
+      "onShoreTitle": "UNSERE ONSHORE-DIENSTLEISTUNGEN",
+      "offShoreTitle": "UNSERE OFFSHORE-DIENSTLEISTUNGEN",
+      "forInternationalStudents": "FÜR INTERNATIONALE STUDENTEN",
+      "onShores": [
+        {
+          "title": "Kurswechsel",
+          "description": "Eden International hilft Ihnen, einen geeigneten Kurs auszuwählen oder einen bereits laufenden Kurs zu wechseln."
+        },
+        {
+          "title": "Universitäts- oder Institutswechsel",
+          "description": "Viele Studenten möchten ihre Universitäten/Institute für bessere Möglichkeiten wechseln, wissen jedoch nicht, wie sie dies tun können. Wir helfen ihnen dabei."
+        },
+        {
+          "title": "Vorbewertung für Migration oder ein anderes Visum",
+          "description": "Studenten können ihre Bewertung während des Studiums durchführen lassen. Sie können ihre Eignung und Voraussetzungen für die qualifizierte Migration und andere Visa von einem internen Migrationsanwalt von Educube überprüfen lassen."
+        },
+        {
+          "title": "Verlängerung des Studentenvisums",
+          "description": "Sie haben diese Fächer abgeschlossen und Ihr Visum läuft ab oder Sie haben Ihren Kurs abgeschlossen und möchten nun ein neues Studentenvisum beantragen."
+        }
+      ],
+      "offShores": [
+        {
+          "title": "Erstbewertung",
+          "description": "Bewertung aller akademischen Zeugnisse & Zertifikate, Englisch-Sprachkurs-Zertifikat, nationale Identität, Reisepass usw."
+        },
+        {
+          "title": "Finanzielle Bewertung",
+          "description": "Wir informieren über Kursgebühren, Reisekosten, Sponsoranforderungen, wer Sponsor sein kann und wie viel Geld benötigt wird."
+        },
+        {
+          "title": "Stipendien",
+          "description": "Sparen Sie Kursgebühren mit Hilfe von Educube."
+        },
+        {
+          "title": "Kurs- & Universitätsauswahl",
+          "description": "Bei so vielen großartigen Universitäten und Kursen im Ausland kann die Entscheidung, wo und was man studieren soll, schwierig sein."
+        }
+      ]
     }
 }

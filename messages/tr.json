@@ -118,5 +118,46 @@
   "heroSectionStudent": {
     "title": "öğrenci",
     "highlightText": "vize"
+  },
+  "shoreServices": {
+    "onShoreTitle": "KARADA HİZMETLERİMİZ",
+    "offShoreTitle": "DENİZDE HİZMETLERİMİZ",
+    "forInternationalStudents": "ULUSLARARASI ÖĞRENCİLER İÇİN",
+    "onShores": [
+      {
+        "title": "Kurs Değişikliği",
+        "description": "Eden International, uygun bir kurs seçmenize veya zaten devam eden bir kursu değiştirmenize yardımcı olur."
+      },
+      {
+        "title": "Üniversite veya Kurum Değişikliği",
+        "description": "Birçok öğrenci daha iyi fırsatlar için Üniversitelerini/Kurumlarını değiştirmek ister ancak bunun doğru yolunu bilmez. Bu konuda onlara yardımcı oluyoruz."
+      },
+      {
+        "title": "Göç veya Diğer Vize için Ön Değerlendirme",
+        "description": "Öğrenciler, öğrenimleri sırasında değerlendirme yapabilirler. Göçmenlik ve diğer vizeler için uygunluklarını ve gereksinimlerini kontrol edebilirler."
+      },
+      {
+        "title": "Öğrenci Vizesi Uzatma",
+        "description": "Derslerinizi tamamladınız ve vizeniz sona ermek üzere ya da kursunuzu tamamladınız ve yeni bir öğrenci vizesi başvurusu yapmaya karar verdiniz."
+      }
+    ],
+    "offShores": [
+      {
+        "title": "İlk Değerlendirme",
+        "description": "Tüm Akademik Transkriptlerin ve Sertifikaların, İngilizce Dil Kursu Sertifikasının, Ulusal Kimlik Kartının, Pasaportun vb. Değerlendirilmesi."
+      },
+      {
+        "title": "Mali Değerlendirme",
+        "description": "Kurs ücretleri, seyahat masrafları, sponsor gereksinimleri, kimlerin sponsor olabileceği ve ne kadar para gerektiği hakkında bilgi veriyoruz."
+      },
+      {
+        "title": "Burslar",
+        "description": "Eğitim ücretlerinizi biraz da olsa düşürmek için Educube'den yardım alın."
+      },
+      {
+        "title": "Kurs ve Üniversite Seçimi",
+        "description": "Yurtdışında eğitim görmek için birçok harika üniversite ve kurs varken, nerede ve ne okuyacağınıza karar vermek zor olabilir."
+      }
+    ]
   }
 }
