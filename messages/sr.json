@@ -164,6 +164,38 @@
     "title": "TURISTIČKA U STUDENTSKU VIZU",
     "highlight": "STUDENTSKA VIZA",
     "description": "Da, pravilno ste pročitali. Vaša turistička viza ima potencijal da se pretvori u studentsku vizu. Zaustavite ograničenja 'No More Stay' i dobijte obrazovanje koje zaslužujete. Otvorite svoju karijeru za neograničene mogućnosti."
+  },
+  "studentTestimonials": {
+    "title": "Šta Naši",
+    "highlight": "Studenti Kažu",
+    "testimonials": [
+      {
+        "quote": "Konačno sam dobio svoju vizu, hvala puno na pomoći u ovom polju. Imam sjajno iskustvo sa ovom organizacijom. Osoblje Eden International je veoma korisno. Preporučiću svojim prijateljima da se prijave samo preko Eden International.",
+        "name": "Shakil Alom",
+        "imageUrl": "/img-01-alom-1-150x150.webp"
+      },
+      {
+        "quote": "Preporučiću usluge Eden International svim drugim zanatima koji su u mojoj situaciji. Ova usluga mi je uštedela bezbroj sati koje bih morao da utrošim na dodatni kurs. Sjajna organizacija!!",
+        "name": "Lisa",
+        "imageUrl": "/6-1-1-150x150.webp"
+      },
+      {
+        "quote": "Bilo mi je zadovoljstvo raditi sa Educube. Način na koji vode, posebno Md Arifuzzaman mi je mnogo pomogao da se pripremim za univerzitetski intervju i pokazao pravi smer za razvoj mojih veština engleskog jezika.",
+        "name": "Md Sadh",
+        "imageUrl": "/8-1-150x150.webp"
+      },
+      {
+        "quote": "Bio sam oduševljen kada sam dobio vizu. Želim da dam sve zasluge Eden International Pty Ltd. zbog njihove pravilne inicijative. Veoma su prijateljski nastrojeni prema obradi studentskih viza. Ako neko želi da ide u inostranstvo, neka se slobodno obrati EDUCUBE.",
+        "name": "Arafat Hossain Akib",
+        "imageUrl": "/7-1-150x150.webp"
+      },
+      {
+        "quote": "Zovite me Ishmael. Pre nekoliko godina—nije važno koliko tačno—sa malo ili nimalo novca u mom novčaniku, i ničim posebnim da me zainteresuje na obali, pomislio sam da bih malo plovio i video vodeni deo sveta.",
+        "name": "Herman Melville",
+        "title": "Moby-Dick",
+        "imageUrl": "/fallback-image.jpg"
+      }
+    ]
   }
   }
   

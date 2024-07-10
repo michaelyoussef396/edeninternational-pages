@@ -164,5 +164,37 @@
       "title": "VISA DE VISITANTE A VISA DE ESTUDIANTE",
       "highlight": "VISA DE ESTUDIANTE",
       "description": "Sí, lo has leído bien. Tu visa de turista tiene el potencial de convertirse en una visa de estudiante. Pon fin a las restricciones de “No Más Estancia” y obtén esa educación que mereces. Abre tu carrera a oportunidades ilimitadas."
+    },
+    "studentTestimonials": {
+      "title": "Lo Que Nuestros",
+      "highlight": "Estudiantes Dicen",
+      "testimonials": [
+        {
+          "quote": "Finalmente he recibido mi visa, muchas gracias por ayudarme en este campo. Tuve una gran experiencia con esta organización. El personal de Eden International es muy servicial. Sugeriré a mis amigos que soliciten a través de Eden International únicamente.",
+          "name": "Shakil Alom",
+          "imageUrl": "/img-01-alom-1-150x150.webp"
+        },
+        {
+          "quote": "Recomendaré los Servicios Internacionales de Eden a otros profesionales que estén en mi situación. Este servicio me ahorró innumerables horas de tener que resistir un curso universitario. ¡Gran organización!",
+          "name": "Lisa",
+          "imageUrl": "/6-1-1-150x150.webp"
+        },
+        {
+          "quote": "Fue un placer trabajar con Educube. La forma en que guían, especialmente Md Arifuzzaman me ayudó mucho a prepararme para la entrevista de la universidad y me mostró una dirección adecuada para desarrollar mis habilidades en el idioma inglés.",
+          "name": "Md Sadh",
+          "imageUrl": "/8-1-150x150.webp"
+        },
+        {
+          "quote": "Estaba encantado cuando obtuve la visa. Quiero dar todo el crédito a Eden International Pty Ltd. por su iniciativa adecuada. Son muy amables con el procesamiento de visas de estudiantes. Si alguien quiere ir al extranjero, no dude en contactar con EDUCUBE.",
+          "name": "Arafat Hossain Akib",
+          "imageUrl": "/7-1-150x150.webp"
+        },
+        {
+          "quote": "Llámame Ismael. Hace unos años, sin importar cuánto tiempo exactamente, teniendo poco o nada de dinero en mi bolso y nada particular que me interesara en la costa, pensé en navegar un poco y ver la parte acuática del mundo.",
+          "name": "Herman Melville",
+          "title": "Moby-Dick",
+          "imageUrl": "/fallback-image.jpg"
+        }
+      ]
     }
 }

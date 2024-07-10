@@ -164,5 +164,37 @@
     "title": "ZİYARETÇİDEN ÖĞRENCİ VİZESİNE",
     "highlight": "ÖĞRENCİ VİZESİ",
     "description": "Evet, doğru okudunuz. Turist Vizeniz bir öğrenci vizesine dönüştürülebilir. “Daha Fazla Kalma” kısıtlamalarına son verin ve hak ettiğiniz eğitimi alın. Kariyerinizi sınırsız fırsatlara açın."
+  },
+  "studentTestimonials": {
+    "title": "Öğrencilerimizin",
+    "highlight": "Ne Dediğini Öğrenin",
+    "testimonials": [
+      {
+        "quote": "Sonunda vizemi aldım, bu alanda bana yardım ettiğiniz için çok teşekkür ederim. Bu organizasyonla harika bir deneyim yaşadım. Eden International'ın çalışanları çok yardımcı oldu. Arkadaşlarıma yalnızca Eden International aracılığıyla başvurmalarını önereceğim.",
+        "name": "Shakil Alom",
+        "imageUrl": "/img-01-alom-1-150x150.webp"
+      },
+      {
+        "quote": "Eden International Hizmetlerini benim durumumdaki diğer mesleklere tavsiye edeceğim. Bu hizmet, üniversite kursunu yeniden almamı saatlerce çalışmak zorunda kalmaktan kurtardı. Harika organizasyon!!",
+        "name": "Lisa",
+        "imageUrl": "/6-1-1-150x150.webp"
+      },
+      {
+        "quote": "Educube ile çalışmak bir zevkti. Beni yönlendirme şekilleri, özellikle Md Arifuzzaman, beni üniversite mülakatına hazırlanmamda ve İngilizce Dil becerilerimi geliştirmemde çok yardımcı oldu.",
+        "name": "Md Sadh",
+        "imageUrl": "/8-1-150x150.webp"
+      },
+      {
+        "quote": "Vizeyi aldığımda çok memnun oldum. Tüm kredi Eden International Pty Ltd'ye gidiyor çünkü doğru inisiyatif aldılar. Öğrenci Vize işleminde çok dost canlısılar. Yurt dışına gitmek isteyen herkes EDUCUBE ile iletişime geçebilir.",
+        "name": "Arafat Hossain Akib",
+        "imageUrl": "/7-1-150x150.webp"
+      },
+      {
+        "quote": "Bana Ishmael deyin. Yıllar önce—ne kadar olduğunu boş verin—cüzdanımda çok az para varken veya hiç para yokken ve sahilde ilgimi çekecek bir şey yokken, biraz seyir yapmaya ve dünyanın sulu kısmını görmeye karar verdim.",
+        "name": "Herman Melville",
+        "title": "Moby-Dick",
+        "imageUrl": "/fallback-image.jpg"
+      }
+    ]
   }
 }

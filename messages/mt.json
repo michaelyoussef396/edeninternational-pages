@@ -164,5 +164,37 @@
       "title": "VIŻA TA' VIŻITATUR GĦAL STUDENT",
       "highlight": "VIŻA TA' STUDENT",
       "description": "Iva, qrajt sewwa. Il-Viża tat-Turist tiegħek għandha l-potenzjal li tinbidel f'viża ta' student. Waqqaf ir-restrizzjonijiet ta' 'No More Stay' u ikseb dik l-edukazzjoni li tixraqlok. Iftaħ il-karriera tiegħek għal opportunitajiet bla limitu."
+    },
+    "studentTestimonials": {
+      "title": "X'Jgħidu",
+      "highlight": "l-Istudenti Tagħna",
+      "testimonials": [
+        {
+          "quote": "Fl-aħħar irċevejt il-viża tiegħi, grazzi ħafna tal-għajnuna tiegħek f'dan il-qasam. Kelli esperjenza kbira ma' din l-organizzazzjoni. L-istaff ta' Eden International huwa tassew ta' għajnuna. Nirrakkomanda lill-ħbieb tiegħi biex japplikaw biss permezz ta' Eden International.",
+          "name": "Shakil Alom",
+          "imageUrl": "/img-01-alom-1-150x150.webp"
+        },
+        {
+          "quote": "Se nirrakkomanda s-Servizzi ta' Eden International lil kwalunkwe sengħa oħra li tinsab f'sitwazzjoni tiegħi. Dan is-servizz salva lili bosta sigħat milli nerġa' nirreżisti kors tal-kulleġġ. Organizzazzjoni kbira!!",
+          "name": "Lisa",
+          "imageUrl": "/6-1-1-150x150.webp"
+        },
+        {
+          "quote": "Kien pjaċir li naħdem ma' Educube. Il-mod kif jiggwidaw, speċjalment Md Arifuzzaman għenni ħafna biex nista' nkun lest għall-viva tal-Università u nurik direzzjoni xierqa biex niżviluppa l-ħiliet tiegħi fil-Lingwa Ingliża.",
+          "name": "Md Sadh",
+          "imageUrl": "/8-1-150x150.webp"
+        },
+        {
+          "quote": "Kont biss ferħan meta rċevejt il-Viża. Nixtieq nagħti l-mertu kollu lil Eden International Pty Ltd. minħabba l-inizjattiva xierqa tagħhom. Huma wisq ħbiberija dwar l-ipproċessar tal-Viża ta' Student. Jekk xi ħadd irid imur barra minn xtutna allura ħossok liberu li tikkuntattja ma' EDUCUBE.",
+          "name": "Arafat Hossain Akib",
+          "imageUrl": "/7-1-150x150.webp"
+        },
+        {
+          "quote": "Sejjaħli Ismaele. Xi snin ilu - mhux f'moħħna kemm preċiżament - b'ftit jew xejn flus fil-borża tiegħi, u xejn partikolarment biex jintriga lili fuq ix-xatt, ħsibt li nivvjaġġa ftit u nara l-parti għerqa tad-dinja.",
+          "name": "Herman Melville",
+          "title": "Moby-Dick",
+          "imageUrl": "/fallback-image.jpg"
+        }
+      ]
     }
 }

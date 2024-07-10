@@ -164,5 +164,37 @@
       "title": "VISITEUR À VISA ÉTUDIANT",
       "highlight": "VISA ÉTUDIANT",
       "description": "Oui, vous avez bien lu. Votre visa de touriste a le potentiel d'être converti en visa étudiant. Mettez fin aux restrictions de 'Pas de Séjour Supplémentaire' et obtenez l'éducation que vous méritez. Ouvrez votre carrière à des opportunités illimitées."
+    },
+    "studentTestimonials": {
+      "title": "Ce que disent nos",
+      "highlight": "Étudiants",
+      "testimonials": [
+        {
+          "quote": "Enfin, j'ai reçu mon visa, merci beaucoup de m'avoir aidé dans ce domaine. J'ai une excellente expérience avec cette organisation. Le personnel d'Eden International est très serviable. Je suggérerai à mes amis de postuler uniquement par le biais d'Eden International.",
+          "name": "Shakil Alom",
+          "imageUrl": "/img-01-alom-1-150x150.webp"
+        },
+        {
+          "quote": "Je recommanderai les services d'Eden International à d'autres métiers dans ma situation. Ce service m'a sauvé d'innombrables heures de devoir résister à un cours universitaire. Grande organisation !!",
+          "name": "Lisa",
+          "imageUrl": "/6-1-1-150x150.webp"
+        },
+        {
+          "quote": "Ce fut un plaisir de travailler avec Educube. La façon dont ils guident, en particulier Md Arifuzzaman m'a beaucoup aidé à me préparer pour l'entretien d'entrée à l'université et a montré une direction appropriée pour développer mes compétences en anglais.",
+          "name": "Md Sadh",
+          "imageUrl": "/8-1-150x150.webp"
+        },
+        {
+          "quote": "J'étais juste ravi quand j'ai obtenu le visa. Je veux donner tout le crédit à Eden International Pty Ltd. à cause de leur bonne initiative. Ils sont très amicaux à propos du traitement des visas étudiants. Si quelqu'un veut aller à l'étranger, n'hésitez pas à contacter EDUCUBE.",
+          "name": "Arafat Hossain Akib",
+          "imageUrl": "/7-1-150x150.webp"
+        },
+        {
+          "quote": "Appelez-moi Ishmael. Il y a quelques années – peu importe combien de temps précisément – ayant peu ou pas d'argent dans ma bourse, et rien de particulier pour m'intéresser à terre, j'ai pensé que je naviguerais un peu et que je verrais la partie aquatique du monde.",
+          "name": "Herman Melville",
+          "title": "Moby-Dick",
+          "imageUrl": "/fallback-image.jpg"
+        }
+      ]
     }
 }

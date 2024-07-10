@@ -164,6 +164,38 @@
     "title": "WIZA TURYSTYCZNA NA STUDENCKĄ",
     "highlight": "WIZA STUDENCKA",
     "description": "Tak, dobrze przeczytałeś. Twoja wiza turystyczna ma potencjał, aby zostać przekształconą w wizę studencką. Zatrzymaj ograniczenia „No More Stay” i zdobądź wykształcenie, na które zasługujesz. Otwórz swoją karierę na nieograniczone możliwości."
+  },
+  "studentTestimonials": {
+    "title": "Co Mówią",
+    "highlight": "Nasi Studenci",
+    "testimonials": [
+      {
+        "quote": "W końcu otrzymałem swoją wizę, bardzo dziękuję za pomoc w tej dziedzinie. Mam świetne doświadczenia z tą organizacją. Personel Eden International jest bardzo pomocny. Polecę moim przyjaciołom, aby aplikowali tylko przez Eden International.",
+        "name": "Shakil Alom",
+        "imageUrl": "/img-01-alom-1-150x150.webp"
+      },
+      {
+        "quote": "Będę polecać usługi Eden International każdemu, kto jest w mojej sytuacji. Ta usługa zaoszczędziła mi niezliczone godziny, które musiałbym spędzić na kolejnym kursie. Świetna organizacja!!",
+        "name": "Lisa",
+        "imageUrl": "/6-1-1-150x150.webp"
+      },
+      {
+        "quote": "Było mi przyjemnie pracować z Educube. Sposób, w jaki prowadzą, szczególnie Md Arifuzzaman bardzo mi pomógł przygotować się do rozmowy na uniwersytecie i pokazał właściwy kierunek do rozwijania moich umiejętności językowych w języku angielskim.",
+        "name": "Md Sadh",
+        "imageUrl": "/8-1-150x150.webp"
+      },
+      {
+        "quote": "Byłem zachwycony, kiedy dostałem wizę. Chcę przypisać całą zasługę Eden International Pty Ltd. ze względu na ich właściwą inicjatywę. Są bardzo przyjaźni w przetwarzaniu wizy studenckiej. Jeśli ktoś chce wyjechać za granicę, niech bez wahania skontaktuje się z EDUCUBE.",
+        "name": "Arafat Hossain Akib",
+        "imageUrl": "/7-1-150x150.webp"
+      },
+      {
+        "quote": "Nazywajcie mnie Ishmael. Kilka lat temu — nie ważne jak dawno temu — mając mało lub żadnych pieniędzy w kieszeni i nic szczególnego do zainteresowania się na brzegu, pomyślałem, że popłynę trochę i zobaczę wodną część świata.",
+        "name": "Herman Melville",
+        "title": "Moby-Dick",
+        "imageUrl": "/fallback-image.jpg"
+      }
+    ]
   }
   }
   

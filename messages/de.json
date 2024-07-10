@@ -164,5 +164,37 @@
       "title": "BESUCHER ZU STUDENTENVISUM",
       "highlight": "STUDENTENVISUM",
       "description": "Ja, Sie haben richtig gelesen. Ihr Touristenvisum kann in ein Studentenvisum umgewandelt werden. Beenden Sie die „Keine weitere Aufenthalts“-Einschränkungen und erhalten Sie die Bildung, die Sie verdienen. Öffnen Sie Ihre Karriere für grenzenlose Möglichkeiten."
+    },
+    "studentTestimonials": {
+      "title": "Was unsere",
+      "highlight": "Studenten sagen",
+      "testimonials": [
+        {
+          "quote": "Endlich habe ich mein Visum erhalten, vielen Dank für die Hilfe in diesem Bereich. Ich habe großartige Erfahrungen mit dieser Organisation gemacht. Das Personal von Eden International ist sehr hilfsbereit. Ich werde meinen Freunden empfehlen, nur über Eden International zu beantragen.",
+          "name": "Shakil Alom",
+          "imageUrl": "/img-01-alom-1-150x150.webp"
+        },
+        {
+          "quote": "Ich werde Eden International Services jedem anderen Gewerbe in meiner Situation empfehlen. Dieser Service hat mir unzählige Stunden erspart, die ich damit verbracht hätte, einen Hochschulkurs zu widerstehen. Großartige Organisation!!",
+          "name": "Lisa",
+          "imageUrl": "/6-1-1-150x150.webp"
+        },
+        {
+          "quote": "Es war eine Freude, mit Educube zu arbeiten. Die Art und Weise, wie sie mich geführt haben, insbesondere Md Arifuzzaman, hat mir sehr geholfen, mich auf das Universitätsviva vorzubereiten und mir eine klare Richtung zur Verbesserung meiner Englischkenntnisse zu zeigen.",
+          "name": "Md Sadh",
+          "imageUrl": "/8-1-150x150.webp"
+        },
+        {
+          "quote": "Ich war einfach begeistert, als ich das Visum erhielt. Ich möchte Eden International Pty Ltd. alle Ehre machen, weil sie die richtigen Schritte unternommen haben. Sie sind sehr freundlich bei der Bearbeitung des Studentenvisums. Wenn jemand ins Ausland gehen möchte, dann kontaktieren Sie EDUCUBE ohne zu zögern.",
+          "name": "Arafat Hossain Akib",
+          "imageUrl": "/7-1-150x150.webp"
+        },
+        {
+          "quote": "Nennen Sie mich Ishmael. Vor einigen Jahren - es spielt keine Rolle, wie lange genau - hatte ich wenig oder gar kein Geld in meiner Börse und nichts Besonderes, das mich an Land interessierte, also dachte ich, ich würde ein bisschen segeln und den wässrigen Teil der Welt sehen.",
+          "name": "Herman Melville",
+          "title": "Moby-Dick",
+          "imageUrl": "/fallback-image.jpg"
+        }
+      ]
     }
 }

@@ -164,5 +164,37 @@
       "title": "访客到学生签证",
       "highlight": "学生签证",
       "description": "是的，你没看错。您的旅游签证有可能转换为学生签证。停止“不再逗留”的限制，获得您应得的教育。为您的职业开辟无限的机会。"
+    },
+    "studentTestimonials": {
+      "title": "我们的学生怎么说",
+      "highlight": "学生感言",
+      "testimonials": [
+        {
+          "quote": "终于我收到了签证，非常感谢在这方面帮助我的人。我与这个组织有很好的经验。Eden International 的工作人员非常帮忙。我会建议我的朋友们只通过 Eden International 申请。",
+          "name": "Shakil Alom",
+          "imageUrl": "/img-01-alom-1-150x150.webp"
+        },
+        {
+          "quote": "我将推荐 Eden International Services 给其他处于我这种情况的同行。这个服务为我节省了无数的时间，不必重新参加大学课程。伟大的组织！",
+          "name": "Lisa",
+          "imageUrl": "/6-1-1-150x150.webp"
+        },
+        {
+          "quote": "与 Educube 合作是一种乐趣。他们的指导方式，尤其是 Md Arifuzzaman 帮助我为大学面试做好准备，并为提高我的英语语言技能指明了正确的方向。",
+          "name": "Md Sadh",
+          "imageUrl": "/8-1-150x150.webp"
+        },
+        {
+          "quote": "当我拿到签证时，我非常高兴。我要把所有的功劳归功于 Eden International Pty Ltd，因为他们采取了正确的举措。他们对学生签证处理非常友好。如果有人想出国留学，请随时联系 EDUCUBE。",
+          "name": "Arafat Hossain Akib",
+          "imageUrl": "/7-1-150x150.webp"
+        },
+        {
+          "quote": "叫我以实玛利。几年前——不要在意具体时间——口袋里几乎没有钱，也没有什么特别的兴趣在岸上，我决定航行一下，看看世界的水域。",
+          "name": "赫尔曼·梅尔维尔",
+          "title": "《白鲸记》",
+          "imageUrl": "/fallback-image.jpg"
+        }
+      ]
     }
 }

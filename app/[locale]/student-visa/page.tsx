@@ -5,6 +5,7 @@ import HeroSection from '@/components/HeroSection';
 import { images } from '@/constants/images';
 import ShoreServices from '@/components/ShoreServices';
 import VisitorToStudentVisa from '@/components/VisitorToStudentVisa';
+import { StudentTestimonials } from '@/components/StudentTestimonials';
 
 
 
@@ -22,6 +23,7 @@ const IndexPage: React.FC<IndexPageProps> = ({ params: { locale } }) => {
       />
       <ShoreServices />
       <VisitorToStudentVisa />
+      <StudentTestimonials />
     </main>
   );
 };

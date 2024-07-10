@@ -164,5 +164,37 @@
       "title": "POSJETITELJSKA U STUDENTSKU VIZU",
       "highlight": "STUDENTSKA VIZA",
       "description": "Da, dobro ste pročitali. Vaša turistička viza može se pretvoriti u studentsku vizu. Zaustavite ograničenja 'Nema više boravka' i steknite obrazovanje koje zaslužujete. Otvorite svoju karijeru za neograničene mogućnosti."
+    },
+    "studentTestimonials": {
+      "title": "Što naši",
+      "highlight": "Studenti kažu",
+      "testimonials": [
+        {
+          "quote": "Napokon sam dobio vizu, hvala puno što ste mi pomogli u ovom području. Imam sjajno iskustvo s ovom organizacijom. Osoblje Eden Internationala je vrlo korisno. Preporučit ću svojim prijateljima da se prijave isključivo putem Eden Internationala.",
+          "name": "Shakil Alom",
+          "imageUrl": "/img-01-alom-1-150x150.webp"
+        },
+        {
+          "quote": "Preporučit ću usluge Eden Internationala svim drugim obrtnicima koji su u mojoj situaciji. Ova usluga mi je uštedjela bezbroj sati ponovnog polaganja tečaja. Sjajna organizacija!!",
+          "name": "Lisa",
+          "imageUrl": "/6-1-1-150x150.webp"
+        },
+        {
+          "quote": "Bilo je zadovoljstvo raditi s Educubeom. Način na koji su me vodili, posebno Md Arifuzzaman, pomogao mi je puno da se pripremim za sveučilišni viva i pokazao pravi smjer za razvijanje mojih vještina engleskog jezika.",
+          "name": "Md Sadh",
+          "imageUrl": "/8-1-150x150.webp"
+        },
+        {
+          "quote": "Bio sam oduševljen kada sam dobio vizu. Sav kredit dajem Eden International Pty Ltd. zbog njihove pravilne inicijative. Vrlo su prijateljski nastrojeni prema obradi studentske vize. Ako netko želi ići u inozemstvo, slobodno se obratite EDUCUBE-u.",
+          "name": "Arafat Hossain Akib",
+          "imageUrl": "/7-1-150x150.webp"
+        },
+        {
+          "quote": "Zovite me Ishmael. Prije nekoliko godina—neka ne bude važno koliko točno—bez novca u novčaniku i bez posebnog interesa na kopnu, pomislio sam da ću malo ploviti i vidjeti vodeni dio svijeta.",
+          "name": "Herman Melville",
+          "title": "Moby-Dick",
+          "imageUrl": "/fallback-image.jpg"
+        }
+      ]
     }
 }

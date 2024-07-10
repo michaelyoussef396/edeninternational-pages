@@ -164,5 +164,37 @@
       "title": "VISITOR TO STUDENT VISA",
       "highlight": "STUDENT VISA",
       "description": "Yes, you read it right. Your Tourist Visa has the potential to be converted into a student visa. Put a stop to the “No More Stay” restrictions and get that education you deserve. Open up your career to limitless opportunities."
+    },
+    "studentTestimonials": {
+      "title": "What Our",
+      "highlight": "Students Say",
+      "testimonials": [
+        {
+          "quote": "Finally I've received my visa, thanks a lot to for helping me at this field. I've a great experience with this organisation. Staff of Eden International is very helping. I will suggest my friends to apply through Eden International only.",
+          "name": "Shakil Alom",
+          "imageUrl": "/img-01-alom-1-150x150.webp"
+        },
+        {
+          "quote": "I will be recommending Eden International Services to any other trades that are in my situation. This service saved me countless hours of having to resist a college course. Great organization!!",
+          "name": "Lisa",
+          "imageUrl": "/6-1-1-150x150.webp"
+        },
+        {
+          "quote": "It was a pleasure to work with Educube. The way they guide, especially Md Arifuzzaman helped me a lot to get ready for University viva and show a proper direction to develop my English Language skill.",
+          "name": "Md Sadh",
+          "imageUrl": "/8-1-150x150.webp"
+        },
+        {
+          "quote": "I was just delighted when I got the Visa. I want to give all credit to Eden International Pty Ltd. because of their proper initiative. They are too much friendly about the student Visa processing. If anyone wants to go to abroad then feel free to contact with EDUCUBE.",
+          "name": "Arafat Hossain Akib",
+          "imageUrl": "/7-1-150x150.webp"
+        },
+        {
+          "quote": "Call me Ishmael. Some years ago—never mind how long precisely—having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world.",
+          "name": "Herman Melville",
+          "title": "Moby-Dick",
+          "imageUrl": "/fallback-image.jpg"
+        }
+      ]
     }
 }

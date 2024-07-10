@@ -164,5 +164,37 @@
       "title": "VISTO DA VISITATORE A STUDENTE",
       "highlight": "VISTO STUDENTE",
       "description": "Sì, hai letto bene. Il tuo Visto per Turisti ha il potenziale per essere convertito in un visto per studenti. Metti fine alle restrizioni “Nessun Altri Soggiorni” e ottieni quell'istruzione che meriti. Apri la tua carriera a infinite opportunità."
+    },
+    "studentTestimonials": {
+      "title": "Cosa Dicono i Nostri",
+      "highlight": "Studenti",
+      "testimonials": [
+        {
+          "quote": "Finalmente ho ricevuto il mio visto, grazie mille per avermi aiutato in questo campo. Ho avuto una grande esperienza con questa organizzazione. Il personale di Eden International è molto disponibile. Suggerirò ai miei amici di fare domanda solo tramite Eden International.",
+          "name": "Shakil Alom",
+          "imageUrl": "/img-01-alom-1-150x150.webp"
+        },
+        {
+          "quote": "Consiglierò i servizi di Eden International a qualsiasi altro commerciante che si trovi nella mia situazione. Questo servizio mi ha salvato innumerevoli ore di dover resistere a un corso universitario. Ottima organizzazione!!",
+          "name": "Lisa",
+          "imageUrl": "/6-1-1-150x150.webp"
+        },
+        {
+          "quote": "È stato un piacere lavorare con Educube. Il modo in cui guidano, in particolare Md Arifuzzaman mi ha aiutato molto a prepararmi per l'intervista all'università e a mostrare una direzione corretta per sviluppare le mie competenze linguistiche in inglese.",
+          "name": "Md Sadh",
+          "imageUrl": "/8-1-150x150.webp"
+        },
+        {
+          "quote": "Ero semplicemente deliziato quando ho ottenuto il Visto. Voglio dare tutto il merito a Eden International Pty Ltd. grazie alla loro iniziativa corretta. Sono molto amichevoli riguardo all'elaborazione del visto per studenti. Se qualcuno vuole andare all'estero, non esiti a contattare EDUCUBE.",
+          "name": "Arafat Hossain Akib",
+          "imageUrl": "/7-1-150x150.webp"
+        },
+        {
+          "quote": "Chiamami Ismaele. Alcuni anni fa—non importa quanto precisamente—avendo poco o nessun denaro nella mia borsa, e nulla di particolare da interessarmi a terra, pensai di navigare un po' e vedere la parte acquosa del mondo.",
+          "name": "Herman Melville",
+          "title": "Moby-Dick",
+          "imageUrl": "/fallback-image.jpg"
+        }
+      ]
     }
 }

@@ -164,5 +164,37 @@
       "title": "VISITOR TO STUDENT VISA",
       "highlight": "STUDENT VISA",
       "description": "Oo, tama ang iyong nabasa. Ang iyong Tourist Visa ay may potensyal na ma-convert sa isang student visa. Itigil ang “No More Stay” na mga paghihigpit at makuha ang edukasyon na nararapat sa iyo. Buksan ang iyong karera sa walang limitasyong mga pagkakataon."
+    },
+    "studentTestimonials": {
+      "title": "Ano ang Sinasabi ng aming mga",
+      "highlight": "Estudyante",
+      "testimonials": [
+        {
+          "quote": "Sa wakas natanggap ko na ang aking visa, maraming salamat sa pagtulong sa akin sa larangang ito. Mayroon akong magandang karanasan sa organisasyong ito. Ang staff ng Eden International ay napaka-tumutulong. Iminumungkahi ko sa aking mga kaibigan na mag-apply sa pamamagitan lamang ng Eden International.",
+          "name": "Shakil Alom",
+          "imageUrl": "/img-01-alom-1-150x150.webp"
+        },
+        {
+          "quote": "Ire-rekomenda ko ang Eden International Services sa iba pang mga manggagawa na nasa aking sitwasyon. Ang serbisyong ito ay nag-save sa akin ng hindi mabilang na oras ng muling pag-aaral sa isang kurso sa kolehiyo. Mahusay na organisasyon!!",
+          "name": "Lisa",
+          "imageUrl": "/6-1-1-150x150.webp"
+        },
+        {
+          "quote": "Isang kasiyahan na magtrabaho kasama ang Educube. Ang paraan ng kanilang paggabay, lalo na si Md Arifuzzaman ay tumulong sa akin ng malaki upang maging handa para sa University viva at magpakita ng tamang direksyon upang mapaunlad ang aking kasanayan sa Wikang Ingles.",
+          "name": "Md Sadh",
+          "imageUrl": "/8-1-150x150.webp"
+        },
+        {
+          "quote": "Ako ay tuwang-tuwa noong natanggap ko ang Visa. Gusto kong ibigay ang lahat ng kredito sa Eden International Pty Ltd. dahil sa kanilang tamang inisyatibo. Sila ay masyadong magiliw tungkol sa pagpoproseso ng student Visa. Kung ang sinuman ay nagnanais na pumunta sa ibang bansa, huwag mag-atubiling makipag-ugnayan sa EDUCUBE.",
+          "name": "Arafat Hossain Akib",
+          "imageUrl": "/7-1-150x150.webp"
+        },
+        {
+          "quote": "Tawagin mo akong Ishmael. Ilang taon na ang nakalipas—huwag alalahanin kung gaano katagal eksakto—na may kaunti o walang pera sa aking pitaka, at walang partikular na interes sa akin sa baybayin, naisip kong maglayag ng kaunti at makita ang bahagi ng tubig ng mundo.",
+          "name": "Herman Melville",
+          "title": "Moby-Dick",
+          "imageUrl": "/fallback-image.jpg"
+        }
+      ]
     }
 }

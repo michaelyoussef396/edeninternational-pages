@@ -164,6 +164,38 @@
     "title": "JI VÎZAYA SÊRDARE BO VÎZAYA XWENDEKARÎ",
     "highlight": "VÎZAYA XWENDEKARÎ",
     "description": "Erê, tu rast xwend. Vîzaya te ya sêrdahetê hêzek heye ku bibe vîzaya xwendekarî. Rawestînin bi 'Nêzîk Nayê Mane' û wê perwerdehiya ku tu derbas dikî wergire. Rêya karê te bikirine bo fursêtên bê sînor."
+  },
+  "studentTestimonials": {
+    "title": "Çi Dikin",
+    "highlight": "Xwendekarên Me Dibêjin",
+    "testimonials": [
+      {
+        "quote": "Di dawiyê de ez vîzaya xwe wergirtim, gelek spas ji bo alîkariyê min di vê qada de. Ez bi vê rêveberiyê gelekî baş bûm. Karmendên Eden International gelekî alîkariya min kirin. Ez ê hevalên xwe pêşniyar bikim ku tenê bi rêya Eden International hewil bidin.",
+        "name": "Şakil Alom",
+        "imageUrl": "/img-01-alom-1-150x150.webp"
+      },
+      {
+        "quote": "Ez ê xebatên Eden International Services re pêşniyar bikim ji bo her xebata din ku di rewşa min de ne. Ev xebat min ji saetên nehesab ku bi karîberên koleje di nav de bike, parastin. Rêxistina herî baş!!",
+        "name": "Lisa",
+        "imageUrl": "/6-1-1-150x150.webp"
+      },
+      {
+        "quote": "Bi Educube re xebitina kêfxweş bû. Awayê ku ew rêberiyê dikin, bi taybetî Md Arifuzzaman min gelekî alîkari kir ku amade bibe bo vîzaya zanîngehê û rêgariya rast bixwîne da ku zanînê Zimanê Îngilîzî min berdewam bikeve.",
+        "name": "Md Sadh",
+        "imageUrl": "/8-1-150x150.webp"
+      },
+      {
+        "quote": "Ez gelekî kêfxweş bûm dema ku ez vîzayê wergirtim. Ez hemû krediya xwe didim Eden International Pty Ltd. bo alîkariya wan ya rast. Ew gelekî hevalê xwendekar in li pêvajoya vîzaya xwendekarî. Heke kês dixwaze bibe derve, gelekî serbixwe bi EDUCUBE re têkilî daynin.",
+        "name": "Arafat Hossain Akib",
+        "imageUrl": "/7-1-150x150.webp"
+      },
+      {
+        "quote": "Banga min Ishmael bikin. Çend sal berê—ger tiştek kuçik an jî carekî derew— bi hingê hîn kesî tune bû an jî tu tiştek tenê ku li ser benderê min hîn, min biryar da ku dora bimşim û behrê zindî bidim.",
+        "name": "Herman Melville",
+        "title": "Moby-Dick",
+        "imageUrl": "/fallback-image.jpg"
+      }
+    ]
   }
   }
   
