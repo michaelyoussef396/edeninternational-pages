@@ -85,5 +85,11 @@
         "buttonText": "Leer Más",
         "buttonLink": "/migration"
       }
+    },
+    "countryList": {
+      "supportArea": "ÁREA DE SOPORTE",
+      "title": "Lista de Países Para Inmigración",
+      "subtitle": "Lista de Países:",
+      "countries": "Dubái|Canadá|EE.UU.|Australia|Italia|Croacia|Turquía|Malta|Alemania|Filipinas|Corea"
     }
 }

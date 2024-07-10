@@ -85,5 +85,11 @@
         "buttonText": "Basahin Pa",
         "buttonLink": "/migration"
       }
+    },
+    "countryList": {
+      "supportArea": "SUPPORT AREA",
+      "title": "Listahan ng Bansa Para sa Immigration",
+      "subtitle": "Listahan ng Bansa:",
+      "countries": "Dubai|Canada|USA|Australia|Italy|Croatia|Turkey|Malta|Germany|Philippines|Korea"
     }
 }

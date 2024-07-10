@@ -85,6 +85,12 @@
       "buttonText": "Pročitaj Više",
       "buttonLink": "/migration"
     }
+  },
+  "countryList": {
+    "supportArea": "PODRUČJE PODRŠKE",
+    "title": "Lista Zemalja Za Imigraciju",
+    "subtitle": "Lista Zemalja:",
+    "countries": "Dubai|Kanada|SAD|Australija|Italija|Hrvatska|Turska|Malta|Nemačka|Filipini|Koreja"
   }
   }
   

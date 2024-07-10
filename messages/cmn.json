@@ -85,5 +85,11 @@
         "buttonText": "阅读更多",
         "buttonLink": "/migration"
       }
+    },
+    "countryList": {
+      "supportArea": "支持区域",
+      "title": "移民国家名单",
+      "subtitle": "国家名单：",
+      "countries": "迪拜|加拿大|美国|澳大利亚|意大利|克罗地亚|土耳其|马耳他|德国|菲律宾|韩国"
     }
 }

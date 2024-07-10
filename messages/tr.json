@@ -85,5 +85,11 @@
       "buttonText": "Daha Fazla Bilgi",
       "buttonLink": "/goc"
     }
+  },
+  "countryList": {
+    "supportArea": "DESTEK ALANI",
+    "title": "Göçmenlik İçin Ülke Listesi",
+    "subtitle": "Ülke Listesi:",
+    "countries": "Dubai|Kanada|ABD|Avustralya|İtalya|Hırvatistan|Türkiye|Malta|Almanya|Filipinler|Kore"
   }
 }

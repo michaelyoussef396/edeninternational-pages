@@ -85,5 +85,11 @@
         "buttonText": "Weiterlesen",
         "buttonLink": "/migration"
       }
+    },
+    "countryList": {
+      "supportArea": "UNTERSTÜTZUNGSBEREICH",
+      "title": "Länderliste für Einwanderung",
+      "subtitle": "Länderliste:",
+      "countries": "Dubai|Kanada|USA|Australien|Italien|Kroatien|Türkei|Malta|Deutschland|Philippinen|Korea"
     }
 }

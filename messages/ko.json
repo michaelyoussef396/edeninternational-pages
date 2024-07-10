@@ -85,5 +85,11 @@
         "buttonText": "더 읽기",
         "buttonLink": "/migration"
       }
+    },
+    "countryList": {
+      "supportArea": "지원 지역",
+      "title": "이민을 위한 국가 목록",
+      "subtitle": "국가 목록:",
+      "countries": "두바이|캐나다|미국|호주|이탈리아|크로아티아|터키|몰타|독일|필리핀|한국"
     }
 }

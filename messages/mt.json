@@ -85,5 +85,11 @@
         "buttonText": "Aqra Aktar",
         "buttonLink": "/migration"
       }
+    },
+    "countryList": {
+      "supportArea": "ŻONA TA' APPOĠĠ",
+      "title": "Lista ta' Pajjiżi għall-Immigrazzjoni",
+      "subtitle": "Lista ta' Pajjiżi:",
+      "countries": "Dubai|Kanada|USA|Awstralja|Italja|Kroazja|Turkija|Malta|Ġermanja|Filippini|Korea"
     }
 }

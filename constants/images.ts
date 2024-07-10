@@ -11,6 +11,8 @@ import tick from "@/public/tick.png";
 import about1 from "@/public/about-1.png";
 import visa1 from "@/public/visa-1.png";
 import visa2 from "@/public/visa-2.png";
+import shape7 from "@/public/shape-7.jpg";
+import women1 from "@/public/women-1.png";
 export const images = {
   mail,
   phone,
@@ -25,4 +27,6 @@ export const images = {
   about1,
   visa1,
   visa2,
+  shape7,
+  women1,
 };

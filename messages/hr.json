@@ -85,5 +85,11 @@
         "buttonText": "Pročitajte više",
         "buttonLink": "/migration"
       }
+    },
+    "countryList": {
+      "supportArea": "PODRUČJE PODRŠKE",
+      "title": "Popis zemalja za imigraciju",
+      "subtitle": "Popis zemalja:",
+      "countries": "Dubai|Kanada|SAD|Australija|Italija|Hrvatska|Turska|Malta|Njemačka|Filipini|Koreja"
     }
 }

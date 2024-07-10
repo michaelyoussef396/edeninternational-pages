@@ -85,6 +85,12 @@
       "buttonText": "Bixwîne Zêdetir",
       "buttonLink": "/migration"
     }
+  },
+  "countryList": {
+    "supportArea": "AREA YA PIŞTGIRÎ",
+    "title": "Lîsteya Welatan Bo Koçberî",
+    "subtitle": "Lîsteya Welatan:",
+    "countries": "Dubai|Kanada|USA|Australya|Îtalya|Kroatya|Tirkiye|Malta|Almanya|Filîpîn|Kore"
   }
   }
   

@@ -85,6 +85,12 @@
       "buttonText": "Czytaj Więcej",
       "buttonLink": "/migration"
     }
+  },
+  "countryList": {
+    "supportArea": "OBSZAR WSPARCIA",
+    "title": "Lista Krajów Do Imigracji",
+    "subtitle": "Lista Krajów:",
+    "countries": "Dubaj|Kanada|USA|Australia|Włochy|Chorwacja|Turcja|Malta|Niemcy|Filipiny|Korea"
   }
   }
   

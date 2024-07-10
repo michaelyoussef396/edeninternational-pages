@@ -85,6 +85,12 @@
       "buttonText": "Preberi Več",
       "buttonLink": "/migration"
     }
+  },
+  "countryList": {
+    "supportArea": "PODROČJE PODPORE",
+    "title": "Seznam Držav Za Imigracijo",
+    "subtitle": "Seznam Držav:",
+    "countries": "Dubaj|Kanada|ZDA|Avstralija|Italija|Hrvaška|Turčija|Malta|Nemčija|Filipini|Koreja"
   }
   }
   
