@@ -196,5 +196,67 @@
           "imageUrl": "/fallback-image.jpg"
         }
       ]
-    }
+    },
+    "cards": [
+      {
+        "title": "Accounting",
+        "imageUrl": "/i.webp",
+        "description": "Mag-develop ng mga kasanayan sa financial reporting, auditing, at taxation. Matutong mag-analyze ng mga financial statement at pamahalaan ang mga budget."
+      },
+      {
+        "title": "Engineering & Technology",
+        "imageUrl": "/i-2.webp",
+        "description": "Mag-explore ng mga innovative solution sa mga larangan tulad ng mechanical, civil, at electrical engineering. Makakuha ng hands-on na karanasan sa pag-develop ng teknolohiya."
+      },
+      {
+        "title": "Art",
+        "imageUrl": "/i-3.webp",
+        "description": "Pumasok sa malikhaing pagpapahayag sa pamamagitan ng iba't ibang medium. Mag-aral ng kasaysayan ng sining, mga teknika, at mga kontemporaryong praktis."
+      },
+      {
+        "title": "Business Management",
+        "imageUrl": "/i-4.webp",
+        "description": "Unawain ang mga operasyon ng negosyo, marketing, at estratehiya. Maghanda para sa mga papel na pamumuno sa iba't ibang mga setting ng organisasyon."
+      },
+      {
+        "title": "Communication",
+        "imageUrl": "/i-5.webp",
+        "description": "Matutunan ang mga mabisang estratehiya sa komunikasyon, public relations, at dynamics ng media. Pahusayin ang iyong interpersonal at writing skills."
+      },
+      {
+        "title": "Media",
+        "imageUrl": "/i-6.webp",
+        "description": "Pag-aralan ang epekto ng digital media, journalism, at paglikha ng nilalaman. Makakuha ng kasanayan sa multimedia storytelling at production."
+      },
+      {
+        "title": "Medicine",
+        "imageUrl": "/i-7.webp",
+        "description": "Maghanda para sa isang karera sa healthcare na may pagtuon sa pangangalaga ng pasyente, medikal na pananaliksik, at mga klinikal na praktis."
+      },
+      {
+        "title": "Nursing",
+        "imageUrl": "/i-11.webp",
+        "description": "Magsanay sa pangangalaga ng pasyente, mga medikal na pamamaraan, at pamamahala ng healthcare. Sumali sa isang rewarding na propesyon na dedikado sa pagtulong sa iba."
+      },
+      {
+        "title": "Language",
+        "imageUrl": "/i-9.webp",
+        "description": "Pag-aralan ang linguistics, translation, at cross-cultural communication. Pahusayin ang iyong proficiency sa maraming wika."
+      },
+      {
+        "title": "Computing & Technology",
+        "imageUrl": "/999.webp",
+        "description": "Matutunan ang tungkol sa software development, data analysis, at mga emerging technology. Bumuo ng isang matibay na pundasyon sa computer science."
+      },
+      {
+        "title": "Education & Training",
+        "imageUrl": "/i-10.webp",
+        "description": "Mag-develop ng mga kasanayan sa pagtuturo at teorya ng edukasyon. Maghanda upang magbigay inspirasyon at magturo sa susunod na henerasyon ng mga mag-aaral."
+      },
+      {
+        "title": "Architecture",
+        "imageUrl": "/192.webp",
+        "description": "Pag-aralan ang architectural design, urban planning, at sustainable building. Makakuha ng mga kasanayan upang hubugin ang built environment."
+      }
+    ]
 }

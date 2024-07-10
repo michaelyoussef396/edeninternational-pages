@@ -196,5 +196,67 @@
           "imageUrl": "/fallback-image.jpg"
         }
       ]
-    }
+    },
+    "cards": [
+      {
+        "title": "会计",
+        "imageUrl": "/i.webp",
+        "description": "培养财务报告、审计和税务方面的技能。学习分析财务报表和管理预算。"
+      },
+      {
+        "title": "工程与技术",
+        "imageUrl": "/i-2.webp",
+        "description": "探索机械、土木和电气工程等领域的创新解决方案。获得技术开发的实践经验。"
+      },
+      {
+        "title": "艺术",
+        "imageUrl": "/i-3.webp",
+        "description": "通过各种媒介进行创意表达。研究艺术史、技术和当代实践。"
+      },
+      {
+        "title": "商业管理",
+        "imageUrl": "/i-4.webp",
+        "description": "了解业务运营、市场营销和战略。为在多样化的组织环境中担任领导角色做好准备。"
+      },
+      {
+        "title": "通信",
+        "imageUrl": "/i-5.webp",
+        "description": "学习有效的沟通策略、公共关系和媒体动态。提高你的人际交往和写作技能。"
+      },
+      {
+        "title": "媒体",
+        "imageUrl": "/i-6.webp",
+        "description": "研究数字媒体、新闻和内容创作的影响。掌握多媒体讲故事和制作的技能。"
+      },
+      {
+        "title": "医学",
+        "imageUrl": "/i-7.webp",
+        "description": "为从事医疗保健职业做好准备，重点是患者护理、医学研究和临床实践。"
+      },
+      {
+        "title": "护理",
+        "imageUrl": "/i-11.webp",
+        "description": "培训患者护理、医疗程序和医疗管理。加入一个致力于帮助他人的有益职业。"
+      },
+      {
+        "title": "语言",
+        "imageUrl": "/i-9.webp",
+        "description": "学习语言学、翻译和跨文化交流。提高你多种语言的熟练程度。"
+      },
+      {
+        "title": "计算与技术",
+        "imageUrl": "/999.webp",
+        "description": "学习软件开发、数据分析和新兴技术。建立坚实的计算机科学基础。"
+      },
+      {
+        "title": "教育与培训",
+        "imageUrl": "/i-10.webp",
+        "description": "发展教学技能和教育理论。准备激励和教育下一代学生。"
+      },
+      {
+        "title": "建筑学",
+        "imageUrl": "/192.webp",
+        "description": "探索建筑设计、城市规划和可持续建筑。获得塑造建筑环境的技能。"
+      }
+    ]
 }

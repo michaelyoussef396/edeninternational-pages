@@ -196,6 +196,68 @@
         "imageUrl": "/fallback-image.jpg"
       }
     ]
-  }
+  },
+  "cards": [
+    {
+      "title": "Księgowość",
+      "imageUrl": "/i.webp",
+      "description": "Rozwijaj umiejętności w zakresie sprawozdawczości finansowej, audytu i opodatkowania. Naucz się analizować sprawozdania finansowe i zarządzać budżetami."
+    },
+    {
+      "title": "Inżynieria i Technologie",
+      "imageUrl": "/i-2.webp",
+      "description": "Poznawaj innowacyjne rozwiązania w takich dziedzinach jak inżynieria mechaniczna, cywilna i elektryczna. Zdobywaj praktyczne doświadczenie w rozwoju technologii."
+    },
+    {
+      "title": "Sztuka",
+      "imageUrl": "/i-3.webp",
+      "description": "Zanurz się w twórczym wyrazie poprzez różne media. Studiuj historię sztuki, techniki i współczesne praktyki."
+    },
+    {
+      "title": "Zarządzanie Biznesem",
+      "imageUrl": "/i-4.webp",
+      "description": "Poznaj funkcjonowanie biznesu, marketingu i strategii. Przygotuj się do ról przywódczych w różnorodnych organizacjach."
+    },
+    {
+      "title": "Komunikacja",
+      "imageUrl": "/i-5.webp",
+      "description": "Poznaj skuteczne strategie komunikacji, public relations i dynamikę mediów. Zwiększ swoje umiejętności interpersonalne i pisarskie."
+    },
+    {
+      "title": "Media",
+      "imageUrl": "/i-6.webp",
+      "description": "Studiuj wpływ mediów cyfrowych, dziennikarstwa i tworzenia treści. Zdobywaj umiejętności w opowiadaniu historii multimedialnych i produkcji."
+    },
+    {
+      "title": "Medycyna",
+      "imageUrl": "/i-7.webp",
+      "description": "Przygotuj się do kariery w opiece zdrowotnej, koncentrując się na opiece nad pacjentem, badaniach medycznych i praktykach klinicznych."
+    },
+    {
+      "title": "Pielęgniarstwo",
+      "imageUrl": "/i-11.webp",
+      "description": "Szkolenie w zakresie opieki nad pacjentem, procedur medycznych i zarządzania opieką zdrowotną. Dołącz do satysfakcjonującego zawodu, który polega na pomaganiu innym."
+    },
+    {
+      "title": "Język",
+      "imageUrl": "/i-9.webp",
+      "description": "Studiuj lingwistykę, tłumaczenie i komunikację międzykulturową. Zwiększ swoją biegłość w wielu językach."
+    },
+    {
+      "title": "Informatyka i Technologia",
+      "imageUrl": "/999.webp",
+      "description": "Poznaj rozwój oprogramowania, analizę danych i nowe technologie. Zbuduj solidne podstawy w dziedzinie informatyki."
+    },
+    {
+      "title": "Edukacja i Szkolenia",
+      "imageUrl": "/i-10.webp",
+      "description": "Rozwijaj umiejętności nauczania i teorię edukacyjną. Przygotuj się do inspirowania i edukowania przyszłych pokoleń uczniów."
+    },
+    {
+      "title": "Architektura",
+      "imageUrl": "/192.webp",
+      "description": "Poznaj projektowanie architektoniczne, planowanie urbanistyczne i zrównoważone budownictwo. Zdobądź umiejętności kształtowania środowiska zbudowanego."
+    }
+  ]
   }
   

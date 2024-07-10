@@ -196,5 +196,67 @@
           "imageUrl": "/fallback-image.jpg"
         }
       ]
-    }
+    },
+    "cards": [
+      {
+        "title": "Računovodstvo",
+        "imageUrl": "/i.webp",
+        "description": "Razvijte vještine u financijskom izvještavanju, reviziji i oporezivanju. Naučite analizirati financijske izvještaje i upravljati proračunima."
+      },
+      {
+        "title": "Inženjering i tehnologija",
+        "imageUrl": "/i-2.webp",
+        "description": "Istražite inovativna rješenja u područjima poput strojarstva, građevinarstva i elektrotehnike. Steknite praktično iskustvo u razvoju tehnologije."
+      },
+      {
+        "title": "Umjetnost",
+        "imageUrl": "/i-3.webp",
+        "description": "Upustite se u kreativno izražavanje kroz razne medije. Proučavajte povijest umjetnosti, tehnike i suvremene prakse."
+      },
+      {
+        "title": "Poslovno upravljanje",
+        "imageUrl": "/i-4.webp",
+        "description": "Razumijte poslovne operacije, marketing i strategiju. Pripremite se za voditeljske uloge u raznim organizacijskim okruženjima."
+      },
+      {
+        "title": "Komunikacija",
+        "imageUrl": "/i-5.webp",
+        "description": "Naučite učinkovite strategije komunikacije, odnosa s javnošću i dinamike medija. Poboljšajte svoje interpersonalne i pisane vještine."
+      },
+      {
+        "title": "Mediji",
+        "imageUrl": "/i-6.webp",
+        "description": "Proučavajte utjecaj digitalnih medija, novinarstva i stvaranja sadržaja. Steknite vještine u pripovijedanju i produkciji multimedije."
+      },
+      {
+        "title": "Medicina",
+        "imageUrl": "/i-7.webp",
+        "description": "Pripremite se za karijeru u zdravstvenoj zaštiti s naglaskom na brigu o pacijentima, medicinska istraživanja i kliničku praksu."
+      },
+      {
+        "title": "Medicinska sestra",
+        "imageUrl": "/i-11.webp",
+        "description": "Obučavajte se u brizi o pacijentima, medicinskim postupcima i upravljanju zdravstvom. Pridružite se nagrađivanoj profesiji posvećenoj pomaganju drugima."
+      },
+      {
+        "title": "Jezici",
+        "imageUrl": "/i-9.webp",
+        "description": "Proučavajte lingvistiku, prevođenje i međukulturalnu komunikaciju. Poboljšajte svoju vještinu u više jezika."
+      },
+      {
+        "title": "Računalstvo i tehnologija",
+        "imageUrl": "/999.webp",
+        "description": "Naučite o razvoju softvera, analizi podataka i novim tehnologijama. Izgradite snažnu osnovu u računalnim znanostima."
+      },
+      {
+        "title": "Obrazovanje i obuka",
+        "imageUrl": "/i-10.webp",
+        "description": "Razvijte vještine podučavanja i obrazovne teorije. Pripremite se za inspiriranje i obrazovanje sljedeće generacije učenika."
+      },
+      {
+        "title": "Arhitektura",
+        "imageUrl": "/192.webp",
+        "description": "Istražite arhitektonsko dizajniranje, urbanističko planiranje i održivu gradnju. Steknite vještine oblikovanja izgrađenog okoliša."
+      }
+    ]
 }

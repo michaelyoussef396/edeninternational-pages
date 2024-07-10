@@ -6,6 +6,7 @@ import { images } from '@/constants/images';
 import ShoreServices from '@/components/ShoreServices';
 import VisitorToStudentVisa from '@/components/VisitorToStudentVisa';
 import { StudentTestimonials } from '@/components/StudentTestimonials';
+import CardGrid from '@/components/CardGrid';
 
 
 
@@ -24,6 +25,7 @@ const IndexPage: React.FC<IndexPageProps> = ({ params: { locale } }) => {
       <ShoreServices />
       <VisitorToStudentVisa />
       <StudentTestimonials />
+      <CardGrid />
     </main>
   );
 };

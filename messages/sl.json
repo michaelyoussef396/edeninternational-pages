@@ -196,6 +196,68 @@
         "imageUrl": "/fallback-image.jpg"
       }
     ]
-  }
+  },
+  "cards": [
+    {
+      "title": "Računovodstvo",
+      "imageUrl": "/i.webp",
+      "description": "Razvijajte spretnosti pri finančnem poročanju, reviziji in obdavčitvi. Naučite se analizirati finančne izkaze in upravljati proračune."
+    },
+    {
+      "title": "Inženirstvo in Tehnologija",
+      "imageUrl": "/i-2.webp",
+      "description": "Raziščite inovativne rešitve na področjih, kot so strojništvo, gradbeništvo in elektrotehnika. Pridobite praktične izkušnje pri razvoju tehnologije."
+    },
+    {
+      "title": "Umetnost",
+      "imageUrl": "/i-3.webp",
+      "description": "Potopite se v ustvarjalno izražanje skozi različne medije. Študirajte zgodovino umetnosti, tehnike in sodobne prakse."
+    },
+    {
+      "title": "Poslovno Upravljanje",
+      "imageUrl": "/i-4.webp",
+      "description": "Spoznajte poslovanje, marketing in strategijo. Pripravite se na vodstvene vloge v različnih organizacijskih okoljih."
+    },
+    {
+      "title": "Komunikacija",
+      "imageUrl": "/i-5.webp",
+      "description": "Naučite se učinkovitih komunikacijskih strategij, odnosov z javnostmi in dinamike medijev. Izboljšajte svoje medosebne in pisne spretnosti."
+    },
+    {
+      "title": "Mediji",
+      "imageUrl": "/i-6.webp",
+      "description": "Študirajte vpliv digitalnih medijev, novinarstva in ustvarjanja vsebin. Pridobite veščine v večmedijskih pripovedovanjih in produkciji."
+    },
+    {
+      "title": "Medicina",
+      "imageUrl": "/i-7.webp",
+      "description": "Pripravite se na kariero v zdravstvenem varstvu s poudarkom na oskrbi pacientov, medicinskih raziskavah in kliničnih praksah."
+    },
+    {
+      "title": "Zdravstvena Nege",
+      "imageUrl": "/i-11.webp",
+      "description": "Usposabljanje na področju oskrbe pacientov, medicinskih postopkov in upravljanja zdravstvenega varstva. Pridružite se izpolnjujočemu poklicu, namenjenemu pomoči drugim."
+    },
+    {
+      "title": "Jezik",
+      "imageUrl": "/i-9.webp",
+      "description": "Študirajte jezikoslovje, prevajanje in medkulturno komunikacijo. Izboljšajte svoje znanje več jezikov."
+    },
+    {
+      "title": "Računalništvo in Tehnologija",
+      "imageUrl": "/999.webp",
+      "description": "Spoznajte razvoj programske opreme, analizo podatkov in nove tehnologije. Zgradite trdne temelje v računalništvu."
+    },
+    {
+      "title": "Izobraževanje in Usposabljanje",
+      "imageUrl": "/i-10.webp",
+      "description": "Razvijajte učiteljske spretnosti in izobraževalno teorijo. Pripravite se na navdihovanje in izobraževanje naslednje generacije učencev."
+    },
+    {
+      "title": "Arhitektura",
+      "imageUrl": "/192.webp",
+      "description": "Raziščite arhitekturno oblikovanje, urbanistično načrtovanje in trajnostno gradnjo. Pridobite veščine za oblikovanje grajenega okolja."
+    }
+  ]
   }
   

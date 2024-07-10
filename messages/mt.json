@@ -196,5 +196,67 @@
           "imageUrl": "/fallback-image.jpg"
         }
       ]
-    }
+    },
+    "cards": [
+      {
+        "title": "Kontabilità",
+        "imageUrl": "/i.webp",
+        "description": "Iżviluppa ħiliet fir-rapportar finanzjarju, l-awditjar, u t-tassazzjoni. Tgħallem tanalizza rendikonti finanzjarji u timmaniġġja baġits."
+      },
+      {
+        "title": "Inġinerija & Teknoloġija",
+        "imageUrl": "/i-2.webp",
+        "description": "Esplora soluzzjonijiet innovattivi f'oqsma bħal inġinerija mekkanika, ċivili, u elettrika. Iksbu esperjenza prattika fl-iżvilupp tat-teknoloġija."
+      },
+      {
+        "title": "Arti",
+        "imageUrl": "/i-3.webp",
+        "description": "Indaħħlu fl-espressjoni kreattiva permezz ta' diversi mezzi. Studju storja tal-arti, tekniki, u prattiki kontemporanji."
+      },
+      {
+        "title": "Ġestjoni tan-Negozju",
+        "imageUrl": "/i-4.webp",
+        "description": "Iffhem l-operazzjonijiet tan-negozju, il-marketing, u l-istrateġija. Ipprepara għal rwoli ta' tmexxija f'issettji organizzazzjonali diversi."
+      },
+      {
+        "title": "Komunikazzjoni",
+        "imageUrl": "/i-5.webp",
+        "description": "Tgħallem strateġiji ta' komunikazzjoni effettiva, relazzjonijiet pubbliċi, u dinamika tal-midja. Issaħħaħ il-ħiliet interpersonali u ta' kitba tiegħek."
+      },
+      {
+        "title": "Midja",
+        "imageUrl": "/i-6.webp",
+        "description": "Studi l-impatt tal-midja diġitali, ġurnaliżmu, u ħolqien ta' kontenut. Iksbu ħiliet fir-rakkont tal-istejjer multimedjali u l-produzzjoni."
+      },
+      {
+        "title": "Mediċina",
+        "imageUrl": "/i-7.webp",
+        "description": "Ipprepara għal karriera fil-kura tas-saħħa b'enfasi fuq il-kura tal-pazjent, ir-riċerka medika, u l-prattiki kliniċi."
+      },
+      {
+        "title": "Infermerija",
+        "imageUrl": "/i-11.webp",
+        "description": "Taħriġ fil-kura tal-pazjent, proċeduri mediċi, u ġestjoni tal-kura tas-saħħa. Ingħaqad ma' professjoni ta' sodisfazzjon iddedikata biex tgħin lill-oħrajn."
+      },
+      {
+        "title": "Lingwa",
+        "imageUrl": "/i-9.webp",
+        "description": "Studja lingwistika, traduzzjoni, u komunikazzjoni interkulturali. Issaħħaħ il-profiċjenza tiegħek f'diversi lingwi."
+      },
+      {
+        "title": "Informatika & Teknoloġija",
+        "imageUrl": "/999.webp",
+        "description": "Tgħallem dwar l-iżvilupp tas-softwer, l-analiżi tad-data, u t-teknoloġiji emerġenti. Iżviluppa bażi soda fix-xjenza tal-kompjuter."
+      },
+      {
+        "title": "Edukazzjoni & Taħriġ",
+        "imageUrl": "/i-10.webp",
+        "description": "Iżviluppa ħiliet ta' tagħlim u teorija edukattiva. Ipprepara biex ispiraw u jedukaw il-ġenerazzjoni li jmiss ta' studenti."
+      },
+      {
+        "title": "Arkitettura",
+        "imageUrl": "/192.webp",
+        "description": "Esplora d-disinn arkitetturali, l-ippjanar urban, u l-bini sostenibbli. Iksbu l-ħiliet biex tfassal l-ambjent mibni."
+      }
+    ]
 }

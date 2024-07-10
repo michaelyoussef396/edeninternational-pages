@@ -196,6 +196,68 @@
         "imageUrl": "/fallback-image.jpg"
       }
     ]
-  }
+  },
+  "cards": [
+    {
+      "title": "Hesabkarî",
+      "imageUrl": "/i.webp",
+      "description": "Lez û kesên di raporsaziya aborî, auditkirin û bacdan de pêşkeş dikin. Di raporên aborî de lêkolîn û rêveberiya bûdgetanê fêrbikin."
+    },
+    {
+      "title": "Injînêrî û Teknolojî",
+      "imageUrl": "/i-2.webp",
+      "description": "Di qada mekanîkî, sivîl û elektrikî de çareserkirina afirandî lêkolîn bikin. Di pêşveçûna teknolojiyê de destêrkî bin."
+    },
+    {
+      "title": "Huner",
+      "imageUrl": "/i-3.webp",
+      "description": "Di nav çandina afirîna hunerî de bin. Dîrok, teknîk û çalakiyên nûjen yên hunerî fêrbikin."
+    },
+    {
+      "title": "Rêveberiya Bazirganiyê",
+      "imageUrl": "/i-4.webp",
+      "description": "Karûbarên bazirganiyê, pêşverûk û stratejiya fêrbikin. Ji bo rolên serokatiyê di dîmenên rêxistinan de amade bibe."
+    },
+    {
+      "title": "Peywendî",
+      "imageUrl": "/i-5.webp",
+      "description": "Stratejiyên peywendiyê ya hêja, têketina giştî û dynamicsên medyayê fêrbikin. Pêşkeşiyên xwe ya navpeywendî û nivîsandî ya baş bikin."
+    },
+    {
+      "title": "Medya",
+      "imageUrl": "/i-6.webp",
+      "description": "Têkiliya medya ya dijîtal, rojnamegerî û çêkirina naverokê fêrbikin. Di çîrokbûna multîmedya û pêşkeşiyên çêkirinê de hûnermend bibe."
+    },
+    {
+      "title": "Tibb",
+      "imageUrl": "/i-7.webp",
+      "description": "Ji bo karîberiya bi xizmeta bi gelemperî û lêkolîna medîkal û amûrên klinîkî amade bibe."
+    },
+    {
+      "title": "Pîşesk",
+      "imageUrl": "/i-11.webp",
+      "description": "Di xizmeta bi gelemperî, amûrên medîkal û rêveberiya teqelîyê de fêrbikin. Di pîşeseka bi bêpêşkêşiya xwe yên ku ji bo yêdikevin."
+    },
+    {
+      "title": "Ziman",
+      "imageUrl": "/i-9.webp",
+      "description": "Lîngîstîk, wergirtin û peywendiyên navçandî fêrbikin. Zimanên pir fêr bibe."
+    },
+    {
+      "title": "Komputer & Teknolojî",
+      "imageUrl": "/999.webp",
+      "description": "Li ser pêşveçûna software, lêkolîna daneyî û teknolojiyên nûjen fêrbikin. Di zanîna komputer de bingehîkê bi hêz bikin."
+    },
+    {
+      "title": "Perwerde û Şagirtî",
+      "imageUrl": "/i-10.webp",
+      "description": "Lezên perwerde û fêhmkirina perwerdeya teoreyê fêrbikin. Ji bo şandin û perwerdeya zayenda nû fêrbikin."
+    },
+    {
+      "title": "Mîmariyê",
+      "imageUrl": "/192.webp",
+      "description": "Li ser qada dizayna mîmariyê, planekirina bajaran û ava avahiyê ya bêşewat fêrbikin. Lez û kesên di avabûna cîh de çêbikin."
+    }
+  ]
   }
   

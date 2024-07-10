@@ -196,5 +196,67 @@
           "imageUrl": "/fallback-image.jpg"
         }
       ]
-    }
+    },
+    "cards": [
+      {
+        "title": "Contabilidad",
+        "imageUrl": "/i.webp",
+        "description": "Desarrolla habilidades en informes financieros, auditoría y tributación. Aprende a analizar estados financieros y gestionar presupuestos."
+      },
+      {
+        "title": "Ingeniería y Tecnología",
+        "imageUrl": "/i-2.webp",
+        "description": "Explora soluciones innovadoras en campos como la ingeniería mecánica, civil y eléctrica. Adquiere experiencia práctica en el desarrollo de tecnología."
+      },
+      {
+        "title": "Arte",
+        "imageUrl": "/i-3.webp",
+        "description": "Sumérgete en la expresión creativa a través de diversos medios. Estudia historia del arte, técnicas y prácticas contemporáneas."
+      },
+      {
+        "title": "Gestión Empresarial",
+        "imageUrl": "/i-4.webp",
+        "description": "Comprende las operaciones comerciales, el marketing y la estrategia. Prepárate para roles de liderazgo en diversos entornos organizativos."
+      },
+      {
+        "title": "Comunicación",
+        "imageUrl": "/i-5.webp",
+        "description": "Aprende estrategias de comunicación efectiva, relaciones públicas y dinámicas de medios. Mejora tus habilidades interpersonales y de escritura."
+      },
+      {
+        "title": "Medios de Comunicación",
+        "imageUrl": "/i-6.webp",
+        "description": "Estudia el impacto de los medios digitales, el periodismo y la creación de contenido. Adquiere habilidades en narración multimedia y producción."
+      },
+      {
+        "title": "Medicina",
+        "imageUrl": "/i-7.webp",
+        "description": "Prepárate para una carrera en el cuidado de la salud con un enfoque en la atención al paciente, la investigación médica y las prácticas clínicas."
+      },
+      {
+        "title": "Enfermería",
+        "imageUrl": "/i-11.webp",
+        "description": "Entrena en el cuidado del paciente, procedimientos médicos y gestión de la salud. Únete a una profesión gratificante dedicada a ayudar a los demás."
+      },
+      {
+        "title": "Idiomas",
+        "imageUrl": "/i-9.webp",
+        "description": "Estudia lingüística, traducción y comunicación intercultural. Mejora tu dominio en múltiples idiomas."
+      },
+      {
+        "title": "Informática y Tecnología",
+        "imageUrl": "/999.webp",
+        "description": "Aprende sobre desarrollo de software, análisis de datos y tecnologías emergentes. Construye una base sólida en ciencias de la computación."
+      },
+      {
+        "title": "Educación y Formación",
+        "imageUrl": "/i-10.webp",
+        "description": "Desarrolla habilidades docentes y teoría educativa. Prepárate para inspirar y educar a la próxima generación de estudiantes."
+      },
+      {
+        "title": "Arquitectura",
+        "imageUrl": "/192.webp",
+        "description": "Explora el diseño arquitectónico, la planificación urbana y la construcción sostenible. Adquiere las habilidades para dar forma al entorno construido."
+      }
+    ]
 }

@@ -43,8 +43,8 @@ const VisitorToStudentVisa = () => {
         <Image
           src={footerBackground}
           alt="Footer Background"
-          layout="fill"
-          objectFit="cover"
+          fill
+          style={{ objectFit: 'cover' }}
           className="opacity-50"
         />
       </div>
@@ -82,10 +82,10 @@ const VisitorToStudentVisa = () => {
             <Image
               src={studentImage}
               alt="Student Image"
-              layout="responsive"
               width={700}
               height={475}
               className="rounded-lg"
+              style={{ objectFit: 'cover' }}
             />
           </motion.div>
         </div>

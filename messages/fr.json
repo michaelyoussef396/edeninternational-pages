@@ -196,5 +196,67 @@
           "imageUrl": "/fallback-image.jpg"
         }
       ]
-    }
+    },
+    "cards": [
+      {
+        "title": "Comptabilité",
+        "imageUrl": "/i.webp",
+        "description": "Développer des compétences en reporting financier, audit et fiscalité. Apprendre à analyser les états financiers et à gérer les budgets."
+      },
+      {
+        "title": "Ingénierie et Technologie",
+        "imageUrl": "/i-2.webp",
+        "description": "Explorer des solutions innovantes dans des domaines tels que l'ingénierie mécanique, civile et électrique. Acquérir une expérience pratique dans le développement technologique."
+      },
+      {
+        "title": "Art",
+        "imageUrl": "/i-3.webp",
+        "description": "Plongez dans l'expression créative à travers divers médiums. Étudier l'histoire de l'art, les techniques et les pratiques contemporaines."
+      },
+      {
+        "title": "Gestion des Affaires",
+        "imageUrl": "/i-4.webp",
+        "description": "Comprendre les opérations commerciales, le marketing et la stratégie. Préparez-vous à des rôles de leadership dans divers environnements organisationnels."
+      },
+      {
+        "title": "Communication",
+        "imageUrl": "/i-5.webp",
+        "description": "Apprendre des stratégies de communication efficaces, les relations publiques et la dynamique des médias. Améliorez vos compétences interpersonnelles et rédactionnelles."
+      },
+      {
+        "title": "Médias",
+        "imageUrl": "/i-6.webp",
+        "description": "Étudier l'impact des médias numériques, du journalisme et de la création de contenu. Acquérir des compétences en narration multimédia et en production."
+      },
+      {
+        "title": "Médecine",
+        "imageUrl": "/i-7.webp",
+        "description": "Préparez-vous à une carrière dans les soins de santé en vous concentrant sur les soins aux patients, la recherche médicale et les pratiques cliniques."
+      },
+      {
+        "title": "Infirmier",
+        "imageUrl": "/i-11.webp",
+        "description": "Formation aux soins aux patients, aux procédures médicales et à la gestion des soins de santé. Rejoignez une profession gratifiante dédiée à aider les autres."
+      },
+      {
+        "title": "Langue",
+        "imageUrl": "/i-9.webp",
+        "description": "Étudier la linguistique, la traduction et la communication interculturelle. Améliorez votre maîtrise de plusieurs langues."
+      },
+      {
+        "title": "Informatique et Technologie",
+        "imageUrl": "/999.webp",
+        "description": "Apprendre le développement de logiciels, l'analyse des données et les technologies émergentes. Construisez une solide fondation en informatique."
+      },
+      {
+        "title": "Éducation et Formation",
+        "imageUrl": "/i-10.webp",
+        "description": "Développer des compétences pédagogiques et la théorie de l'éducation. Préparez-vous à inspirer et à éduquer la prochaine génération d'apprenants."
+      },
+      {
+        "title": "Architecture",
+        "imageUrl": "/192.webp",
+        "description": "Explorer la conception architecturale, la planification urbaine et la construction durable. Acquérir les compétences pour façonner l'environnement bâti."
+      }
+    ]
 }

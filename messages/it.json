@@ -196,5 +196,67 @@
           "imageUrl": "/fallback-image.jpg"
         }
       ]
-    }
+    },
+    "cards": [
+      {
+        "title": "Contabilità",
+        "imageUrl": "/i.webp",
+        "description": "Sviluppa competenze nella rendicontazione finanziaria, revisione contabile e tassazione. Impara ad analizzare i bilanci e gestire i budget."
+      },
+      {
+        "title": "Ingegneria e Tecnologia",
+        "imageUrl": "/i-2.webp",
+        "description": "Esplora soluzioni innovative nei campi come ingegneria meccanica, civile ed elettrica. Acquisisci esperienza pratica nello sviluppo tecnologico."
+      },
+      {
+        "title": "Arte",
+        "imageUrl": "/i-3.webp",
+        "description": "Approfondisci l'espressione creativa attraverso vari mezzi. Studia la storia dell'arte, le tecniche e le pratiche contemporanee."
+      },
+      {
+        "title": "Gestione Aziendale",
+        "imageUrl": "/i-4.webp",
+        "description": "Comprendi le operazioni aziendali, il marketing e la strategia. Preparati per ruoli di leadership in contesti organizzativi diversi."
+      },
+      {
+        "title": "Comunicazione",
+        "imageUrl": "/i-5.webp",
+        "description": "Impara strategie di comunicazione efficace, relazioni pubbliche e dinamiche dei media. Migliora le tue competenze interpersonali e di scrittura."
+      },
+      {
+        "title": "Media",
+        "imageUrl": "/i-6.webp",
+        "description": "Studia l'impatto dei media digitali, del giornalismo e della creazione di contenuti. Acquisisci competenze nella narrazione e produzione multimediale."
+      },
+      {
+        "title": "Medicina",
+        "imageUrl": "/i-7.webp",
+        "description": "Preparati per una carriera nella sanità con un focus sulla cura dei pazienti, la ricerca medica e le pratiche cliniche."
+      },
+      {
+        "title": "Infermieristica",
+        "imageUrl": "/i-11.webp",
+        "description": "Formati nella cura dei pazienti, nelle procedure mediche e nella gestione sanitaria. Unisciti a una professione gratificante dedicata ad aiutare gli altri."
+      },
+      {
+        "title": "Lingue",
+        "imageUrl": "/i-9.webp",
+        "description": "Studia linguistica, traduzione e comunicazione interculturale. Migliora la tua competenza in più lingue."
+      },
+      {
+        "title": "Informatica e Tecnologia",
+        "imageUrl": "/999.webp",
+        "description": "Impara lo sviluppo software, l'analisi dei dati e le tecnologie emergenti. Costruisci una solida base in informatica."
+      },
+      {
+        "title": "Istruzione e Formazione",
+        "imageUrl": "/i-10.webp",
+        "description": "Sviluppa competenze didattiche e teorie educative. Preparati a ispirare e educare la prossima generazione di studenti."
+      },
+      {
+        "title": "Architettura",
+        "imageUrl": "/192.webp",
+        "description": "Esplora la progettazione architettonica, la pianificazione urbana e l'edilizia sostenibile. Acquisisci le competenze per plasmare l'ambiente costruito."
+      }
+    ]
 }

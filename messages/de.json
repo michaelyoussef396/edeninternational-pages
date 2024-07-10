@@ -196,5 +196,67 @@
           "imageUrl": "/fallback-image.jpg"
         }
       ]
-    }
+    },
+    "cards": [
+      {
+        "title": "Rechnungswesen",
+        "imageUrl": "/i.webp",
+        "description": "Entwickeln Sie Fähigkeiten in Finanzberichterstattung, Prüfung und Besteuerung. Lernen Sie, Finanzberichte zu analysieren und Budgets zu verwalten."
+      },
+      {
+        "title": "Ingenieurwesen & Technologie",
+        "imageUrl": "/i-2.webp",
+        "description": "Erforschen Sie innovative Lösungen in Bereichen wie Maschinenbau, Bauingenieurwesen und Elektrotechnik. Sammeln Sie praktische Erfahrungen in der Technologieentwicklung."
+      },
+      {
+        "title": "Kunst",
+        "imageUrl": "/i-3.webp",
+        "description": "Tauchen Sie ein in kreative Ausdrucksformen durch verschiedene Medien. Studieren Sie Kunstgeschichte, Techniken und zeitgenössische Praktiken."
+      },
+      {
+        "title": "Geschäftsführung",
+        "imageUrl": "/i-4.webp",
+        "description": "Verstehen Sie Geschäftsabläufe, Marketing und Strategie. Bereiten Sie sich auf Führungsrollen in verschiedenen organisatorischen Umgebungen vor."
+      },
+      {
+        "title": "Kommunikation",
+        "imageUrl": "/i-5.webp",
+        "description": "Lernen Sie effektive Kommunikationsstrategien, Öffentlichkeitsarbeit und Mediendynamik. Verbessern Sie Ihre zwischenmenschlichen und Schreibfähigkeiten."
+      },
+      {
+        "title": "Medien",
+        "imageUrl": "/i-6.webp",
+        "description": "Studieren Sie die Auswirkungen digitaler Medien, Journalismus und Content-Erstellung. Erwerben Sie Fähigkeiten im multimedialen Geschichtenerzählen und in der Produktion."
+      },
+      {
+        "title": "Medizin",
+        "imageUrl": "/i-7.webp",
+        "description": "Bereiten Sie sich auf eine Karriere im Gesundheitswesen mit Schwerpunkt auf Patientenversorgung, medizinischer Forschung und klinischen Praktiken vor."
+      },
+      {
+        "title": "Krankenpflege",
+        "imageUrl": "/i-11.webp",
+        "description": "Trainieren Sie in der Patientenversorgung, medizinischen Verfahren und im Gesundheitsmanagement. Treten Sie in einen lohnenden Beruf ein, der sich dem Helfen anderer widmet."
+      },
+      {
+        "title": "Sprache",
+        "imageUrl": "/i-9.webp",
+        "description": "Studieren Sie Linguistik, Übersetzung und interkulturelle Kommunikation. Verbessern Sie Ihre Fähigkeiten in mehreren Sprachen."
+      },
+      {
+        "title": "Informatik & Technologie",
+        "imageUrl": "/999.webp",
+        "description": "Lernen Sie Softwareentwicklung, Datenanalyse und aufstrebende Technologien. Bauen Sie eine solide Grundlage in der Informatik auf."
+      },
+      {
+        "title": "Bildung & Ausbildung",
+        "imageUrl": "/i-10.webp",
+        "description": "Entwickeln Sie Lehrfähigkeiten und pädagogische Theorien. Bereiten Sie sich darauf vor, die nächste Generation von Lernenden zu inspirieren und zu unterrichten."
+      },
+      {
+        "title": "Architektur",
+        "imageUrl": "/192.webp",
+        "description": "Erforschen Sie architektonisches Design, Stadtplanung und nachhaltiges Bauen. Erwerben Sie die Fähigkeiten, um die gebaute Umwelt zu gestalten."
+      }
+    ]
 }

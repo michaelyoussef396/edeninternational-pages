@@ -196,5 +196,67 @@
         "imageUrl": "/fallback-image.jpg"
       }
     ]
-  }
+  },
+  "cards": [
+    {
+      "title": "Muhasebe",
+      "imageUrl": "/i.webp",
+      "description": "Finansal raporlama, denetim ve vergilendirme becerilerini geliştirin. Finansal tabloları analiz etmeyi ve bütçeleri yönetmeyi öğrenin."
+    },
+    {
+      "title": "Mühendislik ve Teknoloji",
+      "imageUrl": "/i-2.webp",
+      "description": "Mekanik, inşaat ve elektrik mühendisliği gibi alanlarda yenilikçi çözümler keşfedin. Teknoloji geliştirme konusunda pratik deneyim kazanın."
+    },
+    {
+      "title": "Sanat",
+      "imageUrl": "/i-3.webp",
+      "description": "Çeşitli medya aracılığıyla yaratıcı ifadeyi inceleyin. Sanat tarihi, teknikleri ve çağdaş uygulamaları öğrenin."
+    },
+    {
+      "title": "İşletme Yönetimi",
+      "imageUrl": "/i-4.webp",
+      "description": "İş operasyonlarını, pazarlamayı ve stratejiyi anlayın. Çeşitli organizasyonel ortamlarda liderlik rolleri için hazırlanın."
+    },
+    {
+      "title": "İletişim",
+      "imageUrl": "/i-5.webp",
+      "description": "Etkili iletişim stratejileri, halkla ilişkiler ve medya dinamiklerini öğrenin. Kişilerarası ve yazma becerilerinizi geliştirin."
+    },
+    {
+      "title": "Medya",
+      "imageUrl": "/i-6.webp",
+      "description": "Dijital medyanın, gazeteciliğin ve içerik oluşturmanın etkilerini inceleyin. Multimedya hikaye anlatımı ve üretiminde beceriler kazanın."
+    },
+    {
+      "title": "Tıp",
+      "imageUrl": "/i-7.webp",
+      "description": "Hasta bakımı, tıbbi araştırma ve klinik uygulamalara odaklanarak sağlık alanında bir kariyere hazırlanın."
+    },
+    {
+      "title": "Hemşirelik",
+      "imageUrl": "/i-11.webp",
+      "description": "Hasta bakımı, tıbbi prosedürler ve sağlık yönetimi konularında eğitim alın. Başkalarına yardım etmeye adanmış ödüllendirici bir mesleğe katılın."
+    },
+    {
+      "title": "Dil",
+      "imageUrl": "/i-9.webp",
+      "description": "Dilbilim, çeviri ve kültürler arası iletişimi inceleyin. Birden çok dilde yetkinliğinizi artırın."
+    },
+    {
+      "title": "Bilişim ve Teknoloji",
+      "imageUrl": "/999.webp",
+      "description": "Yazılım geliştirme, veri analizi ve yeni teknolojiler hakkında bilgi edinin. Bilgisayar bilimi konusunda sağlam bir temel oluşturun."
+    },
+    {
+      "title": "Eğitim ve Öğretim",
+      "imageUrl": "/i-10.webp",
+      "description": "Öğretim becerilerini ve eğitim teorisini geliştirin. Gelecek nesil öğrenicileri ilham vermeye ve eğitmeye hazırlanın."
+    },
+    {
+      "title": "Mimarlık",
+      "imageUrl": "/192.webp",
+      "description": "Mimari tasarım, kentsel planlama ve sürdürülebilir bina konularını inceleyin. İnşa edilmiş çevreyi şekillendirme becerilerini kazanın."
+    }
+  ]
 }
