@@ -36,5 +36,15 @@
     "sr": "Serbian",
     "kur": "Kurdish",
     "pi": "Polako"
+  },
+  "footer": {
+    "explore": "Mag-explore",
+    "affiliates": "Mga Kasamahan",
+    "contactUs": "Makipag-ugnayan sa Amin",
+    "usefulLinks": "Mga Kapaki-pakinabang na Link",
+    "studentVisa": "Student Visa",
+    "migration": "Migrasyon",
+    "recentProjects": "Mga Kamakailang Proyekto",
+    "copyRights": "© 2023 ng Eden International Lahat ng Karapatan ay Nakalaan."
   }
 }

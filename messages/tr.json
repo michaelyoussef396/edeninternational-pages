@@ -36,5 +36,15 @@
     "sr": "Sırpça",
     "kur": "Kürtçe",
     "pi": "Lehçe"
+  },
+  "footer": {
+    "explore": "Keşfet",
+    "affiliates": "Bağlı Kuruluşlar",
+    "contactUs": "Bize Ulaşın",
+    "usefulLinks": "Faydalı Linkler",
+    "studentVisa": "Öğrenci Vizesi",
+    "migration": "Göç",
+    "recentProjects": "Son Projeler",
+    "copyRights": "© 2023 Eden International Tüm Hakları Saklıdır."
   }
 }

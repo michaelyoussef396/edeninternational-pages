@@ -36,6 +36,16 @@
       "sr": "Srbščina",
       "kur": "Kurdščina",
       "pi": "Poljščina"
-    }
+    },
+    "footer": {
+    "explore": "Razišči",
+    "affiliates": "Partnerji",
+    "contactUs": "Kontaktirajte nas",
+    "usefulLinks": "Uporabne povezave",
+    "studentVisa": "Študentska viza",
+    "migration": "Migracija",
+    "recentProjects": "Nedavni projekti",
+    "copyRights": "© 2023 Eden International Vse pravice pridržane."
+  }
   }
   

@@ -36,5 +36,15 @@
     "sr": "Serb",
     "kur": "Kurdi",
     "pi": "Pollakk"
+  },
+  "footer": {
+    "explore": "Esplora",
+    "affiliates": "Affiljati",
+    "contactUs": "Ikkuntattjana",
+    "usefulLinks": "Links Utli",
+    "studentVisa": "Viża ta' Student",
+    "migration": "Migrazzjoni",
+    "recentProjects": "Proġetti Riċenti",
+    "copyRights": "© 2023 minn Eden International Id-drittijiet kollha riżervati."
   }
 }

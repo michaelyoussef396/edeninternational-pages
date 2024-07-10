@@ -8,6 +8,7 @@ import TopNav from '@/components/TopNav';
 import { LocaleLayoutProps } from '@/types';
 import { FloatingNav } from '@/components/ui/Floating-Nav';
 import Header from '@/components/Header';
+import Footer from '@/components/Footer';
 export function generateStaticParams() {
   return locales.map((locale) => ({locale}));
 }
@@ -33,6 +34,7 @@ export default async function LocaleLayout({
           <FloatingNav locale={locale || 'en'} />
           <Header />
           {children}
+          <Footer />
         </NextIntlClientProvider>
       </body>
     </html>

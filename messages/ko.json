@@ -36,5 +36,15 @@
     "sr": "세르비아어",
     "kur": "쿠르드어",
     "pi": "폴란드어"
+  },
+  "footer": {
+    "explore": "탐색",
+    "affiliates": "제휴사",
+    "contactUs": "문의하기",
+    "usefulLinks": "유용한 링크",
+    "studentVisa": "학생 비자",
+    "migration": "이주",
+    "recentProjects": "최근 프로젝트",
+    "copyRights": "© 2023 Eden International 모든 권리 보유."
   }
 }

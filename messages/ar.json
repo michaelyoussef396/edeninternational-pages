@@ -36,5 +36,15 @@
     "sr": "الصربية",
     "kur": "الكردية",
     "pi": "البولندية"
+  },
+  "footer": {
+    "explore": "استكشاف",
+    "affiliates": "الشركاء",
+    "contactUs": "اتصل بنا",
+    "usefulLinks": "روابط مفيدة",
+    "studentVisa": "تأشيرة طالب",
+    "migration": "الهجرة",
+    "recentProjects": "المشاريع الأخيرة",
+    "copyRights": "© 2023 من قبل Eden International جميع الحقوق محفوظة."
   }
 }

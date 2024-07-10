@@ -36,5 +36,15 @@
     "sr": "塞尔维亚语",
     "kur": "库尔德语",
     "pi": "波兰语"
+  },
+  "footer": {
+    "explore": "探索",
+    "affiliates": "合作伙伴",
+    "contactUs": "联系我们",
+    "usefulLinks": "有用链接",
+    "studentVisa": "学生签证",
+    "migration": "移民",
+    "recentProjects": "最近项目",
+    "copyRights": "© 2023 由 Eden International 版权所有。"
   }
 }

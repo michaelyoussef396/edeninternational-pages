@@ -36,5 +36,15 @@
     "sr": "Serbe",
     "kur": "Kurde",
     "pi": "Polonais"
+  },
+  "footer": {
+    "explore": "Explorer",
+    "affiliates": "Affiliés",
+    "contactUs": "Nous Contacter",
+    "usefulLinks": "Liens Utiles",
+    "studentVisa": "Visa Étudiant",
+    "migration": "Migration",
+    "recentProjects": "Projets Récents",
+    "copyRights": "© 2023 par Eden International Tous Droits Réservés."
   }
 }
