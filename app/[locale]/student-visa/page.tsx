@@ -4,6 +4,7 @@ import { useTranslations } from "next-intl";
 import HeroSection from '@/components/HeroSection';
 import { images } from '@/constants/images';
 import ShoreServices from '@/components/ShoreServices';
+import VisitorToStudentVisa from '@/components/VisitorToStudentVisa';
 
 
 
@@ -20,6 +21,7 @@ const IndexPage: React.FC<IndexPageProps> = ({ params: { locale } }) => {
         height="h-screen"
       />
       <ShoreServices />
+      <VisitorToStudentVisa />
     </main>
   );
 };

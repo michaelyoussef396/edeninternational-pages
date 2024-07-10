@@ -159,5 +159,10 @@
           "description": "Con così tante grandi università all'estero e corsi tra cui scegliere, decidere dove e cosa studiare può essere una decisione difficile."
         }
       ]
+    },
+    "visitorToStudentVisa": {
+      "title": "VISTO DA VISITATORE A STUDENTE",
+      "highlight": "VISTO STUDENTE",
+      "description": "Sì, hai letto bene. Il tuo Visto per Turisti ha il potenziale per essere convertito in un visto per studenti. Metti fine alle restrizioni “Nessun Altri Soggiorni” e ottieni quell'istruzione che meriti. Apri la tua carriera a infinite opportunità."
     }
 }

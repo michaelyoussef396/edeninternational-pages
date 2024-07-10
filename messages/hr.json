@@ -159,5 +159,10 @@
           "description": "Uz toliko izvrsnih sveučilišta i tečajeva u inozemstvu za odabrati, odlučiti gdje i što studirati može biti teška odluka."
         }
       ]
+    },
+    "visitorToStudentVisa": {
+      "title": "POSJETITELJSKA U STUDENTSKU VIZU",
+      "highlight": "STUDENTSKA VIZA",
+      "description": "Da, dobro ste pročitali. Vaša turistička viza može se pretvoriti u studentsku vizu. Zaustavite ograničenja 'Nema više boravka' i steknite obrazovanje koje zaslužujete. Otvorite svoju karijeru za neograničene mogućnosti."
     }
 }

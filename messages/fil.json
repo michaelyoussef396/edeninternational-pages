@@ -159,5 +159,10 @@
           "description": "Sa napakaraming magagandang unibersidad sa ibang bansa at mga kurso na mapagpipilian, ang pagpapasya kung saan at ano ang pag-aaralan ay maaaring maging isang mahirap na desisyon."
         }
       ]
+    },
+    "visitorToStudentVisa": {
+      "title": "VISITOR TO STUDENT VISA",
+      "highlight": "STUDENT VISA",
+      "description": "Oo, tama ang iyong nabasa. Ang iyong Tourist Visa ay may potensyal na ma-convert sa isang student visa. Itigil ang “No More Stay” na mga paghihigpit at makuha ang edukasyon na nararapat sa iyo. Buksan ang iyong karera sa walang limitasyong mga pagkakataon."
     }
 }

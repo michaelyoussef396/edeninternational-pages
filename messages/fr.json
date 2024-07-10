@@ -159,5 +159,10 @@
           "description": "Avec tant de grandes universités et cours à l'étranger à choisir, décider où et quoi étudier peut être une décision difficile."
         }
       ]
+    },
+    "visitorToStudentVisa": {
+      "title": "VISITEUR À VISA ÉTUDIANT",
+      "highlight": "VISA ÉTUDIANT",
+      "description": "Oui, vous avez bien lu. Votre visa de touriste a le potentiel d'être converti en visa étudiant. Mettez fin aux restrictions de 'Pas de Séjour Supplémentaire' et obtenez l'éducation que vous méritez. Ouvrez votre carrière à des opportunités illimitées."
     }
 }

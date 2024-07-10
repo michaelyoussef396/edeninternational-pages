@@ -159,5 +159,10 @@
         "description": "Yurtdışında eğitim görmek için birçok harika üniversite ve kurs varken, nerede ve ne okuyacağınıza karar vermek zor olabilir."
       }
     ]
+  },
+  "visitorToStudentVisa": {
+    "title": "ZİYARETÇİDEN ÖĞRENCİ VİZESİNE",
+    "highlight": "ÖĞRENCİ VİZESİ",
+    "description": "Evet, doğru okudunuz. Turist Vizeniz bir öğrenci vizesine dönüştürülebilir. “Daha Fazla Kalma” kısıtlamalarına son verin ve hak ettiğiniz eğitimi alın. Kariyerinizi sınırsız fırsatlara açın."
   }
 }

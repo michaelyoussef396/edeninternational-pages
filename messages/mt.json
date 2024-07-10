@@ -159,5 +159,10 @@
           "description": "B'tant universitajiet barra l-pajjiż kbar u korsijiet x'jagħżlu, id-deċiżjoni dwar fejn u xiex jistudjaw tista' tkun diffiċli."
         }
       ]
+    },
+    "visitorToStudentVisa": {
+      "title": "VIŻA TA' VIŻITATUR GĦAL STUDENT",
+      "highlight": "VIŻA TA' STUDENT",
+      "description": "Iva, qrajt sewwa. Il-Viża tat-Turist tiegħek għandha l-potenzjal li tinbidel f'viża ta' student. Waqqaf ir-restrizzjonijiet ta' 'No More Stay' u ikseb dik l-edukazzjoni li tixraqlok. Iftaħ il-karriera tiegħek għal opportunitajiet bla limitu."
     }
 }
