@@ -46,6 +46,22 @@
     "migration": "Migracja",
     "recentProjects": "Ostatnie projekty",
     "copyRights": "© 2023 przez Eden International Wszelkie prawa zastrzeżone."
+  },
+  "hero": {
+    "slide1": {
+      "subtitle": "Wiza Studencka",
+      "description": "Wizy studenckie są wizami nieimigracyjnymi i nie wymagają od wnioskodawcy uzyskania obywatelstwa.",
+      "image": "/hero1.png",
+      "buttonText": "Więcej Informacji",
+      "buttonLink": "/wiza-studencka"
+    },
+    "slide2": {
+      "subtitle": "Migracja",
+      "description": "Możesz być zaskoczony, że Twoje doświadczenie i kwalifikacje mogą otworzyć ścieżki do migracji kwalifikowanej w Australii.",
+      "image": "/hero2.png",
+      "buttonText": "Więcej Informacji",
+      "buttonLink": "/migracja"
+    }
   }
   }
   

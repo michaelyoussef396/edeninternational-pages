@@ -46,5 +46,21 @@
     "migration": "Migration",
     "recentProjects": "Neueste Projekte",
     "copyRights": "© 2023 von Eden International Alle Rechte vorbehalten."
-  }
+  },
+  "hero": {
+      "slide1": {
+        "subtitle": "Studentenvisum",
+        "description": "Studentenvisa sind nicht-immigrantische Visa und erfordern nicht, dass der Antragsteller die Staatsbürgerschaft erwirbt.",
+        "image": "/hero1.png",
+        "buttonText": "Mehr Infos",
+        "buttonLink": "/student-visa"
+      },
+      "slide2": {
+        "subtitle": "Migration",
+        "description": "Sie werden überrascht sein zu erfahren, dass Ihre Erfahrung und Qualifikation Wege zur qualifizierten Migration nach Australien eröffnen können.",
+        "image": "/hero2.png",
+        "buttonText": "Mehr Infos",
+        "buttonLink": "/migration"
+      }
+    }
 }

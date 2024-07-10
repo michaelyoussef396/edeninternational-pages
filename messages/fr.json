@@ -46,5 +46,21 @@
     "migration": "Migration",
     "recentProjects": "Projets Récents",
     "copyRights": "© 2023 par Eden International Tous Droits Réservés."
-  }
+  },
+  "hero": {
+      "slide1": {
+        "subtitle": "Visa Étudiant",
+        "description": "Les visas étudiants sont des visas non-immigrants et ne nécessitent pas que le demandeur obtienne la citoyenneté.",
+        "image": "/hero1.png",
+        "buttonText": "Plus d'infos",
+        "buttonLink": "/student-visa"
+      },
+      "slide2": {
+        "subtitle": "Migration",
+        "description": "Vous serez surpris de savoir que votre expérience et vos qualifications peuvent créer des voies vers la migration qualifiée en Australie.",
+        "image": "/hero2.png",
+        "buttonText": "Plus d'infos",
+        "buttonLink": "/migration"
+      }
+    }
 }

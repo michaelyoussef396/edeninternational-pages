@@ -46,5 +46,21 @@
     "migration": "移民",
     "recentProjects": "最近项目",
     "copyRights": "© 2023 由 Eden International 版权所有。"
-  }
+  },
+  "hero": {
+      "slide1": {
+        "subtitle": "学生签证",
+        "description": "学生签证是非移民签证，不要求申请人获得公民身份。",
+        "image": "/hero1.png",
+        "buttonText": "更多信息",
+        "buttonLink": "/student-visa"
+      },
+      "slide2": {
+        "subtitle": "移民",
+        "description": "你会惊讶地发现你的经验和资格可能为澳大利亚的技术移民开辟道路。",
+        "image": "/hero2.png",
+        "buttonText": "更多信息",
+        "buttonLink": "/migration"
+      }
+    }
 }

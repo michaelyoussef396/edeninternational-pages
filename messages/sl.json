@@ -46,6 +46,22 @@
     "migration": "Migracija",
     "recentProjects": "Nedavni projekti",
     "copyRights": "© 2023 Eden International Vse pravice pridržane."
+  },
+  "hero": {
+    "slide1": {
+      "subtitle": "Študentski Vizum",
+      "description": "Študentski vizumi so neimigrantski vizumi in ne zahtevajo, da prosilec pridobi državljanstvo.",
+      "image": "/hero1.png",
+      "buttonText": "Več Informacij",
+      "buttonLink": "/studentski-vizum"
+    },
+    "slide2": {
+      "subtitle": "Migracija",
+      "description": "Presenečeni boste, ko boste izvedeli, da lahko vaše izkušnje in kvalifikacije ustvarijo poti do usposobljene migracije v Avstralijo.",
+      "image": "/hero2.png",
+      "buttonText": "Več Informacij",
+      "buttonLink": "/migracija"
+    }
   }
   }
   

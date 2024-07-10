@@ -1,6 +1,6 @@
-import Image from "next/image";
 import { unstable_setRequestLocale } from 'next-intl/server';
 import { IndexPageProps } from "@/types";
+import Hero from "@/components/Hero";
 
 
 
@@ -9,8 +9,8 @@ const IndexPage: React.FC<IndexPageProps> = ({ params: { locale } }) => {
   unstable_setRequestLocale(locale);
 
   return (
-    <main>
-      {/* Your content here */}
+    <main className="">
+      <Hero />
     </main>
   );
 };

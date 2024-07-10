@@ -46,5 +46,21 @@
     "migration": "Migration",
     "recentProjects": "Recent Projects",
     "copyRights": "© 2023 by Eden International All Rights Reserved."
+  },
+  "hero": {
+    "slide1": {
+      "subtitle": "Student Visa",
+      "description": "Student visas are non-immigrant visas and do not require the applicant to gain citizenship.",
+      "image": "/hero1.png",
+      "buttonText": "More Info",
+      "buttonLink": "/student-visa"
+    },
+    "slide2": {
+      "subtitle": "Migration",
+      "description": "You'll be surprised to know that your experience and qualification may create pathways to skilled migration in Australia.",
+      "image": "/hero2.png",
+      "buttonText": "More Info",
+      "buttonLink": "/migration"
+    }
   }
 }

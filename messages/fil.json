@@ -46,5 +46,21 @@
     "migration": "Migrasyon",
     "recentProjects": "Mga Kamakailang Proyekto",
     "copyRights": "© 2023 ng Eden International Lahat ng Karapatan ay Nakalaan."
-  }
+  },
+  "hero": {
+      "slide1": {
+        "subtitle": "Student Visa",
+        "description": "Ang mga student visa ay non-immigrant visas at hindi nangangailangan ng aplikante na maging mamamayan.",
+        "image": "/hero1.png",
+        "buttonText": "Higit pang Impormasyon",
+        "buttonLink": "/student-visa"
+      },
+      "slide2": {
+        "subtitle": "Migration",
+        "description": "Ikaw ay magugulat na malaman na ang iyong karanasan at kwalipikasyon ay maaaring lumikha ng mga landas para sa skilled migration sa Australia.",
+        "image": "/hero2.png",
+        "buttonText": "Higit pang Impormasyon",
+        "buttonLink": "/migration"
+      }
+    }
 }

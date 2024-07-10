@@ -16,3 +16,11 @@ export interface LocaleLayoutProps {
     className?: string;
     locale: string;
   }
+  export interface Slide {
+    subtitle: string;
+    description: string;
+    image: string;
+    buttonText: string;
+    buttonLink: string;
+  }
+  

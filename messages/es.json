@@ -46,5 +46,21 @@
     "migration": "Migración",
     "recentProjects": "Proyectos Recientes",
     "copyRights": "© 2023 por Eden International Todos los derechos reservados."
-  }
+  },
+  "hero": {
+      "slide1": {
+        "subtitle": "Visa de Estudiante",
+        "description": "Los visados de estudiante son visados de no inmigrante y no requieren que el solicitante obtenga la ciudadanía.",
+        "image": "/hero1.png",
+        "buttonText": "Más Información",
+        "buttonLink": "/student-visa"
+      },
+      "slide2": {
+        "subtitle": "Migración",
+        "description": "Te sorprenderá saber que tu experiencia y cualificación pueden crear vías para la migración cualificada a Australia.",
+        "image": "/hero2.png",
+        "buttonText": "Más Información",
+        "buttonLink": "/migration"
+      }
+    }
 }

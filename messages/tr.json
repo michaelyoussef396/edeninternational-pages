@@ -46,5 +46,21 @@
     "migration": "Göç",
     "recentProjects": "Son Projeler",
     "copyRights": "© 2023 Eden International Tüm Hakları Saklıdır."
+  },
+  "hero": {
+    "slide1": {
+      "subtitle": "Öğrenci Vizesi",
+      "description": "Öğrenci vizeleri göçmen olmayan vizelerdir ve başvuru sahibinin vatandaşlık kazanmasını gerektirmez.",
+      "image": "/hero1.png",
+      "buttonText": "Daha Fazla Bilgi",
+      "buttonLink": "/ogrenci-vizesi"
+    },
+    "slide2": {
+      "subtitle": "Göç",
+      "description": "Deneyiminizin ve niteliklerinizin Avustralya'da vasıflı göçmenlik yolları oluşturabileceğini öğrenince şaşıracaksınız.",
+      "image": "/hero2.png",
+      "buttonText": "Daha Fazla Bilgi",
+      "buttonLink": "/goc"
+    }
   }
 }

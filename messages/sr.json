@@ -46,6 +46,22 @@
     "migration": "Migracija",
     "recentProjects": "Nedavni projekti",
     "copyRights": "© 2023 Eden International Sva prava zadržana."
+  },
+  "hero": {
+    "slide1": {
+      "subtitle": "Studentska Viza",
+      "description": "Studentske vize su neimigrantske vize i ne zahtevaju da podnosilac zahteva dobije državljanstvo.",
+      "image": "/hero1.png",
+      "buttonText": "Više Informacija",
+      "buttonLink": "/studentska-viza"
+    },
+    "slide2": {
+      "subtitle": "Migracija",
+      "description": "Iznenadićete se kada saznate da vaše iskustvo i kvalifikacije mogu stvoriti puteve za kvalifikovanu migraciju u Australiji.",
+      "image": "/hero2.png",
+      "buttonText": "Više Informacija",
+      "buttonLink": "/migracija"
+    }
   }
   }
   

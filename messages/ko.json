@@ -46,5 +46,21 @@
     "migration": "이주",
     "recentProjects": "최근 프로젝트",
     "copyRights": "© 2023 Eden International 모든 권리 보유."
-  }
+  },
+  "hero": {
+      "slide1": {
+        "subtitle": "학생 비자",
+        "description": "학생 비자는 비이민 비자이며 신청자가 시민권을 취득할 필요가 없습니다.",
+        "image": "/hero1.png",
+        "buttonText": "더 많은 정보",
+        "buttonLink": "/student-visa"
+      },
+      "slide2": {
+        "subtitle": "이민",
+        "description": "여러분의 경험과 자격이 호주로의 기술 이민 경로를 만들 수 있다는 것을 알고 계셨나요?",
+        "image": "/hero2.png",
+        "buttonText": "더 많은 정보",
+        "buttonLink": "/migration"
+      }
+    }
 }

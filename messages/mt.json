@@ -46,5 +46,21 @@
     "migration": "Migrazzjoni",
     "recentProjects": "Proġetti Riċenti",
     "copyRights": "© 2023 minn Eden International Id-drittijiet kollha riżervati."
-  }
+  },
+  "hero": {
+      "slide1": {
+        "subtitle": "Viża ta' Student",
+        "description": "Viżas ta' student huma viżas mhux immigranti u ma jeħtiġux li l-applikant jikseb iċ-ċittadinanza.",
+        "image": "/hero1.png",
+        "buttonText": "Aktar Informazzjoni",
+        "buttonLink": "/student-visa"
+      },
+      "slide2": {
+        "subtitle": "Migrazzjoni",
+        "description": "Tkun sorpriż li tkun taf li l-esperjenza tiegħek u l-kwalifika tiegħek jistgħu joħolqu toroq għall-migrazzjoni tas-sengħa fl-Awstralja.",
+        "image": "/hero2.png",
+        "buttonText": "Aktar Informazzjoni",
+        "buttonLink": "/migration"
+      }
+    }
 }

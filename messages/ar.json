@@ -46,5 +46,21 @@
     "migration": "الهجرة",
     "recentProjects": "المشاريع الأخيرة",
     "copyRights": "© 2023 من قبل Eden International جميع الحقوق محفوظة."
+  },
+  "hero": {
+    "slide1": {
+      "subtitle": "تأشيرة طالب",
+      "description": "تأشيرات الطلاب هي تأشيرات غير مهاجرة ولا تتطلب من المتقدم الحصول على الجنسية.",
+      "image": "/hero1.png",
+      "buttonText": "مزيد من المعلومات",
+      "buttonLink": "/student-visa"
+    },
+    "slide2": {
+      "subtitle": "الهجرة",
+      "description": "ستفاجأ بمعرفة أن خبرتك ومؤهلاتك قد تخلق مسارات للهجرة المهرة في أستراليا.",
+      "image": "/hero2.png",
+      "buttonText": "مزيد من المعلومات",
+      "buttonLink": "/migration"
+    }
   }
 }

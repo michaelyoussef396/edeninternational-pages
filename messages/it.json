@@ -46,5 +46,21 @@
     "migration": "Migrazione",
     "recentProjects": "Progetti Recenti",
     "copyRights": "© 2023 da Eden International Tutti i diritti riservati."
-  }
+  },
+  "hero": {
+      "slide1": {
+        "subtitle": "Visto per Studenti",
+        "description": "I visti per studenti sono visti non immigranti e non richiedono al richiedente di ottenere la cittadinanza.",
+        "image": "/hero1.png",
+        "buttonText": "Maggiori Info",
+        "buttonLink": "/student-visa"
+      },
+      "slide2": {
+        "subtitle": "Migrazione",
+        "description": "Sarai sorpreso di sapere che la tua esperienza e qualifica possono creare percorsi per la migrazione qualificata in Australia.",
+        "image": "/hero2.png",
+        "buttonText": "Maggiori Info",
+        "buttonLink": "/migration"
+      }
+    }
 }

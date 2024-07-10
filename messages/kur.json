@@ -46,6 +46,22 @@
     "migration": "Koçberî",
     "recentProjects": "Projeên Dawîn",
     "copyRights": "© 2023 ji hêla Eden International re Hemî maf parastin."
+  },
+  "hero": {
+    "slide1": {
+      "subtitle": "Vîzaya Xwendekarî",
+      "description": "Vîzayên xwendekarî vîzayên ne-koçber in û ne hewcedariyê hinekî xelatkarîya hewce dikin.",
+      "image": "/hero1.png",
+      "buttonText": "Zêdetir Agahî",
+      "buttonLink": "/vizaya-xwendekarî"
+    },
+    "slide2": {
+      "subtitle": "Koçberî",
+      "description": "Êdî tu bi xwe şaşiya ku tecrubeyê û kwalifikasyonên te dikarin rêyan bîne bo koçberiya pîşeyî li Australya.",
+      "image": "/hero2.png",
+      "buttonText": "Zêdetir Agahî",
+      "buttonLink": "/kocberî"
+    }
   }
   }
   
