@@ -6,6 +6,7 @@ import VisaCategories from '@/components/VisaCategories';
 import CountryList from '@/components/CountryList';
 import WorkingProcess from '@/components/WorkingProcess';
 import Statistics from '@/components/Statistics';
+import ScrollingLogos from '@/components/ScrollingLogos';
 
 
 
@@ -21,6 +22,7 @@ const IndexPage: React.FC<IndexPageProps> = ({ params: { locale } }) => {
       <CountryList />
       <WorkingProcess />
       <Statistics />
+      <ScrollingLogos />
     </main>
   );
 };
