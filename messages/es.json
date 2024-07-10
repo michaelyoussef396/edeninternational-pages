@@ -69,5 +69,21 @@
       "description": "EDEN INTERNATIONAL se fundó en 2010, teniendo en cuenta a aquellos clientes que luchan por encontrar difícil determinar su trayectoria profesional en el extranjero para educación superior en el país o en el extranjero, migración...",
       "listItems": "Migración|Admisión de Estudiantes|Trabajos Patrocinados|Reconocimiento de Habilidades",
       "buttonText": "Más Sobre Nosotros"
+    },
+    "visaCategories": {
+      "sectionTitle": "CATEGORÍAS DE VISAS",
+      "sectionSubtitle": "Categorías de Inmigración y Visas",
+      "studentVisa": {
+        "title": "Visas de Estudiante",
+        "description": "Los visados de estudiante son visados de no inmigrante y no requieren que el solicitante obtenga la ciudadanía.",
+        "buttonText": "Leer Más",
+        "buttonLink": "/student-visa"
+      },
+      "migration": {
+        "title": "Migración",
+        "description": "Te sorprenderá saber que tu experiencia y cualificación pueden crear vías para la migración cualificada a Australia.",
+        "buttonText": "Leer Más",
+        "buttonLink": "/migration"
+      }
     }
 }

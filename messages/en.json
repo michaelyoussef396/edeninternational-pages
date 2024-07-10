@@ -69,5 +69,21 @@
     "description": "EDEN INTERNATIONAL was built in 2010, keeping in mind those struggling clients finding it hard to determine their career pathway abroad for onshore or offshore higher education, migration...",
     "listItems": "Migration|Student Admission|Sponsored Jobs|Skills Recognition",
     "buttonText": "About More"
+  },
+  "visaCategories": {
+    "sectionTitle": "VISA CATEGORIES",
+    "sectionSubtitle": "Immigration & Visa Categories",
+    "studentVisa": {
+      "title": "Student Visas",
+      "description": "Student visas are non-immigrant visas and do not require the applicant to gain citizenship.",
+      "buttonText": "Read More",
+      "buttonLink": "/student-visa"
+    },
+    "migration": {
+      "title": "Migration",
+      "description": "You’ll be surprised to know that your experience and qualification may create pathways to skilled migration in Australia.",
+      "buttonText": "Read More",
+      "buttonLink": "/migration"
+    }
   }
 }

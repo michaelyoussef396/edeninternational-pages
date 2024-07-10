@@ -69,5 +69,21 @@
       "description": "Ang EDEN INTERNATIONAL ay itinatag noong 2010, iniisip ang mga kliyenteng nahihirapan na mahirap matukoy ang kanilang landas sa karera sa ibang bansa para sa onshore o offshore higher education, migration...",
       "listItems": "Migration|Student Admission|Sponsored Jobs|Skills Recognition",
       "buttonText": "Higit pang Impormasyon"
+    },
+    "visaCategories": {
+      "sectionTitle": "MGA KATEGORYA NG VISA",
+      "sectionSubtitle": "Mga Kategorya ng Immigration at Visa",
+      "studentVisa": {
+        "title": "Mga Student Visa",
+        "description": "Ang mga student visa ay non-immigrant visas at hindi nangangailangan ng aplikante na maging mamamayan.",
+        "buttonText": "Basahin Pa",
+        "buttonLink": "/student-visa"
+      },
+      "migration": {
+        "title": "Migration",
+        "description": "Ikaw ay magugulat na malaman na ang iyong karanasan at kwalipikasyon ay maaaring lumikha ng mga landas para sa skilled migration sa Australia.",
+        "buttonText": "Basahin Pa",
+        "buttonLink": "/migration"
+      }
     }
 }

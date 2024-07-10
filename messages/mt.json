@@ -69,5 +69,21 @@
       "description": "EDEN INTERNATIONAL twaqqfet fl-2010, bil-ħsieb ta' dawk il-klijenti li qed jitħabtu jsibuha diffiċli biex jiddeterminaw il-karriera tagħhom barra minn xtutna għall-edukazzjoni għolja onshore jew offshore, migrazzjoni...",
       "listItems": "Migrazzjoni|Ammissjoni tal-Istudenti|Impjiegi Sponsorjati|Rikonoxximent tal-Ħiliet",
       "buttonText": "Aktar Dwar"
+    },
+    "visaCategories": {
+      "sectionTitle": "KATEGORIJIJIET TA' VIŻA",
+      "sectionSubtitle": "Immigrazzjoni u Kategoriji ta' Viża",
+      "studentVisa": {
+        "title": "Viżas ta' Student",
+        "description": "Viżas ta' student huma viżas mhux immigranti u ma jeħtiġux li l-applikant jikseb iċ-ċittadinanza.",
+        "buttonText": "Aqra Aktar",
+        "buttonLink": "/student-visa"
+      },
+      "migration": {
+        "title": "Migrazzjoni",
+        "description": "Tkun sorpriż li tkun taf li l-esperjenza tiegħek u l-kwalifika tiegħek jistgħu joħolqu toroq għall-migrazzjoni tas-sengħa fl-Awstralja.",
+        "buttonText": "Aqra Aktar",
+        "buttonLink": "/migration"
+      }
     }
 }

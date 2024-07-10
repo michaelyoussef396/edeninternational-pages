@@ -69,6 +69,22 @@
     "description": "EDEN INTERNATIONAL di sala 2010-an de hat avakirin, di bîra wan mijarên ku bixwînin ku dikarin lêkolînên xwe di pîşa xwe de bibin bo xebatên bilind ên di derveyî ve, koçberî...",
     "listItems": "Koçberî|Qebûlkirina Xwendekarî|Karên Sponserkirî|Nasandina Zanistî",
     "buttonText": "Zêdetir Li Ser"
+  },
+  "visaCategories": {
+    "sectionTitle": "KATEGORIYÊN VÎZEYÊ",
+    "sectionSubtitle": "Koçberî û Kategoriyên Vîzeyê",
+    "studentVisa": {
+      "title": "Vîzayên Xwendekarî",
+      "description": "Vîzayên xwendekarî vîzayên ne-koçber in û ne hewcedar dikin ku serlêdana xwe bistînin.",
+      "buttonText": "Bixwîne Zêdetir",
+      "buttonLink": "/student-visa"
+    },
+    "migration": {
+      "title": "Koçberî",
+      "description": "Êdî tu bi xwe şaşiya ku tecrubeya te û kwalifikasyonên te dikarin rêyan bixin bo koçberiya pîşeyî li Australya.",
+      "buttonText": "Bixwîne Zêdetir",
+      "buttonLink": "/migration"
+    }
   }
   }
   

@@ -69,5 +69,21 @@
       "description": "EDEN INTERNATIONAL成立于2010年，旨在帮助那些难以确定海外职业路径的客户，无论是境内还是境外的高等教育或移民...",
       "listItems": "移民|学生入学|赞助工作|技能认证",
       "buttonText": "了解更多"
+    },
+    "visaCategories": {
+      "sectionTitle": "签证类别",
+      "sectionSubtitle": "移民与签证类别",
+      "studentVisa": {
+        "title": "学生签证",
+        "description": "学生签证是非移民签证，不要求申请人获得公民身份。",
+        "buttonText": "阅读更多",
+        "buttonLink": "/student-visa"
+      },
+      "migration": {
+        "title": "移民",
+        "description": "你会惊讶地发现你的经验和资格可能为澳大利亚的技术移民开辟道路。",
+        "buttonText": "阅读更多",
+        "buttonLink": "/migration"
+      }
     }
 }

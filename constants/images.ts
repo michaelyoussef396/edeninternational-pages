@@ -9,6 +9,8 @@ import Footer5 from "@/public/footer-5.png";
 import Footer6 from "@/public/footer-6.png";
 import tick from "@/public/tick.png";
 import about1 from "@/public/about-1.png";
+import visa1 from "@/public/visa-1.png";
+import visa2 from "@/public/visa-2.png";
 export const images = {
   mail,
   phone,
@@ -21,4 +23,6 @@ export const images = {
   Footer6,
   tick,
   about1,
+  visa1,
+  visa2,
 };

@@ -69,6 +69,22 @@
     "description": "EDEN INTERNATIONAL został założony w 2010 roku, mając na uwadze tych klientów, którzy mają trudności z określeniem swojej ścieżki kariery za granicą, zarówno na miejscu, jak i zdalnie, w zakresie wyższego wykształcenia, migracji...",
     "listItems": "Migracja|Przyjęcia studentów|Sponsorowane prace|Uznawanie kwalifikacji",
     "buttonText": "Więcej o nas"
+  },
+  "visaCategories": {
+    "sectionTitle": "KATEGORIE WIZ",
+    "sectionSubtitle": "Kategorie Imigracji i Wiz",
+    "studentVisa": {
+      "title": "Wizy Studenckie",
+      "description": "Wizy studenckie są wizami nieimigracyjnymi i nie wymagają od wnioskodawcy uzyskania obywatelstwa.",
+      "buttonText": "Czytaj Więcej",
+      "buttonLink": "/student-visa"
+    },
+    "migration": {
+      "title": "Migracja",
+      "description": "Możesz być zaskoczony, że Twoje doświadczenie i kwalifikacje mogą otworzyć ścieżki do migracji kwalifikowanej w Australii.",
+      "buttonText": "Czytaj Więcej",
+      "buttonLink": "/migration"
+    }
   }
   }
   

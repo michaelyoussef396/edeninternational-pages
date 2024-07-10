@@ -69,5 +69,21 @@
     "description": "EDEN INTERNATIONAL, yurtiçinde veya yurtdışında yüksek öğrenim, göçmenlik için kariyer yolu belirlemekte zorlanan müşterileri göz önünde bulundurarak 2010 yılında kurulmuştur...",
     "listItems": "Göç|Öğrenci Kabulü|Sponsorlu İşler|Beceri Tanıma",
     "buttonText": "Daha Fazla Bilgi"
+  },
+  "visaCategories": {
+    "sectionTitle": "VİZE KATEGORİLERİ",
+    "sectionSubtitle": "Göç ve Vize Kategorileri",
+    "studentVisa": {
+      "title": "Öğrenci Vizeleri",
+      "description": "Öğrenci vizeleri göçmen olmayan vizelerdir ve başvuru sahibinin vatandaşlık kazanmasını gerektirmez.",
+      "buttonText": "Daha Fazla Bilgi",
+      "buttonLink": "/ogrenci-vizesi"
+    },
+    "migration": {
+      "title": "Göç",
+      "description": "Deneyiminizin ve niteliklerinizin Avustralya'da vasıflı göçmenlik yolları oluşturabileceğini öğrenince şaşıracaksınız.",
+      "buttonText": "Daha Fazla Bilgi",
+      "buttonLink": "/goc"
+    }
   }
 }

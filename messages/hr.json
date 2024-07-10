@@ -69,5 +69,21 @@
       "description": "EDEN INTERNATIONAL osnovan je 2010. godine, imajući na umu one klijente koji se bore kako bi odredili svoj karijerni put u inozemstvu za obrazovanje na kopnu ili na moru, migraciju...",
       "listItems": "Migracija|Upis studenata|Sponzorirani poslovi|Prepoznavanje vještina",
       "buttonText": "Više o nama"
+    },
+    "visaCategories": {
+      "sectionTitle": "KATEGORIJE VIZA",
+      "sectionSubtitle": "Kategorije imigracije i viza",
+      "studentVisa": {
+        "title": "Studentske vize",
+        "description": "Studentske vize su neimigrantske vize i ne zahtijevaju od podnositelja zahtjeva da stekne državljanstvo.",
+        "buttonText": "Pročitajte više",
+        "buttonLink": "/student-visa"
+      },
+      "migration": {
+        "title": "Migracija",
+        "description": "Iznenadit ćete se kada saznate da vaše iskustvo i kvalifikacije mogu stvoriti putove za kvalificiranu migraciju u Australiju.",
+        "buttonText": "Pročitajte više",
+        "buttonLink": "/migration"
+      }
     }
 }

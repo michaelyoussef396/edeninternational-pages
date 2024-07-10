@@ -69,5 +69,21 @@
       "description": "EDEN INTERNATIONAL è stata fondata nel 2010, tenendo presente quei clienti in difficoltà che trovano difficile determinare il loro percorso di carriera all'estero per l'istruzione superiore onshore o offshore, la migrazione...",
       "listItems": "Migrazione|Ammissione Studenti|Lavori Sponsorizzati|Riconoscimento delle Competenze",
       "buttonText": "Scopri di Più"
+    },
+    "visaCategories": {
+      "sectionTitle": "CATEGORIE DI VISTO",
+      "sectionSubtitle": "Categorie di Immigrazione e Visto",
+      "studentVisa": {
+        "title": "Visti per Studenti",
+        "description": "I visti per studenti sono visti non immigranti e non richiedono al richiedente di ottenere la cittadinanza.",
+        "buttonText": "Leggi di Più",
+        "buttonLink": "/student-visa"
+      },
+      "migration": {
+        "title": "Migrazione",
+        "description": "Sarai sorpreso di sapere che la tua esperienza e qualifica possono creare percorsi per la migrazione qualificata in Australia.",
+        "buttonText": "Leggi di Più",
+        "buttonLink": "/migration"
+      }
     }
 }
