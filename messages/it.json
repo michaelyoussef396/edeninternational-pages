@@ -1,0 +1,21 @@
+{
+    "floatingNav": {
+      "home": "Home",
+      "studentVisa": "Visto per Studenti",
+      "studyInAustralia": "Studiare in Australia",
+      "studyInCanada": "Studiare in Canada",
+      "affiliatedInstitutions": "Istituzioni Affiliate",
+      "professionalYear": "Anno Professionale",
+      "migration": "Migrazione",
+      "temporarySkillShortageTssVisaSubclass482": "Visto Temporaneo per Carenza di Competenze TSS Subclasse 482 (AUS)",
+      "trainingVisaSubclass407": "Visto di Formazione Subclasse 407",
+      "skilledWorkRegionalVisa": "Visto di Lavoro Regionale Qualificato",
+      "skilledNominatedVisa": "Visto Qualificato Nominato",
+      "skilledIndependentVisa": "Visto Qualificato Indipendente",
+      "temporaryGraduateVisaSubclass485": "Visto Temporaneo per Laureati Subclasse 485",
+      "sponsoredJobs": "Lavori Sponsorizzati",
+      "pointCalculation": "Calcolo dei Punti",
+      "contactUs": "Contattaci",
+      "bookAnAppointment": "Prenota un Appuntamento"
+    }
+}

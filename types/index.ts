@@ -12,4 +12,7 @@ export interface LocaleLayoutProps {
     };
   }
 
-  
+  export interface FloatingNavProps {
+    className?: string;
+    locale: string;
+  }

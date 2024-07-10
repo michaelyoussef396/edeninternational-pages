@@ -1,0 +1,21 @@
+{
+    "floatingNav": {
+      "home": "홈",
+      "studentVisa": "학생 비자",
+      "studyInAustralia": "호주에서 공부하기",
+      "studyInCanada": "캐나다에서 공부하기",
+      "affiliatedInstitutions": "제휴 기관",
+      "professionalYear": "전문 연수",
+      "migration": "이민",
+      "temporarySkillShortageTssVisaSubclass482": "임시 기술 부족 TSS 비자 하위 클래스 482 (호주)",
+      "trainingVisaSubclass407": "훈련 비자 하위 클래스 407",
+      "skilledWorkRegionalVisa": "기술 작업 지역 비자",
+      "skilledNominatedVisa": "기술 지명 비자",
+      "skilledIndependentVisa": "기술 독립 비자",
+      "temporaryGraduateVisaSubclass485": "임시 졸업 비자",
+      "sponsoredJobs": "후원된 일자리",
+      "pointCalculation": "점수 계산",
+      "contactUs": "문의하기",
+      "bookAnAppointment": "예약하기"
+    }   
+}

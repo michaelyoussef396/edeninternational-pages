@@ -6,6 +6,7 @@ import { locales } from '@/config';
 import {unstable_setRequestLocale} from 'next-intl/server';
 import TopNav from '@/components/TopNav';
 import { LocaleLayoutProps } from '@/types';
+import { FloatingNav } from '@/components/ui/Floating-Nav';
 export function generateStaticParams() {
   return locales.map((locale) => ({locale}));
 }
@@ -28,6 +29,7 @@ export default async function LocaleLayout({
       <body>
         <NextIntlClientProvider messages={messages}>
           <TopNav />
+          <FloatingNav locale={locale || 'en'} />
           {children}
         </NextIntlClientProvider>
       </body>
