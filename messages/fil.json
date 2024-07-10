@@ -109,5 +109,10 @@
           "description": "Maging Handa Para Matanggap ang Iyong Visa"
         }
       ]
+    },
+    "statistics": {
+      "worldwideOfficeHandle": "Worldwide Office Handle",
+      "successfulVisaProcess": "Matagumpay na Proseso ng Visa",
+      "satisfiedClientsMaintains": "Satisfied Clients Maintains"
     }
 }

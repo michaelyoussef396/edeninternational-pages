@@ -109,5 +109,10 @@
         "description": "استعد لاستلام تأشيرتك"
       }
     ]
+  },
+  "statistics": {
+    "worldwideOfficeHandle": "المكاتب العالمية المتعامل معها",
+    "successfulVisaProcess": "عمليات التأشيرة الناجحة",
+    "satisfiedClientsMaintains": "الحفاظ على العملاء الراضين"
   }
 }

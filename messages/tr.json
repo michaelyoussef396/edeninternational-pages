@@ -109,5 +109,10 @@
         "description": "Vizenizi Almaya Hazır Olun"
       }
     ]
+  },
+  "statistics": {
+    "worldwideOfficeHandle": "Dünya Çapında Ofis İşlemleri",
+    "successfulVisaProcess": "Başarılı Vize Süreci",
+    "satisfiedClientsMaintains": "Memnun Müşteri Sürekliliği"
   }
 }

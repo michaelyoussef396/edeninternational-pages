@@ -109,5 +109,10 @@
           "description": "Bereiten Sie sich darauf vor, Ihr Visum zu erhalten"
         }
       ]
+    },
+    "statistics": {
+      "worldwideOfficeHandle": "Weltweit tätiges Büro",
+      "successfulVisaProcess": "Erfolgreicher Visaprozess",
+      "satisfiedClientsMaintains": "Zufriedene Kunden"
     }
 }

@@ -109,5 +109,10 @@
           "description": "准备好接收您的签证"
         }
       ]
+    },
+    "statistics": {
+      "worldwideOfficeHandle": "全球办公室处理",
+      "successfulVisaProcess": "成功的签证处理",
+      "satisfiedClientsMaintains": "满意的客户维持"
     }
 }

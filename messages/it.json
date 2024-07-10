@@ -109,5 +109,10 @@
           "description": "Preparati a Ricevere il Tuo Visto"
         }
       ]
+    },
+    "statistics": {
+      "worldwideOfficeHandle": "Gestione Ufficio a Livello Mondiale",
+      "successfulVisaProcess": "Processo di Visto di Successo",
+      "satisfiedClientsMaintains": "Mantenimento di Clienti Soddisfatti"
     }
 }

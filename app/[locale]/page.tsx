@@ -5,6 +5,7 @@ import AboutUs from '@/components/AboutUs';
 import VisaCategories from '@/components/VisaCategories';
 import CountryList from '@/components/CountryList';
 import WorkingProcess from '@/components/WorkingProcess';
+import Statistics from '@/components/Statistics';
 
 
 
@@ -19,6 +20,7 @@ const IndexPage: React.FC<IndexPageProps> = ({ params: { locale } }) => {
       <VisaCategories />
       <CountryList />
       <WorkingProcess />
+      <Statistics />
     </main>
   );
 };

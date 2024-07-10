@@ -109,5 +109,10 @@
           "description": "वीज़ा प्राप्त करने के लिए तैयार हो जाएं"
         }
       ]
+    },
+    "statistics": {
+      "worldwideOfficeHandle": "दुनिया भर के कार्यालय संभालें",
+      "successfulVisaProcess": "सफल वीज़ा प्रक्रिया",
+      "satisfiedClientsMaintains": "संतुष्ट ग्राहकों का रखरखाव"
     }
 }

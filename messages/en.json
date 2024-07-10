@@ -109,5 +109,10 @@
           "description": "Get Ready To Receive Your Visa"
         }
       ]
+    },
+    "statistics": {
+      "worldwideOfficeHandle": "Worldwide Office Handle",
+      "successfulVisaProcess": "Successful Visa Process",
+      "satisfiedClientsMaintains": "Satisfied Clients Maintains"
     }
 }

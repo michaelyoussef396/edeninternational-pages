@@ -109,5 +109,10 @@
           "description": "Préparez-vous à recevoir votre visa"
         }
       ]
+    },
+    "statistics": {
+      "worldwideOfficeHandle": "Gestion des bureaux dans le monde entier",
+      "successfulVisaProcess": "Processus de visa réussi",
+      "satisfiedClientsMaintains": "Clients satisfaits maintenus"
     }
 }

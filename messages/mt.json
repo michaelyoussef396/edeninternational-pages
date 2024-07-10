@@ -109,5 +109,10 @@
           "description": "Ipprepara biex Tirċievi l-Viża Tiegħek"
         }
       ]
+    },
+    "statistics": {
+      "worldwideOfficeHandle": "Uffiċċji Madwar id-Dinja",
+      "successfulVisaProcess": "Proċess ta' Viża Suċċess",
+      "satisfiedClientsMaintains": "Klijenti Sodisfatti"
     }
 }

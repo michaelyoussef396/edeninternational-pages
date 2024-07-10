@@ -109,5 +109,10 @@
           "description": "Pripremite se za primanje svoje vize"
         }
       ]
+    },
+    "statistics": {
+      "worldwideOfficeHandle": "Svjetski ured",
+      "successfulVisaProcess": "Uspješan proces vize",
+      "satisfiedClientsMaintains": "Zadovoljni klijenti održavaju"
     }
 }

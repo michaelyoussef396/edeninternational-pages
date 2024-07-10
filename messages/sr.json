@@ -109,6 +109,11 @@
         "description": "Pripremite Se Da Dobijete Viz"
       }
     ]
+  },
+  "statistics": {
+    "worldwideOfficeHandle": "Rukovanje Kancelarijom Širom Sveta",
+    "successfulVisaProcess": "Uspešan Proces Vize",
+    "satisfiedClientsMaintains": "Održavanje Zadovoljnih Klijenata"
   }
   }
   

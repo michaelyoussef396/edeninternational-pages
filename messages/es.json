@@ -109,5 +109,10 @@
           "description": "Prepárate Para Recibir Tu Visa"
         }
       ]
+    },
+    "statistics": {
+      "worldwideOfficeHandle": "Oficina Mundialmente Manejada",
+      "successfulVisaProcess": "Proceso de Visa Exitoso",
+      "satisfiedClientsMaintains": "Clientes Satisfechos Mantenidos"
     }
 }

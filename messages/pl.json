@@ -109,6 +109,11 @@
         "description": "Przygotuj Się Na Otrzymanie Wizy"
       }
     ]
+  },
+  "statistics": {
+    "worldwideOfficeHandle": "Obsługa Biura Na Całym Świecie",
+    "successfulVisaProcess": "Pomyślny Proces Wizowy",
+    "satisfiedClientsMaintains": "Utrzymanie Zadowolonych Klientów"
   }
   }
   
