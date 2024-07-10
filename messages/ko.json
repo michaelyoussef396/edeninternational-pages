@@ -62,5 +62,12 @@
         "buttonText": "더 많은 정보",
         "buttonLink": "/migration"
       }
+    },
+    "aboutUs": {
+      "whoWeAre": "우리는 누구인가요?",
+      "title": "우리에 대해 몇 마디",
+      "description": "EDEN INTERNATIONAL은 2010년에 설립되었으며, 호주 내외에서 고등 교육을 위한 경로를 찾기 어려워하는 고객들을 위해 만들어졌습니다.",
+      "listItems": "이민|학생 입학|후원된 일자리|기술 인식",
+      "buttonText": "더 많은 정보"
     }
 }

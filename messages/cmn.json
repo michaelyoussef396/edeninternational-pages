@@ -62,5 +62,12 @@
         "buttonText": "更多信息",
         "buttonLink": "/migration"
       }
+    },
+    "aboutUs": {
+      "whoWeAre": "我们是谁？",
+      "title": "关于我们的几句话",
+      "description": "EDEN INTERNATIONAL成立于2010年，旨在帮助那些难以确定海外职业路径的客户，无论是境内还是境外的高等教育或移民...",
+      "listItems": "移民|学生入学|赞助工作|技能认证",
+      "buttonText": "了解更多"
     }
 }

@@ -62,5 +62,12 @@
       "buttonText": "More Info",
       "buttonLink": "/migration"
     }
+  },
+  "aboutUs": {
+    "whoWeAre": "Who we are?",
+    "title": "A Few Words About Us",
+    "description": "EDEN INTERNATIONAL was built in 2010, keeping in mind those struggling clients finding it hard to determine their career pathway abroad for onshore or offshore higher education, migration...",
+    "listItems": "Migration|Student Admission|Sponsored Jobs|Skills Recognition",
+    "buttonText": "About More"
   }
 }

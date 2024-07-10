@@ -62,5 +62,12 @@
         "buttonText": "Más Información",
         "buttonLink": "/migration"
       }
+    },
+    "aboutUs": {
+      "whoWeAre": "¿Quiénes somos?",
+      "title": "Algunas Palabras Sobre Nosotros",
+      "description": "EDEN INTERNATIONAL se fundó en 2010, teniendo en cuenta a aquellos clientes que luchan por encontrar difícil determinar su trayectoria profesional en el extranjero para educación superior en el país o en el extranjero, migración...",
+      "listItems": "Migración|Admisión de Estudiantes|Trabajos Patrocinados|Reconocimiento de Habilidades",
+      "buttonText": "Más Sobre Nosotros"
     }
 }

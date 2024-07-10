@@ -62,5 +62,12 @@
         "buttonText": "Više informacija",
         "buttonLink": "/migration"
       }
+    },
+    "aboutUs": {
+      "whoWeAre": "Tko smo mi?",
+      "title": "Nekoliko riječi o nama",
+      "description": "EDEN INTERNATIONAL osnovan je 2010. godine, imajući na umu one klijente koji se bore kako bi odredili svoj karijerni put u inozemstvu za obrazovanje na kopnu ili na moru, migraciju...",
+      "listItems": "Migracija|Upis studenata|Sponzorirani poslovi|Prepoznavanje vještina",
+      "buttonText": "Više o nama"
     }
 }

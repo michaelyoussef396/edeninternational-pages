@@ -62,6 +62,13 @@
       "buttonText": "Zêdetir Agahî",
       "buttonLink": "/kocberî"
     }
+  },
+  "aboutUs": {
+    "whoWeAre": "Em kî ne?",
+    "title": "Çend Peyvên Li Ser Me",
+    "description": "EDEN INTERNATIONAL di sala 2010-an de hat avakirin, di bîra wan mijarên ku bixwînin ku dikarin lêkolînên xwe di pîşa xwe de bibin bo xebatên bilind ên di derveyî ve, koçberî...",
+    "listItems": "Koçberî|Qebûlkirina Xwendekarî|Karên Sponserkirî|Nasandina Zanistî",
+    "buttonText": "Zêdetir Li Ser"
   }
   }
   

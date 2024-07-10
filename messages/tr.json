@@ -62,5 +62,12 @@
       "buttonText": "Daha Fazla Bilgi",
       "buttonLink": "/goc"
     }
+  },
+  "aboutUs": {
+    "whoWeAre": "Biz kimiz?",
+    "title": "Hakkımızda Birkaç Kelime",
+    "description": "EDEN INTERNATIONAL, yurtiçinde veya yurtdışında yüksek öğrenim, göçmenlik için kariyer yolu belirlemekte zorlanan müşterileri göz önünde bulundurarak 2010 yılında kurulmuştur...",
+    "listItems": "Göç|Öğrenci Kabulü|Sponsorlu İşler|Beceri Tanıma",
+    "buttonText": "Daha Fazla Bilgi"
   }
 }

@@ -62,5 +62,12 @@
         "buttonText": "Higit pang Impormasyon",
         "buttonLink": "/migration"
       }
+    },
+    "aboutUs": {
+      "whoWeAre": "Sino kami?",
+      "title": "Ilang Salita Tungkol sa Amin",
+      "description": "Ang EDEN INTERNATIONAL ay itinatag noong 2010, iniisip ang mga kliyenteng nahihirapan na mahirap matukoy ang kanilang landas sa karera sa ibang bansa para sa onshore o offshore higher education, migration...",
+      "listItems": "Migration|Student Admission|Sponsored Jobs|Skills Recognition",
+      "buttonText": "Higit pang Impormasyon"
     }
 }
