@@ -17,6 +17,25 @@
       "pointCalculation": "Izračun Poena",
       "contactUs": "Kontaktirajte Nas",
       "bookAnAppointment": "Zakažite Termin"
-    }
+    },
+    "languages": {
+    "en": "Engleski",
+    "ar": "Arapski",
+    "hi": "Hindski",
+    "fr": "Francuski",
+    "es": "Španski",
+    "it": "Italijanski",
+    "hr": "Hrvatski",
+    "tr": "Turski",
+    "mt": "Malteški",
+    "de": "Nemački",
+    "fil": "Filipinski",
+    "ko": "Korejski",
+    "cmn": "Mandarinski",
+    "si": "Slovenački",
+    "sr": "Srpski",
+    "kur": "Kurdski",
+    "pi": "Poljski"
+  }
   }
   

@@ -17,6 +17,25 @@
       "pointCalculation": "Izračun Točk",
       "contactUs": "Kontaktirajte Nas",
       "bookAnAppointment": "Rezervirajte Termin"
+    },
+      "languages": {
+      "en": "Angleščina",
+      "ar": "Arabščina",
+      "hi": "Hindijščina",
+      "fr": "Francoščina",
+      "es": "Španščina",
+      "it": "Italijanščina",
+      "hr": "Hrvaščina",
+      "tr": "Turščina",
+      "mt": "Malteščina",
+      "de": "Nemščina",
+      "fil": "Filipinščina",
+      "ko": "Korejščina",
+      "cmn": "Mandarinščina",
+      "si": "Slovenščina",
+      "sr": "Srbščina",
+      "kur": "Kurdščina",
+      "pi": "Poljščina"
     }
   }
   

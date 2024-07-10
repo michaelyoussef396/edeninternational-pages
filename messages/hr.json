@@ -17,5 +17,24 @@
       "pointCalculation": "Izračun bodova",
       "contactUs": "Kontaktirajte nas",
       "bookAnAppointment": "Zakažite sastanak"
-    }
+    },
+    "languages": {
+    "en": "Engleski",
+    "ar": "Arapski",
+    "hi": "Hindski",
+    "fr": "Francuski",
+    "es": "Španjolski",
+    "it": "Talijanski",
+    "hr": "Hrvatski",
+    "tr": "Turski",
+    "mt": "Malteški",
+    "de": "Njemački",
+    "fil": "Filipinski",
+    "ko": "Korejski",
+    "cmn": "Mandarinski",
+    "si": "Slovenski",
+    "sr": "Srpski",
+    "kur": "Kurdski",
+    "pi": "Poljski"
+  }
 }

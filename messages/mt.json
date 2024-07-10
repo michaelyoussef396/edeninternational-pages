@@ -17,5 +17,24 @@
       "pointCalculation": "Kalkolu tal-Punti",
       "contactUs": "Ikkuntattjana",
       "bookAnAppointment": "Ibbukkja Appuntament"
-    }
+    },
+    "languages": {
+    "en": "Ingliż",
+    "ar": "Għarbi",
+    "hi": "Ħindi",
+    "fr": "Franċiż",
+    "es": "Spanjol",
+    "it": "Taljan",
+    "hr": "Kroat",
+    "tr": "Tork",
+    "mt": "Malti",
+    "de": "Ġermaniż",
+    "fil": "Filippin",
+    "ko": "Korean",
+    "cmn": "Mandarin",
+    "si": "Sloven",
+    "sr": "Serb",
+    "kur": "Kurdi",
+    "pi": "Pollakk"
+  }
 }

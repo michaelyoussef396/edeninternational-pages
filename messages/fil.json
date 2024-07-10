@@ -17,5 +17,24 @@
       "pointCalculation": "Point Calculation",
       "contactUs": "Makipag-ugnayan sa Amin",
       "bookAnAppointment": "Mag-book ng Appointment"
-    }
+    },
+    "languages": {
+    "en": "Ingles",
+    "ar": "Arabe",
+    "hi": "Hindi",
+    "fr": "Pranses",
+    "es": "Espanyol",
+    "it": "Italyano",
+    "hr": "Kroata",
+    "tr": "Turko",
+    "mt": "Maltese",
+    "de": "Aleman",
+    "fil": "Pilipino",
+    "ko": "Koreano",
+    "cmn": "Mandarin",
+    "si": "Slovenian",
+    "sr": "Serbian",
+    "kur": "Kurdish",
+    "pi": "Polako"
+  }
 }

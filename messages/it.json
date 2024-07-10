@@ -17,5 +17,24 @@
       "pointCalculation": "Calcolo dei Punti",
       "contactUs": "Contattaci",
       "bookAnAppointment": "Prenota un Appuntamento"
+    },
+    "languages": {
+      "en": "Inglese",
+      "ar": "Arabo",
+      "hi": "Hindi",
+      "fr": "Francese",
+      "es": "Spagnolo",
+      "it": "Italiano",
+      "hr": "Croato",
+      "tr": "Turco",
+      "mt": "Maltese",
+      "de": "Tedesco",
+      "fil": "Filippino",
+      "ko": "Coreano",
+      "cmn": "Mandarino",
+      "si": "Sloveno",
+      "sr": "Serbo",
+      "kur": "Curdo",
+      "pi": "Polacco"
     }
 }

@@ -17,5 +17,24 @@
     "pointCalculation": "Point Calculation",
     "contactUs": "Contact Us",
     "bookAnAppointment": "Book An Appointment"
+  },
+  "languages": {
+    "en": "English",
+    "ar": "Arabic",
+    "hi": "Hindi",
+    "fr": "French",
+    "es": "Spanish",
+    "it": "Italian",
+    "hr": "Croatian",
+    "tr": "Turkish",
+    "mt": "Maltese",
+    "de": "German",
+    "fil": "Philippines",
+    "ko": "Korean",
+    "cmn": "Mandarin",
+    "si": "Slovene",
+    "sr": "Serbian",
+    "kur": "Kurdish",
+    "pi": "Polish"
   }
 }

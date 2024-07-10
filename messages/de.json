@@ -17,5 +17,24 @@
       "pointCalculation": "Punktberechnung",
       "contactUs": "Kontaktieren Sie uns",
       "bookAnAppointment": "Termin buchen"
-    }
+    },
+    "languages": {
+    "en": "Englisch",
+    "ar": "Arabisch",
+    "hi": "Hindi",
+    "fr": "Französisch",
+    "es": "Spanisch",
+    "it": "Italienisch",
+    "hr": "Kroatisch",
+    "tr": "Türkisch",
+    "mt": "Maltesisch",
+    "de": "Deutsch",
+    "fil": "Philippinisch",
+    "ko": "Koreanisch",
+    "cmn": "Mandarin",
+    "si": "Slowenisch",
+    "sr": "Serbisch",
+    "kur": "Kurdisch",
+    "pi": "Polnisch"
+  }
 }

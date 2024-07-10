@@ -17,5 +17,24 @@
     "pointCalculation": "Puan Hesaplama",
     "contactUs": "Bize Ulaşın",
     "bookAnAppointment": "Randevu Alın"
+  },
+  "languages": {
+    "en": "İngilizce",
+    "ar": "Arapça",
+    "hi": "Hintçe",
+    "fr": "Fransızca",
+    "es": "İspanyolca",
+    "it": "İtalyanca",
+    "hr": "Hırvatça",
+    "tr": "Türkçe",
+    "mt": "Maltaca",
+    "de": "Almanca",
+    "fil": "Filipince",
+    "ko": "Korece",
+    "cmn": "Mandarince",
+    "si": "Slovence",
+    "sr": "Sırpça",
+    "kur": "Kürtçe",
+    "pi": "Lehçe"
   }
 }
