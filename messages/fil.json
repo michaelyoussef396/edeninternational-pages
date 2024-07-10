@@ -91,5 +91,23 @@
       "title": "Listahan ng Bansa Para sa Immigration",
       "subtitle": "Listahan ng Bansa:",
       "countries": "Dubai|Canada|USA|Australia|Italy|Croatia|Turkey|Malta|Germany|Philippines|Korea"
+    },
+    "workingProcess": {
+      "subtitle": "PROSESO NG TRABAHO",
+      "title": "3 Madaling Hakbang Para Makakuha ng Mabilis na Tulong",
+      "steps": [
+        {
+          "title": "Hakbang Isa",
+          "description": "Punan ang Kinakailangang Form"
+        },
+        {
+          "title": "Hakbang Dalawa",
+          "description": "Ipasa ang Iyong Mga Dokumento"
+        },
+        {
+          "title": "Hakbang Tatlo",
+          "description": "Maging Handa Para Matanggap ang Iyong Visa"
+        }
+      ]
     }
 }

@@ -91,6 +91,24 @@
     "title": "Lîsteya Welatan Bo Koçberî",
     "subtitle": "Lîsteya Welatan:",
     "countries": "Dubai|Kanada|USA|Australya|Îtalya|Kroatya|Tirkiye|Malta|Almanya|Filîpîn|Kore"
+  },
+  "workingProcess": {
+    "subtitle": "PÊŞVEÇÛNA KARÊ",
+    "title": "3 Gavgên Hêsan Ji Bo Alîkariyê Bi Zû Bistînin",
+    "steps": [
+      {
+        "title": "Gav Yek",
+        "description": "Forma Pêwîstê Te Bikin"
+      },
+      {
+        "title": "Gav Du",
+        "description": "Belgeyên Xwe Bişînin"
+      },
+      {
+        "title": "Gav Sê",
+        "description": "Amade Be Ji Bo Wergirtina Vîzayê Te"
+      }
+    ]
   }
   }
   

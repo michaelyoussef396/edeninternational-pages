@@ -91,6 +91,24 @@
     "title": "Lista Krajów Do Imigracji",
     "subtitle": "Lista Krajów:",
     "countries": "Dubaj|Kanada|USA|Australia|Włochy|Chorwacja|Turcja|Malta|Niemcy|Filipiny|Korea"
+  },
+  "workingProcess": {
+    "subtitle": "PROCES PRACY",
+    "title": "3 Łatwe Kroki, Aby Uzyskać Szybką Pomoc",
+    "steps": [
+      {
+        "title": "Krok Pierwszy",
+        "description": "Wypełnij Wymagany Formularz"
+      },
+      {
+        "title": "Krok Drugi",
+        "description": "Prześlij Swoje Dokumenty"
+      },
+      {
+        "title": "Krok Trzeci",
+        "description": "Przygotuj Się Na Otrzymanie Wizy"
+      }
+    ]
   }
   }
   

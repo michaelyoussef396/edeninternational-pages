@@ -91,5 +91,23 @@
       "title": "Liste des pays pour l'immigration",
       "subtitle": "Liste des pays:",
       "countries": "Dubaï|Canada|USA|Australie|Italie|Croatie|Turquie|Malte|Allemagne|Philippines|Corée"
+    },
+    "workingProcess": {
+      "subtitle": "PROCESSUS DE TRAVAIL",
+      "title": "3 étapes faciles pour obtenir de l'aide rapidement",
+      "steps": [
+        {
+          "title": "Première étape",
+          "description": "Remplissez le formulaire requis"
+        },
+        {
+          "title": "Deuxième étape",
+          "description": "Soumettez vos documents"
+        },
+        {
+          "title": "Troisième étape",
+          "description": "Préparez-vous à recevoir votre visa"
+        }
+      ]
     }
 }

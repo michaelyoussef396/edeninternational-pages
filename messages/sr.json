@@ -91,6 +91,24 @@
     "title": "Lista Zemalja Za Imigraciju",
     "subtitle": "Lista Zemalja:",
     "countries": "Dubai|Kanada|SAD|Australija|Italija|Hrvatska|Turska|Malta|Nemačka|Filipini|Koreja"
+  },
+  "workingProcess": {
+    "subtitle": "RADNI PROCES",
+    "title": "3 Jednostavna Koraka Za Brzu Pomoć",
+    "steps": [
+      {
+        "title": "Korak Jedan",
+        "description": "Popunite Potreban Formular"
+      },
+      {
+        "title": "Korak Dva",
+        "description": "Pošaljite Vaša Dokumenta"
+      },
+      {
+        "title": "Korak Tri",
+        "description": "Pripremite Se Da Dobijete Viz"
+      }
+    ]
   }
   }
   

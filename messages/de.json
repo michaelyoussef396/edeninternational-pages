@@ -91,5 +91,23 @@
       "title": "Länderliste für Einwanderung",
       "subtitle": "Länderliste:",
       "countries": "Dubai|Kanada|USA|Australien|Italien|Kroatien|Türkei|Malta|Deutschland|Philippinen|Korea"
+    },
+    "workingProcess": {
+      "subtitle": "ARBEITSPROZESS",
+      "title": "3 einfache Schritte, um schnelle Hilfe zu erhalten",
+      "steps": [
+        {
+          "title": "Schritt Eins",
+          "description": "Füllen Sie das erforderliche Formular aus"
+        },
+        {
+          "title": "Schritt Zwei",
+          "description": "Reichen Sie Ihre Dokumente ein"
+        },
+        {
+          "title": "Schritt Drei",
+          "description": "Bereiten Sie sich darauf vor, Ihr Visum zu erhalten"
+        }
+      ]
     }
 }

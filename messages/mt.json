@@ -91,5 +91,23 @@
       "title": "Lista ta' Pajjiżi għall-Immigrazzjoni",
       "subtitle": "Lista ta' Pajjiżi:",
       "countries": "Dubai|Kanada|USA|Awstralja|Italja|Kroazja|Turkija|Malta|Ġermanja|Filippini|Korea"
+    },
+    "workingProcess": {
+      "subtitle": "PROĊESS TA' ĦIDMA",
+      "title": "3 Passi Faċli biex Tikseb Għajnuna Mgħaġġla",
+      "steps": [
+        {
+          "title": "Pass Wieħed",
+          "description": "Imla l-Formola Meħtieġa"
+        },
+        {
+          "title": "Pass Tnejn",
+          "description": "Ibgħat id-Dokumenti Tiegħek"
+        },
+        {
+          "title": "Pass Tlieta",
+          "description": "Ipprepara biex Tirċievi l-Viża Tiegħek"
+        }
+      ]
     }
 }

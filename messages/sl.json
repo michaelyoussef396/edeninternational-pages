@@ -91,6 +91,24 @@
     "title": "Seznam Držav Za Imigracijo",
     "subtitle": "Seznam Držav:",
     "countries": "Dubaj|Kanada|ZDA|Avstralija|Italija|Hrvaška|Turčija|Malta|Nemčija|Filipini|Koreja"
+  },
+  "workingProcess": {
+    "subtitle": "DELOVNI PROCES",
+    "title": "3 Enostavni Koraki Za Hitro Pomoč",
+    "steps": [
+      {
+        "title": "Korak Ena",
+        "description": "Izpolnite Zahtevani Obrazec"
+      },
+      {
+        "title": "Korak Dva",
+        "description": "Predložite Svoje Dokumente"
+      },
+      {
+        "title": "Korak Tri",
+        "description": "Pripravite Se Na Prejemanje Vize"
+      }
+    ]
   }
   }
   

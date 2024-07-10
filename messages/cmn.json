@@ -91,5 +91,23 @@
       "title": "移民国家名单",
       "subtitle": "国家名单：",
       "countries": "迪拜|加拿大|美国|澳大利亚|意大利|克罗地亚|土耳其|马耳他|德国|菲律宾|韩国"
+    },
+    "workingProcess": {
+      "subtitle": "工作流程",
+      "title": "获取快速帮助的三个简单步骤",
+      "steps": [
+        {
+          "title": "第一步",
+          "description": "填写所需表格"
+        },
+        {
+          "title": "第二步",
+          "description": "提交您的文件"
+        },
+        {
+          "title": "第三步",
+          "description": "准备好接收您的签证"
+        }
+      ]
     }
 }

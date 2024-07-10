@@ -91,5 +91,23 @@
       "title": "Popis zemalja za imigraciju",
       "subtitle": "Popis zemalja:",
       "countries": "Dubai|Kanada|SAD|Australija|Italija|Hrvatska|Turska|Malta|Njemačka|Filipini|Koreja"
+    },
+    "workingProcess": {
+      "subtitle": "RADNI PROCES",
+      "title": "3 jednostavna koraka za brzu pomoć",
+      "steps": [
+        {
+          "title": "Prvi korak",
+          "description": "Ispunite potrebni obrazac"
+        },
+        {
+          "title": "Drugi korak",
+          "description": "Predajte svoje dokumente"
+        },
+        {
+          "title": "Treći korak",
+          "description": "Pripremite se za primanje svoje vize"
+        }
+      ]
     }
 }

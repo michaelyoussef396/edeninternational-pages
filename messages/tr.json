@@ -91,5 +91,23 @@
     "title": "Göçmenlik İçin Ülke Listesi",
     "subtitle": "Ülke Listesi:",
     "countries": "Dubai|Kanada|ABD|Avustralya|İtalya|Hırvatistan|Türkiye|Malta|Almanya|Filipinler|Kore"
+  },
+  "workingProcess": {
+    "subtitle": "ÇALIŞMA SÜRECİ",
+    "title": "Hızlı Yardım İçin 3 Kolay Adım",
+    "steps": [
+      {
+        "title": "Birinci Adım",
+        "description": "Gerekli Formu Doldurun"
+      },
+      {
+        "title": "İkinci Adım",
+        "description": "Belgelerinizi Gönderin"
+      },
+      {
+        "title": "Üçüncü Adım",
+        "description": "Vizenizi Almaya Hazır Olun"
+      }
+    ]
   }
 }

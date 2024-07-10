@@ -91,5 +91,23 @@
       "title": "Lista de Países Para Inmigración",
       "subtitle": "Lista de Países:",
       "countries": "Dubái|Canadá|EE.UU.|Australia|Italia|Croacia|Turquía|Malta|Alemania|Filipinas|Corea"
+    },
+    "workingProcess": {
+      "subtitle": "PROCESO DE TRABAJO",
+      "title": "3 Pasos Fáciles Para Obtener Ayuda Rápida",
+      "steps": [
+        {
+          "title": "Primer Paso",
+          "description": "Rellena El Formulario Requerido"
+        },
+        {
+          "title": "Segundo Paso",
+          "description": "Envía Tus Documentos"
+        },
+        {
+          "title": "Tercer Paso",
+          "description": "Prepárate Para Recibir Tu Visa"
+        }
+      ]
     }
 }

@@ -91,5 +91,23 @@
       "title": "Country List For Immigration",
       "subtitle": "Country List:",
       "countries": "Dubai|Canada|USA|Australia|Italy|Croatia|Turkey|Malta|Germany|Philippines|Korea"
+    },
+    "workingProcess": {
+      "subtitle": "WORKING PROCESS",
+      "title": "3 Easy Steps to Get Quick Help",
+      "steps": [
+        {
+          "title": "Step One",
+          "description": "Fill In The Required Form"
+        },
+        {
+          "title": "Step Two",
+          "description": "Submit Your Documents"
+        },
+        {
+          "title": "Step Three",
+          "description": "Get Ready To Receive Your Visa"
+        }
+      ]
     }
 }

@@ -91,5 +91,23 @@
       "title": "이민을 위한 국가 목록",
       "subtitle": "국가 목록:",
       "countries": "두바이|캐나다|미국|호주|이탈리아|크로아티아|터키|몰타|독일|필리핀|한국"
+    },
+    "workingProcess": {
+      "subtitle": "작업 프로세스",
+      "title": "빠른 도움을 받는 3가지 쉬운 단계",
+      "steps": [
+        {
+          "title": "단계 하나",
+          "description": "필요한 양식 작성"
+        },
+        {
+          "title": "단계 둘",
+          "description": "서류 제출"
+        },
+        {
+          "title": "단계 셋",
+          "description": "비자를 받을 준비"
+        }
+      ]
     }
 }
