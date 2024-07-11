@@ -525,6 +525,36 @@
       { "name": "Engineering Institute of Technology", "url": "https://www.eit.edu.au/" },
       { "name": "Eyensbury", "url": "#" }
     ]
+  },
+  "proHeroSection": {
+    "imageSrc": "/1001_Team.webp",
+    "title": "Profesionalni",
+    "highlightText": "Letni Načrt",
+    "height": "h-96"
+  },
+  "professionalYearPrograms": {
+    "title": "PROGRAMI",
+    "highlightText": "LETNIH",
+    "content": "Program Profesionalnega Leto (PYP) ponuja nekdanjim mednarodnim študentom, ki so diplomirali na univerzi v Avstraliji, uvod v njihov poklic in ustrezno praktično usposabljanje. Avstralske prakse zagotavljajo praktično komponento Programa Profesionalnega Leto (PYP) in so bile odobrene s strani akreditacijskih organov, pooblaščenih s strani Ministrstva za priseljevanje in zaščito meja (DIBP).",
+    "imageSrc": "/study.jpg"
+  },
+  "educationCentre": {
+    "title": "IZOBRAŽEVALNI CENTER",
+    "highlightText": "AVSTRALIJE",
+    "content": "Izobraževalni center Avstralije (ECA) je eden izmed vodilnih ponudnikov zasebnega izobraževanja v Avstraliji s številnimi kampusi v Sydneyju, Brisbaneu in Melbournu. Kot rastoča mreža visokih šol iščemo načine, kako zagotoviti, da vam bo čas preživet na ECA zagotavljal kakovost izobraževanja, praktične veščine in projektno usmerjeno učenje. Programi poti in prakse, ki jih ponujamo, prenašajo študente iz učilnice v kariero. Naša sodobna večkulturna učna okolja zagotavljajo odlično mesto za razvijajoče se misli.",
+    "imageSrc": "/eca-img.jpg"
+  },
+  "performanceEducation": {
+    "title": "IZOBRAŽEVANJE",
+    "highlightText": "UČINKOVITOSTI",
+    "content": "Kot strokovnjaki za zaposljivost diplomantov, Performance Education Group spreminja življenja, tako da pomaga ljudem doseči karierni uspeh skozi učenje in dostop do najboljših zaposlitvenih povezav v Avstraliji. Ustanovljeni leta 2006 z namenom izboljšanja karier mladih strokovnjakov v Avstraliji, smo zdaj vodilni na tem področju, razvijamo potrebne veščine zaposljivosti, vključno s profesionalno poslovno komunikacijo, pripravljenostjo na delo, programi integriranega učenja v delu (WIL) in kariernimi veščinami. Zagotavljamo, da vsak študent prejme najboljše možno usposabljanje in podporo za dosego svojih kariernih ciljev.",
+    "imageSrc": "/Performance-Education.webp"
+  },
+  "atmcProfessionalYear": {
+    "title": "ATMC",
+    "highlightText": "PROFESIONALNO LETO",
+    "content": "Ste končali študij, vendar želite pridobiti dodatne tehnične veščine in znanje za začetek kariere v Avstraliji? Zdaj lahko začnete svojo kariero s pomočjo Programa Profesionalnega Leto na ATMC. ATMC ponuja programe Profesionalnega Leto prek Avstralskega računalniškega društva (ACS) za diplomante informacijske tehnologije in računovodske programe prek PYP. Program Profesionalno Leto (PY) je posebej zasnovan za mednarodne študente, ki so diplomirali na avstralski univerzi in iščejo uspešno pot od univerze do zaposlitve in bivanja v Avstraliji.",
+    "imageSrc": "/ATMC-Professional-Year-768x538.webp"
   }
   }
   

@@ -525,5 +525,35 @@
         { "name": "Engineering Institute of Technology", "url": "https://www.eit.edu.au/" },
         { "name": "Eyensbury", "url": "#" }
       ]
+    },
+    "proHeroSection": {
+      "imageSrc": "/1001_Team.webp", 
+      "title": "전문",
+      "highlightText": "연수 프로그램",
+      "height": "h-96"
+    },
+    "professionalYearPrograms": {
+      "title": "전문",
+      "highlightText": "연수 프로그램",
+      "content": "전문 연수 프로그램 (PYP)은 호주에서 대학을 졸업한 전 국제 학생들에게 그들의 직업에 대한 소개와 관련된 실습 교육을 제공합니다. Australian Internships는 전문 연수 프로그램 (PYP)의 실습 부문을 제공하며, 이는 이민 및 국경 보호부 (DIBP)에 의해 승인된 인증 기관에 의해 승인되었습니다.",
+      "imageSrc": "/study.jpg"  
+    },
+    "educationCentre": {
+      "title": "호주의 교육",
+      "highlightText": "센터",
+      "content": "Education Centre of Australia (ECA)는 시드니, 브리즈번, 멜버른에 여러 캠퍼스를 두고 있는 호주의 주요 저렴한 사립 교육 제공자 중 하나입니다. 성장하는 대학 네트워크로서 우리는 ECA와의 시간을 양질의 교육, 실습 기술 및 프로젝트 기반의 실습 학습으로 제공하는 방법을 모색하고 있습니다. 우리가 제공하는 경로 프로그램과 인턴십은 학생들을 교실에서 직업으로 이끌어줍니다. 우리의 현대적인 다문화 학습 환경은 성장하는 마음에 훌륭한 장소를 제공합니다.",
+      "imageSrc": "/eca-img.jpg" 
+    },
+    "performanceEducation": {
+      "title": "퍼포먼스",
+      "highlightText": "교육",
+      "content": "졸업생 취업 전문가로서 Performance Education Group은 사람들이 학습을 통해 경력 성공을 달성하고 호주의 최고의 취업 연결에 접근할 수 있도록 도와줌으로써 삶을 변화시킵니다. 2006년에 젊은 전문가들의 경력을 향상시키기 위해 설립된 우리는 이제 이 분야에서 리더로 자리 잡아 전문 비즈니스 커뮤니케이션, 직장 준비, 직무 통합 학습 (WIL) 프로그램 및 경력 기술과 같은 필요성을 많이 개발하고 있습니다. 우리는 각 학생이 경력 목표를 달성하기 위해 최고의 교육과 지원을 받도록 보장합니다.",
+      "imageSrc": "/Performance-Education.webp" 
+    },
+    "atmcProfessionalYear": {
+      "title": "ATMC",
+      "highlightText": "전문 연수",
+      "content": "학위를 마쳤지만 호주에서 경력을 쌓기 위해 추가 기술과 지식을 습득하고 싶으신가요? 이제 ATMC의 전문 연수 프로그램을 통해 경력을 시작할 수 있습니다. ATMC는 Australian Computer Society (ACS)를 통해 정보 기술 졸업생을 위한 전문 연수 프로그램과 회계 프로그램을 제공하며 회계 PYP를 통해 제공합니다. 전문 연수 (PY) 프로그램은 호주 대학을 졸업한 국제 학생들을 위해 설계되었으며 대학에서 취업 및 영주권으로의 성공적인 경로를 찾고 있는 학생들을 위한 것입니다.",
+      "imageSrc": "/ATMC-Professional-Year-768x538.webp" 
     }
 }

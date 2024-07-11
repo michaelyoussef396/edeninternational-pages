@@ -525,5 +525,35 @@
       { "name": "Mühendislik Enstitüsü Teknoloji", "url": "https://www.eit.edu.au/" },
       { "name": "Eyensbury", "url": "#" }
     ]
+  },
+  "proHeroSection": {
+    "imageSrc": "/1001_Team.webp", 
+    "title": "Profesyonel",
+    "highlightText": "Yıl Planı",
+    "height": "h-96"
+  },
+  "professionalYearPrograms": {
+    "title": "PROFESYONEL",
+    "highlightText": "YIL PROGRAMLARI",
+    "content": "Profesyonel Yıl Programı (PYP), Avustralya'da bir üniversiteden mezun olmuş uluslararası öğrencilere kendi mesleklerine giriş ve ilgili pratik eğitim sağlar. Australian Internships, Profesyonel Yıl Programı'nın (PYP) pratik bileşenini sağlar ve Göç ve Sınır Koruma Bakanlığı (DIBP) tarafından yetkilendirilmiş akreditasyon kuruluşları tarafından onaylanmıştır.",
+    "imageSrc": "/study.jpg"  
+  },
+  "educationCentre": {
+    "title": "AVUSTRALYA EĞİTİM MERKEZİ",
+    "highlightText": "",
+    "content": "Education Centre of Australia (ECA), Sydney, Brisbane ve Melbourne'de birden fazla kampüsü olan Avustralya'nın önde gelen uygun fiyatlı özel eğitim sağlayıcılarından biridir. Genişleyen bir kolej ağı olarak, ECA ile geçirdiğiniz sürenin size kaliteli eğitim, pratik beceriler ve proje bazlı uygulamalı öğrenim sağlamasını sağlamak için yollar arıyoruz. Sunduğumuz yol programları ve stajlar, öğrencileri sınıftan kariyere taşır. Modern çok kültürlü öğrenim ortamlarımız, büyüyen zihinler için mükemmel bir yer sağlar.",
+    "imageSrc": "/eca-img.jpg" 
+  },
+  "performanceEducation": {
+    "title": "PERFORMANCE",
+    "highlightText": "EDUCATION",
+    "content": "Mezun İstihdam Uzmanları olarak, Performance Education Group, insanların kariyer başarılarına ulaşmalarına yardımcı olarak yaşamlarını değiştirir ve Avustralya'nın en iyi istihdam bağlantılarına erişim sağlar. 2006 yılında genç profesyonellerin kariyerlerini iyileştirmek için kurulan kurumumuz, şimdi profesyonel iş iletişimi, işyeri hazır olma, İş Entegrasyonlu Öğrenme (WIL) programları ve kariyer becerileri gibi çok ihtiyaç duyulan istihdam edilebilirlik becerileri geliştirme alanında liderdir. Her öğrenciye kariyer hedeflerine ulaşmaları için en iyi eğitim ve desteği sağlıyoruz.",
+    "imageSrc": "/Performance-Education.webp" 
+  },
+  "atmcProfessionalYear": {
+    "title": "ATMC",
+    "highlightText": "PROFESYONEL YIL",
+    "content": "Derecenizi bitirdiniz ama Avustralya'da kariyerinizi kurmak için ek teknik beceri ve bilgi kazanmak mı istiyorsunuz? Şimdi ATMC Profesyonel Yıl Programı ile kariyerinize başlangıç yapabilirsiniz. ATMC, Bilgi Teknolojisi mezunları için Avustralya Bilgisayar Derneği (ACS) aracılığıyla ve muhasebe programları için Muhasebe PYP aracılığıyla Profesyonel Yıl programları sunar. Profesyonel Yıl (PY) Programı, Avustralya'da bir üniversiteden mezun olmuş ve üniversiteden istihdama ve Avustralya'da ikamete giden başarılı bir yol arayan uluslararası öğrenciler için özel olarak tasarlanmıştır.",
+    "imageSrc": "/ATMC-Professional-Year-768x538.webp" 
   }
 }

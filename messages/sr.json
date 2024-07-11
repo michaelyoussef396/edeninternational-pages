@@ -525,6 +525,36 @@
       { "name": "Engineering Institute of Technology", "url": "https://www.eit.edu.au/" },
       { "name": "Eyensbury", "url": "#" }
     ]
+  },
+  "proHeroSection": {
+    "imageSrc": "/1001_Team.webp",
+    "title": "Profesionalni",
+    "highlightText": "Godišnji Plan",
+    "height": "h-96"
+  },
+  "professionalYearPrograms": {
+    "title": "PROGRAMI",
+    "highlightText": "GODIŠNJIH",
+    "content": "Program Profesionalne Godine (PYP) nudi bivšim međunarodnim studentima, koji su diplomirali na univerzitetu u Australiji, uvod u njihovu profesiju i relevantnu praktičnu obuku. Australske prakse obezbeđuju praktičnu komponentu Programa Profesionalne Godine (PYP) i odobrene su od strane akreditacionih tela koja su ovlastila Ministarstvo za imigraciju i zaštitu granica (DIBP).",
+    "imageSrc": "/study.jpg"
+  },
+  "educationCentre": {
+    "title": "CENTAR ZA OBRAZOVANJE",
+    "highlightText": "AUSTRALIJE",
+    "content": "Centar za obrazovanje Australije (ECA) je jedan od vodećih privatnih pružalaca obrazovanja u Australiji sa više kampusa u Sidneju, Brizbejnu i Melburnu. Kao rastuća mreža koledža, tražimo načine kako da osiguramo da vam vreme provedeno na ECA pruži kvalitetno obrazovanje, praktične veštine i učenje zasnovano na projektima. Programi puteva i prakse koje nudimo prenose studente iz učionice u karijeru. Naša moderna multikulturalna obrazovna okruženja pružaju odlična mesta za rastuće umove.",
+    "imageSrc": "/eca-img.jpg"
+  },
+  "performanceEducation": {
+    "title": "OBRAZOVANJE",
+    "highlightText": "PERFORMANSI",
+    "content": "Kao stručnjaci za zapošljivost diplomaca, Performance Education Group menja živote pomažući ljudima da postignu karijerni uspeh kroz učenje i pristup najboljim vezama za zapošljavanje u Australiji. Osnovani 2006. godine sa ciljem unapređenja karijera mladih profesionalaca u Australiji, sada smo lideri u ovoj oblasti, razvijamo potrebne veštine zapošljivosti uključujući profesionalnu poslovnu komunikaciju, spremnost za rad, programe integrisanog učenja na radu (WIL) i veštine karijere. Osiguravamo da svaki student dobije najbolju moguću obuku i podršku za postizanje svojih karijernih ciljeva.",
+    "imageSrc": "/Performance-Education.webp"
+  },
+  "atmcProfessionalYear": {
+    "title": "ATMC",
+    "highlightText": "PROFESIONALNA GODINA",
+    "content": "Da li ste završili studije, ali želite da steknete dodatne tehničke veštine i znanje kako biste započeli svoju karijeru u Australiji? Sada možete započeti svoju karijeru uz pomoć Programa Profesionalne Godine na ATMC. ATMC nudi programe Profesionalne Godine kroz Australsko kompjutersko društvo (ACS) za diplomce informacione tehnologije i računovodstvene programe kroz PYP. Program Profesionalne Godine (PY) je posebno dizajniran za međunarodne studente koji su diplomirali na univerzitetu u Australiji i traže uspešan put od univerziteta do zaposlenja i prebivališta u Australiji.",
+    "imageSrc": "/ATMC-Professional-Year-768x538.webp"
   }
 
   }

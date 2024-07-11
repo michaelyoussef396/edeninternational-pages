@@ -525,5 +525,35 @@
         { "name": "Engineering Institute of Technology", "url": "https://www.eit.edu.au/" },
         { "name": "Eyensbury", "url": "#" }
       ]
+    },
+    "proHeroSection": {
+      "imageSrc": "/1001_Team.webp", 
+      "title": "Pjan tas-Sena",
+      "highlightText": "Professjonali",
+      "height": "h-96"
+    },
+    "professionalYearPrograms": {
+      "title": "PROGRAMMI",
+      "highlightText": "TAS-SENA PROFESSJONALI",
+      "content": "Il-Programm tas-Sena Professjonali (PYP) joffri lill-istudenti internazzjonali preċedenti, li ggradwaw minn università fl-Awstralja, introduzzjoni għall-okkupazzjoni rispettiva tagħhom u taħriġ prattiku rilevanti. L-Internships Awstraljani jipprovdu l-komponent prattiku tal-Programm tas-Sena Professjonali (PYP) u ġew approvati mill-korpi ta' akreditazzjoni awtorizzati mid-Dipartiment tal-Immigrazzjoni u l-Protezzjoni tal-Bordijiet (DIBP).",
+      "imageSrc": "/study.jpg"  
+    },
+    "educationCentre": {
+      "title": "ĊENTRU EDUKATTIV TA'",
+      "highlightText": "AWSTRALJA",
+      "content": "Iċ-Ċentru Edukattiv ta' Awstralja (ECA) huwa wieħed mill-fornituri privati ta' edukazzjoni affordabbli ewlenin fl-Awstralja b'diversi kampusijiet f'Sydney, Brisbane u Melbourne. Bħala netwerk ta' kulleġġi li qed jikber, qed infittxu modi biex niżguraw li l-ħin tiegħek ma' ECA jipprovdilek l-kwalità tal-edukazzjoni, ħiliet prattiċi u tagħlim ibbażat fuq proġetti prattiku. Il-programmi tal-mogħdijiet u l-istages li noffru jieħdu lill-istudenti mill-klassi għall-karriera. L-ambjenti tagħna moderni ta' tagħlim multikulturali jipprovdu post eċċellenti għal imħuħ li qed jikbru.",
+      "imageSrc": "/eca-img.jpg" 
+    },
+    "performanceEducation": {
+      "title": "EDUKAZZJONI",
+      "highlightText": "TA' PRESTAZZJONI",
+      "content": "Bħala l-Esperti tal-Impjegabilità tal-Gradwati, il-Performance Education Group jibdel il-ħajjiet billi jgħin lin-nies jiksbu suċċess fil-karriera tagħhom permezz tat-tagħlim u l-aċċess għall-aħjar konnessjonijiet ta' impjiegi fl-Awstralja. Imwaqqfa fl-2006 biex ittejjeb il-karrieri ta' professjonisti żgħażagħ fl-Awstralja, issa aħna mexxejja f'dan l-ispazju, niżviluppaw ħiliet ta' impjegabilità meħtieġa inklużi; komunikazzjoni tan-negozju professjonali, lesta għall-post tax-xogħol, programmi ta' Tagħlim Integrat tax-Xogħol (WIL) u ħiliet ta' karriera. Aħna niżguraw li kull student jingħata l-aħjar taħriġ u appoġġ possibbli biex jiksbu l-għanijiet tal-karriera tagħhom.",
+      "imageSrc": "/Performance-Education.webp" 
+    },
+    "atmcProfessionalYear": {
+      "title": "SENA PROFESSJONALI",
+      "highlightText": "ATMC",
+      "content": "Għadek kif spiċċajt id-degree tiegħek iżda trid tikseb ħiliet u għarfien tekniku addizzjonali biex tistabbilixxi l-karriera tiegħek fl-Awstralja? Issa tista' tibda l-karriera tiegħek bl-għajnuna mill-Programm tas-Sena Professjonali ma' ATMC. ATMC joffri programmi tas-Sena Professjonali permezz tas-Soċjetà tal-Kompjuter Awstraljana (ACS) għall-gradwati tat-teknoloġija tal-informazzjoni u programmi tal-kontabilità permezz tal-Programm tal-Kontabilità (PYP). Il-Programm tas-Sena Professjonali (PY) huwa ddisinjat speċifikament għall-istudenti internazzjonali li ggradwaw minn università Awstraljana u qed ifittxu mogħdija ta' suċċess mill-università għall-impjieg u r-residenza fl-Awstralja.",
+      "imageSrc": "/ATMC-Professional-Year-768x538.webp" 
     }
 }

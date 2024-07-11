@@ -525,5 +525,35 @@
         { "name": "Engineering Institute of Technology", "url": "https://www.eit.edu.au/" },
         { "name": "Eyensbury", "url": "#" }
       ]
+    },
+    "proHeroSection": {
+      "imageSrc": "/1001_Team.webp", 
+      "title": "Piano per l'Anno Professionale",
+      "highlightText": "Anno Professionale",
+      "height": "h-96"
+    },
+    "professionalYearPrograms": {
+      "title": "PROGRAMMI DI",
+      "highlightText": "ANNO PROFESSIONALE",
+      "content": "Il Programma di Anno Professionale (PYP) offre agli ex studenti internazionali, laureati presso un'università in Australia, un'introduzione alla loro occupazione rispettiva e una formazione pratica rilevante. Australian Internships fornisce la componente pratica del Programma di Anno Professionale (PYP) ed è stato approvato dagli enti di accreditamento autorizzati dal Dipartimento dell'Immigrazione e della Protezione delle Frontiere (DIBP).",
+      "imageSrc": "/study.jpg"  
+    },
+    "educationCentre": {
+      "title": "CENTRO EDUCATIVO DI",
+      "highlightText": "AUSTRALIA",
+      "content": "Il Centro Educativo di Australia (ECA) è uno dei principali fornitori di istruzione privata a basso costo in Australia con diversi campus a Sydney, Brisbane e Melbourne. Come rete in crescita di college, cerchiamo modi per garantire che il tuo tempo con ECA ti fornisca la qualità dell'istruzione, le competenze pratiche e l'apprendimento pratico basato su progetti. I programmi di percorsi e gli stage che offriamo portano gli studenti dalla classe alla carriera. I nostri moderni ambienti di apprendimento multiculturali offrono un eccellente luogo per le menti in crescita.",
+      "imageSrc": "/eca-img.jpg" 
+    },
+    "performanceEducation": {
+      "title": "EDUCAZIONE DI",
+      "highlightText": "PERFORMANCE",
+      "content": "Come Esperti di Occupabilità dei Laureati, il Performance Education Group cambia le vite aiutando le persone a raggiungere il successo professionale attraverso l'apprendimento e l'accesso alle migliori connessioni occupazionali in Australia. Fondata nel 2006 per migliorare le carriere dei giovani professionisti in Australia, ora siamo un leader in questo spazio, sviluppando le tanto necessarie competenze di occupabilità, tra cui; comunicazione aziendale professionale, prontezza al lavoro, programmi di Apprendimento Integrato al Lavoro (WIL) e competenze professionali. Ci assicuriamo che ogni studente riceva la migliore formazione e supporto possibile per raggiungere i propri obiettivi professionali.",
+      "imageSrc": "/Performance-Education.webp" 
+    },
+    "atmcProfessionalYear": {
+      "title": "ATMC",
+      "highlightText": "ANNO PROFESSIONALE",
+      "content": "Hai completato il tuo titolo di studio ma vuoi acquisire ulteriori competenze tecniche e conoscenze per stabilire la tua carriera in Australia? Ora puoi dare il via alla tua carriera con l'aiuto del Programma di Anno Professionale con ATMC. ATMC offre programmi di Anno Professionale attraverso la Australian Computer Society (ACS) per i laureati in tecnologia dell'informazione e programmi di contabilità attraverso l'Accounting PYP. Il Programma di Anno Professionale (PY) è specificamente progettato per gli studenti internazionali laureati in un'università australiana e che cercano un percorso di successo dall'università all'occupazione e alla residenza in Australia.",
+      "imageSrc": "/ATMC-Professional-Year-768x538.webp" 
     }
 }

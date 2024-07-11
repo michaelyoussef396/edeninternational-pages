@@ -525,6 +525,36 @@
       { "name": "Engineering Institute of Technology", "url": "https://www.eit.edu.au/" },
       { "name": "Eyensbury", "url": "#" }
     ]
+  },
+  "proHeroSection": {
+    "imageSrc": "/1001_Team.webp",
+    "title": "Profesjonalny",
+    "highlightText": "Roczny Plan",
+    "height": "h-96"
+  },
+  "professionalYearPrograms": {
+    "title": "PROGRAMY",
+    "highlightText": "ROCZNE",
+    "content": "Program Roku Profesjonalnego (PYP) oferuje byłym międzynarodowym studentom, którzy ukończyli uniwersytet w Australii, wprowadzenie do ich zawodu oraz odpowiednie szkolenie praktyczne. Australijskie Staże zapewniają praktyczną część Programu Roku Profesjonalnego (PYP) i zostały zatwierdzone przez organy akredytacyjne upoważnione przez Departament Imigracji i Ochrony Granic (DIBP).",
+    "imageSrc": "/study.jpg"
+  },
+  "educationCentre": {
+    "title": "CENTRUM EDUKACJI",
+    "highlightText": "AUSTRALII",
+    "content": "Centrum Edukacji Australii (ECA) jest jednym z czołowych prywatnych dostawców edukacji w Australii z wieloma kampusami w Sydney, Brisbane i Melbourne. Jako rozwijająca się sieć uczelni, szukamy sposobów, aby zapewnić, że Twój czas w ECA zapewni Ci jakość edukacji, umiejętności praktyczne i naukę opartą na projektach. Programy ścieżek i staże, które oferujemy, przenoszą studentów z sali lekcyjnej do kariery. Nasze nowoczesne wielokulturowe środowiska edukacyjne zapewniają doskonałe miejsce dla rozwijających się umysłów.",
+    "imageSrc": "/eca-img.jpg"
+  },
+  "performanceEducation": {
+    "title": "EDUKACJA",
+    "highlightText": "WYSTĘPÓW",
+    "content": "Jako Eksperci ds. Zatrudnienia Absolwentów, Grupa Edukacyjna Performance zmienia życie, pomagając ludziom osiągać sukces zawodowy poprzez naukę i dostęp do najlepszych połączeń zatrudnienia w Australii. Założona w 2006 roku, aby poprawić kariery młodych profesjonalistów w Australii, jesteśmy teraz liderem w tej dziedzinie, rozwijając potrzebne umiejętności zatrudnienia, w tym profesjonalną komunikację biznesową, gotowość do pracy, programy Zintegrowanego Uczenia się w Pracy (WIL) i umiejętności zawodowe. Upewniamy się, że każdy student otrzymuje najlepsze możliwe szkolenie i wsparcie, aby osiągnąć swoje cele zawodowe.",
+    "imageSrc": "/Performance-Education.webp"
+  },
+  "atmcProfessionalYear": {
+    "title": "ATMC",
+    "highlightText": "ROK PROFESJONALNY",
+    "content": "Czy ukończyłeś swoje studia, ale chcesz zdobyć dodatkowe umiejętności techniczne i wiedzę, aby rozpocząć swoją karierę w Australii? Teraz możesz rozpocząć swoją karierę z pomocą Programu Roku Profesjonalnego w ATMC. ATMC oferuje programy Roku Profesjonalnego poprzez Australijskie Towarzystwo Informatyczne (ACS) dla absolwentów technologii informacyjnej oraz programy księgowe poprzez Accounting PYP. Program Roku Profesjonalnego (PY) jest specjalnie zaprojektowany dla międzynarodowych studentów, którzy ukończyli uniwersytet w Australii i szukają udanej ścieżki od uniwersytetu do zatrudnienia i rezydencji w Australii.",
+    "imageSrc": "/ATMC-Professional-Year-768x538.webp"
   }
   }
   

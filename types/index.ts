@@ -28,6 +28,17 @@ export interface LocaleLayoutProps {
     url: string;
   };
 
+  export interface ContentSectionProps {
+    title: string;
+    highlightText: string;
+    content: string;
+    imageSrc: StaticImageData;
+    backgroundColor?: string;
+    textColor?: string;
+    reverseLayout?: boolean;
+    backgroundImageSrc?: string;
+  }
+
   export interface Step {
     title: string;
     description: string;
@@ -44,3 +55,10 @@ export interface LocaleLayoutProps {
     buttonLink: string;
   }
   
+  export interface InvertedContentSectionProps {
+    title: string;
+    highlightText: string;
+    content: string;
+    imageSrc: StaticImageData;
+    backgroundImageSrc?: string;
+  }
