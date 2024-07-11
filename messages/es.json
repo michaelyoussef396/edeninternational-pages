@@ -559,5 +559,86 @@
     "migrationHeroSection": {
       "title": "MIGRACIÓN",
       "highlightText": ""
+    },
+    "visaOptions": {
+      "title": "OPCIONES DE",
+      "highlightText": "VISA",
+      "visitorVisa": {
+        "title": "Visa de Visitante",
+        "description": "Puedes venir a Australia por razones como vacaciones, turismo, razones sociales o recreativas, para visitar a familiares o amigos."
+      },
+      "skilledVisa": {
+        "title": "Visa Cualificada",
+        "description": "La Migración General Cualificada (GSM) o Visas Cualificadas es para personas que desean vivir y trabajar en Australia de manera temporal o permanente."
+      },
+      "sponsoredVisa": {
+        "title": "Visa Patrocinada",
+        "description": "Las Visas de Patrocinio Empresarial son para empleadores que no pueden cubrir un puesto con un trabajador australiano o capacitando a trabajadores australianos."
+      },
+      "studentVisa": {
+        "title": "Visa de Estudiante",
+        "description": "Hay una clase de visa de estudiante (TU) con ocho subclases de visa. Siete de las subclases de visa se relacionan con sectores educativos específicos y una se relaciona con tutores de estudiantes."
+      },
+      "partnerVisa": {
+        "title": "Visa de Pareja",
+        "description": "Una visa de pareja es para personas que están casadas, comprometidas o en una relación de hecho con un ciudadano australiano o un ciudadano elegible de Nueva Zelanda y desean vivir en Australia."
+      },
+      "aatFederalCourt": {
+        "title": "AAT y Corte Federal",
+        "description": "Tenemos un equipo de abogados y asesores profesionales. Si tienes problemas importantes, contáctanos y podremos resolver tus problemas complejos de migración."
+      }
+    },
+    "visaSpecialisations": {
+      "title": "VISAS EN LAS QUE",
+      "highlightText": "NOS ESPECIALIZAMOS",
+      "temporarySkillShortageVisa": {
+        "title": "Visa de Escasez de Habilidades Temporales",
+        "subclass": "Subclase 482"
+      },
+      "trainingVisa": {
+        "title": "Visa de Entrenamiento",
+        "subclass": "Subclase 407"
+      },
+      "skilledIndependentVisa": {
+        "title": "Visa Independiente Cualificada",
+        "subclass": "Subclase 189"
+      },
+      "skilledNominatedVisa": {
+        "title": "Visa Nominada Cualificada",
+        "subclass": "Subclase 190"
+      },
+      "skilledWorkRegionalVisa": {
+        "title": "Visa Regional de Trabajo Cualificado",
+        "subclass": "Subclase 491"
+      },
+      "sponsoredJobs": {
+        "title": "Trabajos Patrocinados",
+        "subclass": ""
+      }
+    },
+    "faqAccordion": {
+      "title": "Preguntas",
+      "highlightText": "Frecuentes",
+      "howDoIFindOutIfIAmEligibleToApply": {
+        "title": "¿CÓMO PUEDO SABER SI SOY ELEGIBLE PARA SOLICITAR?",
+        "content": "Haz clic aquí para un resumen de las regulaciones actuales de inmigración de Australia. Luego, realiza una verificación inicial GRATUITA de tu elegibilidad para ser referido a un Agente de Migración Registrado MARA."
+      },
+      "howLongDoesItTakeToGetAPermanentResidenceVisa": {
+        "title": "¿CUÁNTO TIEMPO SE TARDA EN OBTENER UNA VISA DE RESIDENCIA PERMANENTE PARA INMIGRAR A AUSTRALIA?",
+        "content": "Cada solicitud es diferente y los tiempos de procesamiento dependen en gran medida del tipo de visa que se solicite. Para las directrices más recientes sobre los tiempos de procesamiento de visas australianas, consulta los tiempos de procesamiento de visas y ciudadanía globales en el sitio web del Departamento de Inmigración y Protección Fronteriza."
+      },
+      "canTheImmigrationAuthoritiesRefuseMyApplication": {
+        "title": "¿LAS AUTORIDADES DE INMIGRACIÓN PUEDEN RECHAZAR MI SOLICITUD?",
+        "content": "Sí. Un sorprendente número de solicitantes no son conscientes de lo estrictamente que se hacen cumplir las regulaciones de inmigración y, a menudo, se rechazan o retrasan innecesariamente debido a errores técnicos en su solicitud o por presentar la documentación de apoyo incorrecta. Por lo tanto, la moraleja de la historia es considerar buscar la orientación profesional y el consejo independiente de un Agente de Migración Registrado MARA antes de presentar una solicitud de residencia. Los Agentes de Migración existen para ayudarte a encontrar la mejor manera de atravesar el laberinto de inmigración y son altamente efectivos en hacerlo."
+      },
+      "willTheImmigrationAuthoritiesOrEmbassyHelpMeToPrepareMyApplication": {
+        "title": "¿LAS AUTORIDADES DE INMIGRACIÓN O LA EMBAJADA ME AYUDARÁN A PREPARAR MI SOLICITUD Y A ASEGURAR QUE TODO ESTÉ CORRECTO ANTES DE APLICAR?",
+        "content": "No. Este tipo de servicio ya no es proporcionado por el Gobierno. Las autoridades existen para hacer cumplir la ley de inmigración, tomar decisiones sobre las solicitudes de residencia y emitir visas de residencia. Aunque la información básica y los formularios de solicitud están disponibles, las autoridades no pueden proporcionar asesoramiento independiente y orientación personalizada sobre tu caso específico. Un Agente de Migración Registrado en Australia puede proporcionar este tipo de servicio."
+      },
+      "myMigrationAgentHasAssessedMeAsBeingEligibleForResidence": {
+        "title": "MI AGENTE DE MIGRACIÓN ME HA EVALUADO COMO ELEGIBLE PARA LA RESIDENCIA EN AUSTRALIA. SI SOLICITO SIN SU AYUDA, ¿PUEDO ESTAR SEGURO DE ÉXITO?",
+        "content": "No. Aunque fundamentalmente puedes calificar bajo la política de inmigración, no se garantiza tu éxito. Tu solicitud debe prepararse de acuerdo con las regulaciones de inmigración vigentes y presentarse junto con la documentación de apoyo adecuada para ser aprobada por las autoridades de inmigración. Las formas de hacer esto no siempre están claramente establecidas por las autoridades de inmigración y resultan en muchos solicitantes presentando sus casos incorrectamente, inevitablemente llevando al rechazo. Por lo tanto, deberías considerar buscar el consejo de un Agente de Migración Registrado MARA."
+      },
+      "cta": "OBTÉN UNA EVALUACIÓN INICIAL GRATUITA DE TU ELEGIBILIDAD"
     }
 }

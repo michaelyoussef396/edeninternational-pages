@@ -559,5 +559,86 @@
     "migrationHeroSection": {
       "title": "MIGRACIJA",
       "highlightText": ""
+    },
+    "visaOptions": {
+      "title": "OPCIJE",
+      "highlightText": "VIZA",
+      "visitorVisa": {
+        "title": "Posjetiteljska viza",
+        "description": "Možete doći u Australiju iz razloga poput odmora, razgledavanja, društvenih ili rekreacijskih razloga, posjete rodbini, prijateljima."
+      },
+      "skilledVisa": {
+        "title": "Viza za kvalificirane radnike",
+        "description": "Opća kvalificirana migracija (GSM) ili vize za kvalificirane radnike je za ljude koji žele živjeti i raditi u Australiji na privremenoj ili stalnoj osnovi."
+      },
+      "sponsoredVisa": {
+        "title": "Sponzorirana viza",
+        "description": "Vize za sponzorirane poslodavce namijenjene su poslodavcima koji ne mogu popuniti radno mjesto australskim radnikom ili obukom australskih radnika."
+      },
+      "studentVisa": {
+        "title": "Studentska viza",
+        "description": "Postoji jedna klasa studentske vize (TU) s osam podrazreda viza. Sedam podrazreda viza odnosi se na specifične obrazovne sektore, a jedan se odnosi na skrbnike studenata."
+      },
+      "partnerVisa": {
+        "title": "Partnerska viza",
+        "description": "Partnerska viza namijenjena je ljudima koji su u braku, zaručeni ili u de facto vezi s australskim državljaninom ili kvalificiranim novozelandskim državljaninom i žele živjeti u Australiji."
+      },
+      "aatFederalCourt": {
+        "title": "AAT i Federalni sud",
+        "description": "Imamo tim profesionalnih odvjetnika i pravnika. Ako imate velike probleme, obratite nam se i moći ćemo riješiti vaše složene migracijske probleme."
+      }
+    },
+    "visaSpecialisations": {
+      "title": "VIZE U KOJIMA",
+      "highlightText": "SE SPECIJALIZIRAMO",
+      "temporarySkillShortageVisa": {
+        "title": "Privremena viza za nedostatak vještina",
+        "subclass": "Podrazred 482"
+      },
+      "trainingVisa": {
+        "title": "Viza za obuku",
+        "subclass": "Podrazred 407"
+      },
+      "skilledIndependentVisa": {
+        "title": "Kvalificirana neovisna viza",
+        "subclass": "Podrazred 189"
+      },
+      "skilledNominatedVisa": {
+        "title": "Kvalificirana nominirana viza",
+        "subclass": "Podrazred 190"
+      },
+      "skilledWorkRegionalVisa": {
+        "title": "Regionalna viza za kvalificirani rad",
+        "subclass": "Podrazred 491"
+      },
+      "sponsoredJobs": {
+        "title": "Sponzorirani poslovi",
+        "subclass": ""
+      }
+    },
+    "faqAccordion": {
+      "title": "Često postavljana",
+      "highlightText": "Pitanja",
+      "howDoIFindOutIfIAmEligibleToApply": {
+        "title": "KAKO MOGU SAZNATI JESAM LI PODOBAN ZA PRIJAVU?",
+        "content": "Kliknite ovdje za sažetak trenutnih australskih imigracijskih propisa. Zatim uzmite BESPLATNU početnu provjeru svoje podobnosti kako biste bili upućeni na MARA registriranog agenta za migracije."
+      },
+      "howLongDoesItTakeToGetAPermanentResidenceVisa": {
+        "title": "KOLIKO TRAJE DOBIVANJE STALNE VIZE ZA IMIGRACIJU U AUSTRALIJU?",
+        "content": "Svaka prijava je drugačija, a vrijeme obrade uvelike ovisi o vrsti vize koja se podnosi. Za najnovije smjernice za australska vremena obrade viza pogledajte Globalna vremena obrade viza i državljanstva na web stranici Odjela za imigraciju i zaštitu granica."
+      },
+      "canTheImmigrationAuthoritiesRefuseMyApplication": {
+        "title": "MOGU LI IMIGRACIJSKE VLASTI ODBITI MOJU PRIJAVU?",
+        "content": "Da. Iznenađujuće velik broj podnositelja zahtjeva nije svjestan koliko strogo se provode imigracijski propisi i često su nepotrebno odbijeni ili odgođeni zbog tehničkih pogrešaka u prijavi ili podnošenja pogrešne popratne dokumentacije. Dakle, moral priče je da razmislite o profesionalnom vodstvu i neovisnom savjetovanju MARA registriranog agenta za migracije prije podnošenja zahtjeva za stalni boravak. Agenti za migracije postoje kako bi vam pomogli pronaći najbolji način kroz imigracijski labirint i vrlo su učinkoviti u tome."
+      },
+      "willTheImmigrationAuthoritiesOrEmbassyHelpMeToPrepareMyApplication": {
+        "title": "HOĆE LI MI IMIGRACIJSKE VLASTI ILI AMBASADA POMOĆI PRIPREMATI MOJU PRIJAVU I OSIGURATI DA JE SVE ISPRAVNO PRIJE PRIJAVE?",
+        "content": "Ne. Ova vrsta usluge više se ne pruža od strane vlade. Vlasti postoje kako bi provodile imigracijski zakon, donosile odluke o prijavama za stalni boravak i izdavale vize za stalni boravak. Iako su osnovne informacije i obrasci za prijavu dostupni, vlasti nisu u mogućnosti pružiti neovisne savjete i personalizirane smjernice o vašem specifičnom slučaju. MARA registrirani agent za migracije može pružiti ovu vrstu usluge."
+      },
+      "myMigrationAgentHasAssessedMeAsBeingEligibleForResidence": {
+        "title": "MOJ AGENT ZA MIGRACIJE PROCJENIO JE DA SAM PODOBAN ZA STALNI BORAVAK U AUSTRALIJI. AKO SE PRIJAVIM BEZ NJEGOVE POMOĆI, MOGU LI BITI SIGURAN U USPJEH?",
+        "content": "Ne. Iako možda u osnovi ispunjavate uvjete prema imigracijskoj politici, to ne jamči uspjeh. Vaša prijava mora biti pripremljena u skladu s važećim imigracijskim propisima i podnesena zajedno s odgovarajućom popratnom dokumentacijom kako bi je imigracijske vlasti odobrile. Načini na koje to učiniti nisu uvijek jasno navedeni od strane imigracijskih vlasti i rezultiraju mnogim podnositeljima zahtjeva koji svoje slučajeve prikazuju nepravilno, što neizbježno dovodi do odbijanja. Stoga biste trebali razmotriti savjetovanje s MARA registriranim agentom za migracije."
+      },
+      "cta": "DOBITE BESPLATNU POČETNU PROCJENU VAŠE PODOBNOSTI"
     }
 }

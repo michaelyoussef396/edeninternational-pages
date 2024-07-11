@@ -559,6 +559,87 @@
   "migrationHeroSection": {
     "title": "migracja",
     "highlightText": ""
+  },
+  "visaOptions": {
+    "title": "WIZA",
+    "highlightText": "OPCJE",
+    "visitorVisa": {
+      "title": "Wiza Turystyczna",
+      "description": "Możesz przyjechać do Australii z powodów takich jak wakacje, zwiedzanie, cele towarzyskie lub rekreacyjne, odwiedzenie krewnych, przyjaciół."
+    },
+    "skilledVisa": {
+      "title": "Wiza Umiejętności",
+      "description": "Ogólna Migracja Umiejętności (GSM) lub Wizy Umiejętności są dla osób, które chcą mieszkać i pracować w Australii na podstawie czasowej lub stałej."
+    },
+    "sponsoredVisa": {
+      "title": "Wiza Sponsorowana",
+      "description": "Wizy Sponsorowane przez Pracodawcę są dla pracodawców, którzy nie mogą wypełnić stanowiska pracownikiem australijskim lub poprzez szkolenie pracowników australijskich."
+    },
+    "studentVisa": {
+      "title": "Wiza Studencka",
+      "description": "Istnieje jedna klasa wizy studenckiej (TU) z ośmioma podklasami wiz. Siedem podklas wiz dotyczy konkretnych sektorów edukacyjnych, a jedna dotyczy opiekunów studenckich."
+    },
+    "partnerVisa": {
+      "title": "Wiza Partnerska",
+      "description": "Wiza partnerska jest dla osób, które są małżeństwem, zaręczone lub w związku de facto z obywatelem Australii lub uprawnionym obywatelem Nowej Zelandii i chcą mieszkać w Australii."
+    },
+    "aatFederalCourt": {
+      "title": "AAT i Federalny Sąd",
+      "description": "Mamy zespół profesjonalnych prawników i adwokatów. Jeśli masz poważne problemy, skontaktuj się z nami, a będziemy w stanie rozwiązać Twoje skomplikowane problemy z migracją."
+    }
+  },
+  "visaSpecialisations": {
+    "title": "WIZY, W KTÓRYCH",
+    "highlightText": "SIĘ SPECJALIZUJEMY",
+    "temporarySkillShortageVisa": {
+      "title": "Wiza Tymczasowego Niedoboru Umiejętności",
+      "subclass": "Podklasa 482"
+    },
+    "trainingVisa": {
+      "title": "Wiza Szkoleniowa",
+      "subclass": "Podklasa 407"
+    },
+    "skilledIndependentVisa": {
+      "title": "Niezależna Wiza Umiejętności",
+      "subclass": "Podklasa 189"
+    },
+    "skilledNominatedVisa": {
+      "title": "Nominowana Wiza Umiejętności",
+      "subclass": "Podklasa 190"
+    },
+    "skilledWorkRegionalVisa": {
+      "title": "Regionalna Wiza Pracy Umiejętności",
+      "subclass": "Podklasa 491"
+    },
+    "sponsoredJobs": {
+      "title": "Sponsorowane Prace",
+      "subclass": ""
+    }
+  },
+  "faqAccordion": {
+    "title": "Często Zadawane",
+    "highlightText": "Pytania",
+    "howDoIFindOutIfIAmEligibleToApply": {
+      "title": "JAK MOGĘ SPRAWDZIĆ, CZY JESTEM KWALIFIKOWANY DO APLIKOWANIA?",
+      "content": "Proszę kliknąć tutaj, aby zobaczyć podsumowanie aktualnych przepisów imigracyjnych Australii. Następnie wykonaj BEZPŁATNĄ wstępną kontrolę swojej kwalifikacji, aby zostać skierowanym do zarejestrowanego agenta migracyjnego MARA."
+    },
+    "howLongDoesItTakeToGetAPermanentResidenceVisa": {
+      "title": "JAK DŁUGO TRWA UZYSKANIE WIZY STAŁEGO POBYTU, ABY EMIGROWAĆ DO AUSTRALII?",
+      "content": "Każde zgłoszenie jest inne, a czas przetwarzania w dużej mierze zależy od rodzaju wizy, o którą się ubiegasz. Aby uzyskać najnowsze wytyczne dotyczące czasu przetwarzania wiz australijskich, zobacz Globalne czasy przetwarzania wiz i obywatelstwa na stronie internetowej Departamentu Imigracji i Ochrony Granic."
+    },
+    "canTheImmigrationAuthoritiesRefuseMyApplication": {
+      "title": "CZY WŁADZE IMIGRACYJNE MOGĄ ODMÓWIĆ MOJEGO WNIOSKU?",
+      "content": "Tak. Zaskakująco duża liczba wnioskodawców nie zdaje sobie sprawy, jak ściśle przestrzegane są przepisy imigracyjne i często ich wnioski są niepotrzebnie odrzucane lub opóźniane z powodu błędów technicznych w ich wnioskach lub niewłaściwej dokumentacji wspierającej. Więc morał tej historii jest taki, że warto rozważyć profesjonalne wskazówki i niezależne porady zarejestrowanego agenta migracyjnego MARA przed złożeniem wniosku o pobyt. Agenci migracyjni istnieją, aby pomóc Ci znaleźć najlepszą drogę przez labirynt imigracyjny i są w tym wysoce skuteczni."
+    },
+    "willTheImmigrationAuthoritiesOrEmbassyHelpMeToPrepareMyApplication": {
+      "title": "CZY WŁADZE IMIGRACYJNE LUB AMBASADA POMOGĄ MI PRZYGOTOWAĆ WNIOSEK I UPEWNIĆ SIĘ, ŻE WSZYSTKO JEST POPRAWNE PRZED APLIKACJĄ?",
+      "content": "Nie. Ten rodzaj usługi nie jest już świadczony przez rząd. Władze istnieją, aby egzekwować prawo imigracyjne, podejmować decyzje w sprawie wniosków o pobyt i wydawać wizy na pobyt. Chociaż dostępne są podstawowe informacje i formularze zgłoszeniowe, władze nie mogą zapewnić niezależnych porad i spersonalizowanych wskazówek dotyczących Twojej konkretnej sprawy. Zarejestrowany agent migracyjny w Australii może świadczyć tego rodzaju usługi."
+    },
+    "myMigrationAgentHasAssessedMeAsBeingEligibleForResidence": {
+      "title": "MÓJ AGENT MIGRACYJNY OCENIŁ MNIE JAKO KWALIFIKOWANY DO POBYTU W AUSTRALII. JEŚLI ZŁOŻĘ WNIOSEK BEZ JEGO LUB JEJ POMOCY, CZY MOGĘ BYĆ PEWNY SUKCESU?",
+      "content": "Nie. Chociaż zasadniczo kwalifikujesz się zgodnie z polityką imigracyjną, nie masz gwarancji sukcesu. Twój wniosek musi być przygotowany zgodnie z obowiązującymi przepisami imigracyjnymi i złożony razem z odpowiednią dokumentacją wspierającą, aby został zatwierdzony przez władze imigracyjne. Sposoby na to nie zawsze są jasno określone przez władze imigracyjne i skutkują wieloma wnioskodawcami, którzy nieprawidłowo przedstawiają swoje sprawy, co nieuchronnie prowadzi do odrzucenia. Więc powinieneś rozważyć porady zarejestrowanego agenta migracyjnego MARA."
+    },
+    "cta": "UZYSKAJ BEZPŁATNĄ WSTĘPNĄ OCENĘ SWOJEJ KWALIFIKACJI"
   }
   }
   

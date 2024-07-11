@@ -559,5 +559,86 @@
     "migrationHeroSection": {
       "title": "MIGRATION",
       "highlightText": ""
+    },
+    "visaOptions": {
+      "title": "VISUM",
+      "highlightText": "OPTIONEN",
+      "visitorVisa": {
+        "title": "Besuchervisum",
+        "description": "Sie könnten aus Gründen wie Urlaub, Besichtigungen, sozialen oder Freizeitgründen, zum Besuch von Verwandten oder Freunden nach Australien kommen."
+      },
+      "skilledVisa": {
+        "title": "Qualifizierten Visum",
+        "description": "Allgemeine qualifizierte Migration (GSM) oder qualifizierte Visa sind für Menschen, die vorübergehend oder dauerhaft in Australien leben und arbeiten möchten."
+      },
+      "sponsoredVisa": {
+        "title": "Gesponserte Visa",
+        "description": "Arbeitgebergesponserte Visa sind für Arbeitgeber, die eine Position nicht mit einem australischen Arbeiter oder durch Schulung australischer Arbeiter besetzen können."
+      },
+      "studentVisa": {
+        "title": "Studentenvisum",
+        "description": "Es gibt eine Klasse von Studentenvisa (TU) mit acht Visa-Unterklassen. Sieben der Visa-Unterklassen beziehen sich auf spezifische Bildungssektoren und eine bezieht sich auf Studentenwächter."
+      },
+      "partnerVisa": {
+        "title": "Partnervisum",
+        "description": "Ein Partnervisum ist für Personen, die mit einem australischen Staatsbürger oder einem berechtigten neuseeländischen Staatsbürger verheiratet, verlobt oder in einer De-facto-Beziehung sind und in Australien leben möchten."
+      },
+      "aatFederalCourt": {
+        "title": "AAT & Bundesgericht",
+        "description": "Wir haben ein Team von professionellen Anwälten und Rechtsanwälten. Wenn Sie große Probleme haben, kontaktieren Sie uns bitte und wir werden in der Lage sein, Ihre komplexen Migrationsprobleme zu lösen."
+      }
+    },
+    "visaSpecialisations": {
+      "title": "VISA, AUF DIE WIR UNS SPEZIALISIEREN",
+      "highlightText": "",
+      "temporarySkillShortageVisa": {
+        "title": "Temporäres Fachkräftemangel-Visum",
+        "subclass": "Unterklasse 482"
+      },
+      "trainingVisa": {
+        "title": "Trainingsvisum",
+        "subclass": "Unterklasse 407"
+      },
+      "skilledIndependentVisa": {
+        "title": "Qualifizierte Unabhängige Visum",
+        "subclass": "Unterklasse 189"
+      },
+      "skilledNominatedVisa": {
+        "title": "Qualifizierte Nominierte Visum",
+        "subclass": "Unterklasse 190"
+      },
+      "skilledWorkRegionalVisa": {
+        "title": "Qualifizierte Arbeit Regionalvisum",
+        "subclass": "Unterklasse 491"
+      },
+      "sponsoredJobs": {
+        "title": "Gesponserte Jobs",
+        "subclass": ""
+      }
+    },
+    "faqAccordion": {
+      "title": "Häufig gestellte",
+      "highlightText": "Fragen",
+      "howDoIFindOutIfIAmEligibleToApply": {
+        "title": "WIE FINDE ICH HERAUS, OB ICH BERECHTIGT BIN, MICH ZU BEWERBEN?",
+        "content": "Bitte klicken Sie hier für eine Zusammenfassung der aktuellen australischen Einwanderungsvorschriften. Machen Sie dann eine KOSTENLOSE erste Überprüfung Ihrer Berechtigung, um an einen von MARA registrierten Migrationsagenten verwiesen zu werden."
+      },
+      "howLongDoesItTakeToGetAPermanentResidenceVisa": {
+        "title": "WIE LANGE DAUERT ES, EIN DAUERHAFTES AUFENTHALTSVISUM FÜR DIE EINWANDERUNG NACH AUSTRALIEN ZU ERHALTEN?",
+        "content": "Jeder Antrag ist unterschiedlich und die Bearbeitungszeiten hängen weitgehend von der Art des beantragten Visums ab. Für die aktuellen Richtlinien zu den Bearbeitungszeiten für australische Visa siehe Globale Visa- und Staatsbürgerschaftsbearbeitungszeiten auf der Website des Department of Immigration and Border Protection."
+      },
+      "canTheImmigrationAuthoritiesRefuseMyApplication": {
+        "title": "KÖNNEN DIE EINWANDERUNGSBEHÖRDEN MEINEN ANTRAG ABLEHNEN?",
+        "content": "Ja. Eine überraschend große Anzahl von Antragstellern ist sich nicht bewusst, wie streng die Einwanderungsvorschriften durchgesetzt werden, und werden oft unnötig abgelehnt oder verzögert, weil sie technische Fehler in ihrem Antrag gemacht haben oder die falschen unterstützenden Dokumente eingereicht haben. Die Moral der Geschichte ist also, die professionelle Anleitung und unabhängige Beratung eines von MARA registrierten Migrationsagenten in Betracht zu ziehen, bevor man einen Antrag auf Aufenthalt stellt. Migrationsagenten existieren, um Ihnen zu helfen, den besten Weg durch das Einwanderungslabyrinth zu finden, und sind dabei sehr effektiv."
+      },
+      "willTheImmigrationAuthoritiesOrEmbassyHelpMeToPrepareMyApplication": {
+        "title": "WERDEN DIE EINWANDERUNGSBEHÖRDEN ODER DIE BOTSCHAFT MIR HELFEN, MEINEN ANTRAG VORZUBEREITEN UND SICHERZUSTELLEN, DASS ALLES RICHTIG IST, BEVOR ICH MICH BEWERBE?",
+        "content": "Nein. Diese Art von Service wird nicht mehr von der Regierung bereitgestellt. Die Behörden existieren, um das Einwanderungsgesetz durchzusetzen, Entscheidungen über Aufenthaltsanträge zu treffen und Aufenthaltsvisa auszustellen. Obwohl grundlegende Informationen und Antragsformulare verfügbar sind, können die Behörden keine unabhängige Beratung und persönliche Anleitung zu Ihrem spezifischen Fall geben. Ein australischer registrierter Migrationsagent kann diese Art von Service anbieten."
+      },
+      "myMigrationAgentHasAssessedMeAsBeingEligibleForResidence": {
+        "title": "MEIN MIGRATIONAGENT HAT MICH ALS BERECHTIGT FÜR DEN AUFENTHALT IN AUSTRALIEN BEURTEILT. WENN ICH MICH OHNE SEINE HILFE BEWERBE, KANN ICH DANN ERFOLG HABEN?",
+        "content": "Nein. Obwohl Sie grundsätzlich unter der Einwanderungspolitik qualifizieren, sind Sie keineswegs garantiert erfolgreich. Ihr Antrag muss gemäß den geltenden Einwanderungsvorschriften vorbereitet und zusammen mit den entsprechenden unterstützenden Dokumenten eingereicht werden, um von den Einwanderungsbehörden genehmigt zu werden. Die Methoden, dies zu tun, sind nicht immer klar von den Einwanderungsbehörden festgelegt und führen dazu, dass viele Antragsteller ihre Fälle falsch präsentieren, was unvermeidlich zu einer Ablehnung führt. Sie sollten also die Beratung eines von MARA registrierten Migrationsagenten in Betracht ziehen."
+      },
+      "cta": "ERHALTEN SIE EINE KOSTENLOSE ERSTE BEWERTUNG IHRER EIGNUNG"
     }
 }

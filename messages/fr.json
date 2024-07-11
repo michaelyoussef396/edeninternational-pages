@@ -559,5 +559,86 @@
     "migrationHeroSection": {
       "title": "MIGRATION",
       "highlightText": ""
+    },
+    "visaOptions": {
+      "title": "OPTIONS DE",
+      "highlightText": "VISA",
+      "visitorVisa": {
+        "title": "Visa Visiteur",
+        "description": "Vous pourriez venir en Australie pour des raisons telles que des vacances, des visites touristiques, des raisons sociales ou récréatives, pour rendre visite à des parents, des amis."
+      },
+      "skilledVisa": {
+        "title": "Visa Qualifié",
+        "description": "La Migration Qualifiée Générale (GSM) ou les Visas Qualifiés sont destinés aux personnes qui souhaitent vivre et travailler en Australie de manière temporaire ou permanente."
+      },
+      "sponsoredVisa": {
+        "title": "Visa Sponsorisée",
+        "description": "Les Visas Sponsorisés par l'Employeur sont destinés aux employeurs qui ne peuvent pas pourvoir un poste avec un travailleur australien ou en formant des travailleurs australiens."
+      },
+      "studentVisa": {
+        "title": "Visa Étudiant",
+        "description": "Il existe une classe de visa étudiant (TU) avec huit sous-classes de visa. Sept des sous-classes de visa concernent des secteurs éducatifs spécifiques et une concerne les tuteurs étudiants."
+      },
+      "partnerVisa": {
+        "title": "Visa Partenaire",
+        "description": "Un visa partenaire est destiné aux personnes mariées, fiancées ou en relation de fait avec un citoyen australien ou un citoyen néo-zélandais éligible et qui souhaitent vivre en Australie."
+      },
+      "aatFederalCourt": {
+        "title": "AAT & Cour Fédérale",
+        "description": "Nous avons une équipe d'avocats professionnels et de conseillers juridiques. Si vous avez des problèmes majeurs, veuillez nous contacter et nous serons en mesure de résoudre vos problèmes complexes de migration."
+      }
+    },
+    "visaSpecialisations": {
+      "title": "VISAS QUE NOUS",
+      "highlightText": "SPÉCIALISONS",
+      "temporarySkillShortageVisa": {
+        "title": "Visa de Pénurie de Compétences Temporaires",
+        "subclass": "Sous-classe 482"
+      },
+      "trainingVisa": {
+        "title": "Visa de Formation",
+        "subclass": "Sous-classe 407"
+      },
+      "skilledIndependentVisa": {
+        "title": "Visa Indépendant Qualifié",
+        "subclass": "Sous-classe 189"
+      },
+      "skilledNominatedVisa": {
+        "title": "Visa Nominé Qualifié",
+        "subclass": "Sous-classe 190"
+      },
+      "skilledWorkRegionalVisa": {
+        "title": "Visa de Travail Régional Qualifié",
+        "subclass": "Sous-classe 491"
+      },
+      "sponsoredJobs": {
+        "title": "Emplois Sponsorisés",
+        "subclass": ""
+      }
+    },
+    "faqAccordion": {
+      "title": "Questions Fréquemment",
+      "highlightText": "Posées",
+      "howDoIFindOutIfIAmEligibleToApply": {
+        "title": "COMMENT SAVOIR SI JE SUIS ÉLIGIBLE POUR POSTULER?",
+        "content": "Veuillez cliquer ici pour un résumé des réglementations actuelles en matière d'immigration en Australie. Ensuite, faites une vérification initiale GRATUITE de votre éligibilité pour être référé à un agent de migration enregistré MARA."
+      },
+      "howLongDoesItTakeToGetAPermanentResidenceVisa": {
+        "title": "COMBIEN DE TEMPS FAUT-IL POUR OBTENIR UN VISA DE RÉSIDENCE PERMANENTE POUR IMMIGRER EN AUSTRALIE?",
+        "content": "Chaque demande est différente et les délais de traitement dépendent en grande partie du type de visa demandé. Pour les directives les plus récentes sur les délais de traitement des visas australiens, consultez les délais mondiaux de traitement des visas et de citoyenneté sur le site Web du Département de l'Immigration et de la Protection des Frontières."
+      },
+      "canTheImmigrationAuthoritiesRefuseMyApplication": {
+        "title": "LES AUTORITÉS D'IMMIGRATION PEUVENT-ELLES REFUSER MA DEMANDE?",
+        "content": "Oui. Un nombre étonnamment élevé de demandeurs ignorent à quel point les réglementations en matière d'immigration sont strictement appliquées et sont souvent refusés ou retardés inutilement en raison d'erreurs techniques sur leur demande ou en soumettant les mauvais documents justificatifs. Donc, la morale de l'histoire est de envisager de chercher les conseils professionnels et indépendants d'un agent de migration enregistré MARA avant de déposer une demande de résidence. Les agents de migration existent pour vous aider à trouver la meilleure façon de traverser le labyrinthe de l'immigration et sont très efficaces pour le faire."
+      },
+      "willTheImmigrationAuthoritiesOrEmbassyHelpMeToPrepareMyApplication": {
+        "title": "LES AUTORITÉS D'IMMIGRATION OU L'AMBASSADE M'AIDERONT-ELLES À PRÉPARER MA DEMANDE ET À M'ASSURER QUE TOUT EST CORRECT AVANT DE POSTULER?",
+        "content": "Non. Ce type de service n'est plus fourni par le gouvernement. Les autorités existent pour appliquer la loi sur l'immigration, prendre des décisions sur les demandes de résidence et délivrer des visas de résidence. Bien que des informations de base et des formulaires de demande soient disponibles, les autorités ne peuvent pas fournir de conseils indépendants et de guidance personnalisée sur votre cas spécifique. Un agent de migration enregistré en Australie peut fournir ce type de service."
+      },
+      "myMigrationAgentHasAssessedMeAsBeingEligibleForResidence": {
+        "title": "MON AGENT DE MIGRATION M'A ÉVALUÉ COMME ÉTANT ÉLIGIBLE POUR LA RÉSIDENCE EN AUSTRALIE. SI JE POSTULE SANS SON AIDE, PUIS-JE ÊTRE ASSURÉ DE RÉUSSITE?",
+        "content": "Non. Bien que vous puissiez fondamentalement remplir les conditions de la politique d'immigration, vous n'êtes pas pour autant garanti de réussir. Votre demande doit être préparée conformément aux réglementations d'immigration en vigueur et soumise avec les documents justificatifs appropriés pour être approuvée par les autorités d'immigration. Les moyens d'y parvenir ne sont pas toujours clairement énoncés par les autorités d'immigration et entraînent de nombreux demandeurs à présenter leurs dossiers de manière incorrecte, ce qui conduit inévitablement à un refus. Vous devriez donc envisager de demander les conseils d'un agent de migration enregistré MARA."
+      },
+      "cta": "OBTENEZ UNE ÉVALUATION INITIALE GRATUITE DE VOTRE ÉLIGIBILITÉ"
     }
 }

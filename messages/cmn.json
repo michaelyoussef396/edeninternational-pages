@@ -559,5 +559,86 @@
     "migrationHeroSection": {
       "title": "移民",
       "highlightText": ""
+    },
+    "visaOptions": {
+      "title": "签证",
+      "highlightText": "选项",
+      "visitorVisa": {
+        "title": "访客签证",
+        "description": "您可能会因为度假、观光、社交或娱乐原因、探亲访友而来到澳大利亚。"
+      },
+      "skilledVisa": {
+        "title": "技术签证",
+        "description": "一般技术移民 (GSM) 或技术签证适用于希望在澳大利亚临时或永久居住和工作的人员。"
+      },
+      "sponsoredVisa": {
+        "title": "赞助签证",
+        "description": "雇主赞助签证适用于无法通过培训澳大利亚工人来填补职位的雇主。"
+      },
+      "studentVisa": {
+        "title": "学生签证",
+        "description": "有一个学生签证类别（TU），有八个子类。七个签证子类与特定的教育部门相关，一个与学生监护人相关。"
+      },
+      "partnerVisa": {
+        "title": "配偶签证",
+        "description": "配偶签证适用于与澳大利亚公民或符合条件的新西兰公民结婚、订婚或同居并希望在澳大利亚居住的人。"
+      },
+      "aatFederalCourt": {
+        "title": "AAT & 联邦法院",
+        "description": "我们有一支专业律师和律师团队。如果您有重大问题，请联系我们，我们将能够解决您的复杂移民问题。"
+      }
+    },
+    "visaSpecialisations": {
+      "title": "我们专门处理的签证",
+      "highlightText": "签证",
+      "temporarySkillShortageVisa": {
+        "title": "临时技能短缺签证",
+        "subclass": "子类 482"
+      },
+      "trainingVisa": {
+        "title": "培训签证",
+        "subclass": "子类 407"
+      },
+      "skilledIndependentVisa": {
+        "title": "独立技术签证",
+        "subclass": "子类 189"
+      },
+      "skilledNominatedVisa": {
+        "title": "技术提名签证",
+        "subclass": "子类 190"
+      },
+      "skilledWorkRegionalVisa": {
+        "title": "技术工作地区签证",
+        "subclass": "子类 491"
+      },
+      "sponsoredJobs": {
+        "title": "赞助工作",
+        "subclass": ""
+      }
+    },
+    "faqAccordion": {
+      "title": "常见问题",
+      "highlightText": "问题",
+      "howDoIFindOutIfIAmEligibleToApply": {
+        "title": "如何知道我是否有资格申请？",
+        "content": "请点击此处查看当前澳大利亚移民法规的摘要。然后进行免费的初步资格检查，以便将您转介给 MARA 注册移民代理。"
+      },
+      "howLongDoesItTakeToGetAPermanentResidenceVisa": {
+        "title": "获得永久居留签证需要多长时间？",
+        "content": "每个申请都不同，处理时间主要取决于申请的签证类型。有关澳大利亚签证处理时间的最新指南，请参阅移民和边境保护部网站上的全球签证和公民身份处理时间。"
+      },
+      "canTheImmigrationAuthoritiesRefuseMyApplication": {
+        "title": "移民当局可以拒绝我的申请吗？",
+        "content": "可以。许多申请人不知道移民法规的严格执行，并且由于申请中的技术错误或提交错误的支持文件，往往不必要地被拒绝或延迟。因此，考虑在提交居留申请之前寻求 MARA 注册移民代理的专业指导和独立建议是很有必要的。移民代理的存在是为了帮助您找到通过移民迷宫的最佳方式，并且在这一点上非常有效。"
+      },
+      "willTheImmigrationAuthoritiesOrEmbassyHelpMeToPrepareMyApplication": {
+        "title": "移民当局或大使馆会帮助我准备申请并确保申请前一切正确吗？",
+        "content": "不会。政府不再提供此类服务。有关当局的职责是执行移民法律、对居留申请做出决定并签发居留签证。虽然提供了基本信息和申请表格，但有关当局无法提供关于您具体案例的独立建议和个性化指导。澳大利亚注册移民代理可以提供这种服务。"
+      },
+      "myMigrationAgentHasAssessedMeAsBeingEligibleForResidence": {
+        "title": "我的移民代理已评估我有资格在澳大利亚居住。如果我在没有他的帮助下申请，是否可以确定成功？",
+        "content": "不可以。虽然您可能基本符合移民政策，但并不能保证成功。您的申请必须根据现行的移民法规准备，并与适当的支持文件一起提交，以获得移民当局的批准。如何做到这一点并未在移民当局的指导中明确规定，这导致许多申请人错误地呈现他们的案件，最终导致拒绝。因此，您应该考虑寻求 MARA 注册移民代理的建议。"
+      },
+      "cta": "免费评估您的资格"
     }
 }

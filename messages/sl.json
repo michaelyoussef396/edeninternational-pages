@@ -559,6 +559,87 @@
   "migrationHeroSection": {
     "title": "migracije",
     "highlightText": ""
+  },
+  "visaOptions": {
+    "title": "VISA",
+    "highlightText": "MOŽNOSTI",
+    "visitorVisa": {
+      "title": "Obiskovalna Viza",
+      "description": "Morda boste prišli v Avstralijo iz razlogov, kot so počitnice, ogledovanje znamenitosti, socialni ali rekreacijski razlogi, obisk sorodnikov, prijateljev."
+    },
+    "skilledVisa": {
+      "title": "Viza za veščine",
+      "description": "Splošna migracija veščin (GSM) ali Vize za veščine so namenjene ljudem, ki želijo živeti in delati v Avstraliji začasno ali trajno."
+    },
+    "sponsoredVisa": {
+      "title": "Sponzorirana Viza",
+      "description": "Vize, ki jih sponzorira delodajalec, so namenjene delodajalcem, ki ne morejo zapolniti delovnega mesta z avstralskim delavcem ali z usposabljanjem avstralskih delavcev."
+    },
+    "studentVisa": {
+      "title": "Študentska Viza",
+      "description": "Obstaja ena študentska viza (TU) z osmimi podrazredi viz. Sedem podrazredov viz se nanaša na določene izobraževalne sektorje, en pa se nanaša na skrbnike študentov."
+    },
+    "partnerVisa": {
+      "title": "Partnerska Viza",
+      "description": "Partnerska viza je za ljudi, ki so poročeni, zaročeni ali v de facto razmerju z avstralskim državljanom ali upravičenim državljanom Nove Zelandije in želijo živeti v Avstraliji."
+    },
+    "aatFederalCourt": {
+      "title": "AAT in Zvezno Sodišče",
+      "description": "Imamo ekipo profesionalnih odvetnikov in pravnikov. Če imate večje težave, nas prosimo kontaktirajte in rešili bomo vaše zapletene migracijske težave."
+    }
+  },
+  "visaSpecialisations": {
+    "title": "VIZE, V KATERIH",
+    "highlightText": "SE SPECIALIZIRAMO",
+    "temporarySkillShortageVisa": {
+      "title": "Začasna Viza za Pomanjkanje veščin",
+      "subclass": "Podrazred 482"
+    },
+    "trainingVisa": {
+      "title": "Trenutna Viza",
+      "subclass": "Podrazred 407"
+    },
+    "skilledIndependentVisa": {
+      "title": "Neodvisna Viza za veščine",
+      "subclass": "Podrazred 189"
+    },
+    "skilledNominatedVisa": {
+      "title": "Nominirana Viza za veščine",
+      "subclass": "Podrazred 190"
+    },
+    "skilledWorkRegionalVisa": {
+      "title": "Regionalna Viza za delo za veščine",
+      "subclass": "Podrazred 491"
+    },
+    "sponsoredJobs": {
+      "title": "Sponzorirana dela",
+      "subclass": ""
+    }
+  },
+  "faqAccordion": {
+    "title": "Pogosto Zastavljena",
+    "highlightText": "Vprašanja",
+    "howDoIFindOutIfIAmEligibleToApply": {
+      "title": "KAKO IZVEM, ČE SEM UPRAVIČEN ZA PRIJAVO?",
+      "content": "Kliknite tukaj za povzetek trenutnih avstralskih migracijskih predpisov. Nato opravite BREZPLAČNO začetno preverjanje svoje upravičenosti, da boste napoteni k registriranemu agentu za migracijo MARA."
+    },
+    "howLongDoesItTakeToGetAPermanentResidenceVisa": {
+      "title": "KOLIKO ČASA TRAJA PRIDOBITEV VIZE ZA STALNO PREBIVANJE ZA IMIGRACIJO V AVSTRALIJO?",
+      "content": "Vsaka prijava je drugačna, čas obdelave pa je v veliki meri odvisen od vrste vize, za katero se prijavljate. Za najnovejše smernice glede časa obdelave avstralskih viz glejte Globalne čase obdelave viz in državljanstva na spletni strani avstralskega oddelka za migracijo in zaščito meja."
+    },
+    "canTheImmigrationAuthoritiesRefuseMyApplication": {
+      "title": "ALI LAHKO IMIGRACIJSKI ORGANI ZAVRNEJO MOJO PRIJAVO?",
+      "content": "Da. Presenetljivo veliko število prijaviteljev se ne zaveda, kako strogo se spoštujejo migracijski predpisi, in pogosto so njihovi zahtevki neupravičeno zavrnjeni ali zavlačevani zaradi tehničnih napak na njihovih prijavah ali zaradi predložitve napačne podporne dokumentacije. Torej, moral te zgodbe je, da razmislite o strokovnih nasvetih in neodvisnih nasvetih registriranega agenta za migracijo MARA, preden vložite prijavo za prebivanje. Agenti za migracijo obstajajo, da vam pomagajo najti najboljšo pot skozi migracijski labirint in so pri tem zelo učinkoviti."
+    },
+    "willTheImmigrationAuthoritiesOrEmbassyHelpMeToPrepareMyApplication": {
+      "title": "ALI MI BODO IMIGRACIJSKI ORGANI ALI AMBASADA POMAGALI PRIPRAVITI MOJO PRIJAVO IN SE PREPRIČATI, DA JE VSE PRAVILNO PRED PRIJAVO?",
+      "content": "Ne. Ta vrsta storitve ni več na voljo s strani vlade. Organi obstajajo za uveljavljanje migracijskega prava, sprejemanje odločitev o prošnjah za prebivanje in izdajanje viz za prebivanje. Čeprav so na voljo osnovne informacije in obrazci za prijavo, organi ne morejo zagotoviti neodvisnih nasvetov in prilagojenih smernic za vaš primer. Registrirani agent za migracijo v Avstraliji lahko zagotovi to vrsto storitev."
+    },
+    "myMigrationAgentHasAssessedMeAsBeingEligibleForResidence": {
+      "title": "MOJ AGENT ZA MIGRACIJO ME JE OCENIL KOT UPRAVIČENEGA ZA PREBIVANJE V AVSTRALIJI. ČE SE PRIJAVIM BREZ NJEGOVE POMOČI, ALI LAHKO ZAGOTOVIM USPEH?",
+      "content": "Ne. Čeprav se po pravilih migracijske politike kvalificirate, nimate zagotovljenega uspeha. Vaša prijava mora biti pripravljena v skladu z veljavnimi migracijskimi predpisi in predložena skupaj z ustrezno podporno dokumentacijo, da jo odobrijo migracijski organi. Načini za to niso vedno jasno določeni s strani migracijskih organov, kar vodi do tega, da mnogi prijavitelji napačno predstavijo svoje primere, kar neizogibno vodi do zavrnitve. Torej bi morali razmisliti o nasvetih registriranega agenta za migracijo MARA."
+    },
+    "cta": "PRIDOBITE BREZPLAČNO ZAČETNO OCENO SVOJE UPRAVIČENOSTI"
   }
   }
   

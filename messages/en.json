@@ -559,5 +559,86 @@
   "migrationHeroSection": {
     "title": "MIGRATION",
     "highlightText": ""
+  },
+  "visaOptions": {
+    "title": "VISA",
+    "highlightText": "OPTIONS",
+    "visitorVisa": {
+      "title": "Visitor Visa",
+      "description": "You might come to Australia for reasons such as holidays, sightseeing, social or recreational reasons, to visit relatives, friends."
+    },
+    "skilledVisa": {
+      "title": "Skilled Visa",
+      "description": "General Skilled Migration (GSM) or Skilled Visas is for people who want to live and work in Australia on a temporary or permanent basis."
+    },
+    "sponsoredVisa": {
+      "title": "Sponsored Visa",
+      "description": "Employer Sponsored Visas are for employers who cannot fill a position with an Australian worker or by training Australian workers."
+    },
+    "studentVisa": {
+      "title": "Student Visa",
+      "description": "There is one student visa class (TU) with eight visa subclasses. Seven of the visa subclasses relate to specific educational sectors and one relates to student guardians."
+    },
+    "partnerVisa": {
+      "title": "Partner Visa",
+      "description": "A partner visa is for people who are married, engaged, or in a de facto relationship with an Australian citizen or eligible New Zealand citizen and want to live in Australia."
+    },
+    "aatFederalCourt": {
+      "title": "AAT & Federal Court",
+      "description": "We have a team of professional lawyers and solicitors. If you have major issues, please contact us and we will be able to solve your complex migration problems."
+    }
+  },
+  "visaSpecialisations": {
+    "title": "VISAS WE",
+    "highlightText": "SPECIALISE IN",
+    "temporarySkillShortageVisa": {
+      "title": "Temporary Skill Shortage Visa",
+      "subclass": "Subclass 482"
+    },
+    "trainingVisa": {
+      "title": "Training Visa",
+      "subclass": "Subclass 407"
+    },
+    "skilledIndependentVisa": {
+      "title": "Skilled Independent Visa",
+      "subclass": "Subclass 189"
+    },
+    "skilledNominatedVisa": {
+      "title": "Skilled Nominated Visa",
+      "subclass": "Subclass 190"
+    },
+    "skilledWorkRegionalVisa": {
+      "title": "Skilled Work Regional Visa",
+      "subclass": "Subclass 491"
+    },
+    "sponsoredJobs": {
+      "title": "Sponsored Jobs",
+      "subclass": ""
+    }
+  },
+  "faqAccordion": {
+    "title": "Frequently Asked",
+    "highlightText": "Questions",
+    "howDoIFindOutIfIAmEligibleToApply": {
+      "title": "HOW DO I FIND OUT IF I AM ELIGIBLE TO APPLY?",
+      "content": "Please click here for a summary of the current Australian immigration regulations. Then take a FREE initial check of your eligibility to be referred to a MARA Registered Migration Agent."
+    },
+    "howLongDoesItTakeToGetAPermanentResidenceVisa": {
+      "title": "HOW LONG DOES IT TAKE TO GET A PERMANENT RESIDENCE VISA TO IMMIGRATE TO AUSTRALIA?",
+      "content": "Every application is different and processing times largely depend on the type of visa being applied for. For the most recent guidelines for Australian visa processing times, see Global visa and citizenship processing times on the Department of Immigration and Border Protection website."
+    },
+    "canTheImmigrationAuthoritiesRefuseMyApplication": {
+      "title": "CAN THE IMMIGRATION AUTHORITIES REFUSE MY APPLICATION?",
+      "content": "Yes. A surprisingly large number of applicants are unaware how strictly the immigration regulations are enforced and are often unnecessarily refused or delayed due to technical errors on their application or by submitting the wrong supporting documentation. So the moral of the story is to consider seeking the professional guidance and independent advice of a MARA Registered Migration Agent before lodging an application for residence. Migration Agents exist to help you find the best way through the immigration maze and are highly effective in doing so."
+    },
+    "willTheImmigrationAuthoritiesOrEmbassyHelpMeToPrepareMyApplication": {
+      "title": "WILL THE IMMIGRATION AUTHORITIES OR EMBASSY HELP ME TO PREPARE MY APPLICATION AND MAKE SURE THAT EVERYTHING IS CORRECT BEFORE APPLYING?",
+      "content": "No. This type of service is no longer provided by Government. The authorities exist to enforce the immigration law, make decisions on residence applications and to issue residence visas. Although basic information and application forms are available, the authorities are unable to provide independent advice and personalized guidance on your specific case. An Australian Registered Migration Agent can provide this kind of service."
+    },
+    "myMigrationAgentHasAssessedMeAsBeingEligibleForResidence": {
+      "title": "MY MIGRATION AGENT HAS ASSESSED ME AS BEING ELIGIBLE FOR RESIDENCE IN AUSTRALIA. IF I APPLY WITHOUT HIS OR HER HELP, CAN I BE CERTAIN OF SUCCESS?",
+      "content": "No. Although you may fundamentally qualify under the immigration policy, you are by no means guaranteed of success. Your application must be prepared in accordance with the prevailing immigration regulations and submitted together with the appropriate supporting documentation in order to be approved by the immigration authorities. The ways in which to do this are not always clearly set out by the immigration authorities and result in many applicants presenting their cases incorrectly, inevitably leading to refusal. So you should consider seeking the advice of a MARA Registered Migration Agent."
+    },
+    "cta": "GET A FREE INITIAL ASSESSMENT OF YOUR ELIGIBILITY"
   }
 }

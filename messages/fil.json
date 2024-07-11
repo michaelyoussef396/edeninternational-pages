@@ -559,5 +559,86 @@
     "migrationHeroSection": {
       "title": "MIGRASYON",
       "highlightText": ""
+    },
+    "visaOptions": {
+      "title": "MGA OPSYON NG VISA",
+      "highlightText": "MGA VISA",
+      "visitorVisa": {
+        "title": "Visitor Visa",
+        "description": "Maaari kang pumunta sa Australia para sa mga kadahilanan tulad ng bakasyon, pamamasyal, panlipunan o recreational na mga dahilan, upang bisitahin ang mga kamag-anak, kaibigan."
+      },
+      "skilledVisa": {
+        "title": "Skilled Visa",
+        "description": "Ang General Skilled Migration (GSM) o Skilled Visas ay para sa mga tao na nais manirahan at magtrabaho sa Australia sa isang pansamantala o permanenteng batayan."
+      },
+      "sponsoredVisa": {
+        "title": "Sponsored Visa",
+        "description": "Ang Employer Sponsored Visas ay para sa mga employer na hindi makapagpunan ng isang posisyon sa pamamagitan ng isang Australian worker o sa pamamagitan ng pagsasanay sa mga Australian worker."
+      },
+      "studentVisa": {
+        "title": "Student Visa",
+        "description": "Mayroong isang student visa class (TU) na may walong visa subclasses. Pito sa mga visa subclasses ay nauugnay sa mga partikular na sektor ng edukasyon at isa ay nauugnay sa mga student guardians."
+      },
+      "partnerVisa": {
+        "title": "Partner Visa",
+        "description": "Ang partner visa ay para sa mga tao na kasal, engaged, o nasa de facto na relasyon sa isang Australian citizen o eligible New Zealand citizen at nais manirahan sa Australia."
+      },
+      "aatFederalCourt": {
+        "title": "AAT & Federal Court",
+        "description": "Mayroon kaming team ng mga propesyonal na abogado at solicitor. Kung mayroon kang mga pangunahing isyu, mangyaring makipag-ugnayan sa amin at makakatulong kami sa paglutas ng iyong mga komplikadong problema sa migration."
+      }
+    },
+    "visaSpecialisations": {
+      "title": "MGA VISA NA",
+      "highlightText": "ESPESYALIDAD NAMIN",
+      "temporarySkillShortageVisa": {
+        "title": "Temporary Skill Shortage Visa",
+        "subclass": "Subclass 482"
+      },
+      "trainingVisa": {
+        "title": "Training Visa",
+        "subclass": "Subclass 407"
+      },
+      "skilledIndependentVisa": {
+        "title": "Skilled Independent Visa",
+        "subclass": "Subclass 189"
+      },
+      "skilledNominatedVisa": {
+        "title": "Skilled Nominated Visa",
+        "subclass": "Subclass 190"
+      },
+      "skilledWorkRegionalVisa": {
+        "title": "Skilled Work Regional Visa",
+        "subclass": "Subclass 491"
+      },
+      "sponsoredJobs": {
+        "title": "Sponsored Jobs",
+        "subclass": ""
+      }
+    },
+    "faqAccordion": {
+      "title": "Mga Madalas na Itanong",
+      "highlightText": "Mga Tanong",
+      "howDoIFindOutIfIAmEligibleToApply": {
+        "title": "PAANO KO MALALAMAN KUNG AKO AY KARAPAT-DAPAT NA MAG-APPLY?",
+        "content": "Mangyaring mag-click dito para sa buod ng kasalukuyang mga regulasyon sa imigrasyon ng Australia. Pagkatapos ay kumuha ng LIBRENG paunang pagsusuri ng iyong karapat-dapat na maisangguni sa isang MARA Registered Migration Agent."
+      },
+      "howLongDoesItTakeToGetAPermanentResidenceVisa": {
+        "title": "GAANO KATAGAL ANG PAGKUHA NG PERMANENT RESIDENCE VISA PARA MIGRATE SA AUSTRALIA?",
+        "content": "Ang bawat aplikasyon ay magkakaiba at ang oras ng pagproseso ay nakasalalay sa uri ng visa na ina-applyan. Para sa pinakabagong mga alituntunin para sa mga oras ng pagproseso ng Australian visa, tingnan ang Global visa and citizenship processing times sa website ng Department of Immigration and Border Protection."
+      },
+      "canTheImmigrationAuthoritiesRefuseMyApplication": {
+        "title": "MAAARI BANG TANGGIHAN NG MGA AWTORIDAD SA IMIGRASYON ANG AKING APLIKASYON?",
+        "content": "Oo. Maraming aplikante ang hindi alam kung gaano ka-strict ang mga regulasyon sa imigrasyon at madalas na tinatanggihan o nadedelay dahil sa mga teknikal na error sa kanilang aplikasyon o sa pamamagitan ng pagsumite ng maling mga suportang dokumento. Kaya't ang moral ng kwento ay isaalang-alang ang paghahanap ng propesyonal na gabay at independiyenteng payo ng isang MARA Registered Migration Agent bago magsumite ng aplikasyon para sa residence. Ang mga Migration Agent ay nandiyan upang tulungan kang hanapin ang pinakamahusay na paraan sa immigration maze at sila ay napaka-epektibo sa paggawa nito."
+      },
+      "willTheImmigrationAuthoritiesOrEmbassyHelpMeToPrepareMyApplication": {
+        "title": "TUTULUNGAN BA AKO NG MGA AWTORIDAD SA IMIGRASYON O EMBASSY SA PAGHAHANDA NG AKING APLIKASYON AT TINIYAK NA ANG LAHAT AY TAMA BAGO MAG-APPLY?",
+        "content": "Hindi. Ang ganitong uri ng serbisyo ay hindi na ibinibigay ng Gobyerno. Ang mga awtoridad ay naroroon upang ipatupad ang batas sa imigrasyon, gumawa ng mga desisyon sa mga aplikasyon ng residence at magbigay ng mga residence visa. Bagaman ang mga pangunahing impormasyon at mga form ng aplikasyon ay magagamit, ang mga awtoridad ay hindi maaaring magbigay ng independiyenteng payo at personalized na gabay sa iyong partikular na kaso. Isang Australian Registered Migration Agent ang maaaring magbigay ng ganitong uri ng serbisyo."
+      },
+      "myMigrationAgentHasAssessedMeAsBeingEligibleForResidence": {
+        "title": "ANG AKING MIGRATION AGENT AY TINASA AKO BILANG KARAPAT-DAPAT PARA SA RESIDENCE SA AUSTRALIA. KUNG MAG-APPLY AKO NANG WALANG KANYANG TULONG, MAKAKATIYAK BA AKO NG TAGUMPAY?",
+        "content": "Hindi. Bagaman maaaring kwalipikado ka sa ilalim ng immigration policy, hindi ka garantisado ng tagumpay. Ang iyong aplikasyon ay dapat ihanda ayon sa mga umiiral na regulasyon sa imigrasyon at isumite kasama ang angkop na mga suportang dokumento upang maaprubahan ng mga awtoridad sa imigrasyon. Ang mga paraan kung paano ito gagawin ay hindi laging malinaw na inilalatag ng mga awtoridad sa imigrasyon at nagreresulta sa maraming aplikante na hindi tama ang pag-presenta ng kanilang mga kaso, na nagreresulta sa pagtanggi. Kaya't dapat isaalang-alang ang paghingi ng payo ng isang MARA Registered Migration Agent."
+      },
+      "cta": "KUMUHA NG LIBRENG PAUNANG PAGSUSURI NG IYONG KARAPAT-DAPAT"
     }
 }

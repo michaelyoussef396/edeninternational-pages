@@ -54,7 +54,10 @@ export interface LocaleLayoutProps {
     buttonText: string;
     buttonLink: string;
   }
-  
+  export interface AccordionItemProps {
+    title: string;
+    content: string;
+  }
   export interface InvertedContentSectionProps {
     title: string;
     highlightText: string;

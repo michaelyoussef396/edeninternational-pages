@@ -559,5 +559,86 @@
   "migrationHeroSection": {
     "title": "GÖÇ",
     "highlightText": ""
+  },
+  "visaOptions": {
+    "title": "VİZE",
+    "highlightText": "SEÇENEKLERİ",
+    "visitorVisa": {
+      "title": "Ziyaretçi Vizesi",
+      "description": "Avustralya'ya tatil, gezi, sosyal veya rekreasyonel nedenlerle, akrabaları, arkadaşları ziyaret etmek için gelebilirsiniz."
+    },
+    "skilledVisa": {
+      "title": "Vasıflı Vize",
+      "description": "Genel Vasıflı Göçmenlik (GSM) veya Vasıflı Vizeler, Avustralya'da geçici veya kalıcı olarak yaşamak ve çalışmak isteyen kişiler içindir."
+    },
+    "sponsoredVisa": {
+      "title": "Sponsorlu Vize",
+      "description": "İşveren Sponsorlu Vizeler, bir Avustralyalı çalışanla doldurulamayacak veya Avustralyalı çalışanları eğiterek doldurulamayacak bir pozisyonu olan işverenler içindir."
+    },
+    "studentVisa": {
+      "title": "Öğrenci Vizesi",
+      "description": "Bir öğrenci vizesi sınıfı (TU) ve sekiz vize alt sınıfı vardır. Yedi vize alt sınıfı belirli eğitim sektörleriyle ilgilidir ve biri öğrenci vasilerle ilgilidir."
+    },
+    "partnerVisa": {
+      "title": "Eş Vizesi",
+      "description": "Bir partner vizesi, bir Avustralya vatandaşı veya uygun bir Yeni Zelanda vatandaşı ile evli, nişanlı veya de facto ilişkisi olan ve Avustralya'da yaşamak isteyen kişiler içindir."
+    },
+    "aatFederalCourt": {
+      "title": "AAT ve Federal Mahkeme",
+      "description": "Profesyonel avukatlar ve avukatlar ekibimiz var. Büyük sorunlarınız varsa, lütfen bizimle iletişime geçin ve karmaşık göçmenlik sorunlarınızı çözebiliriz."
+    }
+  },
+  "visaSpecialisations": {
+    "title": "UZMANLAŞTIĞIMIZ VİZELER",
+    "highlightText": "",
+    "temporarySkillShortageVisa": {
+      "title": "Geçici Vasıf Eksikliği Vizesi",
+      "subclass": "Alt Sınıf 482"
+    },
+    "trainingVisa": {
+      "title": "Eğitim Vizesi",
+      "subclass": "Alt Sınıf 407"
+    },
+    "skilledIndependentVisa": {
+      "title": "Vasıflı Bağımsız Vize",
+      "subclass": "Alt Sınıf 189"
+    },
+    "skilledNominatedVisa": {
+      "title": "Vasıflı Aday Vizesi",
+      "subclass": "Alt Sınıf 190"
+    },
+    "skilledWorkRegionalVisa": {
+      "title": "Vasıflı İş Bölgesel Vizesi",
+      "subclass": "Alt Sınıf 491"
+    },
+    "sponsoredJobs": {
+      "title": "Sponsorlu İşler",
+      "subclass": ""
+    }
+  },
+  "faqAccordion": {
+    "title": "Sıkça Sorulan",
+    "highlightText": "Sorular",
+    "howDoIFindOutIfIAmEligibleToApply": {
+      "title": "BAŞVURMAK İÇİN UYGUN OLUP OLMADIĞIMI NASIL ÖĞRENEBİLİRİM?",
+      "content": "Lütfen mevcut Avustralya göçmenlik düzenlemelerinin bir özetini görmek için buraya tıklayın. Ardından uygunluğunuzu ücretsiz olarak kontrol edin ve bir MARA Kayıtlı Göçmenlik Danışmanına yönlendirin."
+    },
+    "howLongDoesItTakeToGetAPermanentResidenceVisa": {
+      "title": "AVUSTRALYA'YA GÖÇ ETMEK İÇİN KALICI OTURUM VİZESİ ALMAK NE KADAR SÜRER?",
+      "content": "Her başvuru farklıdır ve işlem süreleri büyük ölçüde başvurulan vize türüne bağlıdır. Avustralya vize işlem süreleri için en güncel kılavuzlar için, Göç ve Vatandaşlık İşlem Süreleri bölümüne bakın."
+    },
+    "canTheImmigrationAuthoritiesRefuseMyApplication": {
+      "title": "GÖÇMENLİK YETKİLİLERİ BAŞVURUMU REDDEDEBİLİR Mİ?",
+      "content": "Evet. Birçok başvuru sahibi, göçmenlik düzenlemelerinin ne kadar sıkı uygulandığının farkında değildir ve başvurularındaki teknik hatalar veya yanlış destekleyici belgeler gönderilmesi nedeniyle gereksiz yere reddedilir veya gecikir. Bu nedenle, ikamet başvurusu yapmadan önce bir MARA Kayıtlı Göçmenlik Danışmanının profesyonel rehberliğini ve bağımsız tavsiyesini almayı düşünmelisiniz."
+    },
+    "willTheImmigrationAuthoritiesOrEmbassyHelpMeToPrepareMyApplication": {
+      "title": "GÖÇMENLİK YETKİLİLERİ VEYA ELÇİLİK, BAŞVURUMU HAZIRLAMAMA VE BAŞVURMADAN ÖNCE HER ŞEYİN DOĞRU OLDUĞUNDAN EMİN OLMAMA YARDIMCI OLUR MU?",
+      "content": "Hayır. Bu tür bir hizmet artık Hükümet tarafından sağlanmamaktadır. Yetkililer, göçmenlik yasalarını uygulamak, ikamet başvuruları hakkında karar vermek ve ikamet vizeleri vermek için vardır. Temel bilgiler ve başvuru formları mevcut olsa da, yetkililer belirli durumunuz hakkında bağımsız tavsiye ve kişiselleştirilmiş rehberlik sağlayamaz. Bir Avustralya Kayıtlı Göçmenlik Danışmanı bu tür bir hizmeti sağlayabilir."
+    },
+    "myMigrationAgentHasAssessedMeAsBeingEligibleForResidence": {
+      "title": "GÖÇMENLİK DANIŞMANIM, AVUSTRALYA'DA İKAMET İÇİN UYGUN OLDUĞUMU DEĞERLENDİRDİ. ONUN YARDIMI OLMADAN BAŞVURURSAM BAŞARILI OLMA İHTİMALİM KESİN Mİ?",
+      "content": "Hayır. Göçmenlik politikasına göre temel olarak uygun olabilirsiniz, ancak başarı garantisi yoktur. Başvurunuz, geçerli göçmenlik düzenlemelerine uygun olarak hazırlanmalı ve başvuruyu destekleyen uygun belgelerle birlikte sunulmalıdır. Bunu yapmanın yolları göçmenlik yetkilileri tarafından her zaman açıkça belirtilmemektedir ve bu, birçok başvuru sahibinin dosyalarını yanlış sunmasına neden olarak reddedilmelerine yol açmaktadır. Bu nedenle, bir MARA Kayıtlı Göçmenlik Danışmanının tavsiyesini almayı düşünmelisiniz."
+    },
+    "cta": "UYGUNLUĞUNUZUN ÜCRETSİZ İLK DEĞERLENDİRMESİNİ ALIN"
   }
 }

@@ -559,5 +559,86 @@
     "migrationHeroSection": {
       "title": "MIGRAZZJONI",
       "highlightText": ""
+    },
+    "visaOptions": {
+      "title": "OPZJONIJIET TA' VIŻA",
+      "highlightText": "",
+      "visitorVisa": {
+        "title": "Viża ta' Viżitatur",
+        "description": "Tista' tiġi l-Awstralja għal raġunijiet bħall-vaganzi, żjarat turistiċi, raġunijiet soċjali jew rikreattivi, biex iżżur qraba, ħbieb."
+      },
+      "skilledVisa": {
+        "title": "Viża tas-Sengħa",
+        "description": "Il-Migrazzjoni Sengħa Ġenerali (GSM) jew Viżas Sengħa hija għal nies li jridu jgħixu u jaħdmu fl-Awstralja fuq bażi temporanja jew permanenti."
+      },
+      "sponsoredVisa": {
+        "title": "Viża Sponsorjata",
+        "description": "Viżas Sponsorjati mill-Impjegaturi huma għall-impjegaturi li ma jistgħux jimlew pożizzjoni bi ħaddiem Awstraljan jew billi jħarrġu ħaddiema Awstraljani."
+      },
+      "studentVisa": {
+        "title": "Viża ta' Student",
+        "description": "Hemm klassi waħda ta' viża ta' student (TU) b'tmien sottoklassijiet ta' viża. Seba' mill-sottoklassijiet tal-viża jikkonċernaw setturi edukattivi speċifiċi u wieħed jikkonċerna guardians tal-istudenti."
+      },
+      "partnerVisa": {
+        "title": "Viża ta' Sħab",
+        "description": "Viża ta' sħab hija għal nies li huma miżżewġa, mgħarrsa, jew f'relazzjoni de facto ma' ċittadin Awstraljan jew ċittadin eliġibbli ta' New Zealand u jridu jgħixu fl-Awstralja."
+      },
+      "aatFederalCourt": {
+        "title": "AAT & Qorti Federali",
+        "description": "Għandna tim ta' avukati u solicitors professjonali. Jekk għandek kwistjonijiet kbar, jekk jogħġbok ikkuntattjana u nkunu kapaċi nsolvu l-problemi kumplessi tal-migrazzjoni tiegħek."
+      }
+    },
+    "visaSpecialisations": {
+      "title": "VIŻAS LI NISPEĊJALIZZAW FIHOM",
+      "highlightText": "",
+      "temporarySkillShortageVisa": {
+        "title": "Viża Temporanja ta' Nuqqas ta' Ħiliet",
+        "subclass": "Sottoklassi 482"
+      },
+      "trainingVisa": {
+        "title": "Viża ta' Taħriġ",
+        "subclass": "Sottoklassi 407"
+      },
+      "skilledIndependentVisa": {
+        "title": "Viża Indipendenti Sengħa",
+        "subclass": "Sottoklassi 189"
+      },
+      "skilledNominatedVisa": {
+        "title": "Viża Sengħa Nominata",
+        "subclass": "Sottoklassi 190"
+      },
+      "skilledWorkRegionalVisa": {
+        "title": "Viża Reġjonali ta' Ħidma Sengħa",
+        "subclass": "Sottoklassi 491"
+      },
+      "sponsoredJobs": {
+        "title": "Impjiegi Sponsorjati",
+        "subclass": ""
+      }
+    },
+    "faqAccordion": {
+      "title": "Mistoqsijiet Frekwenti",
+      "highlightText": "",
+      "howDoIFindOutIfIAmEligibleToApply": {
+        "title": "KIF NISTA' NAF JEKk JIEN ELIĠIBBLI BIEX NAPPLIKA?",
+        "content": "Jekk jogħġbok ikklikkja hawn għal sommarju tar-regolamenti attwali tal-immigrazzjoni Awstraljana. Imbagħad ħu kontroll inizjali b'xejn tal-eliġibilità tiegħek biex tkun riferut lil Aġent tal-Migrazzjoni Reġistrat MARA."
+      },
+      "howLongDoesItTakeToGetAPermanentResidenceVisa": {
+        "title": "KEMM JIEĦU ŻMIEN BIEX TIKSEB VIŻA TA' RESIDENZA PERMANENTI BIEX TIMMIGRA L-AWstralja?",
+        "content": "Kull applikazzjoni hija differenti u l-ħinijiet tal-ipproċessar jiddependu ħafna fuq it-tip ta' viża li qed tiġi applikata. Għall-linji gwida l-aktar riċenti għall-ħinijiet tal-ipproċessar tal-viża Awstraljana, ara l-Ħinijiet tal-ipproċessar globali tal-viża u ċ-ċittadinanza fuq il-websajt tad-Dipartiment tal-Immigrazzjoni u l-Protezzjoni tal-Bordijiet."
+      },
+      "canTheImmigrationAuthoritiesRefuseMyApplication": {
+        "title": "L-AWTORITAJIET TAL-IMMIGRAZZJONI JISTGĦU JIRRIFJUTAW L-APPLIKAZZJONI TIEGĦI?",
+        "content": "Iva. Numru sorprendenti ta' applikanti mhumiex konxji kif ir-regolamenti tal-immigrazzjoni huma infurzati b'mod strett u spiss jiġu rifjutati jew dewmien bla bżonn minħabba żbalji tekniċi fl-applikazzjoni tagħhom jew billi jissottomettu d-dokumentazzjoni ta' appoġġ ħażina. Għalhekk il-moral tal-istorja huwa li tikkunsidra li titlob il-gwida professjonali u l-parir indipendenti ta' Aġent tal-Migrazzjoni Reġistrat MARA qabel ma tissottometti applikazzjoni għal residenza. L-Aġenti tal-Migrazzjoni jeżistu biex jgħinuk issib l-aħjar mod biex tgħaddi mill-labirint tal-immigrazzjoni u huma effettivi ħafna biex jagħmlu dan."
+      },
+      "willTheImmigrationAuthoritiesOrEmbassyHelpMeToPrepareMyApplication": {
+        "title": "L-AWTORITAJIET TAL-IMMIGRAZZJONI JEW L-AMBAXXATA SE JGĦINUNI NIPPREPARA L-APPLIKAZZJONI TIEGĦI U NIŻGURAW LI KOLLOX HUWA KORRETT QABEL MA JAPPLIKAW?",
+        "content": "Le. Dan it-tip ta' servizz m'għadux ipprovdut mill-Gvern. L-awtoritajiet jeżistu biex jinfurzaw il-liġi tal-immigrazzjoni, jieħdu deċiżjonijiet dwar l-applikazzjonijiet ta' residenza u joħorġu viżas ta' residenza. Għalkemm l-informazzjoni bażika u l-formoli tal-applikazzjoni huma disponibbli, l-awtoritajiet mhumiex kapaċi jipprovdu parir indipendenti u gwida personalizzata fuq il-każ speċifiku tiegħek. Aġent tal-Migrazzjoni Reġistrat Awstraljan jista' jipprovdi dan it-tip ta' servizz."
+      },
+      "myMigrationAgentHasAssessedMeAsBeingEligibleForResidence": {
+        "title": "L-AĠENT TAL-MIGRAZZJONI TIEGĦI ĦAREġ LI JIEN ELIĠIBBLI GĦAR-RESIDENZA FL-AWstralja. JEKk NAPPLIKA MINGĦAJR L-GĦAJNUNA TIEGĦU/TAJJIN, NISTA' NINKARIGAW MINN SUĊĊESS?",
+        "content": "Le. Għalkemm tista' tikkwalifika fundamentalment taħt il-politika tal-immigrazzjoni, m'għandekx garanzija ta' suċċess. L-applikazzjoni tiegħek trid tkun ippreparata skont ir-regolamenti tal-immigrazzjoni prevalenti u ssottomessa flimkien mad-dokumentazzjoni ta' appoġġ xierqa sabiex tkun approvata mill-awtoritajiet tal-immigrazzjoni. Il-modi kif tagħmel dan mhumiex dejjem stabbiliti b'mod ċar mill-awtoritajiet tal-immigrazzjoni u jirriżultaw f'ħafna applikanti jippreżentaw il-każijiet tagħhom b'mod ħażin, inevitabbilment iwasslu għal rifjut. Għalhekk għandek tikkunsidra li titlob il-parir ta' Aġent tal-Migrazzjoni Reġistrat MARA."
+      },
+      "cta": "IKSEB VALUTAZZJONI INIZZJALI B'XEJN TA' L-ELIGIBILITÀ TIEGĦEK"
     }
 }

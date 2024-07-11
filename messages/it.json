@@ -559,5 +559,86 @@
     "migrationHeroSection": {
       "title": "MIGRAZIONE",
       "highlightText": ""
+    },
+    "visaOptions": {
+      "title": "OPZIONI DI",
+      "highlightText": "VISTO",
+      "visitorVisa": {
+        "title": "Visto per Visitatori",
+        "description": "Potresti venire in Australia per motivi come vacanze, turismo, motivi sociali o ricreativi, per visitare parenti, amici."
+      },
+      "skilledVisa": {
+        "title": "Visto Qualificato",
+        "description": "La Migrazione Qualificata Generale (GSM) o i Visti Qualificati è per le persone che vogliono vivere e lavorare in Australia su base temporanea o permanente."
+      },
+      "sponsoredVisa": {
+        "title": "Visto Sponsorizzato",
+        "description": "I Visti Sponsorizzati dal Datore di Lavoro sono per i datori di lavoro che non possono riempire una posizione con un lavoratore australiano o formando lavoratori australiani."
+      },
+      "studentVisa": {
+        "title": "Visto per Studenti",
+        "description": "C'è una classe di visto per studenti (TU) con otto sottoclassi di visto. Sette delle sottoclassi di visto si riferiscono a settori educativi specifici e una si riferisce ai tutori degli studenti."
+      },
+      "partnerVisa": {
+        "title": "Visto per Partner",
+        "description": "Un visto per partner è per le persone che sono sposate, fidanzate, o in una relazione de facto con un cittadino australiano o un cittadino neozelandese idoneo e vogliono vivere in Australia."
+      },
+      "aatFederalCourt": {
+        "title": "AAT e Tribunale Federale",
+        "description": "Abbiamo un team di avvocati e procuratori professionisti. Se hai problemi importanti, ti preghiamo di contattarci e saremo in grado di risolvere i tuoi complessi problemi di migrazione."
+      }
+    },
+    "visaSpecialisations": {
+      "title": "VISTI IN CUI CI",
+      "highlightText": "SPECIALIZZIAMO",
+      "temporarySkillShortageVisa": {
+        "title": "Visto Temporaneo per Carenza di Competenze",
+        "subclass": "Subclasse 482"
+      },
+      "trainingVisa": {
+        "title": "Visto di Formazione",
+        "subclass": "Subclasse 407"
+      },
+      "skilledIndependentVisa": {
+        "title": "Visto Qualificato Indipendente",
+        "subclass": "Subclasse 189"
+      },
+      "skilledNominatedVisa": {
+        "title": "Visto Qualificato Nominato",
+        "subclass": "Subclasse 190"
+      },
+      "skilledWorkRegionalVisa": {
+        "title": "Visto di Lavoro Regionale Qualificato",
+        "subclass": "Subclasse 491"
+      },
+      "sponsoredJobs": {
+        "title": "Lavori Sponsorizzati",
+        "subclass": ""
+      }
+    },
+    "faqAccordion": {
+      "title": "Domande Frequenti",
+      "highlightText": "",
+      "howDoIFindOutIfIAmEligibleToApply": {
+        "title": "COME POSSO SCOPRIRE SE SONO IDONEO PER FARE DOMANDA?",
+        "content": "Clicca qui per un riepilogo delle attuali normative sull'immigrazione australiana. Poi fai un controllo iniziale GRATUITO della tua idoneità per essere indirizzato a un Agente di Migrazione Registrato MARA."
+      },
+      "howLongDoesItTakeToGetAPermanentResidenceVisa": {
+        "title": "QUANTO TEMPO CI VUOLE PER OTTENERE UN VISTO DI RESIDENZA PERMANENTE PER EMIGRARE IN AUSTRALIA?",
+        "content": "Ogni domanda è diversa e i tempi di elaborazione dipendono in gran parte dal tipo di visto richiesto. Per le linee guida più recenti sui tempi di elaborazione dei visti australiani, vedere Tempi di elaborazione globali dei visti e della cittadinanza sul sito web del Dipartimento dell'Immigrazione e della Protezione delle Frontiere."
+      },
+      "canTheImmigrationAuthoritiesRefuseMyApplication": {
+        "title": "LE AUTORITÀ DI IMMIGRAZIONE POSSONO RIFIUTARE LA MIA DOMANDA?",
+        "content": "Sì. Un sorprendentemente alto numero di richiedenti non è a conoscenza di quanto rigorosamente le normative sull'immigrazione siano applicate e spesso viene rifiutato o ritardato inutilmente a causa di errori tecnici nella loro domanda o presentando la documentazione di supporto errata. Quindi la morale della storia è considerare di cercare la guida professionale e il consiglio indipendente di un Agente di Migrazione Registrato MARA prima di presentare una domanda di residenza. Gli Agenti di Migrazione esistono per aiutarti a trovare il modo migliore attraverso il labirinto dell'immigrazione e sono altamente efficaci nel farlo."
+      },
+      "willTheImmigrationAuthoritiesOrEmbassyHelpMeToPrepareMyApplication": {
+        "title": "LE AUTORITÀ DI IMMIGRAZIONE O L'AMBASCIATA MI AIUTERANNO A PREPARARE LA MIA DOMANDA E AD ASSICURARSI CHE TUTTO SIA CORRETTO PRIMA DI PRESENTARLA?",
+        "content": "No. Questo tipo di servizio non è più fornito dal Governo. Le autorità esistono per far rispettare la legge sull'immigrazione, prendere decisioni sulle domande di residenza e rilasciare i visti di residenza. Sebbene siano disponibili informazioni di base e moduli di domanda, le autorità non sono in grado di fornire consigli indipendenti e orientamenti personalizzati sul tuo caso specifico. Un Agente di Migrazione Registrato Australiano può fornire questo tipo di servizio."
+      },
+      "myMigrationAgentHasAssessedMeAsBeingEligibleForResidence": {
+        "title": "IL MIO AGENTE DI MIGRAZIONE MI HA VALUTATO COME IDONEO PER LA RESIDENZA IN AUSTRALIA. SE FACCIO DOMANDA SENZA IL SUO AIUTO, POSSO ESSERE CERTO DEL SUCCESSO?",
+        "content": "No. Sebbene tu possa qualificarti fondamentalmente sotto la politica di immigrazione, non sei assolutamente garantito di successo. La tua domanda deve essere preparata in conformità con le normative sull'immigrazione vigenti e presentata insieme alla documentazione di supporto appropriata per essere approvata dalle autorità di immigrazione. I modi per farlo non sono sempre chiaramente stabiliti dalle autorità di immigrazione e molti richiedenti presentano i loro casi in modo errato, portando inevitabilmente al rifiuto. Quindi dovresti considerare di cercare il consiglio di un Agente di Migrazione Registrato MARA."
+      },
+      "cta": "OTTENERE UNA VALUTAZIONE INIZIALE GRATUITA DELLA TUA IDONEITÀ"
     }
 }
