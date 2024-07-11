@@ -3,6 +3,7 @@ import { IndexPageProps } from "@/types";
 import { useTranslations } from "next-intl";
 import HeroSection from '@/components/HeroSection';
 import { images } from '@/constants/images';
+import WhyStudyAustralia from '@/components/WhyStudyAustralia';
 
 
 
@@ -18,6 +19,7 @@ const IndexPage: React.FC<IndexPageProps> = ({ params: { locale } }) => {
         highlightText={t("highlightText")}
         height="h-screen"
       />
+      <WhyStudyAustralia />
 
     </main>
   );
