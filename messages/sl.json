@@ -34,7 +34,6 @@
       "cmn": "Mandarinščina",
       "si": "Slovenščina",
       "sr": "Srbščina",
-      "kur": "Kurdščina",
       "pi": "Poljščina"
     },
     "footer": {
@@ -705,6 +704,42 @@
         "Če ste član družine, delo in študij v Avstraliji"
       ]
     }
+  },
+  "trainingVisa": {
+    "aboutTitle": "O TEM VIZUMU",
+    "aboutDescription": "Trening viza podrazreda 407 je začasni vizum za ljudi v Avstraliji, ki želijo opraviti poklicno ali delovno usposabljanje v Avstraliji. Ta vizum pomaga imetniku razviti svoje spretnosti v trenutnem poklicu, področju študija ali strokovnem področju. Vizum je običajno veljaven za bivanje v Avstraliji do 2 let.",
+    "qualifyTitle": "KAKO SE KVALIFICIRAM ZA TRENING VIZO PODRAZREDA 407?",
+    "qualifyPoint1": "mora biti sponzoriran s strani odobrenega sponzorja, da sodeluje v ustreznih programih za poklicni razvoj ali poklicno usposabljanje neposredno od sponzorja",
+    "qualifyPoint2": "mora biti nominiran za odobreno delovno mesto s strani odobrenega avstralskega začasnega sponzorja aktivnosti in ta nominacija mora biti odobrena",
+    "qualifyPoint3": "mora biti povabljen, da zaprosi za vizum, če je sponzor zvezna agencija",
+    "qualifyPoint4": "mora opravljati usposabljanje v poklicu s seznama poklicev za treniranje vizuma 407 in mora že delati ali študirati polni delovni čas v tem poklicu najmanj 12 mesecev polni delovni čas v zadnjih 24 mesecih",
+    "qualifyPoint5": "mora biti star najmanj 18 let v času odločitve o dodelitvi vizuma, v večini primerov",
+    "qualifyPoint6": "mora izpolnjevati zahteve za angleški jezik",
+    "qualifyPoint7": "če zaprosite v Avstraliji, morate imeti veljaven vizum, ki NI: Podrazred 403 začasni delovni vizum za domače delavce (diplomatski ali konzularni tok), Podrazred 771 tranzitni vizum ali vizum za posebne namene",
+    "qualifyPoint8": "mora izpolnjevati zdravstvene in karakterne zahteve",
+    "qualifyPoint9": "mora izpolnjevati zahteve za tok, v katerem zaprosite",
+    "qualifyPoint10": "mora dokazati zadostna sredstva za preživetje v Avstraliji",
+    "qualifyPoint11": "mora biti resnični začasni vstopnik",
+    "applyTitle": "KAKO ZAPROŠAM ZA TRENING VIZO PODRAZREDA 407?",
+    "applyDescription": "Preden lahko zaprosite za treniranje vizuma, mora vaš predlagani sponzor predložiti nominacijsko vlogo za vas. To lahko storijo le, če so odobreni sponzor ali so vsaj predložili vlogo za postati sponzor. Ta vizum se lahko zaprosi tako na kopnem kot na morju.",
+    "allowTitle": "KAJ TA VIZUM DOVOLJUJE",
+    "allowPoint1": "začasno bivati v Avstraliji do 2 let in zaključiti usposabljanje, določeno v vaši prijavi",
+    "allowPoint2": "pogosto zapustiti in ponovno vstopiti v Avstralijo, dokler je vizum veljaven",
+    "allowPoint3": "pripeljati kvalificirane družinske člane, da vas spremljajo v Avstraliji",
+    "conditionTitle": "POGOJ",
+    "conditionDescription": "Vizum je podvržen pogoju 8102, ki prepoveduje delo, razen usposabljanja, določenega v vizumski prijavi.",
+    "workConditionTitle": "DELOVNI POGOJI",
+    "workConditionDescription": "Delate lahko samo za svojega sponzorja. Delati morate vsaj 30 ur na teden in biti plačani vsaj po stopnji nagrade.",
+    "healthInsuranceTitle": "ZDRAVSTVENO ZAVAROVANJE",
+    "healthInsuranceDescription": "Med bivanjem v Avstraliji morate vzdrževati svoje zdravstveno zavarovanje.",
+    "locationTitle": "LOKACIJA",
+    "locationDescription": "Prijavo je treba vložiti na spletu. Prijavo lahko vložite bodisi v Avstraliji ali v tujini.",
+    "familyMembersTitle": "DRUŽINSKI ČLANI",
+    "familyMembersDescription": "V prijavo je mogoče vključiti družinske člane (zakonca in otroke)."
+  },
+  "trainingVisaHero": {
+    "title": "TRENING VIZA",
+    "highlightText": "PODRAZRED 407"
   }
   }
   

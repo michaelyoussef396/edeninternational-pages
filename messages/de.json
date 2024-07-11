@@ -34,7 +34,6 @@
     "cmn": "Mandarin",
     "si": "Slowenisch",
     "sr": "Serbisch",
-    "kur": "Kurdisch",
     "pi": "Polnisch"
   },
   "footer": {
@@ -705,5 +704,41 @@
           "Wenn Sie ein Familienmitglied sind, in Australien zu arbeiten und zu studieren"
         ]
       }
-    }
+    },
+    "trainingVisa": {
+    "aboutTitle": "ÜBER DIESES VISUM",
+    "aboutDescription": "Das Training-Visum der Unterklasse 407 ist ein temporäres Visum für Personen in Australien, die eine berufliche oder arbeitstechnische Ausbildung in Australien absolvieren möchten. Dieses Visum hilft dem Inhaber, seine Fähigkeiten in seinem aktuellen Beruf, Studienbereich oder Fachgebiet zu entwickeln. Das Visum ist in der Regel für einen Aufenthalt in Australien von bis zu 2 Jahren gültig.",
+    "qualifyTitle": "WIE QUALIFIZIERE ICH MICH FÜR DAS TRAINING-VISUM DER UNTERKLASSE 407?",
+    "qualifyPoint1": "von einem zugelassenen Sponsor gesponsert werden, um an relevanten beruflichen Entwicklungs- oder Ausbildungsprogrammen direkt vom Sponsor teilzunehmen",
+    "qualifyPoint2": "für eine genehmigte Berufsposition von einem zugelassenen australischen Sponsor für temporäre Aktivitäten nominiert worden sein und diese Nominierung wurde genehmigt",
+    "qualifyPoint3": "eingeladen werden, das Visum zu beantragen, wenn der Sponsor eine Bundesbehörde ist",
+    "qualifyPoint4": "eine Ausbildung in einem Beruf auf der Liste der Berufe für das 407-Trainingsvisum absolvieren und in den letzten 24 Monaten bereits mindestens 12 Monate in diesem Beruf Vollzeit gearbeitet oder studiert haben",
+    "qualifyPoint5": "zum Zeitpunkt der Visumserteilung mindestens 18 Jahre alt sein, in den meisten Fällen",
+    "qualifyPoint6": "die Anforderungen an die englische Sprache erfüllen",
+    "qualifyPoint7": "wenn Sie sich in Australien bewerben, ein substanzielles Visum besitzen, das NICHT ist: Subclass 403 Temporary Work Visa im häuslichen Dienst (diplomatischer oder konsularischer Bereich), Subclass 771 Transit Visa oder Special Purpose Visa",
+    "qualifyPoint8": "die Gesundheits- und Charakteranforderungen erfüllen",
+    "qualifyPoint9": "die Anforderungen des Streams erfüllen, in dem Sie sich bewerben",
+    "qualifyPoint10": "ausreichende Mittel nachweisen, um sich in Australien zu unterstützen",
+    "qualifyPoint11": "ein echter vorübergehender Einreisender sein",
+    "applyTitle": "WIE BEWERBE ICH MICH FÜR DAS TRAINING-VISUM DER UNTERKLASSE 407?",
+    "applyDescription": "Bevor Sie ein Trainingsvisum beantragen können, muss Ihr vorgeschlagener Sponsor einen Nominierungsantrag für Sie stellen. Dies können sie nur tun, wenn sie ein zugelassener Sponsor sind oder zumindest einen Antrag gestellt haben, um Sponsor zu werden. Dieses Visum kann sowohl an Land als auch außerhalb des Landes beantragt werden.",
+    "allowTitle": "WAS DIESES VISUM IHNEN ERLAUBT ZU TUN",
+    "allowPoint1": "vorübergehend bis zu 2 Jahre in Australien zu leben und die im Antrag angegebene Ausbildung abzuschließen",
+    "allowPoint2": "Australien bis zum Ablauf des Visums häufig zu verlassen und wieder zu betreten",
+    "allowPoint3": "berechtigte Familienmitglieder mit nach Australien zu bringen",
+    "conditionTitle": "BEDINGUNG",
+    "conditionDescription": "Das Visum unterliegt der Bedingung 8102, die Arbeit verbietet, die über die im Visumantrag angegebene Ausbildung hinausgeht.",
+    "workConditionTitle": "ARBEITSBEDINGUNG",
+    "workConditionDescription": "Sie dürfen nur für Ihren Sponsor arbeiten. Sie müssen mindestens 30 Stunden pro Woche arbeiten und mindestens den Award-Satz erhalten.",
+    "healthInsuranceTitle": "KRANKENVERSICHERUNG",
+    "healthInsuranceDescription": "Sie müssen auch während Ihres Aufenthalts in Australien Ihre Krankenversicherung aufrechterhalten.",
+    "locationTitle": "STANDORT",
+    "locationDescription": "Der Antrag muss online eingereicht werden. Sie können sich entweder in Australien oder im Ausland befinden, wenn Sie den Antrag einreichen.",
+    "familyMembersTitle": "FAMILIENMITGLIEDER",
+    "familyMembersDescription": "Familienmitglieder (Ehepartner und Kinder) können in den Antrag aufgenommen werden."
+  },
+  "trainingVisaHero": {
+    "title": "TRAININGSVISUM",
+    "highlightText": "UNTERKLASSE 407"
+  }
 }

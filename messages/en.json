@@ -34,7 +34,6 @@
     "cmn": "Mandarin",
     "si": "Slovene",
     "sr": "Serbian",
-    "kur": "Kurdish",
     "pi": "Polish"
   },
   "footer": {
@@ -705,5 +704,41 @@
         "If you are a family member, to work and study in Australia"
       ]
     }
+  },
+  "trainingVisa": {
+    "aboutTitle": "ABOUT THIS VISA",
+    "aboutDescription": "The Training visa subclass 407 is a temporary visa for people in Australia who want to undergo job or work training in Australia. This visa helps the holder to develop their skills in their current profession, area of tertiary study or field of expertise. The visa is generally valid for stay in Australia for up to 2 years.",
+    "qualifyTitle": "HOW DO I QUALIFY FOR THE TRAINING SUBCLASS 407 VISA?",
+    "qualifyPoint1": "be sponsored by an approved sponsor, to participate in relevant professional development or occupational training programs directly from the sponsor",
+    "qualifyPoint2": "have been nominated for an approved occupation position by an approved Australian temporary activities sponsor, and that nomination has been approved",
+    "qualifyPoint3": "be invited to apply for the visa, if the sponsor is a Commonwealth agency",
+    "qualifyPoint4": "be undertaking training in an occupation on the 407 Training Visa Occupations List, and have already worked or studied full time in this occupation for at least 12 months full time in the last 24 months",
+    "qualifyPoint5": "be at least 18 years old at the time of visa grant decision, in most circumstances",
+    "qualifyPoint6": "meet English language requirements",
+    "qualifyPoint7": "if applying in Australia, hold a substantive visa that is NOT a: Subclass 403 Temporary Work Visa in the Domestic Worker (Diplomatic or Consular stream), Subclass 771 Transit Visa, or Special Purpose Visa",
+    "qualifyPoint8": "meet health and character requirements",
+    "qualifyPoint9": "meet the requirements of the stream in which you apply",
+    "qualifyPoint10": "demonstrate sufficient funds to support themselves in Australia",
+    "qualifyPoint11": "be a genuine temporary entrant",
+    "applyTitle": "HOW DO I APPLY FOR THE TRAINING SUBCLASS 407 VISA?",
+    "applyDescription": "Before you can apply for a Training visa, your proposed sponsor will need to lodge a nomination application for you. They will only be able to do this if they are an approved sponsor or have at least lodged an application to become a sponsor. This visa can be applied for both onshore and offshore.",
+    "allowTitle": "WHAT THIS VISA WILL ALLOW YOU TO DO",
+    "allowPoint1": "Temporarily live in Australia for up to 2 years and complete the training specified in your application",
+    "allowPoint2": "Leave and re-enter Australia frequently till the visa is valid",
+    "allowPoint3": "Bring eligible family members to accompany you in Australia",
+    "conditionTitle": "CONDITION",
+    "conditionDescription": "The visa is subject to condition 8102 which forbids work apart from the training specified in the visa application.",
+    "workConditionTitle": "WORK CONDITION",
+    "workConditionDescription": "You can only work for your sponsor. You must work at least 30 hours per week and be paid at least the Award rate.",
+    "healthInsuranceTitle": "HEALTH INSURANCE",
+    "healthInsuranceDescription": "You must also maintain your health insurance whilst in Australia.",
+    "locationTitle": "LOCATION",
+    "locationDescription": "The application must be lodged online. You can either be in Australia or overseas when lodging the application.",
+    "familyMembersTitle": "FAMILY MEMBERS",
+    "familyMembersDescription": "Family members (spouses and children) can be included in the application."
+  },
+  "trainingVisaHero": {
+    "title": "TRAINING VISA",
+    "highlightText": "SUBCLASS 407"
   }
 }

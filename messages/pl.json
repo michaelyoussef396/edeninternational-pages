@@ -34,7 +34,6 @@
     "cmn": "Mandaryński",
     "si": "Słoweński",
     "sr": "Serbski",
-    "kur": "Kurdyjski",
     "pi": "Polski"
   },
   "footer": {
@@ -705,6 +704,42 @@
         "Jeśli jesteś członkiem rodziny, na pracę i naukę w Australii"
       ]
     }
+  },
+  "trainingVisa": {
+    "aboutTitle": "O TEJ WIZIE",
+    "aboutDescription": "Wiza szkoleniowa podklasy 407 to tymczasowa wiza dla osób w Australii, które chcą podjąć szkolenie zawodowe lub pracę w Australii. Ta wiza pomaga posiadaczowi w rozwijaniu umiejętności w obecnym zawodzie, dziedzinie studiów lub specjalizacji. Wiza jest zazwyczaj ważna przez maksymalnie 2 lata pobytu w Australii.",
+    "qualifyTitle": "JAK MOGĘ KWALIFIKOWAĆ SIĘ DO WIZY SZKOLENIOWEJ PODKLASY 407?",
+    "qualifyPoint1": "być sponsorowanym przez zatwierdzonego sponsora, aby wziąć udział w odpowiednich programach rozwoju zawodowego lub szkoleń zawodowych bezpośrednio od sponsora",
+    "qualifyPoint2": "zostać nominowanym na zatwierdzone stanowisko przez zatwierdzonego australijskiego sponsora działań tymczasowych, a ta nominacja została zatwierdzona",
+    "qualifyPoint3": "być zaproszonym do ubiegania się o wizę, jeśli sponsor jest agencją Wspólnoty",
+    "qualifyPoint4": "uczestniczyć w szkoleniu w zawodzie z listy zawodów wiz szkoleniowych 407 i mieć co najmniej 12 miesięcy pełnoetatowej pracy lub nauki w tym zawodzie w ciągu ostatnich 24 miesięcy",
+    "qualifyPoint5": "mieć co najmniej 18 lat w momencie podjęcia decyzji o przyznaniu wizy, w większości przypadków",
+    "qualifyPoint6": "spełniać wymagania językowe w języku angielskim",
+    "qualifyPoint7": "jeśli ubiegasz się w Australii, posiadać ważną wizę, która NIE JEST: wiza pracownicza podklasy 403 dla pracowników domowych (program dyplomatyczny lub konsularny), wiza tranzytowa podklasy 771, lub wiza specjalna",
+    "qualifyPoint8": "spełniać wymagania zdrowotne i charakterowe",
+    "qualifyPoint9": "spełniać wymagania strumienia, w którym się ubiegasz",
+    "qualifyPoint10": "wykazać się wystarczającymi środkami finansowymi na utrzymanie w Australii",
+    "qualifyPoint11": "być prawdziwym tymczasowym przybyszem",
+    "applyTitle": "JAK MOGĘ UBIEGAĆ SIĘ O WIZĘ SZKOLENIOWĄ PODKLASY 407?",
+    "applyDescription": "Zanim będziesz mógł ubiegać się o wizę szkoleniową, twój proponowany sponsor będzie musiał złożyć wniosek nominacyjny w twoim imieniu. Będą mogli to zrobić tylko wtedy, gdy są zatwierdzonym sponsorem lub przynajmniej złożyli wniosek o uzyskanie statusu sponsora. Ta wiza może być złożona zarówno na miejscu, jak i poza nim.",
+    "allowTitle": "CO POZWALA ZROBIĆ TA WIZA",
+    "allowPoint1": "Tymczasowo mieszkać w Australii przez okres do 2 lat i ukończyć szkolenie określone w swoim wniosku",
+    "allowPoint2": "Często opuszczać Australię i ponownie do niej wchodzić, dopóki wiza jest ważna",
+    "allowPoint3": "Przyprowadzić kwalifikujących się członków rodziny, aby towarzyszyli ci w Australii",
+    "conditionTitle": "WARUNEK",
+    "conditionDescription": "Wiza podlega warunkowi 8102, który zabrania pracy poza szkoleniem określonym we wniosku wizowym.",
+    "workConditionTitle": "WARUNKI PRACY",
+    "workConditionDescription": "Możesz pracować tylko dla swojego sponsora. Musisz pracować co najmniej 30 godzin tygodniowo i otrzymywać co najmniej wynagrodzenie w wysokości nagrody.",
+    "healthInsuranceTitle": "UBEZPIECZENIE ZDROWOTNE",
+    "healthInsuranceDescription": "Musisz również utrzymywać swoje ubezpieczenie zdrowotne podczas pobytu w Australii.",
+    "locationTitle": "LOKALIZACJA",
+    "locationDescription": "Wniosek musi być złożony online. Możesz być w Australii lub za granicą podczas składania wniosku.",
+    "familyMembersTitle": "CZŁONKOWIE RODZINY",
+    "familyMembersDescription": "Członkowie rodziny (małżonkowie i dzieci) mogą być włączeni do wniosku."
+  },
+  "trainingVisaHero": {
+    "title": "WIZA SZKOLENIOWA",
+    "highlightText": "PODKLASA 407"
   }
   }
   

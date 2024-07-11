@@ -34,7 +34,6 @@
     "cmn": "Mandarince",
     "si": "Slovence",
     "sr": "Sırpça",
-    "kur": "Kürtçe",
     "pi": "Lehçe"
   },
   "footer": {
@@ -705,5 +704,41 @@
         "Aile üyesi iseniz, Avustralya'da çalışma ve eğitim görme imkanı tanır"
       ]
     }
+  },
+  "trainingVisa": {
+    "aboutTitle": "BU VİZE HAKKINDA",
+    "aboutDescription": "Eğitim vizesi alt sınıf 407, Avustralya'da iş veya mesleki eğitim almak isteyen kişiler için geçici bir vizedir. Bu vize, sahibine mevcut mesleğinde, yüksek öğrenim alanında veya uzmanlık alanında becerilerini geliştirmede yardımcı olur. Vize genellikle Avustralya'da kalmak için 2 yıl boyunca geçerlidir.",
+    "qualifyTitle": "EĞİTİM VİZESİ ALT SINIF 407'YE NASIL UYGUN OLABİLİRİM?",
+    "qualifyPoint1": "onaylı bir sponsor tarafından desteklenmelisiniz, doğrudan sponsordan ilgili mesleki gelişim veya mesleki eğitim programlarına katılmak için",
+    "qualifyPoint2": "onaylı bir Avustralya geçici faaliyetler sponsoru tarafından onaylanmış bir iş pozisyonu için aday gösterilmiş olmalısınız ve bu adaylık onaylanmış olmalıdır",
+    "qualifyPoint3": "sponsor bir Milletler Topluluğu ajansı ise vize başvurusunda bulunmaya davet edilmiş olmalısınız",
+    "qualifyPoint4": "407 Eğitim Vizesi Meslekler Listesi'nde yer alan bir meslekte eğitim almalı ve son 24 ay içinde bu meslekte en az 12 ay tam zamanlı çalışmış veya okumuş olmalısınız",
+    "qualifyPoint5": "çoğu durumda, vize kararı sırasında en az 18 yaşında olmalısınız",
+    "qualifyPoint6": "İngilizce dil gereksinimlerini karşılamalısınız",
+    "qualifyPoint7": "Avustralya'da başvuruyorsanız, aşağıdaki türlerde olmayan geçerli bir vizeye sahip olmalısınız: Alt sınıf 403 Geçici Çalışma Vizesi Ev İşleri Çalışanı (Diplomatik veya Konsolosluk akışı), Alt sınıf 771 Transit Vizesi veya Özel Amaç Vizesi",
+    "qualifyPoint8": "sağlık ve karakter gereksinimlerini karşılamalısınız",
+    "qualifyPoint9": "başvurduğunuz akışın gereksinimlerini karşılamalısınız",
+    "qualifyPoint10": "Avustralya'da kendinizi desteklemek için yeterli finansmana sahip olduğunuzu kanıtlamalısınız",
+    "qualifyPoint11": "gerçek bir geçici girişçi olmalısınız",
+    "applyTitle": "EĞİTİM VİZESİ ALT SINIF 407 İÇİN NASIL BAŞVURABİLİRİM?",
+    "applyDescription": "Eğitim vizesi başvurusunda bulunmadan önce, önerilen sponsorunuz sizin için bir adaylık başvurusu yapmalıdır. Bunu yalnızca onaylı bir sponsor olduklarında veya en azından sponsor olmak için başvuruda bulunduklarında yapabilirler. Bu vize hem karada hem de denizde başvurulabilir.",
+    "allowTitle": "BU VİZE SİZE NE YAPMANIZA İZİN VERİR",
+    "allowPoint1": "Avustralya'da geçici olarak 2 yıla kadar yaşamak ve başvurunuzda belirtilen eğitimi tamamlamak",
+    "allowPoint2": "Vize geçerli olduğu sürece Avustralya'ya sık sık girip çıkmak",
+    "allowPoint3": "Nitelikli aile üyelerini Avustralya'da size eşlik etmeleri için getirmek",
+    "conditionTitle": "KOŞUL",
+    "conditionDescription": "Vize, vize başvurusunda belirtilen eğitim dışında çalışmayı yasaklayan 8102 koşuluna tabidir.",
+    "workConditionTitle": "ÇALIŞMA KOŞULU",
+    "workConditionDescription": "Yalnızca sponsorunuz için çalışabilirsiniz. Haftada en az 30 saat çalışmalı ve en az ödül oranında ödeme almalısınız.",
+    "healthInsuranceTitle": "SAĞLIK SİGORTASI",
+    "healthInsuranceDescription": "Avustralya'da kaldığınız süre boyunca sağlık sigortanızı da korumalısınız.",
+    "locationTitle": "KONUM",
+    "locationDescription": "Başvuru online olarak yapılmalıdır. Başvuru yaparken Avustralya'da veya yurtdışında olabilirsiniz.",
+    "familyMembersTitle": "AİLE ÜYELERİ",
+    "familyMembersDescription": "Aile üyeleri (eş ve çocuklar) başvuruya dahil edilebilir."
+  },
+  "trainingVisaHero": {
+    "title": "EĞİTİM VİZESİ",
+    "highlightText": "ALT SINIF 407"
   }
 }

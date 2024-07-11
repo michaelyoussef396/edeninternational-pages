@@ -34,7 +34,6 @@
     "cmn": "Mandarinski",
     "si": "Slovenski",
     "sr": "Srpski",
-    "kur": "Kurdski",
     "pi": "Poljski"
   },
   "footer": {
@@ -705,5 +704,41 @@
           "Ako ste član obitelji, raditi i studirati u Australiji"
         ]
       }
-    }
+    },
+    "trainingVisa": {
+    "aboutTitle": "O OVOJ VIZI",
+    "aboutDescription": "Trenutna viza podklase 407 privremena je viza za osobe u Australiji koje žele proći radnu ili profesionalnu obuku u Australiji. Ova viza pomaže nositelju razviti svoje vještine u trenutnoj profesiji, području studija ili stručnosti. Viza je općenito valjana za boravak u Australiji do 2 godine.",
+    "qualifyTitle": "KAKO MOGU KVALIFICIRATI ZA VIZU PODKLASE 407?",
+    "qualifyPoint1": "biti sponzoriran od strane odobrenog sponzora, sudjelovati u relevantnim programima profesionalnog razvoja ili profesionalne obuke izravno od sponzora",
+    "qualifyPoint2": "biti nominiran za odobreno radno mjesto od strane odobrenog australskog sponzora za privremene aktivnosti, a ta nominacija je odobrena",
+    "qualifyPoint3": "biti pozvan podnijeti zahtjev za vizu, ako je sponzor agencija Commonwealtha",
+    "qualifyPoint4": "biti na obuci u zanimanju s Liste zanimanja za obuku vize 407, te već raditi ili studirati puno radno vrijeme u tom zanimanju najmanje 12 mjeseci puno radno vrijeme u posljednjih 24 mjeseca",
+    "qualifyPoint5": "u trenutku donošenja odluke o izdavanju vize biti stariji od 18 godina, u većini slučajeva",
+    "qualifyPoint6": "ispuniti zahtjeve za engleski jezik",
+    "qualifyPoint7": "ako podnosite zahtjev u Australiji, imati valjanu vizu koja NIJE: podklasa 403 Privremena radna viza za domaćeg radnika (diplomatski ili konzularni program), podklasa 771 Tranzitna viza, ili viza za posebne svrhe",
+    "qualifyPoint8": "ispuniti zdravstvene i karakterne zahtjeve",
+    "qualifyPoint9": "ispuniti zahtjeve za tok u kojem se prijavljujete",
+    "qualifyPoint10": "dokazati dovoljno sredstava za uzdržavanje u Australiji",
+    "qualifyPoint11": "biti istinski privremeni ulaznik",
+    "applyTitle": "KAKO PODNOSITI ZAHTJEV ZA VIZU PODKLASE 407?",
+    "applyDescription": "Prije nego što možete podnijeti zahtjev za vizu za obuku, vaš predloženi sponzor morat će podnijeti nominacijski zahtjev za vas. To će moći učiniti samo ako su odobreni sponzor ili su barem podnijeli zahtjev za postati sponzor. Ova viza može se podnijeti i na kopnu i na moru.",
+    "allowTitle": "ŠTO ĆE VAM OVA VIZA OMOGUĆITI",
+    "allowPoint1": "Privremeno živjeti u Australiji do 2 godine i dovršiti obuku navedenu u vašoj prijavi",
+    "allowPoint2": "Često napuštati i ponovno ulaziti u Australiju dok je viza valjana",
+    "allowPoint3": "Dovesti kvalificirane članove obitelji da vas prate u Australiji",
+    "conditionTitle": "UVJET",
+    "conditionDescription": "Viza je podložna uvjetu 8102 koji zabranjuje rad osim obuke navedene u zahtjevu za vizu.",
+    "workConditionTitle": "UVJET RADA",
+    "workConditionDescription": "Možete raditi samo za svog sponzora. Morate raditi najmanje 30 sati tjedno i biti plaćeni najmanje po stopi nagrade.",
+    "healthInsuranceTitle": "ZDRAVSTVENO OSIGURANJE",
+    "healthInsuranceDescription": "Također morate održavati svoje zdravstveno osiguranje dok ste u Australiji.",
+    "locationTitle": "LOKACIJA",
+    "locationDescription": "Zahtjev se mora podnijeti online. Pri podnošenju zahtjeva možete biti u Australiji ili u inozemstvu.",
+    "familyMembersTitle": "ČLANOVI OBITELJI",
+    "familyMembersDescription": "Članovi obitelji (supružnici i djeca) mogu biti uključeni u zahtjev."
+  },
+  "trainingVisaHero": {
+    "title": "VIZA ZA OBUKU",
+    "highlightText": "PODKLASA 407"
+  }
 }

@@ -34,7 +34,6 @@
     "cmn": "Mandarin",
     "si": "Slovenian",
     "sr": "Serbian",
-    "kur": "Kurdish",
     "pi": "Polako"
   },
   "footer": {
@@ -705,5 +704,41 @@
           "Kung ikaw ay isang miyembro ng pamilya, upang magtrabaho at mag-aral sa Australia"
         ]
       }
-    }
+    },
+    "trainingVisa": {
+    "aboutTitle": "TUNGKOL SA VISA NA ITO",
+    "aboutDescription": "Ang Training visa subclass 407 ay isang pansamantalang visa para sa mga tao sa Australia na nais sumailalim sa trabaho o pagsasanay sa trabaho sa Australia. Ang visa na ito ay tumutulong sa may hawak na paunlarin ang kanilang mga kasanayan sa kanilang kasalukuyang propesyon, larangan ng pag-aaral o larangan ng kadalubhasaan. Ang visa ay karaniwang may bisa para sa pananatili sa Australia ng hanggang 2 taon.",
+    "qualifyTitle": "PAANO AKO MAKAKAKUHA NG TRAINING VISA SUBCLASS 407?",
+    "qualifyPoint1": "maging isponsor ng isang aprubadong sponsor, upang makilahok sa mga kaugnay na programa ng propesyonal na pag-unlad o pagsasanay sa trabaho mula mismo sa sponsor",
+    "qualifyPoint2": "mapili para sa isang aprubadong posisyon ng trabaho ng isang aprubadong Australian temporary activities sponsor, at ang nominasyon na iyon ay naaprubahan",
+    "qualifyPoint3": "maimbitahan na mag-apply para sa visa, kung ang sponsor ay isang ahensya ng Commonwealth",
+    "qualifyPoint4": "magsasagawa ng pagsasanay sa isang trabaho sa 407 Training Visa Occupations List, at nakapagtrabaho o nag-aral na ng full-time sa trabahong ito ng hindi bababa sa 12 buwan na full-time sa nakaraang 24 buwan",
+    "qualifyPoint5": "maging hindi bababa sa 18 taong gulang sa oras ng desisyon sa pagbibigay ng visa, sa karamihan ng mga pagkakataon",
+    "qualifyPoint6": "matugunan ang mga kinakailangan sa wikang Ingles",
+    "qualifyPoint7": "kung mag-aapply sa Australia, may hawak na isang substantive visa na HINDI isang: Subclass 403 Temporary Work Visa sa Domestic Worker (Diplomatic o Consular stream), Subclass 771 Transit Visa, o Special Purpose Visa",
+    "qualifyPoint8": "matugunan ang mga kinakailangan sa kalusugan at karakter",
+    "qualifyPoint9": "matugunan ang mga kinakailangan ng stream kung saan ka nag-aapply",
+    "qualifyPoint10": "ipakita ang sapat na pondo upang suportahan ang kanilang sarili sa Australia",
+    "qualifyPoint11": "maging isang tunay na pansamantalang aplikante",
+    "applyTitle": "PAANO AKO MAG-AAPPLY PARA SA TRAINING VISA SUBCLASS 407?",
+    "applyDescription": "Bago ka makapag-apply para sa isang Training visa, ang iyong iminungkahing sponsor ay kailangang magpasa ng isang nominasyon para sa iyo. Magagawa lang nila ito kung sila ay isang aprubadong sponsor o kung nag-apply na sila para maging sponsor. Ang visa na ito ay maaaring i-apply para sa parehong onshore at offshore.",
+    "allowTitle": "ANO ANG MAGAGAWA MO NG VISA NA ITO",
+    "allowPoint1": "Pansamantalang manirahan sa Australia ng hanggang 2 taon at kumpletuhin ang pagsasanay na tinukoy sa iyong aplikasyon",
+    "allowPoint2": "Lumabas at muling pumasok sa Australia nang madalas hanggang sa ang visa ay may bisa",
+    "allowPoint3": "Dalhin ang mga kwalipikadong miyembro ng pamilya upang samahan ka sa Australia",
+    "conditionTitle": "KONDISYON",
+    "conditionDescription": "Ang visa ay napapailalim sa kundisyon 8102 na nagbabawal sa trabaho maliban sa tinukoy na pagsasanay sa aplikasyon ng visa.",
+    "workConditionTitle": "KONDISYON SA TRABAHO",
+    "workConditionDescription": "Maaari ka lamang magtrabaho para sa iyong sponsor. Dapat kang magtrabaho ng hindi bababa sa 30 oras bawat linggo at mabayaran ng hindi bababa sa rate ng Award.",
+    "healthInsuranceTitle": "SEGURO SA KALUSUGAN",
+    "healthInsuranceDescription": "Dapat mo ring panatilihin ang iyong health insurance habang nasa Australia.",
+    "locationTitle": "LOKASYON",
+    "locationDescription": "Ang aplikasyon ay dapat isumite online. Maaari kang nasa Australia o sa ibang bansa kapag nagsumite ng aplikasyon.",
+    "familyMembersTitle": "MGA MIYEMBRO NG PAMILYA",
+    "familyMembersDescription": "Maaaring isama sa aplikasyon ang mga miyembro ng pamilya (asawa at mga anak)."
+  },
+  "trainingVisaHero": {
+    "title": "TRAINING VISA",
+    "highlightText": "SUBCLASS 407"
+  }
 }

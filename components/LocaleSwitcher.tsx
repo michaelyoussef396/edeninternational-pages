@@ -42,7 +42,6 @@ export default function LocaleSwitcher() {
         <option value='cmn'>{t('cmn')}</option>
         <option value='si'>{t('si')}</option>
         <option value='sr'>{t('sr')}</option>
-        <option value='kur'>{t('kur')}</option>
         <option value='pi'>{t('pi')}</option>
       </select>
     </label>

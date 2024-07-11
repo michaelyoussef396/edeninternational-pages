@@ -34,7 +34,6 @@
       "cmn": "Mandarino",
       "si": "Sloveno",
       "sr": "Serbo",
-      "kur": "Curdo",
       "pi": "Polacco"
     },
     "footer": {
@@ -705,5 +704,41 @@
           "Se sei un membro della famiglia, di lavorare e studiare in Australia"
         ]
       }
-    }
+    },
+    "trainingVisa": {
+    "aboutTitle": "SU QUESTO VISTO",
+    "aboutDescription": "Il visto per addestramento sottoclasse 407 è un visto temporaneo per persone in Australia che desiderano sottoporsi a formazione lavorativa o professionale in Australia. Questo visto aiuta il titolare a sviluppare le proprie competenze nella professione attuale, nell'area di studio superiore o nel campo di competenza. Il visto è generalmente valido per un soggiorno in Australia fino a 2 anni.",
+    "qualifyTitle": "COME POSSO QUALIFICARMI PER IL VISTO DI FORMAZIONE SOTTOCLASSE 407?",
+    "qualifyPoint1": "essere sponsorizzato da uno sponsor approvato per partecipare a programmi di sviluppo professionale o formazione professionale rilevanti direttamente dallo sponsor",
+    "qualifyPoint2": "essere stato nominato per una posizione lavorativa approvata da uno sponsor di attività temporanee australiano approvato, e tale nomina è stata approvata",
+    "qualifyPoint3": "essere invitato a richiedere il visto se lo sponsor è un'agenzia del Commonwealth",
+    "qualifyPoint4": "sottoporsi a formazione in un'occupazione nell'elenco delle occupazioni del visto di formazione 407 e aver già lavorato o studiato a tempo pieno in questa occupazione per almeno 12 mesi a tempo pieno negli ultimi 24 mesi",
+    "qualifyPoint5": "avere almeno 18 anni al momento della decisione di rilascio del visto, nella maggior parte dei casi",
+    "qualifyPoint6": "soddisfare i requisiti di conoscenza della lingua inglese",
+    "qualifyPoint7": "se si richiede in Australia, detenere un visto sostanziale che NON sia: visto di lavoro temporaneo sottoclasse 403 nel lavoratore domestico (flusso diplomatico o consolare), visto di transito sottoclasse 771 o visto a scopo speciale",
+    "qualifyPoint8": "soddisfare i requisiti di salute e carattere",
+    "qualifyPoint9": "soddisfare i requisiti del flusso in cui si applica",
+    "qualifyPoint10": "dimostrare di avere fondi sufficienti per sostenersi in Australia",
+    "qualifyPoint11": "essere un vero entrante temporaneo",
+    "applyTitle": "COME POSSO RICHIEDERE IL VISTO DI FORMAZIONE SOTTOCLASSE 407?",
+    "applyDescription": "Prima di poter richiedere un visto per addestramento, il tuo sponsor proposto dovrà presentare una domanda di nomina per te. Potranno farlo solo se sono uno sponsor approvato o se hanno almeno presentato una domanda per diventare sponsor. Questo visto può essere richiesto sia a terra che fuori terra.",
+    "allowTitle": "COSA TI CONSENTIRÀ DI FARE QUESTO VISTO",
+    "allowPoint1": "Vivere temporaneamente in Australia per un massimo di 2 anni e completare la formazione specificata nella tua domanda",
+    "allowPoint2": "Lasciare e rientrare frequentemente in Australia fino a quando il visto è valido",
+    "allowPoint3": "Portare con te i familiari idonei in Australia",
+    "conditionTitle": "CONDIZIONE",
+    "conditionDescription": "Il visto è soggetto alla condizione 8102 che vieta di lavorare al di fuori della formazione specificata nella domanda di visto.",
+    "workConditionTitle": "CONDIZIONE DI LAVORO",
+    "workConditionDescription": "Puoi lavorare solo per il tuo sponsor. Devi lavorare almeno 30 ore a settimana ed essere pagato almeno alla tariffa premio.",
+    "healthInsuranceTitle": "ASSICURAZIONE SANITARIA",
+    "healthInsuranceDescription": "Devi anche mantenere la tua assicurazione sanitaria mentre sei in Australia.",
+    "locationTitle": "LOCALITÀ",
+    "locationDescription": "La domanda deve essere presentata online. Puoi essere in Australia o all'estero al momento della presentazione della domanda.",
+    "familyMembersTitle": "MEMBRI DELLA FAMIGLIA",
+    "familyMembersDescription": "I membri della famiglia (coniuge e figli) possono essere inclusi nella domanda."
+  },
+  "trainingVisaHero": {
+    "title": "VISTO DI FORMAZIONE",
+    "highlightText": "SOTTOCLASSE 407"
+  }
 }

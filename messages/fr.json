@@ -34,7 +34,6 @@
     "cmn": "Mandarin",
     "si": "Slovène",
     "sr": "Serbe",
-    "kur": "Kurde",
     "pi": "Polonais"
   },
   "footer": {
@@ -705,5 +704,41 @@
           "Si vous êtes un membre de la famille, de travailler et d'étudier en Australie"
         ]
       }
-    }
+    },
+    "trainingVisa": {
+    "aboutTitle": "À PROPOS DE CE VISA",
+    "aboutDescription": "Le visa de formation sous-classe 407 est un visa temporaire pour les personnes en Australie qui souhaitent suivre une formation professionnelle ou de travail en Australie. Ce visa aide le titulaire à développer ses compétences dans sa profession actuelle, son domaine d'études supérieures ou son domaine d'expertise. Le visa est généralement valable pour un séjour en Australie d'une durée maximale de 2 ans.",
+    "qualifyTitle": "COMMENT PUIS-JE OBTENIR LE VISA DE FORMATION SOUS-CLASSE 407?",
+    "qualifyPoint1": "être parrainé par un sponsor approuvé pour participer à des programmes de développement professionnel ou de formation professionnelle pertinents directement auprès du sponsor",
+    "qualifyPoint2": "avoir été nommé pour un poste professionnel approuvé par un sponsor d'activités temporaires australien approuvé, et cette nomination a été approuvée",
+    "qualifyPoint3": "être invité à demander le visa si le sponsor est une agence du Commonwealth",
+    "qualifyPoint4": "suivre une formation dans une profession figurant sur la liste des professions du visa de formation 407 et avoir déjà travaillé ou étudié à plein temps dans cette profession pendant au moins 12 mois à plein temps au cours des 24 derniers mois",
+    "qualifyPoint5": "être âgé d'au moins 18 ans au moment de la décision d'octroi du visa, dans la plupart des cas",
+    "qualifyPoint6": "répondre aux exigences de la langue anglaise",
+    "qualifyPoint7": "si vous postulez en Australie, détenir un visa substantif qui n'est pas : visa de travail temporaire sous-classe 403 dans le cadre du travail domestique (diplomatique ou consulaire), visa de transit sous-classe 771 ou visa à but spécial",
+    "qualifyPoint8": "répondre aux exigences de santé et de caractère",
+    "qualifyPoint9": "répondre aux exigences du flux dans lequel vous postulez",
+    "qualifyPoint10": "démontrer des fonds suffisants pour subvenir à ses besoins en Australie",
+    "qualifyPoint11": "être un véritable entrant temporaire",
+    "applyTitle": "COMMENT POSTULER POUR LE VISA DE FORMATION SOUS-CLASSE 407?",
+    "applyDescription": "Avant de pouvoir postuler pour un visa de formation, votre sponsor proposé devra déposer une demande de nomination pour vous. Ils ne pourront le faire que s'ils sont un sponsor approuvé ou s'ils ont au moins déposé une demande pour devenir sponsor. Ce visa peut être demandé à la fois sur place et à l'étranger.",
+    "allowTitle": "CE QUE CE VISA VOUS PERMETTRA DE FAIRE",
+    "allowPoint1": "Vivre temporairement en Australie pendant jusqu'à 2 ans et compléter la formation spécifiée dans votre demande",
+    "allowPoint2": "Quitter et revenir fréquemment en Australie tant que le visa est valide",
+    "allowPoint3": "Amener des membres de la famille éligibles pour vous accompagner en Australie",
+    "conditionTitle": "CONDITION",
+    "conditionDescription": "Le visa est soumis à la condition 8102 qui interdit de travailler en dehors de la formation spécifiée dans la demande de visa.",
+    "workConditionTitle": "CONDITION DE TRAVAIL",
+    "workConditionDescription": "Vous ne pouvez travailler que pour votre sponsor. Vous devez travailler au moins 30 heures par semaine et être payé au moins au taux de récompense.",
+    "healthInsuranceTitle": "ASSURANCE SANTÉ",
+    "healthInsuranceDescription": "Vous devez également maintenir votre assurance santé pendant votre séjour en Australie.",
+    "locationTitle": "EMPLACEMENT",
+    "locationDescription": "La demande doit être soumise en ligne. Vous pouvez être en Australie ou à l'étranger lors du dépôt de la demande.",
+    "familyMembersTitle": "MEMBRES DE LA FAMILLE",
+    "familyMembersDescription": "Les membres de la famille (conjoints et enfants) peuvent être inclus dans la demande."
+  },
+  "trainingVisaHero": {
+    "title": "VISA DE FORMATION",
+    "highlightText": "SOUS-CLASSE 407"
+  }
 }

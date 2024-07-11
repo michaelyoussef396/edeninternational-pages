@@ -34,7 +34,6 @@
     "cmn": "普通话",
     "si": "斯洛文尼亚语",
     "sr": "塞尔维亚语",
-    "kur": "库尔德语",
     "pi": "波兰语"
   },
   "footer": {
@@ -705,5 +704,41 @@
           "如果您是家庭成员，可以在澳大利亚工作和学习"
         ]
       }
-    }
+    },
+    "trainingVisa": {
+    "aboutTitle": "关于此签证",
+    "aboutDescription": "407 类培训签证是针对希望在澳大利亚接受工作或职业培训的人的临时签证。此签证帮助持有人在其当前职业、高等教育领域或专业领域发展技能。签证通常有效期为两年。",
+    "qualifyTitle": "我如何符合 407 类培训签证的资格？",
+    "qualifyPoint1": "由批准的赞助商赞助，直接参与相关的职业发展或职业培训项目",
+    "qualifyPoint2": "被批准的澳大利亚临时活动赞助商提名为批准的职业职位，并且该提名已获得批准",
+    "qualifyPoint3": "如果赞助商是联邦机构，则邀请申请签证",
+    "qualifyPoint4": "从事 407 类培训签证职业列表中的职业培训，并且在过去 24 个月内在该职业中已全职工作或学习至少 12 个月",
+    "qualifyPoint5": "在大多数情况下，签证批准时年龄至少为 18 岁",
+    "qualifyPoint6": "满足英语语言要求",
+    "qualifyPoint7": "如果在澳大利亚申请，持有的实质性签证不是：403 类临时工作签证中的家庭工人（外交或领事类别），771 类过境签证或特殊目的签证",
+    "qualifyPoint8": "满足健康和品行要求",
+    "qualifyPoint9": "满足申请类别的要求",
+    "qualifyPoint10": "证明有足够的资金支持自己在澳大利亚的生活",
+    "qualifyPoint11": "为临时入境",
+    "applyTitle": "我如何申请 407 类培训签证？",
+    "applyDescription": "在您申请培训签证之前，您拟议的赞助商需要为您提交提名申请。只有在他们是批准的赞助商或至少提交了成为赞助商的申请的情况下，他们才能做到这一点。此签证可以在岸上或离岸申请。",
+    "allowTitle": "此签证允许您做什么",
+    "allowPoint1": "在澳大利亚临时居住最多两年并完成申请中指定的培训",
+    "allowPoint2": "在签证有效期内频繁离开和重新进入澳大利亚",
+    "allowPoint3": "让符合条件的家庭成员陪同您在澳大利亚",
+    "conditionTitle": "条件",
+    "conditionDescription": "签证受条件 8102 的限制，禁止从事申请签证中指定的培训以外的工作。",
+    "workConditionTitle": "工作条件",
+    "workConditionDescription": "您只能为您的赞助商工作。您每周必须工作至少 30 小时，并且至少要支付奖项费率。",
+    "healthInsuranceTitle": "健康保险",
+    "healthInsuranceDescription": "您还必须在澳大利亚期间维持您的健康保险。",
+    "locationTitle": "位置",
+    "locationDescription": "申请必须在线提交。提交申请时，您可以在澳大利亚或海外。",
+    "familyMembersTitle": "家庭成员",
+    "familyMembersDescription": "可以在申请中包括家庭成员（配偶和子女）。"
+  },
+  "trainingVisaHero": {
+    "title": "培训签证",
+    "highlightText": "407 类"
+  }
 }

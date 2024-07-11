@@ -34,7 +34,6 @@
     "cmn": "Mandarín",
     "si": "Esloveno",
     "sr": "Serbio",
-    "kur": "Kurdo",
     "pi": "Polaco"
   },
   "footer": {
@@ -705,5 +704,41 @@
           "Si eres un miembro de la familia, trabajar y estudiar en Australia"
         ]
       }
-    }
+    },
+    "trainingVisa": {
+    "aboutTitle": "SOBRE ESTA VISA",
+    "aboutDescription": "La visa de entrenamiento subclase 407 es una visa temporal para personas en Australia que desean someterse a entrenamiento laboral o profesional en Australia. Esta visa ayuda al titular a desarrollar sus habilidades en su profesión actual, área de estudio terciario o campo de especialización. La visa generalmente es válida para una estancia en Australia de hasta 2 años.",
+    "qualifyTitle": "¿CÓMO CALIFICO PARA LA VISA DE ENTRENAMIENTO SUBCLASE 407?",
+    "qualifyPoint1": "ser patrocinado por un patrocinador aprobado, para participar en programas de desarrollo profesional o entrenamiento ocupacional relevantes directamente del patrocinador",
+    "qualifyPoint2": "haber sido nominado para un puesto ocupacional aprobado por un patrocinador de actividades temporales australianas aprobado, y esa nominación ha sido aprobada",
+    "qualifyPoint3": "ser invitado a solicitar la visa, si el patrocinador es una agencia del Commonwealth",
+    "qualifyPoint4": "estar realizando un entrenamiento en una ocupación en la Lista de Ocupaciones de la Visa de Entrenamiento 407, y haber trabajado o estudiado a tiempo completo en esta ocupación durante al menos 12 meses a tiempo completo en los últimos 24 meses",
+    "qualifyPoint5": "tener al menos 18 años de edad al momento de la decisión de otorgamiento de la visa, en la mayoría de los casos",
+    "qualifyPoint6": "cumplir con los requisitos del idioma inglés",
+    "qualifyPoint7": "si solicita en Australia, tener una visa sustantiva que NO sea: Subclase 403 Visa de Trabajo Temporal en el Trabajador Doméstico (rama Diplomática o Consular), Visa de Tránsito Subclase 771, o Visa de Propósito Especial",
+    "qualifyPoint8": "cumplir con los requisitos de salud y carácter",
+    "qualifyPoint9": "cumplir con los requisitos del flujo en el que aplica",
+    "qualifyPoint10": "demostrar fondos suficientes para mantenerse en Australia",
+    "qualifyPoint11": "ser un verdadero ingresante temporal",
+    "applyTitle": "¿CÓMO SOLICITO LA VISA DE ENTRENAMIENTO SUBCLASE 407?",
+    "applyDescription": "Antes de que pueda solicitar una visa de entrenamiento, su patrocinador propuesto deberá presentar una solicitud de nominación para usted. Solo podrán hacer esto si son un patrocinador aprobado o si al menos han presentado una solicitud para convertirse en patrocinador. Esta visa se puede solicitar tanto en tierra como fuera de ella.",
+    "allowTitle": "LO QUE ESTA VISA LE PERMITIRÁ HACER",
+    "allowPoint1": "Vivir temporalmente en Australia por hasta 2 años y completar el entrenamiento especificado en su solicitud",
+    "allowPoint2": "Salir y volver a entrar a Australia frecuentemente hasta que la visa sea válida",
+    "allowPoint3": "Traer a familiares elegibles para acompañarlo en Australia",
+    "conditionTitle": "CONDICIÓN",
+    "conditionDescription": "La visa está sujeta a la condición 8102 que prohíbe trabajar aparte del entrenamiento especificado en la solicitud de visa.",
+    "workConditionTitle": "CONDICIÓN DE TRABAJO",
+    "workConditionDescription": "Solo puede trabajar para su patrocinador. Debe trabajar al menos 30 horas por semana y recibir al menos la tasa de premio.",
+    "healthInsuranceTitle": "SEGURO DE SALUD",
+    "healthInsuranceDescription": "También debe mantener su seguro de salud mientras esté en Australia.",
+    "locationTitle": "UBICACIÓN",
+    "locationDescription": "La solicitud debe ser presentada en línea. Puede estar en Australia o en el extranjero al presentar la solicitud.",
+    "familyMembersTitle": "MIEMBROS DE LA FAMILIA",
+    "familyMembersDescription": "Los miembros de la familia (esposos e hijos) pueden ser incluidos en la solicitud."
+  },
+  "trainingVisaHero": {
+    "title": "VISA DE ENTRENAMIENTO",
+    "highlightText": "SUBCLASE 407"
+  }
 }

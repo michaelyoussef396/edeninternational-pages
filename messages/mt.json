@@ -34,7 +34,6 @@
     "cmn": "Mandarin",
     "si": "Sloven",
     "sr": "Serb",
-    "kur": "Kurdi",
     "pi": "Pollakk"
   },
   "footer": {
@@ -705,5 +704,41 @@
           "Jekk int membru tal-familja, taħdem u tistudja fl-Awstralja"
         ]
       }
-    }
+    },
+    "trainingVisa": {
+    "aboutTitle": "DWAR DIN IL-VIŻA",
+    "aboutDescription": "Il-viża ta' taħriġ sottoklassi 407 hija viża temporanja għal persuni fl-Awstralja li jridu jagħmlu taħriġ tax-xogħol jew professjonali fl-Awstralja. Din il-viża tgħin lill-persuna li jkollha biex tiżviluppa l-ħiliet tagħha fil-professjoni attwali tagħhom, l-istudju tagħhom jew il-qasam ta' espertiżi tagħhom. Il-viża ġeneralment hija valida għal sa 2 snin f'Australja.",
+    "qualifyTitle": "KIF NISTA' NIQUALIFIKA GĦAL VIŻA TA' TAĦRIĠ SOTTOKLASSI 407?",
+    "qualifyPoint1": "tkun sponsorjata minn sponsor approvat biex tipparteċipa f'programmi ta' żvilupp professjonali jew ta' taħriġ tax-xogħol rilevanti direttament mis-sponsor",
+    "qualifyPoint2": "tkun nominata għal pożizzjoni ta' xogħol approvata minn sponsor ta' attivitajiet temporanji approvat Awstraljan, u dik in-nominazzjoni tkun ġiet approvata",
+    "qualifyPoint3": "tkun mistiedna tapplika għal viża jekk is-sponsor huwa aġenzija tal-Commonwealth",
+    "qualifyPoint4": "tkun qed tieħu taħriġ f'okkupazzjoni fuq il-Lista tal-Okkupazzjonijiet ta' Viża ta' Taħriġ 407, u tkun diġà ħdimt jew studjajt full-time f'dik l-okkupazzjoni għal mill-inqas 12-il xahar full-time fl-aħħar 24 xahar",
+    "qualifyPoint5": "għandek tal-inqas 18-il sena fil-ħin tad-deċiżjoni dwar il-għoti tal-viża, fil-maġġoranza tal-każijiet",
+    "qualifyPoint6": "tissodisfa r-rekwiżiti tal-lingwa Ingliża",
+    "qualifyPoint7": "jekk tapplika fl-Awstralja, ikollok viża sostantiva li MHIX: Sottoklassi 403 Viża ta' Xogħol Temporanju fil-Qaddej Domestiku (kors diplomatiku jew konsulari), Sottoklassi 771 Viża ta' Tranżitu, jew Viża ta' Għan Speċjali",
+    "qualifyPoint8": "tissodisfa r-rekwiżiti tas-saħħa u tal-karattru",
+    "qualifyPoint9": "tissodisfa r-rekwiżiti tal-fluss li fih tapplika",
+    "qualifyPoint10": "turija biżżejjed fondi biex issostni lilek innifsek fl-Awstralja",
+    "qualifyPoint11": "tkun persuna temporanja ġenwina",
+    "applyTitle": "KIF NISTA' NAPPLIKA GĦAL VIŻA TA' TAĦRIĠ SOTTOKLASSI 407?",
+    "applyDescription": "Qabel ma tapplika għal viża ta' taħriġ, is-sponsor propost tiegħek ikollu jissottometti applikazzjoni għal nominazzjoni għalik. Huma jistgħu jagħmlu dan biss jekk huma sponsor approvat jew tal-inqas issottomettew applikazzjoni biex isiru sponsor. Din il-viża tista' tiġi applikata kemm fuq il-kosta kif ukoll barra.",
+    "allowTitle": "X'JIPPERMETTI DIN IL-VIŻA LI TAGĦMEL",
+    "allowPoint1": "Tgħix temporanjament fl-Awstralja għal sa 2 snin u tlesti t-taħriġ speċifikat fl-applikazzjoni tiegħek",
+    "allowPoint2": "Tħalli u tidħol mill-ġdid fl-Awstralja b'mod frekwenti sakemm il-viża tkun valida",
+    "allowPoint3": "Tista' ġġib membri tal-familja eliġibbli biex jakkumpanjawk fl-Awstralja",
+    "conditionTitle": "KONDIZZJONI",
+    "conditionDescription": "Il-viża hija suġġetta għall-kundizzjoni 8102 li tipprojbixxi xogħol barra mit-taħriġ speċifikat fl-applikazzjoni tal-viża.",
+    "workConditionTitle": "KONDIZZJONI TA' XOGĦOL",
+    "workConditionDescription": "Tista' taħdem biss għas-sponsor tiegħek. Trid taħdem għall-inqas 30 siegħa fil-ġimgħa u tirċievi għall-inqas ir-rata tal-Għotja.",
+    "healthInsuranceTitle": "ASSIGURAZZJONI TAS-SAĦĦA",
+    "healthInsuranceDescription": "Trid iżżomm l-assigurazzjoni tas-saħħa tiegħek waqt li tkun fl-Awstralja.",
+    "locationTitle": "LOKAZZJONI",
+    "locationDescription": "L-applikazzjoni trid tiġi sottomessa online. Tista' tkun fl-Awstralja jew barra meta tissottometti l-applikazzjoni.",
+    "familyMembersTitle": "MEMBRI TAL-FAMILJA",
+    "familyMembersDescription": "Membri tal-familja (konjuġi u tfal) jistgħu jiġu inklużi fl-applikazzjoni."
+  },
+  "trainingVisaHero": {
+    "title": "VIŻA TA' TAĦRIĠ",
+    "highlightText": "SOTTOKLASSI 407"
+  }
 }
