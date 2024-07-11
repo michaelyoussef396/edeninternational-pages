@@ -5,6 +5,7 @@ import HeroSection from '@/components/HeroSection';
 import { images } from '@/constants/images';
 import ScrollingLogos from '@/components/ScrollingLogos';
 import AffiliatedInstitutions from '@/components/AffiliatedInstitutions';
+import Affiliated from '@/components/Affiliated';
 
 
 
@@ -27,7 +28,7 @@ const IndexPage: React.FC<IndexPageProps> = ({ params: { locale } }) => {
         highlightText={t('secondHighlightText')}
         height="h-36"
       />
-
+      <Affiliated />
       <ScrollingLogos />
     </main>
   );
