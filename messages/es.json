@@ -373,5 +373,11 @@
         "part6": "400,000 estudiantes internacionales",
         "part7": "cada año. Ofrece los mejores programas de estudio del mundo y alberga algunas de las mejores instalaciones de investigación y instituciones académicas del mundo. Si estudiar en el extranjero es tu plan, Canadá debería estar en la parte superior de tu lista."
       }
+    },
+    "heroSection": {
+      "firstTitle": "",
+      "firstHighlightText": "",
+      "secondTitle": "NUESTRAS INSTITUCIONES",
+      "secondHighlightText": "AFILIADAS"
     }
 }

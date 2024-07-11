@@ -373,5 +373,11 @@
         "part6": "400,000명 이상의 국제 학생들",
         "part7": "을 환영합니다. 세계 최고의 학습 프로그램을 제공하며, 세계 최고의 연구 시설과 학술 기관의 본거지입니다. 해외 유학이 여러분의 계획이라면 캐나다가 최우선 목록에 있어야 합니다."
       }
+    },
+    "heroSection": {
+      "firstTitle": "",
+      "firstHighlightText": "",
+      "secondTitle": "우리의 제휴",
+      "secondHighlightText": "기관"
     }
 }

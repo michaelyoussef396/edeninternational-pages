@@ -17,6 +17,8 @@ import shape8 from "@/public/shape-8.jpg";
 import mainImage from '@/public/main3.png'
 import AustraliaMain from "@/public/ThinkstockPhotos-535455441_12-5.webp";
 import main3 from "@/public/main3.png";
+import image2 from '@/public/US_School5441_Output.webp';
+import image from "@/public/footer-3.png";
 export const images = {
   mail,
   phone,
@@ -37,4 +39,6 @@ export const images = {
   mainImage,
   AustraliaMain,
   main3,
+  image2,
+  image,
 };
