@@ -640,5 +640,70 @@
         "content": "No. Sebbene tu possa qualificarti fondamentalmente sotto la politica di immigrazione, non sei assolutamente garantito di successo. La tua domanda deve essere preparata in conformità con le normative sull'immigrazione vigenti e presentata insieme alla documentazione di supporto appropriata per essere approvata dalle autorità di immigrazione. I modi per farlo non sono sempre chiaramente stabiliti dalle autorità di immigrazione e molti richiedenti presentano i loro casi in modo errato, portando inevitabilmente al rifiuto. Quindi dovresti considerare di cercare il consiglio di un Agente di Migrazione Registrato MARA."
       },
       "cta": "OTTENERE UNA VALUTAZIONE INIZIALE GRATUITA DELLA TUA IDONEITÀ"
+    },
+    "temporarySkilledVisaData": {
+      "hero": {
+        "title": "VISTO TEMPORANEO PER CARENZA DI COMPETENZE (TSS)",
+        "highlightText": "SUBCLASSE 482"
+      },
+      "title": "INFORMAZIONI SU QUESTO VISTO",
+      "description": "Il Visto di Lavoro Temporaneo (Subclasse 457) è stato sostituito dal Visto per Carenza di Competenze Temporanee (TSS) Subclasse 482 il 18 marzo 2018. Questo visto consente ai datori di lavoro di affrontare le carenze di manodopera portando lavoratori qualificati dove i datori di lavoro non possono reperire un lavoratore australiano adeguatamente qualificato.",
+      "section1": {
+        "heading": "COME POSSO QUALIFICARMI PER IL VISTO TEMPORANEO PER CARENZA DI COMPETENZE (TSS) SUBCLASSE 482?",
+        "subSections": [
+          {
+            "subHeading": "Idoneità per il Visto Temporaneo per Carenza di Competenze (TSS) Subclasse 482:",
+            "details": [
+              {
+                "title": "i) Stream a Breve Termine:",
+                "content": "Questo stream è disponibile se un datore di lavoro desidera sponsorizzare un lavoratore qualificato straniero solo su base temporanea in occupazioni elencate nell'elenco delle occupazioni qualificate a breve termine (STSOL) per un visto TSS. Può essere utilizzato per riempire posizioni per un massimo di due anni o quattro anni se si applica un'Obbligazione Commerciale Internazionale (ITO)."
+              },
+              {
+                "title": "ii) Stream a Medio Termine:",
+                "content": "Questo visto consente ai datori di lavoro di affrontare le carenze di manodopera portando lavoratori qualificati dove i datori di lavoro non possono reperire un lavoratore australiano adeguatamente qualificato."
+              },
+              {
+                "title": "iii) Stream dell'Accordo sul Lavoro:",
+                "content": "Questo visto è per lavoratori qualificati nominati da datori di lavoro che hanno un Accordo sul Lavoro. Ti permette di vivere e lavorare temporaneamente in Australia. Gli accordi sul lavoro sono sviluppati tra il Governo Australiano (rappresentato dal Dipartimento) e i datori di lavoro."
+              }
+            ]
+          }
+        ]
+      },
+      "section2": {
+        "heading": "Quali sono i requisiti di idoneità per richiedere un visto temporaneo per carenza di competenze (subclasse 482)?",
+        "listItems": [
+          "Hai un'occupazione nell'elenco consolidato delle occupazioni qualificate",
+          "Sei stato nominato per una posizione lavorativa da un datore di lavoro australiano che desidera reclutarti per lavorare per loro",
+          "Hai le competenze e le qualifiche rilevanti per la tua occupazione",
+          "Hai almeno due (2) anni di esperienza lavorativa nella tua occupazione",
+          "Hai una conoscenza della lingua inglese vocazionale",
+          "Puoi soddisfare i requisiti del DHA per buona carattere e salute",
+          "Se ti trovi in Australia, hai un visto sostanziale, o un visto di transito A, B, o C e hai rispettato le condizioni del tuo visto."
+        ],
+        "note": "Nota: Non c'è un requisito di età per il visto TSS."
+      },
+      "section3": {
+        "heading": "Quali sono i requisiti generali per i datori di lavoro per richiedere un visto temporaneo per carenza di competenze (subclasse 482)?",
+        "listItems": [
+          "Essere un'azienda legalmente operativa",
+          "Non avere informazioni avverse contro l'azienda",
+          "Nominare una posizione lavorativa per il lavoratore straniero che sia a tempo pieno e genuina",
+          "Soddisfare i requisiti relativi alla retribuzione e alle condizioni di lavoro",
+          "Fornire prove di Test di Mercato del Lavoro se richiesto"
+        ]
+      },
+      "section4": {
+        "heading": "Come posso richiedere il Visto Temporaneo per Carenza di Competenze (TSS) Subclasse 482?",
+        "content": "Prima di poter richiedere un visto TSS, il tuo datore di lavoro proposto dovrà presentare una domanda di nomina per te. Potranno farlo solo se sono uno sponsor approvato o hanno almeno presentato una domanda per diventare uno sponsor aziendale standard. Se il tuo datore di lavoro è ancora uno sponsor approvato 457, possono sponsorizzarti per un TSS (Subclasse 482) sotto quella sponsorizzazione esistente. Gli sponsor devono anche fornire prove di test di mercato del lavoro obbligatorio per dimostrare che non possono impiegare un australiano nella posizione."
+      },
+      "section5": {
+        "heading": "Cosa ti permetterà di fare questo visto?",
+        "content": "Questo visto ti consente di viaggiare da e verso l'Australia per la durata del visto e:",
+        "listItems": [
+          "Se sei il titolare principale del visto, di lavorare in Australia per uno sponsor approvato nella tua occupazione nominata",
+          "Se sei un membro della famiglia, di lavorare e studiare in Australia"
+        ]
+      }
     }
 }

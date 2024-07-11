@@ -640,5 +640,70 @@
         "content": "Non. Bien que vous puissiez fondamentalement remplir les conditions de la politique d'immigration, vous n'êtes pas pour autant garanti de réussir. Votre demande doit être préparée conformément aux réglementations d'immigration en vigueur et soumise avec les documents justificatifs appropriés pour être approuvée par les autorités d'immigration. Les moyens d'y parvenir ne sont pas toujours clairement énoncés par les autorités d'immigration et entraînent de nombreux demandeurs à présenter leurs dossiers de manière incorrecte, ce qui conduit inévitablement à un refus. Vous devriez donc envisager de demander les conseils d'un agent de migration enregistré MARA."
       },
       "cta": "OBTENEZ UNE ÉVALUATION INITIALE GRATUITE DE VOTRE ÉLIGIBILITÉ"
+    },
+    "temporarySkilledVisaData": {
+      "hero": {
+        "title": "VISA DE PÉNURIE DE COMPÉTENCES TEMPORAIRES (TSS)",
+        "highlightText": "SOUS-CLASSE 482"
+      },
+      "title": "À PROPOS DE CE VISA",
+      "description": "Le Visa de Travail Temporaire (Sous-classe 457) a été remplacé par le Visa de Pénurie de Compétences Temporaires (TSS) Sous-classe 482 le 18 mars 2018. Ce visa permet aux employeurs de faire face aux pénuries de main-d'œuvre en faisant venir des travailleurs qualifiés lorsque les employeurs ne peuvent pas trouver un travailleur australien suffisamment qualifié.",
+      "section1": {
+        "heading": "COMMENT PUIS-JE ÊTRE ÉLIGIBLE POUR LE VISA DE PÉNURIE DE COMPÉTENCES TEMPORAIRES (TSS) SOUS-CLASSE 482?",
+        "subSections": [
+          {
+            "subHeading": "Éligibilité pour le Visa de Pénurie de Compétences Temporaires (TSS) Sous-classe 482 :",
+            "details": [
+              {
+                "title": "i) Stream Court Terme :",
+                "content": "Ce stream est disponible si un employeur souhaite sponsoriser un travailleur qualifié étranger temporairement uniquement dans les professions répertoriées sur la liste des professions qualifiées à court terme (STSOL) pour un visa TSS. Il peut être utilisé pour pourvoir des postes pour un maximum de deux ans ou quatre ans si une Obligation Commerciale Internationale (ITO) s'applique."
+              },
+              {
+                "title": "ii) Stream Moyen Terme :",
+                "content": "Ce visa permet aux employeurs de faire face aux pénuries de main-d'œuvre en faisant venir des travailleurs qualifiés lorsque les employeurs ne peuvent pas trouver un travailleur australien suffisamment qualifié."
+              },
+              {
+                "title": "iii) Stream Accord de Travail :",
+                "content": "Ce visa est destiné aux travailleurs qualifiés nommés par des employeurs ayant un Accord de Travail. Il vous permet de vivre et de travailler temporairement en Australie. Les accords de travail sont élaborés entre le gouvernement australien (représenté par le département) et les employeurs."
+              }
+            ]
+          }
+        ]
+      },
+      "section2": {
+        "heading": "Quelles sont les exigences d'éligibilité pour postuler à un visa de pénurie de compétences temporaires (sous-classe 482)?",
+        "listItems": [
+          "Vous avez une profession sur la liste des professions qualifiées consolidées",
+          "Vous avez été nommé pour un poste par un employeur australien qui veut vous recruter pour travailler pour lui",
+          "Vous avez les compétences et qualifications pertinentes pour votre profession",
+          "Vous avez au moins deux (2) ans d'expérience de travail dans votre profession",
+          "Vous avez une capacité linguistique en anglais professionnelle",
+          "Vous pouvez satisfaire aux exigences de DHA en matière de bonne moralité et de santé",
+          "Si vous êtes en Australie, vous avez un visa substantif, ou un visa relais A, B ou C et vous avez respecté les conditions de votre visa."
+        ],
+        "note": "Remarque : Il n'y a pas de condition d'âge pour le visa TSS."
+      },
+      "section3": {
+        "heading": "Quelles sont les exigences générales pour que les employeurs postulent à un visa de pénurie de compétences temporaires (sous-classe 482)?",
+        "listItems": [
+          "Être une entreprise opérant légalement",
+          "Ne pas avoir d'informations défavorables contre l'entreprise",
+          "Nommer un poste pour le travailleur étranger qui soit à plein temps et authentique",
+          "Satisfaire aux exigences relatives aux conditions de salaire et d'emploi",
+          "Fournir des preuves de tests du marché du travail si nécessaire"
+        ]
+      },
+      "section4": {
+        "heading": "Comment puis-je postuler au Visa de Pénurie de Compétences Temporaires (TSS) Sous-classe 482?",
+        "content": "Avant de pouvoir postuler à un visa TSS, votre employeur proposé devra déposer une demande de nomination pour vous. Ils ne pourront le faire que s'ils sont un sponsor approuvé ou s'ils ont au moins déposé une demande pour devenir un sponsor d'entreprise standard. Si votre employeur est toujours un sponsor approuvé 457, alors il peut vous sponsoriser pour un TSS (Sous-classe 482) sous ce parrainage existant. Les sponsors doivent également fournir des preuves de tests obligatoires du marché du travail pour montrer qu'ils ne peuvent pas employer un Australien dans le poste."
+      },
+      "section5": {
+        "heading": "Que vous permet ce visa de faire?",
+        "content": "Ce visa vous permet de voyager à destination et en provenance de l'Australie pendant la durée de votre visa et :",
+        "listItems": [
+          "Si vous êtes le titulaire principal du visa, de travailler en Australie pour un sponsor approuvé dans votre profession nommée",
+          "Si vous êtes un membre de la famille, de travailler et d'étudier en Australie"
+        ]
+      }
     }
 }

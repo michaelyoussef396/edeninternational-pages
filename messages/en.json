@@ -640,5 +640,70 @@
       "content": "No. Although you may fundamentally qualify under the immigration policy, you are by no means guaranteed of success. Your application must be prepared in accordance with the prevailing immigration regulations and submitted together with the appropriate supporting documentation in order to be approved by the immigration authorities. The ways in which to do this are not always clearly set out by the immigration authorities and result in many applicants presenting their cases incorrectly, inevitably leading to refusal. So you should consider seeking the advice of a MARA Registered Migration Agent."
     },
     "cta": "GET A FREE INITIAL ASSESSMENT OF YOUR ELIGIBILITY"
+  },
+  "temporarySkilledVisaData": {
+    "hero": {
+      "title": "TEMPORARY SKILL SHORTAGE (TSS) VISA",
+      "highlightText": "SUBCLASS 482"
+    },
+    "title": "ABOUT THIS VISA",
+    "description": "The Temporary Work Visa (Subclass 457) has been replaced by the Temporary Skill Shortage (TSS) Visa Subclass 482 on 18 March 2018. This visa enables employers to address labour shortages by bringing in skilled workers where employers can’t source an appropriately skilled Australian worker.",
+    "section1": {
+      "heading": "HOW DO I QUALIFY FOR THE TEMPORARY SKILL SHORTAGE (TSS) SUBCLASS 482 VISA?",
+      "subSections": [
+        {
+          "subHeading": "Eligibility for the Temporary Skill Shortage (TSS) Visa Subclass 482:",
+          "details": [
+            {
+              "title": "i) Short Term Stream:",
+              "content": "This stream is available if an employer wishes to sponsor an overseas skilled worker on a temporary basis only in occupations listed on the Short-term Skilled Occupation list (STSOL) for a TSS visa. It can be used to fill positions for a maximum of two years or four years if an International Trade Obligation (ITO) applies."
+            },
+            {
+              "title": "ii) Medium Term Stream:",
+              "content": "This visa enables employers to address labour shortages by bringing in skilled workers where employers can’t source an appropriately skilled Australian worker."
+            },
+            {
+              "title": "iii) Labour Agreement Stream:",
+              "content": "This visa is for skilled workers nominated by employers who have a Labour Agreement. It lets you live and work in Australia temporarily. Labour agreements are developed between the Australian Government (represented by the Department) and employers."
+            }
+          ]
+        }
+      ]
+    },
+    "section2": {
+      "heading": "What are the eligibility requirements to apply for a Temporary Skill Shortage visa (subclass 482)?",
+      "listItems": [
+        "You have an occupation on the Consolidated Skilled Occupations list",
+        "You have been nominated for a job position by an Australian employer that wants to recruit you to work for them",
+        "You have the relevant skills and qualifications for your occupation",
+        "You have at least two (2) years of work experience in your occupation",
+        "You have vocational English language ability",
+        "You can satisfy DHA requirements for good character and health",
+        "If you are in Australia, you have a substantive visa, or a bridging visa A, B, or C and you have complied with your visa condition."
+      ],
+      "note": "Note: There is no age requirement for the TSS visa."
+    },
+    "section3": {
+      "heading": "What are the general requirements for employers to apply for a Temporary Skill Shortage visa (subclass 482)?",
+      "listItems": [
+        "Be a lawfully operating business",
+        "Have no adverse information against the business",
+        "Nominate a job position for the foreign national worker that is full-time and genuine",
+        "Satisfy salary and employment condition related requirements",
+        "Provide evidence of Labour Market Testing if required"
+      ]
+    },
+    "section4": {
+      "heading": "How do I apply for the Temporary Skill Shortage (TSS) Subclass 482 Visa?",
+      "content": "Before you can apply for a TSS visa, your proposed employer will need to lodge a nomination application for you. They will only be able to do this if they are an approved sponsor or have at least lodged an application to become a standard business sponsor. If your employer is still an approved 457 sponsor then they can sponsor you for a TSS (Subclass 482) under that existing sponsorship. Sponsors also need to evidence mandatory labour market testing to show that they cannot employ an Australian into the position."
+    },
+    "section5": {
+      "heading": "What this visa will allow you to do?",
+      "content": "This visa allows you to travel to and from Australia for the duration of your visa and:",
+      "listItems": [
+        "If you are the primary visa holder, to work in Australia for an approved sponsor in your nominated occupation",
+        "If you are a family member, to work and study in Australia"
+      ]
+    }
   }
 }

@@ -640,6 +640,71 @@
       "content": "Ne. Čeprav se po pravilih migracijske politike kvalificirate, nimate zagotovljenega uspeha. Vaša prijava mora biti pripravljena v skladu z veljavnimi migracijskimi predpisi in predložena skupaj z ustrezno podporno dokumentacijo, da jo odobrijo migracijski organi. Načini za to niso vedno jasno določeni s strani migracijskih organov, kar vodi do tega, da mnogi prijavitelji napačno predstavijo svoje primere, kar neizogibno vodi do zavrnitve. Torej bi morali razmisliti o nasvetih registriranega agenta za migracijo MARA."
     },
     "cta": "PRIDOBITE BREZPLAČNO ZAČETNO OCENO SVOJE UPRAVIČENOSTI"
+  },
+  "temporarySkilledVisaData": {
+    "hero": {
+      "title": "ZAČASNA VIZA ZA POMANJKANJE VEŠČIN (TSS)",
+      "highlightText": "PODKLASA 482"
+    },
+    "title": "O TEJ VIZI",
+    "description": "Začasna delovna viza (Podklasa 457) je bila nadomeščena z začasno vizo za pomanjkanje veščin (TSS) Podklasa 482 dne 18. marca 2018. Ta viza omogoča delodajalcem, da rešujejo pomanjkanje delovne sile z vnosom kvalificiranih delavcev, kjer delodajalci ne morejo najti ustrezno usposobljenega avstralskega delavca.",
+    "section1": {
+      "heading": "KAKO SE KVALIFICIRAM ZA ZAČASNO VIZO ZA POMANJKANJE VEŠČIN (TSS) PODKLASA 482?",
+      "subSections": [
+        {
+          "subHeading": "Pogoji za Začasno Vizo za Pomanjkanje Veščin (TSS) Podklasa 482:",
+          "details": [
+            {
+              "title": "i) Kratkoročni Tok:",
+              "content": "Ta tok je na voljo, če delodajalec želi sponzorirati tujega kvalificiranega delavca na začasni osnovi le v poklicih, navedenih na seznamu Kratkoročnih Poklicev (STSOL) za vizo TSS. Uporablja se lahko za zapolnitev delovnih mest za največ dve leti ali štiri leta, če velja Mednarodna Trgovinska Obveznost (ITO)."
+            },
+            {
+              "title": "ii) Srednjeročni Tok:",
+              "content": "Ta viza omogoča delodajalcem, da rešujejo pomanjkanje delovne sile z vnosom kvalificiranih delavcev, kjer delodajalci ne morejo najti ustrezno usposobljenega avstralskega delavca."
+            },
+            {
+              "title": "iii) Tok Delovnega Dogovora:",
+              "content": "Ta viza je za kvalificirane delavce, ki so jih nominirali delodajalci, ki imajo delovni dogovor. Omogoča začasno bivanje in delo v Avstraliji. Delovni dogovori so razviti med avstralsko vlado (ki jo predstavlja Oddelek) in delodajalci."
+            }
+          ]
+        }
+      ]
+    },
+    "section2": {
+      "heading": "Kakšni so pogoji za pridobitev začasne vize za pomanjkanje veščin (TSS) podklasa 482?",
+      "listItems": [
+        "Imate poklic na Konsolidiranem Seznamu Poklicev",
+        "Ste bili nominirani za delovno mesto s strani avstralskega delodajalca, ki vas želi zaposliti za delo zanj",
+        "Imate ustrezne veščine in kvalifikacije za svoj poklic",
+        "Imate vsaj dve (2) leti delovnih izkušenj v svojem poklicu",
+        "Imate poklicno znanje angleškega jezika",
+        "Lahko izpolnite zahteve DHA za dobro osebnost in zdravje",
+        "Če ste v Avstraliji, imate veljavno vizo ali povezovalno vizo A, B ali C in ste se držali pogojev svoje vize."
+      ],
+      "note": "Opomba: Za vizo TSS ni starostnih omejitev."
+    },
+    "section3": {
+      "heading": "Kakšni so splošni pogoji za delodajalce, da zaprosijo za začasno vizo za pomanjkanje veščin (TSS) podklasa 482?",
+      "listItems": [
+        "Biti zakonito delujoče podjetje",
+        "Nimajo negativnih informacij o podjetju",
+        "Nominirati delovno mesto za tujega delavca, ki je polno zaposlitev in resnično",
+        "Izpolnjevati zahteve glede plač in pogojev zaposlitve",
+        "Zagotoviti dokaze o preizkusu trga dela, če je to potrebno"
+      ]
+    },
+    "section4": {
+      "heading": "Kako zaprosim za začasno vizo za pomanjkanje veščin (TSS) Podklasa 482?",
+      "content": "Preden lahko zaprosite za vizo TSS, bo vaš predlagani delodajalec moral vložiti vlogo za nominacijo za vas. To bodo lahko storili le, če so odobreni sponzor ali so vsaj vložili vlogo za postati standardni poslovni sponzor. Če je vaš delodajalec še vedno odobren sponzor 457, vas lahko sponzorirajo za vizo TSS (Podklasa 482) v okviru tega obstoječega sponzorstva. Sponzorji morajo prav tako zagotoviti dokaze o obveznem preizkusu trga dela, da dokažejo, da ne morejo zaposliti Avstralca na to mesto."
+    },
+    "section5": {
+      "heading": "Kaj vam omogoča ta viza?",
+      "content": "Ta viza vam omogoča potovanje v Avstralijo in iz nje za čas trajanja vaše vize in:",
+      "listItems": [
+        "Če ste glavni imetnik vize, delo v Avstraliji za odobrenega sponzorja v vašem nominiranem poklicu",
+        "Če ste član družine, delo in študij v Avstraliji"
+      ]
+    }
   }
   }
   

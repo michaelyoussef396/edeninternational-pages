@@ -640,6 +640,71 @@
       "content": "Nie. Chociaż zasadniczo kwalifikujesz się zgodnie z polityką imigracyjną, nie masz gwarancji sukcesu. Twój wniosek musi być przygotowany zgodnie z obowiązującymi przepisami imigracyjnymi i złożony razem z odpowiednią dokumentacją wspierającą, aby został zatwierdzony przez władze imigracyjne. Sposoby na to nie zawsze są jasno określone przez władze imigracyjne i skutkują wieloma wnioskodawcami, którzy nieprawidłowo przedstawiają swoje sprawy, co nieuchronnie prowadzi do odrzucenia. Więc powinieneś rozważyć porady zarejestrowanego agenta migracyjnego MARA."
     },
     "cta": "UZYSKAJ BEZPŁATNĄ WSTĘPNĄ OCENĘ SWOJEJ KWALIFIKACJI"
+  },
+  "temporarySkilledVisaData": {
+    "hero": {
+      "title": "WIZA NA KRÓTKOTRWAŁĄ BRAK UMIEJĘTNOŚCI (TSS)",
+      "highlightText": "PODKLASA 482"
+    },
+    "title": "O TEJ WIZIE",
+    "description": "Wiza na tymczasową pracę (Podklasa 457) została zastąpiona wizą na krótkotrwałą brak umiejętności (TSS) Podklasa 482 w dniu 18 marca 2018 roku. Ta wiza umożliwia pracodawcom rozwiązywanie problemów z brakiem pracowników poprzez sprowadzanie wykwalifikowanych pracowników, gdy pracodawcy nie mogą znaleźć odpowiedniego wykwalifikowanego pracownika australijskiego.",
+    "section1": {
+      "heading": "JAK MOGĘ KWALIFIKOWAĆ SIĘ DO WIZY NA KRÓTKOTRWAŁĄ BRAK UMIEJĘTNOŚCI (TSS) PODKLASA 482?",
+      "subSections": [
+        {
+          "subHeading": "Kwalifikacje do Wizy na Krótkotrwałą Brak Umiejętności (TSS) Podklasa 482:",
+          "details": [
+            {
+              "title": "i) Krótkoterminowy Strumień:",
+              "content": "Ten strumień jest dostępny, jeśli pracodawca chce sponsorować zagranicznego wykwalifikowanego pracownika na tymczasowej podstawie tylko w zawodach wymienionych na liście Krótkoterminowych Zawodów (STSOL) dla wizy TSS. Może być używany do obsadzania stanowisk na maksymalnie dwa lata lub cztery lata, jeśli ma zastosowanie Międzynarodowy Obowiązek Handlowy (ITO)."
+            },
+            {
+              "title": "ii) Strumień Średnioterminowy:",
+              "content": "Ta wiza umożliwia pracodawcom rozwiązywanie problemów z brakiem pracowników poprzez sprowadzanie wykwalifikowanych pracowników, gdy pracodawcy nie mogą znaleźć odpowiedniego wykwalifikowanego pracownika australijskiego."
+            },
+            {
+              "title": "iii) Strumień Umowy Pracy:",
+              "content": "Ta wiza jest dla wykwalifikowanych pracowników nominowanych przez pracodawców, którzy mają umowę o pracę. Umożliwia tymczasowe życie i pracę w Australii. Umowy o pracę są zawierane między rządem australijskim (reprezentowanym przez Departament) a pracodawcami."
+            }
+          ]
+        }
+      ]
+    },
+    "section2": {
+      "heading": "Jakie są wymagania kwalifikacyjne do ubiegania się o wizę na krótkotrwałą brak umiejętności (TSS) podklasa 482?",
+      "listItems": [
+        "Masz zawód na Konsolidowanej Liście Zawodów Umiejętności",
+        "Zostałeś nominowany na stanowisko pracy przez australijskiego pracodawcę, który chce cię zatrudnić do pracy dla niego",
+        "Masz odpowiednie umiejętności i kwalifikacje do swojego zawodu",
+        "Masz co najmniej dwa (2) lata doświadczenia zawodowego w swoim zawodzie",
+        "Masz umiejętności w języku angielskim na poziomie zawodowym",
+        "Możesz spełnić wymagania DHA dotyczące dobrego charakteru i zdrowia",
+        "Jeśli jesteś w Australii, masz wizę zasadniczą lub wizę łączącą A, B lub C i przestrzegałeś warunków swojej wizy."
+      ],
+      "note": "Uwaga: Nie ma wymagań wiekowych dla wizy TSS."
+    },
+    "section3": {
+      "heading": "Jakie są ogólne wymagania dla pracodawców ubiegających się o wizę na krótkotrwałą brak umiejętności (TSS) podklasa 482?",
+      "listItems": [
+        "Być legalnie działającym przedsiębiorstwem",
+        "Nie mieć niekorzystnych informacji na temat działalności",
+        "Nominować stanowisko pracy dla zagranicznego pracownika, które jest pełnoetatowe i autentyczne",
+        "Spełniać wymagania dotyczące wynagrodzeń i warunków zatrudnienia",
+        "Dostarczyć dowody na Przetestowanie Rynku Pracy, jeśli jest wymagane"
+      ]
+    },
+    "section4": {
+      "heading": "Jak mogę ubiegać się o wizę na krótkotrwałą brak umiejętności (TSS) Podklasa 482?",
+      "content": "Zanim będziesz mógł ubiegać się o wizę TSS, twój przyszły pracodawca będzie musiał złożyć wniosek o nominację dla ciebie. Będą mogli to zrobić tylko wtedy, jeśli są zatwierdzonym sponsorem lub przynajmniej złożyli wniosek o zostanie standardowym sponsorem biznesowym. Jeśli twój pracodawca jest nadal zatwierdzonym sponsorem 457, mogą sponsorować cię na wizę TSS (Podklasa 482) w ramach tego istniejącego sponsorstwa. Sponsorzy muszą również dostarczyć dowody obowiązkowego testowania rynku pracy, aby wykazać, że nie mogą zatrudnić Australijczyka na to stanowisko."
+    },
+    "section5": {
+      "heading": "Co pozwala ci ta wiza robić?",
+      "content": "Ta wiza pozwala na podróżowanie do i z Australii przez cały czas trwania twojej wizy oraz:",
+      "listItems": [
+        "Jeśli jesteś głównym posiadaczem wizy, na pracę w Australii dla zatwierdzonego sponsora w twoim nominowanym zawodzie",
+        "Jeśli jesteś członkiem rodziny, na pracę i naukę w Australii"
+      ]
+    }
   }
   }
   

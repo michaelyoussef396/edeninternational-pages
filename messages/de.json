@@ -640,5 +640,70 @@
         "content": "Nein. Obwohl Sie grundsätzlich unter der Einwanderungspolitik qualifizieren, sind Sie keineswegs garantiert erfolgreich. Ihr Antrag muss gemäß den geltenden Einwanderungsvorschriften vorbereitet und zusammen mit den entsprechenden unterstützenden Dokumenten eingereicht werden, um von den Einwanderungsbehörden genehmigt zu werden. Die Methoden, dies zu tun, sind nicht immer klar von den Einwanderungsbehörden festgelegt und führen dazu, dass viele Antragsteller ihre Fälle falsch präsentieren, was unvermeidlich zu einer Ablehnung führt. Sie sollten also die Beratung eines von MARA registrierten Migrationsagenten in Betracht ziehen."
       },
       "cta": "ERHALTEN SIE EINE KOSTENLOSE ERSTE BEWERTUNG IHRER EIGNUNG"
+    },
+    "temporarySkilledVisaData": {
+      "hero": {
+        "title": "TEMPORÄRES FACHKRÄFTEMANGEL-VISUM (TSS)",
+        "highlightText": "UNTERKLASSE 482"
+      },
+      "title": "ÜBER DIESES VISUM",
+      "description": "Das temporäre Arbeitsvisum (Unterklasse 457) wurde am 18. März 2018 durch das temporäre Fachkräftemangel-Visum (TSS) Unterklasse 482 ersetzt. Dieses Visum ermöglicht es Arbeitgebern, Arbeitskräftemangel zu beheben, indem sie qualifizierte Arbeitskräfte aus dem Ausland einstellen, wenn Arbeitgeber keine entsprechend qualifizierten australischen Arbeitskräfte finden können.",
+      "section1": {
+        "heading": "WIE QUALIFIZIERE ICH MICH FÜR DAS TEMPORÄRE FACHKRÄFTEMANGEL-VISUM (TSS) UNTERKLASSE 482?",
+        "subSections": [
+          {
+            "subHeading": "Berechtigung für das temporäre Fachkräftemangel-Visum (TSS) Unterklasse 482:",
+            "details": [
+              {
+                "title": "i) Kurzfristiger Stream:",
+                "content": "Dieser Stream ist verfügbar, wenn ein Arbeitgeber einen ausländischen Facharbeiter nur vorübergehend in den auf der Short-term Skilled Occupation list (STSOL) aufgeführten Berufen für ein TSS-Visum sponsern möchte. Es kann verwendet werden, um Positionen für maximal zwei Jahre oder vier Jahre zu besetzen, wenn eine internationale Handelsverpflichtung (ITO) gilt."
+              },
+              {
+                "title": "ii) Mittelfristiger Stream:",
+                "content": "Dieses Visum ermöglicht es Arbeitgebern, Arbeitskräftemangel zu beheben, indem sie qualifizierte Arbeitskräfte aus dem Ausland einstellen, wenn Arbeitgeber keine entsprechend qualifizierten australischen Arbeitskräfte finden können."
+              },
+              {
+                "title": "iii) Arbeitsabkommen-Stream:",
+                "content": "Dieses Visum ist für qualifizierte Arbeitskräfte, die von Arbeitgebern nominiert wurden, die ein Arbeitsabkommen haben. Es ermöglicht Ihnen, vorübergehend in Australien zu leben und zu arbeiten. Arbeitsabkommen werden zwischen der australischen Regierung (vertreten durch das Department) und den Arbeitgebern entwickelt."
+              }
+            ]
+          }
+        ]
+      },
+      "section2": {
+        "heading": "Was sind die Berechtigungsvoraussetzungen für die Beantragung eines temporären Fachkräftemangel-Visums (Unterklasse 482)?",
+        "listItems": [
+          "Sie haben einen Beruf auf der konsolidierten Liste der qualifizierten Berufe",
+          "Sie wurden für eine Arbeitsstelle von einem australischen Arbeitgeber nominiert, der Sie einstellen möchte",
+          "Sie haben die entsprechenden Fähigkeiten und Qualifikationen für Ihren Beruf",
+          "Sie haben mindestens zwei (2) Jahre Berufserfahrung in Ihrem Beruf",
+          "Sie haben berufsbezogene Englischkenntnisse",
+          "Sie können die Anforderungen der DHA für guten Charakter und Gesundheit erfüllen",
+          "Wenn Sie sich in Australien befinden, haben Sie ein substantives Visum oder ein Brückenvisum A, B oder C und haben Ihre Visabedingungen eingehalten."
+        ],
+        "note": "Hinweis: Es gibt keine Altersvoraussetzung für das TSS-Visum."
+      },
+      "section3": {
+        "heading": "Was sind die allgemeinen Anforderungen für Arbeitgeber, um ein temporäres Fachkräftemangel-Visum (Unterklasse 482) zu beantragen?",
+        "listItems": [
+          "Ein rechtmäßig operierendes Unternehmen sein",
+          "Keine negativen Informationen gegen das Unternehmen haben",
+          "Eine Arbeitsstelle für den ausländischen Arbeitsnehmer nominieren, die Vollzeit und echt ist",
+          "Gehalts- und arbeitsbedingte Anforderungen erfüllen",
+          "Nachweis der Arbeitsmarktprüfung, falls erforderlich, erbringen"
+        ]
+      },
+      "section4": {
+        "heading": "Wie beantrage ich das temporäre Fachkräftemangel-Visum (TSS) Unterklasse 482?",
+        "content": "Bevor Sie ein TSS-Visum beantragen können, muss Ihr vorgeschlagener Arbeitgeber einen Nominierungsantrag für Sie einreichen. Dies können sie nur tun, wenn sie ein genehmigter Sponsor sind oder zumindest einen Antrag gestellt haben, ein Standardgeschäftssponsor zu werden. Wenn Ihr Arbeitgeber noch ein genehmigter 457-Sponsor ist, kann er Sie unter dieser bestehenden Sponsorship für ein TSS (Unterklasse 482) sponsern. Sponsoren müssen auch zwingende Arbeitsmarktprüfungen nachweisen, um zu zeigen, dass sie keinen Australier in die Position einstellen können."
+      },
+      "section5": {
+        "heading": "Was dieses Visum Ihnen ermöglicht:",
+        "content": "Dieses Visum ermöglicht es Ihnen, während der Gültigkeitsdauer Ihres Visums nach Australien zu reisen und von dort zu reisen und:",
+        "listItems": [
+          "Wenn Sie der Hauptvisuminhaber sind, in Australien für einen genehmigten Sponsor in Ihrem nominierten Beruf zu arbeiten",
+          "Wenn Sie ein Familienmitglied sind, in Australien zu arbeiten und zu studieren"
+        ]
+      }
     }
 }

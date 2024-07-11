@@ -640,5 +640,70 @@
         "content": "Hindi. Bagaman maaaring kwalipikado ka sa ilalim ng immigration policy, hindi ka garantisado ng tagumpay. Ang iyong aplikasyon ay dapat ihanda ayon sa mga umiiral na regulasyon sa imigrasyon at isumite kasama ang angkop na mga suportang dokumento upang maaprubahan ng mga awtoridad sa imigrasyon. Ang mga paraan kung paano ito gagawin ay hindi laging malinaw na inilalatag ng mga awtoridad sa imigrasyon at nagreresulta sa maraming aplikante na hindi tama ang pag-presenta ng kanilang mga kaso, na nagreresulta sa pagtanggi. Kaya't dapat isaalang-alang ang paghingi ng payo ng isang MARA Registered Migration Agent."
       },
       "cta": "KUMUHA NG LIBRENG PAUNANG PAGSUSURI NG IYONG KARAPAT-DAPAT"
+    },
+    "temporarySkilledVisaData": {
+      "hero": {
+        "title": "TEMPORARY SKILL SHORTAGE (TSS) VISA",
+        "highlightText": "SUBCLASS 482"
+      },
+      "title": "TUNGKOL SA VISA NA ITO",
+      "description": "Ang Temporary Work Visa (Subclass 457) ay pinalitan ng Temporary Skill Shortage (TSS) Visa Subclass 482 noong Marso 18, 2018. Ang visa na ito ay nagpapahintulot sa mga employer na tugunan ang kakulangan sa trabaho sa pamamagitan ng pagdala ng mga skilled worker kung saan ang mga employer ay hindi makahanap ng angkop na skilled na Australian worker.",
+      "section1": {
+        "heading": "PAANO AKO MAKAKUHA NG TEMPORARY SKILL SHORTAGE (TSS) SUBCLASS 482 VISA?",
+        "subSections": [
+          {
+            "subHeading": "Eligibility para sa Temporary Skill Shortage (TSS) Visa Subclass 482:",
+            "details": [
+              {
+                "title": "i) Short Term Stream:",
+                "content": "Ang stream na ito ay available kung ang isang employer ay nais mag-sponsor ng isang overseas skilled worker sa isang pansamantalang batayan lamang sa mga trabahong nakalista sa Short-term Skilled Occupation list (STSOL) para sa TSS visa. Maaari itong gamitin upang punan ang mga posisyon para sa maximum na dalawang taon o apat na taon kung may International Trade Obligation (ITO) na nalalapat."
+              },
+              {
+                "title": "ii) Medium Term Stream:",
+                "content": "Ang visa na ito ay nagpapahintulot sa mga employer na tugunan ang kakulangan sa trabaho sa pamamagitan ng pagdala ng mga skilled worker kung saan ang mga employer ay hindi makahanap ng angkop na skilled na Australian worker."
+              },
+              {
+                "title": "iii) Labour Agreement Stream:",
+                "content": "Ang visa na ito ay para sa mga skilled worker na inominado ng mga employer na may Labour Agreement. Pinapayagan kang manirahan at magtrabaho sa Australia pansamantala. Ang mga labour agreement ay binuo sa pagitan ng Australian Government (na kinakatawan ng Department) at mga employer."
+              }
+            ]
+          }
+        ]
+      },
+      "section2": {
+        "heading": "Ano ang mga kinakailangan para mag-apply para sa Temporary Skill Shortage visa (subclass 482)?",
+        "listItems": [
+          "Mayroon kang trabaho sa Consolidated Skilled Occupations list",
+          "Ikaw ay inominado para sa isang posisyon sa trabaho ng isang Australian employer na nais kang kunin upang magtrabaho para sa kanila",
+          "Mayroon kang kaukulang kasanayan at kwalipikasyon para sa iyong trabaho",
+          "Mayroon kang hindi bababa sa dalawang (2) taon na karanasan sa trabaho sa iyong trabaho",
+          "Mayroon kang vocational English language ability",
+          "Maaaring masunod mo ang mga kinakailangan ng DHA para sa magandang karakter at kalusugan",
+          "Kung ikaw ay nasa Australia, mayroon kang substantive visa, o bridging visa A, B, o C at sumunod ka sa iyong kondisyon ng visa."
+        ],
+        "note": "Tandaan: Walang age requirement para sa TSS visa."
+      },
+      "section3": {
+        "heading": "Ano ang mga pangkalahatang kinakailangan para sa mga employer na mag-apply para sa Temporary Skill Shortage visa (subclass 482)?",
+        "listItems": [
+          "Maging isang legal na nag-ooperate na negosyo",
+          "Walang masamang impormasyon laban sa negosyo",
+          "Nominate isang posisyon sa trabaho para sa foreign national worker na full-time at tunay",
+          "Masunod ang mga kinakailangan sa sahod at kondisyon sa trabaho",
+          "Magbigay ng ebidensya ng Labour Market Testing kung kinakailangan"
+        ]
+      },
+      "section4": {
+        "heading": "Paano ako mag-aapply para sa Temporary Skill Shortage (TSS) Subclass 482 Visa?",
+        "content": "Bago ka mag-apply para sa isang TSS visa, ang iyong napipintong employer ay kailangang magsumite ng nomination application para sa iyo. Magagawa lamang nila ito kung sila ay isang aprubadong sponsor o nag-apply man lang na maging isang standard business sponsor. Kung ang iyong employer ay isang aprubadong 457 sponsor, maaari ka nilang i-sponsor para sa isang TSS (Subclass 482) sa ilalim ng umiiral na sponsorship. Ang mga sponsor ay kailangan ding magbigay ng ebidensya ng mandatory labour market testing upang ipakita na hindi sila makapag-employ ng isang Australian sa posisyon."
+      },
+      "section5": {
+        "heading": "Ano ang pinapayagan kang gawin ng visa na ito?",
+        "content": "Ang visa na ito ay nagpapahintulot sa iyo na maglakbay papasok at palabas ng Australia para sa tagal ng iyong visa at:",
+        "listItems": [
+          "Kung ikaw ay pangunahing may hawak ng visa, upang magtrabaho sa Australia para sa isang aprubadong sponsor sa iyong nominadong trabaho",
+          "Kung ikaw ay isang miyembro ng pamilya, upang magtrabaho at mag-aral sa Australia"
+        ]
+      }
     }
 }

@@ -640,5 +640,70 @@
       "content": "Hayır. Göçmenlik politikasına göre temel olarak uygun olabilirsiniz, ancak başarı garantisi yoktur. Başvurunuz, geçerli göçmenlik düzenlemelerine uygun olarak hazırlanmalı ve başvuruyu destekleyen uygun belgelerle birlikte sunulmalıdır. Bunu yapmanın yolları göçmenlik yetkilileri tarafından her zaman açıkça belirtilmemektedir ve bu, birçok başvuru sahibinin dosyalarını yanlış sunmasına neden olarak reddedilmelerine yol açmaktadır. Bu nedenle, bir MARA Kayıtlı Göçmenlik Danışmanının tavsiyesini almayı düşünmelisiniz."
     },
     "cta": "UYGUNLUĞUNUZUN ÜCRETSİZ İLK DEĞERLENDİRMESİNİ ALIN"
+  },
+  "temporarySkilledVisaData": {
+    "hero": {
+      "title": "GEÇİCİ VASIF EKSİKLİĞİ (TSS) VİZESİ",
+      "highlightText": "ALT SINIF 482"
+    },
+    "title": "BU VİZE HAKKINDA",
+    "description": "Geçici Çalışma Vizesi (Alt Sınıf 457), 18 Mart 2018'de Geçici Vasıf Eksikliği (TSS) Vizesi Alt Sınıf 482 ile değiştirilmiştir. Bu vize, işverenlerin, uygun beceriye sahip bir Avustralyalı çalışan bulamadıklarında vasıflı işçileri getirmelerine olanak tanır.",
+    "section1": {
+      "heading": "GEÇİCİ VASIF EKSİKLİĞİ (TSS) ALT SINIF 482 VİZESİNE NASIL UYGUN OLURUM?",
+      "subSections": [
+        {
+          "subHeading": "Geçici Vasıf Eksikliği (TSS) Vizesi Alt Sınıf 482 için Uygunluk:",
+          "details": [
+            {
+              "title": "i) Kısa Dönem Akış:",
+              "content": "Bu akış, bir işverenin yalnızca Geçici Vasıflı Meslek Listesi (STSOL) üzerinde listelenen mesleklerde geçici olarak bir yurt dışı vasıflı işçiyi sponsor etmek istemesi durumunda kullanılabilir. İTO (Uluslararası Ticaret Yükümlülüğü) uygulanıyorsa, maksimum iki yıl veya dört yıl süreyle kullanılabilir."
+            },
+            {
+              "title": "ii) Orta Dönem Akış:",
+              "content": "Bu vize, işverenlerin, uygun beceriye sahip bir Avustralyalı çalışan bulamadıklarında vasıflı işçileri getirmelerine olanak tanır."
+            },
+            {
+              "title": "iii) İş Gücü Anlaşması Akışı:",
+              "content": "Bu vize, İş Gücü Anlaşması olan işverenler tarafından aday gösterilen vasıflı işçiler içindir. Bu vize, geçici olarak Avustralya'da yaşamanıza ve çalışmanıza olanak tanır. İş gücü anlaşmaları, Avustralya Hükümeti (Bakanlık tarafından temsil edilen) ve işverenler arasında geliştirilir."
+            }
+          ]
+        }
+      ]
+    },
+    "section2": {
+      "heading": "Geçici Vasıf Eksikliği (TSS) Alt Sınıf 482 Vizesine başvurmak için uygunluk şartları nelerdir?",
+      "listItems": [
+        "Birleşik Vasıflı Meslekler listesinde bir mesleğe sahip olmanız",
+        "Sizi çalıştırmak isteyen bir Avustralyalı işveren tarafından bir iş pozisyonu için aday gösterilmeniz",
+        "Mesleğiniz için ilgili beceri ve niteliklere sahip olmanız",
+        "Mesleğinizde en az iki (2) yıl iş deneyimine sahip olmanız",
+        "Mesleki İngilizce dil yeterliliğine sahip olmanız",
+        "DHA gereksinimlerini karşıladığınızı kanıtlamanız",
+        "Avustralya'daysanız, geçerli bir vizeniz olması veya bir A, B veya C köprü vizesi ve vize şartlarını yerine getirmeniz."
+      ],
+      "note": "Not: TSS vizesi için yaş gereksinimi yoktur."
+    },
+    "section3": {
+      "heading": "İşverenlerin Geçici Vasıf Eksikliği (TSS) Alt Sınıf 482 Vizesine başvurmak için genel gereksinimleri nelerdir?",
+      "listItems": [
+        "Yasal olarak faaliyet gösteren bir iş olması",
+        "İşletme hakkında olumsuz bilgiye sahip olmaması",
+        "Yabancı çalışan için tam zamanlı ve gerçek bir iş pozisyonu aday göstermesi",
+        "Maaş ve istihdam koşullarına ilişkin gereksinimleri karşılaması",
+        "Gerekirse İş Gücü Piyasası Testi kanıtı sağlaması"
+      ]
+    },
+    "section4": {
+      "heading": "Geçici Vasıf Eksikliği (TSS) Alt Sınıf 482 Vizesine nasıl başvururum?",
+      "content": "TSS vizesine başvurmadan önce, önerilen işvereninizin sizin için bir adaylık başvurusu yapması gerekecek. Bunu ancak onaylı bir sponsor olduklarında veya standart iş sponsorluğu için başvuruda bulunduklarında yapabilirler. İşvereniniz hala onaylı bir 457 sponsoruysa, mevcut sponsorluk altında sizin için bir TSS (Alt Sınıf 482) başvurusunda bulunabilirler. Sponsorlar, pozisyona bir Avustralyalı çalışanın atanamayacağını göstermek için zorunlu iş gücü piyasası testini de kanıtlamalıdır."
+    },
+    "section5": {
+      "heading": "Bu vize size ne yapma imkanı tanır?",
+      "content": "Bu vize, vize süresi boyunca Avustralya'ya seyahat etmenize ve geri dönmenize olanak tanır ve:",
+      "listItems": [
+        "Eğer birincil vize sahibi iseniz, Avustralya'da onaylı bir sponsor için aday gösterilen mesleğinizde çalışmanıza olanak tanır",
+        "Aile üyesi iseniz, Avustralya'da çalışma ve eğitim görme imkanı tanır"
+      ]
+    }
   }
 }

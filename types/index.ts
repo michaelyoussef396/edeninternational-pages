@@ -65,3 +65,31 @@ export interface LocaleLayoutProps {
     imageSrc: StaticImageData;
     backgroundImageSrc?: string;
   }
+
+  export interface Detail {
+    title: string;
+    content: string;
+  }
+  
+  export interface SubSection {
+    subHeading: string;
+    details: Detail[];
+  }
+  
+  export interface Section {
+    heading: string;
+    subSections?: SubSection[];
+    listItems?: string[];
+    note?: string;
+    content?: string;
+  }
+  
+  export interface VisaData {
+    title: string;
+    description: string;
+    sections: Section[];
+  }
+  
+  export interface ReusableMigrationVisaProps {
+    data: VisaData;
+  }

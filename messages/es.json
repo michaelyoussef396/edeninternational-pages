@@ -640,5 +640,70 @@
         "content": "No. Aunque fundamentalmente puedes calificar bajo la política de inmigración, no se garantiza tu éxito. Tu solicitud debe prepararse de acuerdo con las regulaciones de inmigración vigentes y presentarse junto con la documentación de apoyo adecuada para ser aprobada por las autoridades de inmigración. Las formas de hacer esto no siempre están claramente establecidas por las autoridades de inmigración y resultan en muchos solicitantes presentando sus casos incorrectamente, inevitablemente llevando al rechazo. Por lo tanto, deberías considerar buscar el consejo de un Agente de Migración Registrado MARA."
       },
       "cta": "OBTÉN UNA EVALUACIÓN INICIAL GRATUITA DE TU ELEGIBILIDAD"
+    },
+    "temporarySkilledVisaData": {
+      "hero": {
+        "title": "VISA DE ESCASEZ DE HABILIDADES TEMPORALES (TSS)",
+        "highlightText": "SUBCLASE 482"
+      },
+      "title": "SOBRE ESTA VISA",
+      "description": "La Visa de Trabajo Temporal (Subclase 457) ha sido reemplazada por la Visa de Escasez de Habilidades Temporales (TSS) Subclase 482 el 18 de marzo de 2018. Esta visa permite a los empleadores abordar la escasez de mano de obra trayendo trabajadores calificados donde los empleadores no pueden encontrar un trabajador australiano adecuadamente calificado.",
+      "section1": {
+        "heading": "¿CÓMO CALIFICO PARA LA VISA DE ESCASEZ DE HABILIDADES TEMPORALES (TSS) SUBCLASE 482?",
+        "subSections": [
+          {
+            "subHeading": "Elegibilidad para la Visa de Escasez de Habilidades Temporales (TSS) Subclase 482:",
+            "details": [
+              {
+                "title": "i) Corriente de Corto Plazo:",
+                "content": "Esta corriente está disponible si un empleador desea patrocinar a un trabajador calificado extranjero solo de manera temporal en ocupaciones listadas en la lista de Ocupaciones Calificadas a Corto Plazo (STSOL) para una visa TSS. Puede usarse para llenar posiciones por un máximo de dos años o cuatro años si aplica una Obligación de Comercio Internacional (ITO)."
+              },
+              {
+                "title": "ii) Corriente de Mediano Plazo:",
+                "content": "Esta visa permite a los empleadores abordar la escasez de mano de obra trayendo trabajadores calificados donde los empleadores no pueden encontrar un trabajador australiano adecuadamente calificado."
+              },
+              {
+                "title": "iii) Corriente de Acuerdo Laboral:",
+                "content": "Esta visa es para trabajadores calificados nominados por empleadores que tienen un Acuerdo Laboral. Te permite vivir y trabajar temporalmente en Australia. Los acuerdos laborales se desarrollan entre el Gobierno Australiano (representado por el Departamento) y los empleadores."
+              }
+            ]
+          }
+        ]
+      },
+      "section2": {
+        "heading": "¿Cuáles son los requisitos de elegibilidad para solicitar una visa de Escasez de Habilidades Temporales (subclase 482)?",
+        "listItems": [
+          "Tener una ocupación en la lista consolidada de ocupaciones calificadas",
+          "Haber sido nominado para un puesto de trabajo por un empleador australiano que desea contratarte para trabajar para ellos",
+          "Tener las habilidades y calificaciones relevantes para tu ocupación",
+          "Tener al menos dos (2) años de experiencia laboral en tu ocupación",
+          "Tener capacidad de inglés vocacional",
+          "Satisfacer los requisitos de DHA para buen carácter y salud",
+          "Si estás en Australia, tener una visa sustantiva o una visa puente A, B o C y haber cumplido con tu condición de visa."
+        ],
+        "note": "Nota: No hay requisito de edad para la visa TSS."
+      },
+      "section3": {
+        "heading": "¿Cuáles son los requisitos generales para que los empleadores soliciten una visa de Escasez de Habilidades Temporales (subclase 482)?",
+        "listItems": [
+          "Ser una empresa legalmente operativa",
+          "No tener información adversa contra la empresa",
+          "Nominar un puesto de trabajo para el trabajador extranjero que sea a tiempo completo y genuino",
+          "Cumplir con los requisitos relacionados con salario y condiciones de empleo",
+          "Proporcionar evidencia de Pruebas del Mercado Laboral si es necesario"
+        ]
+      },
+      "section4": {
+        "heading": "¿Cómo solicito la Visa de Escasez de Habilidades Temporales (TSS) Subclase 482?",
+        "content": "Antes de que puedas solicitar una visa TSS, tu empleador propuesto necesitará presentar una solicitud de nominación para ti. Solo podrán hacerlo si son un patrocinador aprobado o al menos han presentado una solicitud para convertirse en un patrocinador comercial estándar. Si tu empleador aún es un patrocinador aprobado de la subclase 457, entonces pueden patrocinarte para una TSS (Subclase 482) bajo ese patrocinio existente. Los patrocinadores también necesitan proporcionar pruebas obligatorias del mercado laboral para demostrar que no pueden emplear a un australiano en la posición."
+      },
+      "section5": {
+        "heading": "¿Qué te permitirá hacer esta visa?",
+        "content": "Esta visa te permite viajar hacia y desde Australia durante la duración de tu visa y:",
+        "listItems": [
+          "Si eres el titular principal de la visa, trabajar en Australia para un patrocinador aprobado en tu ocupación nominada",
+          "Si eres un miembro de la familia, trabajar y estudiar en Australia"
+        ]
+      }
     }
 }
