@@ -268,5 +268,44 @@
       "whyStudyIn": "PERCHÉ STUDIARE IN",
       "australia": "AUSTRALIA",
       "description": "Quando consideriamo di studiare in Australia, ci sono molti fattori che attirano facilmente l'attenzione degli studenti. Destinazione in Crescita. L'AUSTRALIA è attualmente la terza destinazione più popolare per gli studenti internazionali nel mondo anglofono, dietro agli Stati Uniti e al Regno Unito. Molti studenti internazionali scelgono di studiare lì per la diversità culturale, i nativi amichevoli e l'alta qualità dell'istruzione."
+    },
+    "quickSteps": {
+      "title": "PASSI RAPIDI PER",
+      "highlight": "PROCESSO DI AMMISSIONE",
+      "fileSubmission": {
+        "title": "Presentazione del Fascicolo",
+        "description": [
+          "Passaporto",
+          "Fotografie formato Passaporto",
+          "Documenti Accademici",
+          "Certificato di Nascita",
+          "NID (Tradotto in Inglese)",
+          "Tasse di Applicazione",
+          "SOP (Dichiarazione di Scopo)",
+          "Curriculum Vitae",
+          "Certificato IELTS/TOEFL"
+        ]
+      },
+      "offerLetter": {
+        "title": "Lettera di Offerta",
+        "description": "Ricevi una Lettera di Offerta dall'Università per l'Ammissione dopo un esito positivo della Valutazione G.T.E."
+      },
+      "gteAssessment": {
+        "title": "Valutazione G.T.E.",
+        "description": "Indagine sui documenti finanziari e altri e colloquio con l'università."
+      },
+      "coeConfirmation": {
+        "title": "Conferma del COE",
+        "description": "Iscrizione all'università e conferma del pagamento."
+      },
+      "visaLodgement": {
+        "title": "Presentazione del Visto",
+        "description": "Invia la domanda di visto e i documenti richiesti."
+      },
+      "successfulVisa": {
+        "title": "Visto Approvato",
+        "description": "Ricevi l'approvazione del visto e preparati per il viaggio."
+      },
+      "buttonText": "Clicca qui per vedere l'intero processo di visto"
     }
 }

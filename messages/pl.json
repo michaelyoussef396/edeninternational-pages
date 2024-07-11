@@ -268,6 +268,45 @@
     "whyStudyIn": "DLACZEGO STUDIOWAĆ W",
     "australia": "AUSTRALII",
     "description": "Kiedy rozważamy studia w Australii, istnieje wiele czynników, które łatwo przyciągają uwagę studentów. Rozwijająca Się Destynacja. AUSTRALIA jest obecnie trzecim najpopularniejszym miejscem docelowym dla międzynarodowych studentów w anglojęzycznym świecie, zaraz po Stanach Zjednoczonych i Wielkiej Brytanii. Wielu międzynarodowych studentów wybiera studia tam ze względu na różnorodność kulturową, przyjaznych mieszkańców i wysoką jakość edukacji."
+  },
+  "quickSteps": {
+    "title": "SZYBKIE KROKI",
+    "highlight": "PROCESU REKRUTACYJNEGO",
+    "fileSubmission": {
+      "title": "Składanie Dokumentów",
+      "description": [
+        "Paszport",
+        "Zdjęcia Paszportowe",
+        "Dokumenty Akademickie",
+        "Akt Urodzenia",
+        "NID (Przetłumaczone na Angielski)",
+        "Opłaty Aplikacyjne",
+        "SOP (Oświadczenie o Celu)",
+        "CV/Życiorys",
+        "Certyfikat IELTS/TOEFL"
+      ]
+    },
+    "offerLetter": {
+      "title": "List Ofertowy",
+      "description": "Otrzymaj List Ofertowy od Uniwersytetu na Przyjęcie po pomyślnej Oceny G.T.E."
+    },
+    "gteAssessment": {
+      "title": "Ocena G.T.E.",
+      "description": "Badanie dokumentów finansowych i innych oraz rozmowa kwalifikacyjna z uniwersytetem."
+    },
+    "coeConfirmation": {
+      "title": "Potwierdzenie COE",
+      "description": "Pomyślne zapisanie się na uniwersytet i potwierdzenie płatności."
+    },
+    "visaLodgement": {
+      "title": "Złożenie Wniosku Wizowego",
+      "description": "Złóż wniosek wizowy i wymagane dokumenty."
+    },
+    "successfulVisa": {
+      "title": "Pomyślna Wiza",
+      "description": "Otrzymaj zatwierdzenie wizy i przygotuj się do podróży."
+    },
+    "buttonText": "Kliknij tutaj, aby zobaczyć pełny proces wizowy"
   }
   }
   

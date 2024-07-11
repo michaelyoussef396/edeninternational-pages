@@ -268,5 +268,44 @@
       "whyStudyIn": "WARUM STUDIEREN IN",
       "australia": "AUSTRALIEN",
       "description": "Wenn wir über ein Studium in Australien nachdenken, gibt es viele Faktoren, die die Aufmerksamkeit der Studenten leicht auf sich ziehen. Wachsende Destination. AUSTRALIEN ist derzeit das drittbeliebteste Ziel für internationale Studenten in der englischsprachigen Welt, hinter den USA und dem Vereinigten Königreich. Viele internationale Studenten entscheiden sich für ein Studium dort aufgrund der kulturellen Vielfalt, freundlichen Einheimischen und der hohen Qualität der Bildung."
+    },
+    "quickSteps": {
+      "title": "SCHNELLE SCHRITTE DES",
+      "highlight": "AUFNAHMEVERFAHRENS",
+      "fileSubmission": {
+        "title": "Dateieinreichung",
+        "description": [
+          "Reisepass",
+          "Passfoto",
+          "Akademische Dokumente",
+          "Geburtsurkunde",
+          "Personalausweis (englisch übersetzt)",
+          "Bewerbungsgebühren",
+          "SOP (Statement of Purpose)",
+          "Lebenslauf/CV",
+          "IELTS/TOEFL-Zertifikat"
+        ]
+      },
+      "offerLetter": {
+        "title": "Angebotsschreiben",
+        "description": "Erhalten Sie ein Angebotsschreiben von der Universität für die Zulassung nach erfolgreicher G.T.E. Bewertung."
+      },
+      "gteAssessment": {
+        "title": "G.T.E. Bewertung",
+        "description": "Finanzielle und andere Dokumentenüberprüfung und Interview mit der Universität."
+      },
+      "coeConfirmation": {
+        "title": "COE Bestätigung",
+        "description": "Erfolgreiche Einschreibung an der Universität und Zahlungsbestätigung."
+      },
+      "visaLodgement": {
+        "title": "Visa-Antragstellung",
+        "description": "Reichen Sie den Visumantrag und die erforderlichen Dokumente ein."
+      },
+      "successfulVisa": {
+        "title": "Erfolgreiches Visum",
+        "description": "Erhalten Sie die Visumgenehmigung und bereiten Sie sich auf die Reise vor."
+      },
+      "buttonText": "Klicken Sie hier, um den gesamten Visumprozess zu sehen"
     }
 }

@@ -268,5 +268,44 @@
       "whyStudyIn": "为什么在",
       "australia": "澳大利亚留学",
       "description": "当我们考虑在澳大利亚留学时，有很多因素会吸引学生的注意。增长的目的地。澳大利亚目前是英语国家中第三大最受欢迎的国际学生目的地，仅次于美国和英国。许多国际学生选择在那里学习，因为文化多样性、友好的当地人和高质量的教育。"
+    },
+    "quickSteps": {
+      "title": "入学过程的快速步骤",
+      "highlight": "入学过程",
+      "fileSubmission": {
+        "title": "文件提交",
+        "description": [
+          "护照",
+          "护照照片",
+          "学术文件",
+          "出生证明",
+          "身份证（英文翻译）",
+          "申请费",
+          "SOP（陈述目的）",
+          "简历/履历",
+          "雅思/托福证书"
+        ]
+      },
+      "offerLetter": {
+        "title": "录取通知书",
+        "description": "在成功通过 G.T.E. 评估后，收到大学的录取通知书。"
+      },
+      "gteAssessment": {
+        "title": "G.T.E. 评估",
+        "description": "财务和其他文件的调查以及与大学的面试。"
+      },
+      "coeConfirmation": {
+        "title": "COE 确认",
+        "description": "成功注册大学并确认付款。"
+      },
+      "visaLodgement": {
+        "title": "签证提交",
+        "description": "提交签证申请和所需文件。"
+      },
+      "successfulVisa": {
+        "title": "成功获得签证",
+        "description": "收到签证批准并准备旅行。"
+      },
+      "buttonText": "点击此处查看完整签证过程"
     }
 }

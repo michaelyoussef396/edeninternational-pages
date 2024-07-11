@@ -268,5 +268,44 @@
     "whyStudyIn": "WHY STUDY IN",
     "australia": "AUSTRALIA",
     "description": "When we consider studying in Australia, there are lots of factors that attract students’ attention easily. Growing Destination. AUSTRALIA is currently the third most popular destination for international students in the English-speaking world, behind the United States and the UK. Many international students choose to study there because of the cultural diversity, friendly natives, and high quality of education."
+  },
+  "quickSteps": {
+    "title": "QUICK STEPS OF",
+    "highlight": "ADMISSION PROCESS",
+    "fileSubmission": {
+      "title": "File Submission",
+      "description": [
+        "Passport",
+        "Passport Size Photographs",
+        "Academic Documents",
+        "Birth Certificate",
+        "NID (English Translated)",
+        "Application Fees",
+        "SOP (Statement of Purpose)",
+        "Resume/CV",
+        "IELTS/TOEFL Certificate"
+      ]
+    },
+    "offerLetter": {
+      "title": "Offer Letter",
+      "description": "Receive an Offer Letter from the University for Admission upon successful G.T.E. Assessment."
+    },
+    "gteAssessment": {
+      "title": "G.T.E. Assessment",
+      "description": "Financial and other documents investigation and interview with the university."
+    },
+    "coeConfirmation": {
+      "title": "COE Confirmation",
+      "description": "Successful enrollment in university and payment confirmation."
+    },
+    "visaLodgement": {
+      "title": "Visa Lodgement",
+      "description": "Submit visa application and required documents."
+    },
+    "successfulVisa": {
+      "title": "Successful Visa",
+      "description": "Receive visa approval and prepare for travel."
+    },
+    "buttonText": "Click here to see the full visa process"
   }
 }

@@ -268,5 +268,44 @@
       "whyStudyIn": "¿POR QUÉ ESTUDIAR EN",
       "australia": "AUSTRALIA",
       "description": "Cuando consideramos estudiar en Australia, hay muchos factores que atraen la atención de los estudiantes fácilmente. Destino Creciente. AUSTRALIA es actualmente el tercer destino más popular para estudiantes internacionales en el mundo de habla inglesa, detrás de los Estados Unidos y el Reino Unido. Muchos estudiantes internacionales eligen estudiar allí debido a la diversidad cultural, los nativos amigables y la alta calidad de la educación."
+    },
+    "quickSteps": {
+      "title": "PASOS RÁPIDOS DEL",
+      "highlight": "PROCESO DE ADMISIÓN",
+      "fileSubmission": {
+        "title": "Presentación de Documentos",
+        "description": [
+          "Pasaporte",
+          "Fotografías Tamaño Pasaporte",
+          "Documentos Académicos",
+          "Certificado de Nacimiento",
+          "DNI (Traducido al Inglés)",
+          "Tarifas de Solicitud",
+          "Carta de Motivación (SOP)",
+          "Currículum Vitae",
+          "Certificado IELTS/TOEFL"
+        ]
+      },
+      "offerLetter": {
+        "title": "Carta de Oferta",
+        "description": "Recibe una Carta de Oferta de la Universidad para la Admisión tras una evaluación exitosa de G.T.E."
+      },
+      "gteAssessment": {
+        "title": "Evaluación de G.T.E.",
+        "description": "Investigación de documentos financieros y otros documentos e entrevista con la universidad."
+      },
+      "coeConfirmation": {
+        "title": "Confirmación de COE",
+        "description": "Matrícula exitosa en la universidad y confirmación de pago."
+      },
+      "visaLodgement": {
+        "title": "Presentación de Visa",
+        "description": "Presenta la solicitud de visa y los documentos requeridos."
+      },
+      "successfulVisa": {
+        "title": "Visa Exitosa",
+        "description": "Recibe la aprobación de la visa y prepárate para viajar."
+      },
+      "buttonText": "Haz clic aquí para ver el proceso completo de visa"
     }
 }

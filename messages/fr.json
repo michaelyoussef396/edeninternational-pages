@@ -268,5 +268,44 @@
       "whyStudyIn": "POURQUOI ÉTUDIER EN",
       "australia": "AUSTRALIE",
       "description": "Lorsque nous envisageons d'étudier en Australie, il y a de nombreux facteurs qui attirent facilement l'attention des étudiants. Destination en pleine croissance. L'AUSTRALIE est actuellement la troisième destination la plus populaire pour les étudiants internationaux dans le monde anglophone, derrière les États-Unis et le Royaume-Uni. De nombreux étudiants internationaux choisissent d'y étudier en raison de la diversité culturelle, des habitants sympathiques et de la haute qualité de l'éducation."
+    },
+    "quickSteps": {
+      "title": "ÉTAPES RAPIDES DU",
+      "highlight": "PROCESSUS D'ADMISSION",
+      "fileSubmission": {
+        "title": "Soumission de Dossier",
+        "description": [
+          "Passeport",
+          "Photographies de Taille Passeport",
+          "Documents Académiques",
+          "Certificat de Naissance",
+          "Carte d'Identité Nationale (Traduit en Anglais)",
+          "Frais de Dossier",
+          "SOP (Déclaration d'Objectif)",
+          "CV/Resume",
+          "Certificat IELTS/TOEFL"
+        ]
+      },
+      "offerLetter": {
+        "title": "Lettre d'Offre",
+        "description": "Recevez une lettre d'offre de l'université pour l'admission après une évaluation G.T.E. réussie."
+      },
+      "gteAssessment": {
+        "title": "Évaluation G.T.E.",
+        "description": "Examen des documents financiers et autres et entretien avec l'université."
+      },
+      "coeConfirmation": {
+        "title": "Confirmation COE",
+        "description": "Inscription réussie à l'université et confirmation de paiement."
+      },
+      "visaLodgement": {
+        "title": "Dépôt de Visa",
+        "description": "Soumettre la demande de visa et les documents requis."
+      },
+      "successfulVisa": {
+        "title": "Visa Réussi",
+        "description": "Recevez l'approbation de votre visa et préparez-vous à voyager."
+      },
+      "buttonText": "Cliquez ici pour voir le processus complet de visa"
     }
 }

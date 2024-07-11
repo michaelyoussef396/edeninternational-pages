@@ -268,6 +268,45 @@
     "whyStudyIn": "ZAKAJ ŠTUDIRATI V",
     "australia": "AVSTRALIJI",
     "description": "Ko razmišljamo o študiju v Avstraliji, je veliko dejavnikov, ki hitro pritegnejo pozornost študentov. Rastoča Destinacija. AVSTRALIJA je trenutno tretja najbolj priljubljena destinacija za mednarodne študente v angleško govorečem svetu, za Združenimi državami in Združenim kraljestvom. Mnogi mednarodni študenti se odločijo za študij tam zaradi kulturne raznolikosti, prijaznih domačinov in visoke kakovosti izobraževanja."
+  },
+  "quickSteps": {
+    "title": "HITRI KORAKI",
+    "highlight": "POSTOPKA PRIJAVE",
+    "fileSubmission": {
+      "title": "Oddaja Datotek",
+      "description": [
+        "Potni list",
+        "Fotografije za Potni List",
+        "Akademski Dokumenti",
+        "Rojstni List",
+        "NID (Prevedeno v Angleščino)",
+        "Prijavnina",
+        "SOP (Izjava o Namenih)",
+        "Življenjepis",
+        "Certifikat IELTS/TOEFL"
+      ]
+    },
+    "offerLetter": {
+      "title": "Pismo z Ponudbo",
+      "description": "Prejmite Pismo z Ponudbo od Univerze za Vpis po uspešni Oceni G.T.E."
+    },
+    "gteAssessment": {
+      "title": "Ocena G.T.E.",
+      "description": "Preiskava finančnih in drugih dokumentov ter intervju z univerzo."
+    },
+    "coeConfirmation": {
+      "title": "Potrditev COE",
+      "description": "Uspešen vpis na univerzo in potrditev plačila."
+    },
+    "visaLodgement": {
+      "title": "Oddaja Vizuma",
+      "description": "Oddajte vlogo za vizum in zahtevane dokumente."
+    },
+    "successfulVisa": {
+      "title": "Uspešen Vizum",
+      "description": "Prejmite odobritev vizuma in se pripravite na potovanje."
+    },
+    "buttonText": "Kliknite tukaj, da si ogledate celoten postopek vizuma"
   }
   }
   

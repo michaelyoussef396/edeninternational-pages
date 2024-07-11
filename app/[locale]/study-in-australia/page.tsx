@@ -4,6 +4,7 @@ import { useTranslations } from "next-intl";
 import HeroSection from '@/components/HeroSection';
 import { images } from '@/constants/images';
 import WhyStudyAustralia from '@/components/WhyStudyAustralia';
+import QuickSteps from '@/components/QuickSteps';
 
 
 
@@ -20,7 +21,7 @@ const IndexPage: React.FC<IndexPageProps> = ({ params: { locale } }) => {
         height="h-screen"
       />
       <WhyStudyAustralia />
-
+      <QuickSteps />
     </main>
   );
 };

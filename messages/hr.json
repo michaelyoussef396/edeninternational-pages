@@ -268,5 +268,44 @@
       "whyStudyIn": "ZAŠTO STUDIRATI U",
       "australia": "AUSTRALIJI",
       "description": "Kada razmišljamo o studiranju u Australiji, postoji mnogo čimbenika koji lako privlače pažnju studenata. Rast destinacije. AUSTRALIJA je trenutno treća najpopularnija destinacija za međunarodne studente u engleskom govornom području, iza Sjedinjenih Država i Velike Britanije. Mnogi međunarodni studenti odlučuju studirati tamo zbog kulturne raznolikosti, prijateljskih domaćih i visoke kvalitete obrazovanja."
+    },
+    "quickSteps": {
+      "title": "BRZI KORACI PRIJAVE ZA",
+      "highlight": "PROCES UPISA",
+      "fileSubmission": {
+        "title": "Podnošenje datoteka",
+        "description": [
+          "Putovnica",
+          "Fotografije veličine putovnice",
+          "Akademski dokumenti",
+          "Rodni list",
+          "NID (preveden na engleski)",
+          "Pristojbe za prijavu",
+          "SOP (Izjava o svrsi)",
+          "Životopis/CV",
+          "IELTS/TOEFL certifikat"
+        ]
+      },
+      "offerLetter": {
+        "title": "Pismo ponude",
+        "description": "Primite ponudu za upis na sveučilište nakon uspješne G.T.E. procjene."
+      },
+      "gteAssessment": {
+        "title": "G.T.E. procjena",
+        "description": "Ispitivanje financijskih i drugih dokumenata te intervju sa sveučilištem."
+      },
+      "coeConfirmation": {
+        "title": "Potvrda COE",
+        "description": "Uspješan upis na sveučilište i potvrda plaćanja."
+      },
+      "visaLodgement": {
+        "title": "Podnošenje zahtjeva za vizu",
+        "description": "Podnošenje zahtjeva za vizu i potrebnih dokumenata."
+      },
+      "successfulVisa": {
+        "title": "Uspješna viza",
+        "description": "Primanje odobrenja vize i priprema za putovanje."
+      },
+      "buttonText": "Kliknite ovdje da vidite cijeli proces vize"
     }
 }

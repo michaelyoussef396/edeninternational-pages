@@ -268,5 +268,44 @@
     "whyStudyIn": "NEDEN",
     "australia": "AVUSTRALYA'DA EĞİTİM",
     "description": "Avustralya'da eğitim görmeyi düşündüğümüzde, öğrencilerin dikkatini çeken birçok faktör vardır. Gelişen Hedef. Avustralya şu anda İngilizce konuşulan dünyada Amerika Birleşik Devletleri ve İngiltere'nin ardından uluslararası öğrenciler için üçüncü en popüler destinasyondur. Birçok uluslararası öğrenci, kültürel çeşitlilik, dost canlısı yerliler ve yüksek kaliteli eğitim nedeniyle orada eğitim görmeyi tercih ediyor."
+  },
+  "quickSteps": {
+    "title": "BAŞVURU SÜRECİNİN",
+    "highlight": "HIZLI ADIMLARI",
+    "fileSubmission": {
+      "title": "Dosya Teslimi",
+      "description": [
+        "Pasaport",
+        "Pasaport Boyutunda Fotoğraflar",
+        "Akademik Belgeler",
+        "Doğum Belgesi",
+        "NID (İngilizce Çevirisi)",
+        "Başvuru Ücretleri",
+        "SOP (Amaç Beyanı)",
+        "Özgeçmiş/CV",
+        "IELTS/TOEFL Sertifikası"
+      ]
+    },
+    "offerLetter": {
+      "title": "Teklif Mektubu",
+      "description": "Başarılı G.T.E. Değerlendirmesi sonucunda Üniversiteden Kabul Teklif Mektubu alın."
+    },
+    "gteAssessment": {
+      "title": "G.T.E. Değerlendirmesi",
+      "description": "Mali ve diğer belgelerin incelenmesi ve üniversite ile mülakat."
+    },
+    "coeConfirmation": {
+      "title": "COE Onayı",
+      "description": "Üniversiteye başarılı bir şekilde kayıt ve ödeme onayı."
+    },
+    "visaLodgement": {
+      "title": "Vize Başvurusu",
+      "description": "Vize başvurusu ve gerekli belgeleri teslim edin."
+    },
+    "successfulVisa": {
+      "title": "Başarılı Vize",
+      "description": "Vize onayı alın ve seyahat hazırlıklarına başlayın."
+    },
+    "buttonText": "Tam vize sürecini görmek için tıklayın"
   }
 }

@@ -268,5 +268,44 @@
       "whyStudyIn": "GĦALIEX TISTUDJA FL",
       "australia": "AWSTRALJA",
       "description": "Meta nqisu l-istudju fl-Awstralja, hemm ħafna fatturi li jiġbdu l-attenzjoni tal-istudenti faċilment. Destinazzjoni Li Qed Tikber. L-AWSTRALJA bħalissa hija t-tielet destinazzjoni l-aktar popolari għall-istudenti internazzjonali fid-dinja li titkellem bl-Ingliż, wara l-Istati Uniti u r-Renju Unit. Ħafna studenti internazzjonali jagħżlu li jistudjaw hemm minħabba d-diversità kulturali, in-nies ħbiberija, u l-kwalità għolja tal-edukazzjoni."
+    },
+    "quickSteps": {
+      "title": "PASSI Mgħaġġla TAL",
+      "highlight": "PROĊESS TA' AMMISSJONI",
+      "fileSubmission": {
+        "title": "Sottomissjoni tal-Fajl",
+        "description": [
+          "Passaport",
+          "Ritratti tad-Daqs tal-Passaport",
+          "Dokumenti Akkademiċi",
+          "Ċertifikat tat-Twelid",
+          "NID (Tradott għall-Ingliż)",
+          "Miżati tal-Applikazzjoni",
+          "SOP (Dikjarazzjoni tal-Għan)",
+          "Resume/CV",
+          "Ċertifikat IELTS/TOEFL"
+        ]
+      },
+      "offerLetter": {
+        "title": "Ittra ta' Offerta",
+        "description": "Irċievi Ittra ta' Offerta mill-Università għall-Ammissjoni wara valutazzjoni ta' G.T.E. b'suċċess."
+      },
+      "gteAssessment": {
+        "title": "Valutazzjoni ta' G.T.E.",
+        "description": "Investigazzjoni tad-dokumenti finanzjarji u oħrajn u intervista mal-università."
+      },
+      "coeConfirmation": {
+        "title": "Konferma ta' COE",
+        "description": "Irreġistrazzjoni b'suċċess fl-università u konferma tal-ħlas."
+      },
+      "visaLodgement": {
+        "title": "Sottomissjoni tal-Viża",
+        "description": "Ibgħat applikazzjoni għall-viża u d-dokumenti meħtieġa."
+      },
+      "successfulVisa": {
+        "title": "Viża ta' Suċċess",
+        "description": "Irċievi approvazzjoni tal-viża u pprepara għall-ivvjaġġar."
+      },
+      "buttonText": "Ikklikkja hawn biex tara l-proċess sħiħ tal-viża"
     }
 }

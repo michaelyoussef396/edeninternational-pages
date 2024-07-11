@@ -268,5 +268,44 @@
       "whyStudyIn": "BAKIT MAG-ARAL SA",
       "australia": "AUSTRALIA",
       "description": "Kapag isinasaalang-alang natin ang pag-aaral sa Australia, maraming mga kadahilanan na madaling maakit ang atensyon ng mga estudyante. Lumalagong Destinasyon. Ang AUSTRALIA ay kasalukuyang pangatlong pinakapopular na destinasyon para sa mga international students sa English-speaking world, kasunod ng Estados Unidos at UK. Maraming international students ang pumipili na mag-aral dito dahil sa kultural na pagkakaiba-iba, magiliw na mga katutubo, at mataas na kalidad ng edukasyon."
+    },
+    "quickSteps": {
+      "title": "MABILIS NA HAKBANG NG",
+      "highlight": "PROSESO NG PAGPASOK",
+      "fileSubmission": {
+        "title": "Pagsusumite ng File",
+        "description": [
+          "Pasaporte",
+          "Mga Litrato na Passport Size",
+          "Mga Dokumentong Pang-akademiko",
+          "Sertipiko ng Kapanganakan",
+          "NID (Isinalin sa Ingles)",
+          "Mga Bayad sa Aplikasyon",
+          "SOP (Pahayag ng Layunin)",
+          "Resume/CV",
+          "IELTS/TOEFL Certificate"
+        ]
+      },
+      "offerLetter": {
+        "title": "Liham ng Alok",
+        "description": "Tumanggap ng Liham ng Alok mula sa Unibersidad para sa Pagpasok sa matagumpay na G.T.E. Pagsusuri."
+      },
+      "gteAssessment": {
+        "title": "G.T.E. Pagsusuri",
+        "description": "Pagtatasa ng pananalapi at iba pang mga dokumento at panayam sa unibersidad."
+      },
+      "coeConfirmation": {
+        "title": "Pagkumpirma ng COE",
+        "description": "Matagumpay na pag-enrol sa unibersidad at kumpirmasyon ng pagbabayad."
+      },
+      "visaLodgement": {
+        "title": "Pagsusumite ng Visa",
+        "description": "Isumite ang aplikasyon ng visa at kinakailangang mga dokumento."
+      },
+      "successfulVisa": {
+        "title": "Matagumpay na Visa",
+        "description": "Matanggap ang pag-apruba ng visa at maghanda para sa paglalakbay."
+      },
+      "buttonText": "Mag-click dito upang makita ang buong proseso ng visa"
     }
 }

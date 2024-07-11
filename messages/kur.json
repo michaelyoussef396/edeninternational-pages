@@ -268,6 +268,45 @@
     "whyStudyIn": "ÇIMA XWENDIN LI",
     "australia": "AUSTRALYA",
     "description": "Dema ku em têkiliyê dikin li ser xwendina li Australîya, hinek tiştin hene ku hêsanî dîkkariya xwendekaran nîz dikin. Destinasyona Pêşveçûnê. AUSTRALYA niha hinek ji hîn bûye eyana ji bo xwendekarên navneteweyî ya ku dixwazin li dinyayê peyvên îngilîzî bisekine, paşê Dewletên Yekbûyî û UK. Gelek xwendekarên navneteweyî hilbijartin ku li wir bixwînin ji ber cihê navçandî, xelkê rêzgirtin û perwerdeya ku qîmetê bilind heye."
+  },
+  "quickSteps": {
+    "title": "GAHAN BERBIHATÎ YA",
+    "highlight": "PÊVEKA TEKLIYÊ",
+    "fileSubmission": {
+      "title": "Şandina Pelê",
+      "description": [
+        "Pasaport",
+        "Wêneya Pasaportê",
+        "Belgeyên Perwerde",
+        "Şehadetnameya Zayînê",
+        "NID (Wergêrînî ya Îngilîzî)",
+        "Xercên Serlêdana",
+        "SOP (Beyannameya Armanca)",
+        "Biografî/CV",
+        "Sertîfîkayên IELTS/TOEFL"
+      ]
+    },
+    "offerLetter": {
+      "title": "Nameya Tevdîkarî",
+      "description": "Nameya Tevdîkarî ya ji zanîngehê bo Serlêdanê wergirtin dema ku hûn ji bo vegotinên G.T.E. serkeftinê bidin."
+    },
+    "gteAssessment": {
+      "title": "Vêxistinê G.T.E.",
+      "description": "Pêşverûk û lêkolîna belgeyên aborî û wêjeyên din û pevajoya vegotinê ya bi zanîngehê."
+    },
+    "coeConfirmation": {
+      "title": "Piştrastkirina COE",
+      "description": "Serlêdana serketî yê di zanîngehê de û piştrastkirina xercan."
+    },
+    "visaLodgement": {
+      "title": "Şandinên Vîzeyê",
+      "description": "Vîzaya serlêdana û belgeyên hewce şandin."
+    },
+    "successfulVisa": {
+      "title": "Vîzaya Serketî",
+      "description": "Piştrastkirina vîzayê wergirtin û amadebûn ji bo rêketinê."
+    },
+    "buttonText": "Klik bikin bo dîtina pêvajoya temam ya vîzayê"
   }
   }
   
