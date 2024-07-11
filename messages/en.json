@@ -886,5 +886,48 @@
   "skilledMigrationHeroSection": {
     "skilledNominatedVisaTitle": "SKILLED NOMINATED VISA",
     "subclass190": "SUBCLASS 190"
+  },
+  "skilledIndependentVisa": {
+    "visaTitle": "SKILLED INDEPENDENT VISA",
+    "visaDescription": "The Skilled Independent Visa Subclass 189 is a permanent visa which allows skilled workers to live in Australia. This visa does not require sponsorship from an employer or state/territory Government, however skilled workers must be both qualified and experienced to fill Australia’s current skill shortages. To be eligible for this visa, applicants must be skilled in an occupation on the Skilled Independent Visa Occupation List (SOL).",
+    "qualifyTitle": "HOW DO I QUALIFY FOR A SUBCLASS 189 VISA?",
+    "qualifyItem1": "Be under 45 years of age",
+    "qualifyItem2": "Nominate an occupation that is included on the relevant Occupation List (MLTSSL)",
+    "qualifyItem3": "Have your skills assessed by the appropriate Australian skills assessing authority as suitable for your nominated occupation",
+    "qualifyItem4": "Have competent English",
+    "visaAllowsTitle": "WHAT THIS VISA ALLOWS YOU TO DO:",
+    "visaAllowsItem1": "Live and work anywhere in Australia indefinitely",
+    "visaAllowsItem2": "Study in Australia, with access to subsidised education",
+    "visaAllowsItem3": "Access to Medicare",
+    "visaAllowsItem4": "Apply for Australian citizenship (after meeting appropriate requirements)",
+    "visaAllowsItem5": "Be able to sponsor family members for certain visas",
+    "visaAllowsItem6": "Apply for social security payments",
+    "visaAllowsItem7": "Travel in and out of Australia for 5 years",
+    "applyTitle": "HOW DO I APPLY FOR A SUBCLASS 189 VISA?",
+    "stage1Title": "STAGE 1: INITIAL ELIGIBILITY:",
+    "stage1Description": "The first step that we will take is to conduct an initial assessment of your eligibility for this visa. This involves reviewing your qualifications, work experience, English language and other circumstances, to establish whether or not you are likely to meet the relevant requirements.",
+    "stage2Title": "STAGE 2: SKILLS ASSESSMENT",
+    "stage2Description": "Should our initial assessment indicate that you are eligible for a positive skills assessment and EOI, we will prepare your skills assessment application.",
+    "stage3Title": "STAGE 3: EXPRESSION OF INTEREST (EOI)",
+    "stage3Description": "Once you have received a positive skills assessment from the skills assessing authority, we will prepare and lodge your EOI.",
+    "stage4Title": "STAGE 4: VISA APPLICATION",
+    "stage4Description": "Once the Department of Immigration has invited you to apply for this visa, we will prepare and lodge your visa application.",
+    "otherRequirementsTitle": "OTHER REQUIREMENTS",
+    "healthTitle": "HEALTH",
+    "healthDescription": "Main applicant and all of the family members must meet health requirements.",
+    "characterTitle": "CHARACTER",
+    "characterDescription": "You must be of good character.",
+    "locationTitle": "LOCATION",
+    "locationDescription": "You can be in or outside Australia when you apply for the visa and when a decision is made.",
+    "debtsTitle": "DEBTS",
+    "debtsDescription": "You must have repaid, or have arranged to repay, any outstanding debts to the Australian government.",
+    "visaCancelledTitle": "VISA CANCELLED OR REFUSED",
+    "visaCancelledDescription": "You might not be eligible to apply for this visa if you have had a visa cancelled or refused while you were in Australia.",
+    "processingTimeTitle": "PROCESSING TIME",
+    "processingTimeDescription": "6-12 Months. PLEASE NOTE: The actual time taken by the Department of Immigration to approve an application and grant a visa varies depending upon an applicant’s particular circumstances, and the amount of supporting information that the Department requires."
+  },
+  "migrationHeroSection2": {
+    "title": "SKILLED INDEPENDENT VISA",
+    "highlightText": "SUBCLASS 189"
   }
 }

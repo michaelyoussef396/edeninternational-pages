@@ -886,5 +886,48 @@
   "skilledMigrationHeroSection": {
     "skilledNominatedVisaTitle": "VISA DE NOMINATION QUALIFIÉE",
     "subclass190": "SOUS-CLASSE 190"
+  },
+  "skilledIndependentVisa": {
+    "visaTitle": "VISA INDÉPENDANT QUALIFIÉ",
+    "visaDescription": "Le Visa Indépendant Qualifié Subclass 189 est un visa permanent qui permet aux travailleurs qualifiés de vivre en Australie. Ce visa ne nécessite pas de parrainage d'un employeur ou du gouvernement d'un état/territoire, cependant, les travailleurs qualifiés doivent être à la fois qualifiés et expérimentés pour combler les pénuries de compétences actuelles en Australie. Pour être éligible à ce visa, les candidats doivent être qualifiés dans une profession de la Liste des professions pour le Visa Indépendant Qualifié (SOL).",
+    "qualifyTitle": "COMMENT PUIS-JE ME QUALIFIER POUR UN VISA DE SOUS-CLASSE 189?",
+    "qualifyItem1": "Avoir moins de 45 ans",
+    "qualifyItem2": "Nommer une profession qui est incluse dans la Liste des Professions Requises (MLTSSL)",
+    "qualifyItem3": "Avoir vos compétences évaluées par l'autorité australienne d'évaluation des compétences appropriée comme étant adaptées à votre profession nommée",
+    "qualifyItem4": "Avoir un niveau d'anglais compétent",
+    "visaAllowsTitle": "CE QUE CE VISA VOUS PERMET DE FAIRE:",
+    "visaAllowsItem1": "Vivre et travailler n'importe où en Australie indéfiniment",
+    "visaAllowsItem2": "Étudier en Australie, avec accès à une éducation subventionnée",
+    "visaAllowsItem3": "Accéder à Medicare",
+    "visaAllowsItem4": "Demander la citoyenneté australienne (après avoir satisfait aux exigences appropriées)",
+    "visaAllowsItem5": "Pouvoir parrainer des membres de la famille pour certains visas",
+    "visaAllowsItem6": "Demander des paiements de sécurité sociale",
+    "visaAllowsItem7": "Voyager à l'intérieur et à l'extérieur de l'Australie pendant 5 ans",
+    "applyTitle": "COMMENT PUIS-JE POSTULER POUR UN VISA DE SOUS-CLASSE 189?",
+    "stage1Title": "ÉTAPE 1: ADMISSIBILITÉ INITIALE:",
+    "stage1Description": "La première étape que nous prendrons est de procéder à une évaluation initiale de votre admissibilité à ce visa. Cela implique de passer en revue vos qualifications, votre expérience professionnelle, votre niveau d'anglais et d'autres circonstances, pour déterminer si vous êtes susceptible de répondre aux exigences pertinentes.",
+    "stage2Title": "ÉTAPE 2: ÉVALUATION DES COMPÉTENCES",
+    "stage2Description": "Si notre évaluation initiale indique que vous êtes admissible à une évaluation positive des compétences et à une EOI, nous préparerons votre demande d'évaluation des compétences.",
+    "stage3Title": "ÉTAPE 3: EXPRESSION D'INTÉRÊT (EOI)",
+    "stage3Description": "Une fois que vous avez reçu une évaluation positive des compétences de l'autorité d'évaluation des compétences, nous préparerons et soumettrons votre EOI.",
+    "stage4Title": "ÉTAPE 4: DEMANDE DE VISA",
+    "stage4Description": "Une fois que le Département de l'Immigration vous a invité à postuler pour ce visa, nous préparerons et soumettrons votre demande de visa.",
+    "otherRequirementsTitle": "AUTRES EXIGENCES",
+    "healthTitle": "SANTÉ",
+    "healthDescription": "Le demandeur principal et tous les membres de la famille doivent répondre aux exigences de santé.",
+    "characterTitle": "CARACTÈRE",
+    "characterDescription": "Vous devez avoir un bon caractère.",
+    "locationTitle": "EMPLACEMENT",
+    "locationDescription": "Vous pouvez être à l'intérieur ou à l'extérieur de l'Australie lorsque vous faites la demande de visa et lorsque la décision est prise.",
+    "debtsTitle": "DETTE",
+    "debtsDescription": "Vous devez avoir remboursé, ou avoir pris des dispositions pour rembourser, toutes les dettes en souffrance envers le gouvernement australien.",
+    "visaCancelledTitle": "VISA ANNULÉ OU REFUSÉ",
+    "visaCancelledDescription": "Vous ne pouvez pas être admissible à ce visa si vous avez eu un visa annulé ou refusé pendant que vous étiez en Australie.",
+    "processingTimeTitle": "DÉLAI DE TRAITEMENT",
+    "processingTimeDescription": "6-12 mois. VEUILLEZ NOTER: Le temps réel que prend le Département de l'Immigration pour approuver une demande et accorder un visa varie en fonction des circonstances particulières du demandeur et de la quantité d'informations de soutien requises par le Département."
+  },
+  "migrationHeroSection2": {
+    "title": "VISA INDÉPENDANT QUALIFIÉ",
+    "highlightText": "SOUS-CLASSE 189"
   }
 }

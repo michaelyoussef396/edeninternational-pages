@@ -886,6 +886,49 @@
   "skilledMigrationHeroSection": {
     "skilledNominatedVisaTitle": "VIZUM ZA USPOSOBLJENE NOMINACIJE",
     "subclass190": "PODRAZRED 190"
+  },
+  "skilledIndependentVisa": {
+    "visaTitle": "VISA ZA NEODVISNE VEŠČINE",
+    "visaDescription": "Visa za Neodvisne Veščine Podrazred 189 je stalna viza, ki omogoča kvalificiranim delavcem, da živijo v Avstraliji. Ta viza ne zahteva sponzorstva delodajalca ali državne/teritorialne vlade, vendar morajo biti kvalificirani delavci tako kvalificirani kot izkušeni, da zapolnijo trenutne primanjkljaje veščin v Avstraliji. Za upravičenost do te vize morajo kandidati biti usposobljeni za poklic na Seznamu poklicev za Visa za Neodvisne Veščine (SOL).",
+    "qualifyTitle": "KAKO SE KVALIFICIRAM ZA VISO PODRAZREDA 189?",
+    "qualifyItem1": "Biti mlajši od 45 let",
+    "qualifyItem2": "Nominirati poklic, ki je vključen na ustrezen seznam poklicev (MLTSSL)",
+    "qualifyItem3": "Imeti svoje veščine ocenjene s strani ustrezne avstralske ocenjevalne agencije kot primerne za nominirani poklic",
+    "qualifyItem4": "Imeti kompetentno znanje angleščine",
+    "visaAllowsTitle": "KAJ OMOGOČA TA VIZA:",
+    "visaAllowsItem1": "Neomejeno živeti in delati kjerkoli v Avstraliji",
+    "visaAllowsItem2": "Študirati v Avstraliji, z dostopom do subvencioniranega izobraževanja",
+    "visaAllowsItem3": "Imeti dostop do Medicare",
+    "visaAllowsItem4": "Prijaviti se za avstralsko državljanstvo (po izpolnitvi ustreznih zahtev)",
+    "visaAllowsItem5": "Biti sposoben sponzorirati družinske člane za nekatere vize",
+    "visaAllowsItem6": "Prijaviti se za socialno pomoč",
+    "visaAllowsItem7": "Potovati v in iz Avstralije za 5 let",
+    "applyTitle": "KAKO SE PRIJAVIM ZA VISO PODRAZREDA 189?",
+    "stage1Title": "FAZA 1: ZAČETNA UPRAVIČENOST:",
+    "stage1Description": "Prvi korak, ki ga bomo izvedli, je začetna ocena vaše upravičenosti do te vize. To vključuje pregled vaših kvalifikacij, delovnih izkušenj, znanja angleščine in drugih okoliščin, da se ugotovi, ali imate verjetnost, da izpolnjujete ustrezne zahteve.",
+    "stage2Title": "FAZA 2: OCENA VEŠČIN",
+    "stage2Description": "Če naša začetna ocena kaže, da ste upravičeni do pozitivne ocene veščin in EOI, bomo pripravili vašo prijavo za oceno veščin.",
+    "stage3Title": "FAZA 3: IZRAZ ZANIMANJA (EOI)",
+    "stage3Description": "Ko prejmete pozitivno oceno veščin od ocenjevalne agencije, bomo pripravili in oddali vaš EOI.",
+    "stage4Title": "FAZA 4: PRIJAVA ZA VIZO",
+    "stage4Description": "Ko vas Ministrstvo za imigracijo povabi, da se prijavite za to vizo, bomo pripravili in oddali vašo prijavo za vizo.",
+    "otherRequirementsTitle": "DRUGE ZAHTEVE",
+    "healthTitle": "ZDRAVJE",
+    "healthDescription": "Glavni prosilec in vsi družinski člani morajo izpolnjevati zdravstvene zahteve.",
+    "characterTitle": "ZNAČAJ",
+    "characterDescription": "Imeti morate dober značaj.",
+    "locationTitle": "LOKACIJA",
+    "locationDescription": "Biti lahko v Avstraliji ali zunaj nje, ko se prijavljate za vizo in ko se sprejme odločitev.",
+    "debtsTitle": "DOLGOVI",
+    "debtsDescription": "Morate biti poplačali ali uredili poplačilo vseh neporavnanih dolgov do avstralske vlade.",
+    "visaCancelledTitle": "VIZA PREKLICANA ALI ZAVRNJENA",
+    "visaCancelledDescription": "Morda niste upravičeni do prijave za to vizo, če ste imeli vizo preklicano ali zavrnjeno, medtem ko ste bili v Avstraliji.",
+    "processingTimeTitle": "ČAS OBDELAVE",
+    "processingTimeDescription": "6-12 mesecev. PROSIMO, UPOŠTEVAJTE: Dejanski čas, ki ga Ministrstvo za imigracijo potrebuje za odobritev prijave in izdajo vize, se razlikuje glede na posebne okoliščine prosilca in količino podpornih informacij, ki jih zahteva ministrstvo."
+  },
+  "migrationHeroSection2": {
+    "title": "VISA ZA NEODVISNE VEŠČINE",
+    "highlightText": "PODRAZRED 189"
   }
   }
   

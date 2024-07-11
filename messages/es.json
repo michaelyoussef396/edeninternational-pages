@@ -886,5 +886,48 @@
   "skilledMigrationHeroSection": {
     "skilledNominatedVisaTitle": "VISADO DE NOMINACIÓN DE HABILIDADES",
     "subclass190": "SUBCLASE 190"
+  },
+  "skilledIndependentVisa": {
+    "visaTitle": "VISA INDEPENDIENTE PARA TRABAJADORES CALIFICADOS",
+    "visaDescription": "La Visa Independiente para Trabajadores Calificados Subclase 189 es una visa permanente que permite a los trabajadores calificados vivir en Australia. Esta visa no requiere patrocinio de un empleador o del Gobierno de un estado/territorio, sin embargo, los trabajadores calificados deben estar cualificados y tener experiencia para llenar las actuales carencias de habilidades en Australia. Para ser elegible para esta visa, los solicitantes deben estar calificados en una ocupación en la Lista de Ocupaciones de Visa Independiente para Trabajadores Calificados (SOL).",
+    "qualifyTitle": "¿CÓMO CALIFICO PARA UNA VISA SUBCLASE 189?",
+    "qualifyItem1": "Tener menos de 45 años de edad",
+    "qualifyItem2": "Nominar una ocupación que esté incluida en la Lista de Ocupaciones Relevantes (MLTSSL)",
+    "qualifyItem3": "Tener tus habilidades evaluadas por la autoridad australiana de evaluación de habilidades adecuada como aptas para la ocupación nominada",
+    "qualifyItem4": "Tener un nivel competente de inglés",
+    "visaAllowsTitle": "¿QUÉ TE PERMITE HACER ESTA VISA?",
+    "visaAllowsItem1": "Vivir y trabajar en cualquier lugar de Australia indefinidamente",
+    "visaAllowsItem2": "Estudiar en Australia, con acceso a educación subsidiada",
+    "visaAllowsItem3": "Acceder a Medicare",
+    "visaAllowsItem4": "Solicitar la ciudadanía australiana (después de cumplir con los requisitos apropiados)",
+    "visaAllowsItem5": "Poder patrocinar a miembros de la familia para ciertas visas",
+    "visaAllowsItem6": "Solicitar pagos de seguridad social",
+    "visaAllowsItem7": "Viajar dentro y fuera de Australia durante 5 años",
+    "applyTitle": "¿CÓMO SOLICITO UNA VISA SUBCLASE 189?",
+    "stage1Title": "ETAPA 1: ELEGIBILIDAD INICIAL:",
+    "stage1Description": "El primer paso que tomaremos es realizar una evaluación inicial de tu elegibilidad para esta visa. Esto implica revisar tus calificaciones, experiencia laboral, nivel de inglés y otras circunstancias, para determinar si es probable que cumplas con los requisitos relevantes.",
+    "stage2Title": "ETAPA 2: EVALUACIÓN DE HABILIDADES",
+    "stage2Description": "Si nuestra evaluación inicial indica que eres elegible para una evaluación de habilidades positiva y una EOI, prepararemos tu solicitud de evaluación de habilidades.",
+    "stage3Title": "ETAPA 3: EXPRESIÓN DE INTERÉS (EOI)",
+    "stage3Description": "Una vez que hayas recibido una evaluación de habilidades positiva de la autoridad evaluadora de habilidades, prepararemos y presentaremos tu EOI.",
+    "stage4Title": "ETAPA 4: SOLICITUD DE VISA",
+    "stage4Description": "Una vez que el Departamento de Inmigración te haya invitado a solicitar esta visa, prepararemos y presentaremos tu solicitud de visa.",
+    "otherRequirementsTitle": "OTROS REQUISITOS",
+    "healthTitle": "SALUD",
+    "healthDescription": "El solicitante principal y todos los miembros de la familia deben cumplir con los requisitos de salud.",
+    "characterTitle": "CARÁCTER",
+    "characterDescription": "Debes tener buen carácter.",
+    "locationTitle": "UBICACIÓN",
+    "locationDescription": "Puedes estar dentro o fuera de Australia cuando solicites la visa y cuando se tome una decisión.",
+    "debtsTitle": "DEUDAS",
+    "debtsDescription": "Debes haber pagado, o haber arreglado el pago de cualquier deuda pendiente con el gobierno australiano.",
+    "visaCancelledTitle": "VISA CANCELADA O RECHAZADA",
+    "visaCancelledDescription": "Es posible que no seas elegible para solicitar esta visa si te han cancelado o rechazado una visa mientras estabas en Australia.",
+    "processingTimeTitle": "TIEMPO DE PROCESAMIENTO",
+    "processingTimeDescription": "6-12 meses. TEN EN CUENTA: El tiempo real que toma el Departamento de Inmigración para aprobar una solicitud y otorgar una visa varía dependiendo de las circunstancias particulares del solicitante y la cantidad de información de respaldo que requiera el Departamento."
+  },
+  "migrationHeroSection2": {
+    "title": "VISA INDEPENDIENTE PARA TRABAJADORES CALIFICADOS",
+    "highlightText": "SUBCLASE 189"
   }
 }

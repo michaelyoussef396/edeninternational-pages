@@ -886,5 +886,48 @@
   "skilledMigrationHeroSection": {
     "skilledNominatedVisaTitle": "技术提名签证",
     "subclass190": "190子类"
+  },
+  "skilledIndependentVisa": {
+    "visaTitle": "独立技术移民签证",
+    "visaDescription": "独立技术移民签证（189类别）是一种永久签证，允许技术工人在澳大利亚居住。此签证不需要雇主或州/地区政府的担保，但技术工人必须有资格并具有经验，以填补澳大利亚目前的技能短缺。要符合此签证的条件，申请人必须在独立技术移民签证职业列表（SOL）中的某个职业中具备技能。",
+    "qualifyTitle": "我如何符合189类别签证的条件？",
+    "qualifyItem1": "年龄在45岁以下",
+    "qualifyItem2": "提名在相关职业列表（MLTSSL）中包含的职业",
+    "qualifyItem3": "通过适当的澳大利亚技能评估机构评估为适合您提名的职业",
+    "qualifyItem4": "具备熟练的英语能力",
+    "visaAllowsTitle": "此签证允许您做什么：",
+    "visaAllowsItem1": "无限期地在澳大利亚的任何地方居住和工作",
+    "visaAllowsItem2": "在澳大利亚学习，可获得资助的教育",
+    "visaAllowsItem3": "享受医疗保险（Medicare）",
+    "visaAllowsItem4": "申请澳大利亚公民身份（符合相应条件后）",
+    "visaAllowsItem5": "可以为某些签证担保家庭成员",
+    "visaAllowsItem6": "申请社会保障支付",
+    "visaAllowsItem7": "在5年内自由进出澳大利亚",
+    "applyTitle": "我如何申请189类别签证？",
+    "stage1Title": "阶段1：初步资格：",
+    "stage1Description": "我们将采取的第一步是对您的签证资格进行初步评估。这包括审查您的资格、工作经验、英语能力和其他情况，以确定您是否可能符合相关要求。",
+    "stage2Title": "阶段2：技能评估",
+    "stage2Description": "如果我们的初步评估表明您有资格获得正面的技能评估和EOI，我们将准备您的技能评估申请。",
+    "stage3Title": "阶段3：兴趣表达（EOI）",
+    "stage3Description": "一旦您获得了技能评估机构的正面技能评估，我们将准备并提交您的EOI。",
+    "stage4Title": "阶段4：签证申请",
+    "stage4Description": "一旦移民部邀请您申请此签证，我们将准备并提交您的签证申请。",
+    "otherRequirementsTitle": "其他要求",
+    "healthTitle": "健康",
+    "healthDescription": "主要申请人和所有家庭成员必须符合健康要求。",
+    "characterTitle": "品格",
+    "characterDescription": "您必须品行良好。",
+    "locationTitle": "位置",
+    "locationDescription": "您在申请签证和决定时可以在澳大利亚境内或境外。",
+    "debtsTitle": "债务",
+    "debtsDescription": "您必须已偿还或安排偿还所有欠澳大利亚政府的债务。",
+    "visaCancelledTitle": "签证取消或拒签",
+    "visaCancelledDescription": "如果您在澳大利亚期间签证被取消或拒签，您可能不符合申请此签证的条件。",
+    "processingTimeTitle": "处理时间",
+    "processingTimeDescription": "6-12个月。请注意：移民部批准申请和签发签证所需的实际时间取决于申请人的具体情况，以及移民部要求的支持信息的数量。"
+  },
+  "migrationHeroSection2": {
+    "title": "独立技术移民签证",
+    "highlightText": "189类别"
   }
 }

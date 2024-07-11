@@ -886,5 +886,48 @@
   "skilledMigrationHeroSection": {
     "skilledNominatedVisaTitle": "VIŻA TA' NOMINAZZJONI TA' ĦILIET",
     "subclass190": "SOTTO-KLASSI 190"
+  },
+  "skilledIndependentVisa": {
+    "visaTitle": "VIŻA INDIPENDENTI TAL-KOMPETENZI",
+    "visaDescription": "Il-Viża Indipendenti tal-Kompetenzi Sottoklassi 189 hija viża permanenti li tippermetti lill-ħaddiema tas-sengħa jgħixu fl-Awstralja. Din il-viża ma teħtieġx sponsor minn min iħaddem jew mill-Gvern ta' stat/territorju, madankollu, il-ħaddiema tas-sengħa jridu jkunu kemm kwalifikati kif ukoll esperjenzati biex jimlew in-nuqqasijiet kurrenti tal-kompetenzi tal-Awstralja. Biex ikunu eliġibbli għal din il-viża, l-applikanti jridu jkunu kwalifikati f'okkupazzjoni fuq il-Lista tal-Okkupazzjonijiet għal Viża Indipendenti tal-Kompetenzi (SOL).",
+    "qualifyTitle": "KIF NISTA' NKUN KWALIFIKAT GĦAL VIŻA SOTTOKLASSI 189?",
+    "qualifyItem1": "Ikun taħt l-età ta' 45 sena",
+    "qualifyItem2": "Nominaw okkupazzjoni li hija inkluża fil-Lista tal-Okkupazzjonijiet rilevanti (MLTSSL)",
+    "qualifyItem3": "Ikollok il-kompetenzi tiegħek ivvalutati mill-awtorità tal-valutazzjoni tal-kompetenzi Awstraljana adattata bħala xierqa għall-okkupazzjoni nominata tiegħek",
+    "qualifyItem4": "Ikollok l-Ingliż kompetenti",
+    "visaAllowsTitle": "XI JIPPERMETTI DIN IL-VIŻA:",
+    "visaAllowsItem1": "Tgħix u taħdem kullimkien fl-Awstralja indefinittivament",
+    "visaAllowsItem2": "Tistudja fl-Awstralja, bi aċċess għal edukazzjoni ssussidjata",
+    "visaAllowsItem3": "Ikollok aċċess għal Medicare",
+    "visaAllowsItem4": "Tapplika għaċ-ċittadinanza Awstraljana (wara li tissodisfa r-rekwiżiti adattati)",
+    "visaAllowsItem5": "Tkun tista' tisponsorja membri tal-familja għal xi viżi",
+    "visaAllowsItem6": "Tapplika għall-ħlasijiet tas-sigurtà soċjali",
+    "visaAllowsItem7": "Tivvjaġġa lejn u barra l-Awstralja għal 5 snin",
+    "applyTitle": "KIF NISTA' NAPPLIKA GĦAL VIŻA SOTTOKLASSI 189?",
+    "stage1Title": "FAŻI 1: ELIĠIBILITÀ INIZZJALI:",
+    "stage1Description": "L-ewwel pass li se nieħdu huwa li nwettqu valutazzjoni inizzjali tal-eliġibilità tiegħek għal din il-viża. Dan jinvolvi r-reviżjoni tal-kwalifiki tiegħek, l-esperjenza tax-xogħol, il-lingwa Ingliża u ċirkostanzi oħra, biex jiġi stabbilit jekk hemmx probabbiltà li tissodisfa r-rekwiżiti rilevanti.",
+    "stage2Title": "FAŻI 2: VALUTAZZJONI TAL-KOMPETENZI",
+    "stage2Description": "Jekk il-valutazzjoni inizzjali tagħna tindika li int eliġibbli għal valutazzjoni pożittiva tal-kompetenzi u EOI, aħna se nippreparaw l-applikazzjoni tal-valutazzjoni tal-kompetenzi tiegħek.",
+    "stage3Title": "FAŻI 3: ESPRESSJONI TA' INTERESS (EOI)",
+    "stage3Description": "Ladarba tirċievi valutazzjoni pożittiva tal-kompetenzi mill-awtorità tal-valutazzjoni tal-kompetenzi, aħna se nippreparaw u nippreżentaw l-EOI tiegħek.",
+    "stage4Title": "FAŻI 4: APPLIKAZZJONI TAL-VIŻA",
+    "stage4Description": "Ladarba d-Dipartiment tal-Immigrazzjoni jistiednek tapplika għal din il-viża, aħna se nippreparaw u nippreżentaw l-applikazzjoni tal-viża tiegħek.",
+    "otherRequirementsTitle": "REKWIŻITI OĦRA",
+    "healthTitle": "SAĦĦA",
+    "healthDescription": "L-applikant prinċipali u l-membri kollha tal-familja għandhom jissodisfaw ir-rekwiżiti tas-saħħa.",
+    "characterTitle": "KARATTRU",
+    "characterDescription": "Għandek ikollok karattru tajjeb.",
+    "locationTitle": "POST",
+    "locationDescription": "Tista' tkun ġewwa jew barra l-Awstralja meta tapplika għall-viża u meta tittieħed deċiżjoni.",
+    "debtsTitle": "DEJN",
+    "debtsDescription": "Għandek tkun ħallas, jew ħadt arranġamenti biex tħallas, kull dejn pendenti lejn il-gvern Awstraljan.",
+    "visaCancelledTitle": "VIŻA KANĊELLATA JEW MIĊĦUDA",
+    "visaCancelledDescription": "Jista' jkun li ma tkunx eliġibbli biex tapplika għal din il-viża jekk kellek viża kanċellata jew miċħuda waqt li kont fl-Awstralja.",
+    "processingTimeTitle": "ĦIN TA' IPPROĊESSAR",
+    "processingTimeDescription": "6-12-il xahar. Jekk jogħġbok innota: Il-ħin attwali meħud mid-Dipartiment tal-Immigrazzjoni biex japprova applikazzjoni u joħroġ viża jvarja skont iċ-ċirkostanzi partikolari tal-applikant u l-ammont ta' informazzjoni ta' appoġġ meħtieġa mid-Dipartiment."
+  },
+  "migrationHeroSection2": {
+    "title": "VIŻA INDIPENDENTI TAL-KOMPETENZI",
+    "highlightText": "SOTTOKLASSI 189"
   }
 }

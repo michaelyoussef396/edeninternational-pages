@@ -886,5 +886,48 @@
   "skilledMigrationHeroSection": {
     "skilledNominatedVisaTitle": "VISTO PER NOMINA QUALIFICATA",
     "subclass190": "SOTTOCLASSE 190"
+  },
+  "skilledIndependentVisa": {
+    "visaTitle": "VISTO PER COMPETENZE INDIPENDENTI",
+    "visaDescription": "Il visto per competenze indipendenti Sottoclasse 189 è un visto permanente che consente ai lavoratori qualificati di vivere in Australia. Questo visto non richiede la sponsorizzazione da parte di un datore di lavoro o del governo statale/territoriale, tuttavia i lavoratori qualificati devono essere sia qualificati che esperti per colmare le attuali carenze di competenze dell'Australia. Per essere idonei a questo visto, i candidati devono essere qualificati in un'occupazione dell'Elenco delle Occupazioni per Visto per Competenze Indipendenti (SOL).",
+    "qualifyTitle": "COME POSSO QUALIFICARMI PER UN VISTO SOTTOCLASSE 189?",
+    "qualifyItem1": "Essere sotto i 45 anni di età",
+    "qualifyItem2": "Nominare un'occupazione inclusa nell'elenco delle occupazioni rilevanti (MLTSSL)",
+    "qualifyItem3": "Avere le proprie competenze valutate dall'autorità australiana appropriata come idonee per l'occupazione nominata",
+    "qualifyItem4": "Avere un livello di inglese competente",
+    "visaAllowsTitle": "COSA TI PERMETTE DI FARE QUESTO VISTO:",
+    "visaAllowsItem1": "Vivere e lavorare ovunque in Australia indefinitamente",
+    "visaAllowsItem2": "Studiare in Australia, con accesso a un'istruzione sovvenzionata",
+    "visaAllowsItem3": "Accedere a Medicare",
+    "visaAllowsItem4": "Richiedere la cittadinanza australiana (dopo aver soddisfatto i requisiti appropriati)",
+    "visaAllowsItem5": "Essere in grado di sponsorizzare i membri della famiglia per alcuni visti",
+    "visaAllowsItem6": "Richiedere pagamenti di sicurezza sociale",
+    "visaAllowsItem7": "Viaggiare dentro e fuori l'Australia per 5 anni",
+    "applyTitle": "COME POSSO RICHIEDERE UN VISTO SOTTOCLASSE 189?",
+    "stage1Title": "FASE 1: IDONEITÀ INIZIALE:",
+    "stage1Description": "Il primo passo che prenderemo è condurre una valutazione iniziale della tua idoneità per questo visto. Ciò comporta la revisione delle tue qualifiche, esperienza lavorativa, competenze linguistiche in inglese e altre circostanze, per stabilire se è probabile che tu soddisfi i requisiti rilevanti.",
+    "stage2Title": "FASE 2: VALUTAZIONE DELLE COMPETENZE",
+    "stage2Description": "Se la nostra valutazione iniziale indica che sei idoneo per una valutazione positiva delle competenze e un EOI, prepareremo la tua domanda di valutazione delle competenze.",
+    "stage3Title": "FASE 3: ESPRESSIONE DI INTERESSE (EOI)",
+    "stage3Description": "Una volta ricevuta una valutazione positiva delle competenze dall'autorità di valutazione delle competenze, prepareremo e presenteremo il tuo EOI.",
+    "stage4Title": "FASE 4: DOMANDA DI VISTO",
+    "stage4Description": "Una volta che il Dipartimento dell'Immigrazione ti ha invitato a richiedere questo visto, prepareremo e presenteremo la tua domanda di visto.",
+    "otherRequirementsTitle": "ALTRI REQUISITI",
+    "healthTitle": "SALUTE",
+    "healthDescription": "Il richiedente principale e tutti i membri della famiglia devono soddisfare i requisiti sanitari.",
+    "characterTitle": "CARATTERE",
+    "characterDescription": "Devi avere un buon carattere.",
+    "locationTitle": "POSIZIONE",
+    "locationDescription": "Puoi essere dentro o fuori dall'Australia quando fai domanda per il visto e quando viene presa una decisione.",
+    "debtsTitle": "DEBITI",
+    "debtsDescription": "Devi aver ripagato, o aver preso accordi per ripagare, eventuali debiti in sospeso nei confronti del governo australiano.",
+    "visaCancelledTitle": "VISTO ANNULLATO O RIFIUTATO",
+    "visaCancelledDescription": "Potresti non essere idoneo a richiedere questo visto se hai avuto un visto annullato o rifiutato mentre eri in Australia.",
+    "processingTimeTitle": "TEMPO DI ELABORAZIONE",
+    "processingTimeDescription": "6-12 mesi. SI PREGA DI NOTARE: Il tempo effettivo impiegato dal Dipartimento dell'Immigrazione per approvare una domanda e rilasciare un visto varia a seconda delle circostanze particolari del richiedente e della quantità di informazioni di supporto richieste dal Dipartimento."
+  },
+  "migrationHeroSection2": {
+    "title": "VISTO PER COMPETENZE INDIPENDENTI",
+    "highlightText": "SOTTOCLASSE 189"
   }
 }

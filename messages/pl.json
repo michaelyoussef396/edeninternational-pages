@@ -886,6 +886,49 @@
   "skilledMigrationHeroSection": {
     "skilledNominatedVisaTitle": "WIZA NOMINACYJNA DLA OSÓB WYKWALIFIKOWANYCH",
     "subclass190": "PODKLASA 190"
+  },
+  "skilledIndependentVisa": {
+    "visaTitle": "WIZA DLA NIEZALEŻNYCH UMIEJĘTNOŚCI",
+    "visaDescription": "Wiza dla Niezależnych Umiejętności Podklasa 189 to wiza stała, która pozwala wykwalifikowanym pracownikom mieszkać w Australii. Ta wiza nie wymaga sponsorowania przez pracodawcę ani rząd stanowy/terytorialny, jednak wykwalifikowani pracownicy muszą być zarówno wykwalifikowani, jak i doświadczeni, aby wypełnić obecne braki umiejętności w Australii. Aby kwalifikować się do tej wizy, kandydaci muszą być wykwalifikowani w zawodzie z Listy Zawodów dla Wizy dla Niezależnych Umiejętności (SOL).",
+    "qualifyTitle": "JAK KWALIFIKOWAĆ SIĘ DO WIZY PODKLASY 189?",
+    "qualifyItem1": "Mieć mniej niż 45 lat",
+    "qualifyItem2": "Nominować zawód, który jest uwzględniony na odpowiedniej liście zawodów (MLTSSL)",
+    "qualifyItem3": "Posiadać ocenę swoich umiejętności przez odpowiednią australijską jednostkę oceniającą umiejętności jako odpowiednią dla nominowanego zawodu",
+    "qualifyItem4": "Posiadać kompetentną znajomość języka angielskiego",
+    "visaAllowsTitle": "CO POZWALA NA TA WIZA:",
+    "visaAllowsItem1": "Mieszkać i pracować w dowolnym miejscu w Australii bezterminowo",
+    "visaAllowsItem2": "Studiować w Australii, z dostępem do subsydiowanego kształcenia",
+    "visaAllowsItem3": "Mieć dostęp do Medicare",
+    "visaAllowsItem4": "Ubiegaj się o obywatelstwo australijskie (po spełnieniu odpowiednich wymagań)",
+    "visaAllowsItem5": "Mieć możliwość sponsorowania członków rodziny na niektóre wizy",
+    "visaAllowsItem6": "Ubiegaj się o świadczenia socjalne",
+    "visaAllowsItem7": "Podróżować do i z Australii przez 5 lat",
+    "applyTitle": "JAK UBIEGAĆ SIĘ O WIZĘ PODKLASY 189?",
+    "stage1Title": "ETAP 1: POCZĄTKOWA KWALIFIKACJA:",
+    "stage1Description": "Pierwszym krokiem, który podejmiemy, będzie przeprowadzenie wstępnej oceny Twojej kwalifikowalności do tej wizy. Obejmuje to przegląd Twoich kwalifikacji, doświadczenia zawodowego, znajomości języka angielskiego i innych okoliczności, aby ustalić, czy prawdopodobnie spełnisz odpowiednie wymagania.",
+    "stage2Title": "ETAP 2: OCENA UMIEJĘTNOŚCI",
+    "stage2Description": "Jeśli nasza wstępna ocena wskaże, że kwalifikujesz się do pozytywnej oceny umiejętności i EOI, przygotujemy Twoje zgłoszenie oceny umiejętności.",
+    "stage3Title": "ETAP 3: WYRAŻENIE ZAINTERESOWANIA (EOI)",
+    "stage3Description": "Po otrzymaniu pozytywnej oceny umiejętności od jednostki oceniającej umiejętności przygotujemy i złożymy Twoje EOI.",
+    "stage4Title": "ETAP 4: WNIOSEK O WIZĘ",
+    "stage4Description": "Po zaproszeniu Cię przez Departament Imigracji do złożenia wniosku o tę wizę, przygotujemy i złożymy Twój wniosek wizowy.",
+    "otherRequirementsTitle": "INNE WYMAGANIA",
+    "healthTitle": "ZDROWIE",
+    "healthDescription": "Główny wnioskodawca i wszyscy członkowie rodziny muszą spełniać wymagania zdrowotne.",
+    "characterTitle": "CHARAKTER",
+    "characterDescription": "Musisz mieć dobry charakter.",
+    "locationTitle": "LOKALIZACJA",
+    "locationDescription": "Możesz znajdować się w Australii lub poza nią, kiedy składasz wniosek o wizę i kiedy podejmowana jest decyzja.",
+    "debtsTitle": "DŁUGI",
+    "debtsDescription": "Musisz spłacić lub uzgodnić spłatę wszelkich zaległych długów wobec rządu australijskiego.",
+    "visaCancelledTitle": "WIZA ANULOWANA LUB ODMÓWIONA",
+    "visaCancelledDescription": "Możesz nie kwalifikować się do złożenia wniosku o tę wizę, jeśli Twoja wiza została anulowana lub odmówiona, gdy byłeś w Australii.",
+    "processingTimeTitle": "CZAS PRZETWARZANIA",
+    "processingTimeDescription": "6-12 miesięcy. PROSZĘ ZANOTOWAĆ: Rzeczywisty czas potrzebny Departamentowi Imigracji na zatwierdzenie wniosku i wydanie wizy zależy od szczególnych okoliczności wnioskodawcy oraz ilości wymaganych przez Departament informacji wspierających."
+  },
+  "migrationHeroSection2": {
+    "title": "WIZA DLA NIEZALEŻNYCH UMIEJĘTNOŚCI",
+    "highlightText": "PODKLASA 189"
   }
   }
   

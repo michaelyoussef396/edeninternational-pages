@@ -886,5 +886,48 @@
   "skilledMigrationHeroSection": {
     "skilledNominatedVisaTitle": "NİTELİKLİ ADAYLIK VİZESİ",
     "subclass190": "ALT SINIF 190"
+  },
+  "skilledIndependentVisa": {
+    "visaTitle": "BAĞIMSIZ NİTELİK VİZESİ",
+    "visaDescription": "Bağımsız Nitelik Vizesi Alt Sınıf 189, nitelikli işçilerin Avustralya'da yaşamalarını sağlayan kalıcı bir vizedir. Bu vize, bir işveren veya eyalet/territorya hükümeti tarafından sponsorluğu gerektirmez, ancak nitelikli işçilerin hem nitelikli hem de deneyimli olması gerekir ki Avustralya'nın mevcut yetenek açıklarını doldurabilsinler. Bu vizeye hak kazanmak için, başvuru sahiplerinin Bağımsız Nitelik Vizesi Meslek Listesi'nde (SOL) bulunan bir meslekte yetenekli olmaları gerekir.",
+    "qualifyTitle": "ALT SINIF 189 VİZESİNE NASIL KALİFİYE OLURUM?",
+    "qualifyItem1": "45 yaşından küçük olmak",
+    "qualifyItem2": "İlgili Meslek Listesi'nde (MLTSSL) yer alan bir mesleği aday göstermek",
+    "qualifyItem3": "Nitelikli meslek için uygun olduğunu belirten ilgili Avustralya yetenek değerlendirme kurumu tarafından değerlendirilen yeteneklere sahip olmak",
+    "qualifyItem4": "Yeterli düzeyde İngilizce bilmek",
+    "visaAllowsTitle": "BU VİZE NE SAĞLAR:",
+    "visaAllowsItem1": "Avustralya'nın herhangi bir yerinde süresiz olarak yaşama ve çalışma",
+    "visaAllowsItem2": "Avustralya'da eğitim alma, sübvanse edilmiş eğitime erişim ile",
+    "visaAllowsItem3": "Medicare'e erişim",
+    "visaAllowsItem4": "Avustralya vatandaşlığı için başvuru yapma (uygun gereksinimleri karşıladıktan sonra)",
+    "visaAllowsItem5": "Bazı vizeler için aile üyelerini sponsor edebilme",
+    "visaAllowsItem6": "Sosyal güvenlik ödemeleri için başvuru yapma",
+    "visaAllowsItem7": "5 yıl boyunca Avustralya'ya giriş çıkış yapabilme",
+    "applyTitle": "ALT SINIF 189 VİZESİNE NASIL BAŞVURULUR?",
+    "stage1Title": "AŞAMA 1: BAŞLANGIÇ UYGUNLUĞU:",
+    "stage1Description": "Yapacağımız ilk adım, bu vizeye uygunluğunuzu başlangıçta değerlendirmektir. Bu, niteliklerinizi, iş deneyiminizi, İngilizce bilginizi ve diğer koşullarınızı inceleyerek, ilgili gereksinimleri karşılayıp karşılamadığınızı belirlemeyi içerir.",
+    "stage2Title": "AŞAMA 2: YETENEK DEĞERLENDİRMESİ",
+    "stage2Description": "Başlangıç değerlendirmemiz olumlu bir yetenek değerlendirmesi ve EOI'ya uygun olduğunuzu gösteriyorsa, yetenek değerlendirme başvurunuzu hazırlayacağız.",
+    "stage3Title": "AŞAMA 3: İLGİ BEYANI (EOI)",
+    "stage3Description": "Yetenek değerlendirme kurumundan olumlu bir yetenek değerlendirmesi aldıktan sonra, EOI'nizi hazırlayıp sunacağız.",
+    "stage4Title": "AŞAMA 4: VİZE BAŞVURUSU",
+    "stage4Description": "Göçmenlik Bakanlığı sizi bu vizeye başvurmanız için davet ettikten sonra, vize başvurunuzu hazırlayıp sunacağız.",
+    "otherRequirementsTitle": "DİĞER GEREKSİNİMLER",
+    "healthTitle": "SAĞLIK",
+    "healthDescription": "Ana başvuru sahibi ve tüm aile üyeleri sağlık gereksinimlerini karşılamalıdır.",
+    "characterTitle": "KARAKTER",
+    "characterDescription": "İyi karaktere sahip olmalısınız.",
+    "locationTitle": "KONUM",
+    "locationDescription": "Vize başvurusu yaparken ve karar verildiğinde Avustralya içinde veya dışında olabilirsiniz.",
+    "debtsTitle": "BORÇLAR",
+    "debtsDescription": "Avustralya hükümetine olan tüm borçlarınızı ödemiş veya ödeme düzenlemesi yapmış olmalısınız.",
+    "visaCancelledTitle": "VİZE İPTAL EDİLDİ VEYA REDDEDİLDİ",
+    "visaCancelledDescription": "Avustralya'dayken vizeniz iptal edildiyse veya reddedildiyse, bu vizeye başvurma hakkınız olmayabilir.",
+    "processingTimeTitle": "İŞLEM SÜRESİ",
+    "processingTimeDescription": "6-12 ay. LÜTFEN DİKKAT: Göçmenlik Bakanlığı'nın bir başvuruyu onaylaması ve vize vermesi için gereken gerçek süre, başvuru sahibinin özel koşullarına ve Bakanlık tarafından istenen destekleyici bilgi miktarına bağlı olarak değişir."
+  },
+  "migrationHeroSection2": {
+    "title": "BAĞIMSIZ NİTELİK VİZESİ",
+    "highlightText": "ALT SINIF 189"
   }
 }

@@ -886,6 +886,49 @@
   "skilledMigrationHeroSection": {
     "skilledNominatedVisaTitle": "VIZA ZA KVALIFIKOVANE NOMINACIJE",
     "subclass190": "PODKLASA 190"
+  },
+  "skilledIndependentVisa": {
+    "visaTitle": "VIZA ZA NEZAVISNE VEŠTINE",
+    "visaDescription": "Viza za Nezavisne Veštine Podklasa 189 je stalna viza koja omogućava kvalifikovanim radnicima da žive u Australiji. Ova viza ne zahteva sponzorstvo poslodavca ili državne/teritorijalne vlade, ali kvalifikovani radnici moraju biti i kvalifikovani i iskusni da popune trenutne nedostatke veština u Australiji. Da bi bili kvalifikovani za ovu vizu, kandidati moraju biti vešti u zanimanju sa Liste zanimanja za Vizu za Nezavisne Veštine (SOL).",
+    "qualifyTitle": "KAKO SE KVALIFIKUJEM ZA VIZU PODKLASE 189?",
+    "qualifyItem1": "Biti mlađi od 45 godina",
+    "qualifyItem2": "Nominovati zanimanje koje je uključeno na relevantnu listu zanimanja (MLTSSL)",
+    "qualifyItem3": "Imati svoje veštine ocenjene od strane odgovarajuće australijske agencije za ocenjivanje veština kao odgovarajuće za nominovano zanimanje",
+    "qualifyItem4": "Imati kompetentno znanje engleskog jezika",
+    "visaAllowsTitle": "ŠTA OMOGUĆAVA OVA VIZA:",
+    "visaAllowsItem1": "Neograničeno živeti i raditi bilo gde u Australiji",
+    "visaAllowsItem2": "Studirati u Australiji, sa pristupom subvencionisanom obrazovanju",
+    "visaAllowsItem3": "Imati pristup Medicare",
+    "visaAllowsItem4": "Podneti zahtev za australijsko državljanstvo (nakon ispunjavanja odgovarajućih zahteva)",
+    "visaAllowsItem5": "Biti u mogućnosti da sponzorišete članove porodice za određene vize",
+    "visaAllowsItem6": "Podneti zahtev za socijalna davanja",
+    "visaAllowsItem7": "Putovati u i iz Australije tokom 5 godina",
+    "applyTitle": "KAKO PODNOSIM ZAHTEV ZA VIZU PODKLASE 189?",
+    "stage1Title": "FAZA 1: POČETNA KVALIFIKACIJA:",
+    "stage1Description": "Prvi korak koji ćemo preduzeti je početna procena vaše kvalifikacije za ovu vizu. Ovo uključuje pregled vaših kvalifikacija, radnog iskustva, znanja engleskog jezika i drugih okolnosti, kako bi se utvrdilo da li verovatno ispunjavate odgovarajuće zahteve.",
+    "stage2Title": "FAZA 2: OCENA VEŠTINA",
+    "stage2Description": "Ako naša početna procena pokaže da ste kvalifikovani za pozitivnu ocenu veština i EOI, pripremićemo vašu prijavu za ocenu veština.",
+    "stage3Title": "FAZA 3: IZRAZ INTERESA (EOI)",
+    "stage3Description": "Nakon što dobijete pozitivnu ocenu veština od agencije za ocenjivanje veština, pripremićemo i podneti vaš EOI.",
+    "stage4Title": "FAZA 4: PRIJAVA ZA VIZU",
+    "stage4Description": "Nakon što vas Ministarstvo za imigraciju pozove da podnesete zahtev za ovu vizu, pripremićemo i podneti vašu prijavu za vizu.",
+    "otherRequirementsTitle": "OSTALI ZAHTEVI",
+    "healthTitle": "ZDRAVLJE",
+    "healthDescription": "Glavni podnosilac zahteva i svi članovi porodice moraju ispunjavati zdravstvene zahteve.",
+    "characterTitle": "KARAKTER",
+    "characterDescription": "Morate imati dobar karakter.",
+    "locationTitle": "LOKACIJA",
+    "locationDescription": "Možete biti u ili izvan Australije kada podnosite zahtev za vizu i kada se donosi odluka.",
+    "debtsTitle": "DUGOVI",
+    "debtsDescription": "Morate platiti ili dogovoriti plaćanje svih neizmirenih dugova prema australijskoj vladi.",
+    "visaCancelledTitle": "VIZA OTKAZANA ILI ODBIJENA",
+    "visaCancelledDescription": "Možda nećete biti kvalifikovani da podnesete zahtev za ovu vizu ako vam je viza otkazana ili odbijena dok ste bili u Australiji.",
+    "processingTimeTitle": "VREME OBRADE",
+    "processingTimeDescription": "6-12 meseci. MOLIMO OBAVESTITE: Stvarno vreme koje je potrebno Ministarstvu za imigraciju da odobri prijavu i izda vizu varira u zavisnosti od posebnih okolnosti podnosioca zahteva i količine podržavajućih informacija koje Ministarstvo zahteva."
+  },
+  "migrationHeroSection2": {
+    "title": "VIZA ZA NEZAVISNE VEŠTINE",
+    "highlightText": "PODKLASA 189"
   }
 
   }

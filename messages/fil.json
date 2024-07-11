@@ -886,5 +886,48 @@
   "skilledMigrationHeroSection": {
     "skilledNominatedVisaTitle": "SKILLED NOMINATED VISA",
     "subclass190": "SUBCLASS 190"
+  },
+  "skilledIndependentVisa": {
+    "visaTitle": "INDEPENDENTENG BISANG PANGHANAPBUHAY",
+    "visaDescription": "Ang Skilled Independent Visa Subclass 189 ay isang permanenteng visa na nagpapahintulot sa mga kwalipikadong manggagawa na manirahan sa Australia. Ang visa na ito ay hindi nangangailangan ng sponsorship mula sa isang employer o estado/teritoryong Gobyerno, gayunpaman ang mga kwalipikadong manggagawa ay dapat parehong kwalipikado at may karanasan upang punan ang kasalukuyang kakulangan ng kasanayan sa Australia. Upang maging kwalipikado para sa visa na ito, ang mga aplikante ay dapat may kasanayan sa isang trabaho sa Skilled Independent Visa Occupation List (SOL).",
+    "qualifyTitle": "PAANO AKO MAGKAKAKWALIPIKADO PARA SA ISANG SUBCLASS 189 VISA?",
+    "qualifyItem1": "Mas mababa sa 45 taong gulang",
+    "qualifyItem2": "Mag-nominate ng isang trabaho na kasama sa kaugnay na Occupation List (MLTSSL)",
+    "qualifyItem3": "Magkaroon ng iyong mga kasanayan na masuri ng naaangkop na awtoridad sa pagsusuri ng kasanayan sa Australia bilang angkop para sa nominadong trabaho",
+    "qualifyItem4": "Magkaroon ng sapat na antas ng Ingles",
+    "visaAllowsTitle": "ANO ANG PINAPAHINTULUTAN NG VISA NA ITO NA GAWIN MO:",
+    "visaAllowsItem1": "Manirahan at magtrabaho kahit saan sa Australia nang walang hanggan",
+    "visaAllowsItem2": "Mag-aral sa Australia, na may access sa pinondohan na edukasyon",
+    "visaAllowsItem3": "Makakuha ng Medicare",
+    "visaAllowsItem4": "Mag-apply para sa pagkamamamayan ng Australia (pagkatapos makamit ang mga naaangkop na kinakailangan)",
+    "visaAllowsItem5": "Magkaroon ng kakayahan na mag-sponsor ng mga miyembro ng pamilya para sa ilang visa",
+    "visaAllowsItem6": "Mag-apply para sa mga bayad sa social security",
+    "visaAllowsItem7": "Maglakbay papasok at palabas ng Australia sa loob ng 5 taon",
+    "applyTitle": "PAANO AKO MAG-APPLY PARA SA ISANG SUBCLASS 189 VISA?",
+    "stage1Title": "YUGTO 1: PANGUNAHING KWALIPIKASYON:",
+    "stage1Description": "Ang unang hakbang na aming gagawin ay magsagawa ng paunang pagsusuri sa iyong kwalipikasyon para sa visa na ito. Kasama rito ang pagsusuri ng iyong mga kwalipikasyon, karanasan sa trabaho, antas ng Ingles at iba pang mga kalagayan, upang matukoy kung ikaw ay malamang na makakamit ang mga kaugnay na kinakailangan.",
+    "stage2Title": "YUGTO 2: PAGSUSURI NG KASANAYAN",
+    "stage2Description": "Kung ang aming paunang pagsusuri ay nagpapakita na ikaw ay kwalipikado para sa isang positibong pagsusuri ng kasanayan at EOI, ihahanda namin ang iyong aplikasyon para sa pagsusuri ng kasanayan.",
+    "stage3Title": "YUGTO 3: PAGHAYAG NG INTERES (EOI)",
+    "stage3Description": "Kapag nakatanggap ka na ng positibong pagsusuri ng kasanayan mula sa awtoridad sa pagsusuri ng kasanayan, ihahanda at isusumite namin ang iyong EOI.",
+    "stage4Title": "YUGTO 4: APLIKASYON NG VISA",
+    "stage4Description": "Kapag iniimbitahan ka ng Kagawaran ng Imigrasyon na mag-apply para sa visa na ito, ihahanda at isusumite namin ang iyong aplikasyon ng visa.",
+    "otherRequirementsTitle": "IBA PANG KINAKAILANGAN",
+    "healthTitle": "KALUSUGAN",
+    "healthDescription": "Ang pangunahing aplikante at lahat ng mga miyembro ng pamilya ay dapat makamit ang mga kinakailangan sa kalusugan.",
+    "characterTitle": "KARAKTER",
+    "characterDescription": "Dapat ikaw ay may mabuting karakter.",
+    "locationTitle": "LOKASYON",
+    "locationDescription": "Maaari kang nasa loob o labas ng Australia kapag nag-aapply para sa visa at kapag gumagawa ng desisyon.",
+    "debtsTitle": "UTANG",
+    "debtsDescription": "Dapat ikaw ay nakabayad, o nakapagsaayos na magbayad, ng anumang natitirang utang sa gobyerno ng Australia.",
+    "visaCancelledTitle": "VISA KINANSELA O TINANGGIHAN",
+    "visaCancelledDescription": "Maaring hindi ka kwalipikado na mag-apply para sa visa na ito kung ikaw ay nagkaroon ng visa na kinansela o tinanggihan habang ikaw ay nasa Australia.",
+    "processingTimeTitle": "PANAHON NG PAGPROSESO",
+    "processingTimeDescription": "6-12 buwan. PAKITANDAAN: Ang aktwal na oras na kinakailangan ng Kagawaran ng Imigrasyon upang aprubahan ang isang aplikasyon at magbigay ng visa ay nag-iiba depende sa mga partikular na kalagayan ng aplikante, at ang dami ng mga sumusuportang impormasyon na kinakailangan ng Kagawaran."
+  },
+  "migrationHeroSection2": {
+    "title": "INDEPENDENTENG BISANG PANGHANAPBUHAY",
+    "highlightText": "SUBKLASE 189"
   }
 }

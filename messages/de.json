@@ -886,5 +886,48 @@
   "skilledMigrationHeroSection": {
     "skilledNominatedVisaTitle": "QUALIFIZIERTES NOMINIERTES VISUM",
     "subclass190": "UNTERKLASSE 190"
+  },
+  "skilledIndependentVisa": {
+    "visaTitle": "UNABHÄNGIGES FACHKRÄFTEVISUM",
+    "visaDescription": "Das Unabhängige Fachkräftevisum der Unterklasse 189 ist ein permanentes Visum, das es Fachkräften ermöglicht, in Australien zu leben. Dieses Visum erfordert keine Unterstützung durch einen Arbeitgeber oder eine staatliche/territoriale Regierung, jedoch müssen Fachkräfte sowohl qualifiziert als auch erfahren sein, um die aktuellen Qualifikationslücken in Australien zu füllen. Um für dieses Visum in Frage zu kommen, müssen die Antragsteller in einem Beruf qualifiziert sein, der auf der Liste der Unabhängigen Fachkräfteberufe (SOL) steht.",
+    "qualifyTitle": "WIE QUALIFIZIERE ICH MICH FÜR EIN VISUM DER UNTERKLASSE 189?",
+    "qualifyItem1": "Unter 45 Jahre alt sein",
+    "qualifyItem2": "Einen Beruf nominieren, der auf der relevanten Berufsliste (MLTSSL) steht",
+    "qualifyItem3": "Ihre Fähigkeiten von der entsprechenden australischen Bewertungsbehörde als geeignet für den von Ihnen nominierten Beruf einstufen lassen",
+    "qualifyItem4": "Über gute Englischkenntnisse verfügen",
+    "visaAllowsTitle": "WAS DIESES VISUM IHNEN ERMÖGLICHT:",
+    "visaAllowsItem1": "Unbegrenzt überall in Australien leben und arbeiten",
+    "visaAllowsItem2": "In Australien studieren und Zugang zu subventionierter Bildung erhalten",
+    "visaAllowsItem3": "Zugang zu Medicare erhalten",
+    "visaAllowsItem4": "Australische Staatsbürgerschaft beantragen (nach Erfüllung der entsprechenden Anforderungen)",
+    "visaAllowsItem5": "In der Lage sein, Familienmitglieder für bestimmte Visa zu sponsern",
+    "visaAllowsItem6": "Sozialhilfe beantragen",
+    "visaAllowsItem7": "Für 5 Jahre in und aus Australien reisen",
+    "applyTitle": "WIE BEANTRAGE ICH EIN VISUM DER UNTERKLASSE 189?",
+    "stage1Title": "STUFE 1: ERSTE EIGNUNG:",
+    "stage1Description": "Der erste Schritt, den wir unternehmen, besteht darin, eine erste Bewertung Ihrer Eignung für dieses Visum durchzuführen. Dazu gehört die Überprüfung Ihrer Qualifikationen, Berufserfahrung, Englischkenntnisse und anderer Umstände, um festzustellen, ob Sie die relevanten Anforderungen erfüllen können.",
+    "stage2Title": "STUFE 2: BEWERTUNG DER FÄHIGKEITEN",
+    "stage2Description": "Wenn unsere erste Bewertung darauf hinweist, dass Sie für eine positive Fähigkeitenbewertung und EOI in Frage kommen, bereiten wir Ihren Antrag auf Fähigkeitenbewertung vor.",
+    "stage3Title": "STUFE 3: AUSDRUCK DES INTERESSES (EOI)",
+    "stage3Description": "Sobald Sie eine positive Fähigkeitenbewertung von der Bewertungsbehörde erhalten haben, bereiten wir Ihr EOI vor und reichen es ein.",
+    "stage4Title": "STUFE 4: VISUMANTRAG",
+    "stage4Description": "Sobald das Ministerium für Einwanderung Sie eingeladen hat, einen Antrag auf dieses Visum zu stellen, bereiten wir Ihren Visumantrag vor und reichen ihn ein.",
+    "otherRequirementsTitle": "ANDERE ANFORDERUNGEN",
+    "healthTitle": "GESUNDHEIT",
+    "healthDescription": "Der Hauptantragsteller und alle Familienmitglieder müssen die Gesundheitsanforderungen erfüllen.",
+    "characterTitle": "CHARAKTER",
+    "characterDescription": "Sie müssen von gutem Charakter sein.",
+    "locationTitle": "STANDORT",
+    "locationDescription": "Sie können sich innerhalb oder außerhalb Australiens befinden, wenn Sie den Antrag stellen und wenn eine Entscheidung getroffen wird.",
+    "debtsTitle": "SCHULDEN",
+    "debtsDescription": "Sie müssen alle ausstehenden Schulden gegenüber der australischen Regierung beglichen oder eine Rückzahlungsvereinbarung getroffen haben.",
+    "visaCancelledTitle": "VISUM ABGELEHNT ODER ABGELEHNT",
+    "visaCancelledDescription": "Möglicherweise sind Sie nicht berechtigt, dieses Visum zu beantragen, wenn Ihr Visum während Ihres Aufenthalts in Australien abgelehnt oder abgelehnt wurde.",
+    "processingTimeTitle": "BEARBEITUNGSZEIT",
+    "processingTimeDescription": "6-12 Monate. BITTE BEACHTEN: Die tatsächliche Zeit, die das Ministerium für Einwanderung benötigt, um einen Antrag zu genehmigen und ein Visum zu erteilen, variiert je nach den besonderen Umständen des Antragstellers und der Menge der unterstützenden Informationen, die das Ministerium benötigt."
+  },
+  "migrationHeroSection2": {
+    "title": "UNABHÄNGIGES FACHKRÄFTEVISUM",
+    "highlightText": "UNTERKLASSE 189"
   }
 }
