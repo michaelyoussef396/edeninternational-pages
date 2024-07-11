@@ -555,5 +555,9 @@
       "highlightText": "전문 연수",
       "content": "학위를 마쳤지만 호주에서 경력을 쌓기 위해 추가 기술과 지식을 습득하고 싶으신가요? 이제 ATMC의 전문 연수 프로그램을 통해 경력을 시작할 수 있습니다. ATMC는 Australian Computer Society (ACS)를 통해 정보 기술 졸업생을 위한 전문 연수 프로그램과 회계 프로그램을 제공하며 회계 PYP를 통해 제공합니다. 전문 연수 (PY) 프로그램은 호주 대학을 졸업한 국제 학생들을 위해 설계되었으며 대학에서 취업 및 영주권으로의 성공적인 경로를 찾고 있는 학생들을 위한 것입니다.",
       "imageSrc": "/ATMC-Professional-Year-768x538.webp" 
+    },
+    "migrationHeroSection": {
+      "title": "이민",
+      "highlightText": ""
     }
 }

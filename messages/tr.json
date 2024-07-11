@@ -555,5 +555,9 @@
     "highlightText": "PROFESYONEL YIL",
     "content": "Derecenizi bitirdiniz ama Avustralya'da kariyerinizi kurmak için ek teknik beceri ve bilgi kazanmak mı istiyorsunuz? Şimdi ATMC Profesyonel Yıl Programı ile kariyerinize başlangıç yapabilirsiniz. ATMC, Bilgi Teknolojisi mezunları için Avustralya Bilgisayar Derneği (ACS) aracılığıyla ve muhasebe programları için Muhasebe PYP aracılığıyla Profesyonel Yıl programları sunar. Profesyonel Yıl (PY) Programı, Avustralya'da bir üniversiteden mezun olmuş ve üniversiteden istihdama ve Avustralya'da ikamete giden başarılı bir yol arayan uluslararası öğrenciler için özel olarak tasarlanmıştır.",
     "imageSrc": "/ATMC-Professional-Year-768x538.webp" 
+  },
+  "migrationHeroSection": {
+    "title": "GÖÇ",
+    "highlightText": ""
   }
 }

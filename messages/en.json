@@ -555,5 +555,9 @@
     "highlightText": "PROFESSIONAL YEAR",
     "content": "Have you finished your degree but want to gain additional technical skills and knowledge to establish your career in Australia? Now you can kick-start your career with help from the Professional Year Program with ATMC. ATMC offers Professional Year programs through the Australian Computer Society (ACS) for information technology graduates and accounting programs through the Accounting PYP. The Professional Year (PY) Program is specifically designed for international students who have graduated from an Australian university and are looking for a successful pathway from university to employment and residency in Australia.",
     "imageSrc": "/ATMC-Professional-Year-768x538.webp" 
+  },
+  "migrationHeroSection": {
+    "title": "MIGRATION",
+    "highlightText": ""
   }
 }

@@ -555,6 +555,10 @@
     "highlightText": "PROFESIONALNO LETO",
     "content": "Ste končali študij, vendar želite pridobiti dodatne tehnične veščine in znanje za začetek kariere v Avstraliji? Zdaj lahko začnete svojo kariero s pomočjo Programa Profesionalnega Leto na ATMC. ATMC ponuja programe Profesionalnega Leto prek Avstralskega računalniškega društva (ACS) za diplomante informacijske tehnologije in računovodske programe prek PYP. Program Profesionalno Leto (PY) je posebej zasnovan za mednarodne študente, ki so diplomirali na avstralski univerzi in iščejo uspešno pot od univerze do zaposlitve in bivanja v Avstraliji.",
     "imageSrc": "/ATMC-Professional-Year-768x538.webp"
+  },
+  "migrationHeroSection": {
+    "title": "migracije",
+    "highlightText": ""
   }
   }
   

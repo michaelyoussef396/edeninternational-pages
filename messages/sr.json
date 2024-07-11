@@ -555,6 +555,10 @@
     "highlightText": "PROFESIONALNA GODINA",
     "content": "Da li ste završili studije, ali želite da steknete dodatne tehničke veštine i znanje kako biste započeli svoju karijeru u Australiji? Sada možete započeti svoju karijeru uz pomoć Programa Profesionalne Godine na ATMC. ATMC nudi programe Profesionalne Godine kroz Australsko kompjutersko društvo (ACS) za diplomce informacione tehnologije i računovodstvene programe kroz PYP. Program Profesionalne Godine (PY) je posebno dizajniran za međunarodne studente koji su diplomirali na univerzitetu u Australiji i traže uspešan put od univerziteta do zaposlenja i prebivališta u Australiji.",
     "imageSrc": "/ATMC-Professional-Year-768x538.webp"
+  },
+  "migrationHeroSection": {
+    "title": "миграције",
+    "highlightText": ""
   }
 
   }

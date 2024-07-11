@@ -555,5 +555,9 @@
       "highlightText": "ATMC",
       "content": "Avez-vous terminé votre diplôme mais souhaitez acquérir des compétences techniques et des connaissances supplémentaires pour établir votre carrière en Australie? Vous pouvez maintenant lancer votre carrière avec l'aide du Programme de l'Année Professionnelle avec ATMC. ATMC propose des programmes de l'Année Professionnelle par le biais de la Société Australienne de l'Informatique (ACS) pour les diplômés en technologie de l'information et des programmes de comptabilité par le biais du Programme de l'Année Professionnelle en Comptabilité. Le Programme de l'Année Professionnelle (PY) est spécialement conçu pour les étudiants internationaux qui ont obtenu un diplôme d'une université australienne et qui cherchent une voie réussie de l'université à l'emploi et à la résidence en Australie.",
       "imageSrc": "/ATMC-Professional-Year-768x538.webp" 
+    },
+    "migrationHeroSection": {
+      "title": "MIGRATION",
+      "highlightText": ""
     }
 }

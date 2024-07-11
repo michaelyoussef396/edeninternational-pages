@@ -555,5 +555,9 @@
       "highlightText": "职业年",
       "content": "你完成了学位，但想获得额外的技术技能和知识，以在澳大利亚建立你的职业生涯？现在你可以在 ATMC 的职业年计划的帮助下开始你的职业生涯。ATMC 提供通过澳大利亚计算机协会 (ACS) 的信息技术毕业生的职业年计划，以及通过会计职业年计划 (Accounting PYP) 的会计课程。职业年 (PY) 计划专为那些在澳大利亚大学毕业并寻求从大学到就业和在澳大利亚居留的成功途径的国际学生设计。",
       "imageSrc": "/ATMC-Professional-Year-768x538.webp"
+    },
+    "migrationHeroSection": {
+      "title": "移民",
+      "highlightText": ""
     }
 }

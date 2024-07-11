@@ -555,5 +555,9 @@
       "highlightText": "ATMC",
       "content": "¿Has terminado tu carrera pero quieres adquirir habilidades técnicas y conocimientos adicionales para establecer tu carrera en Australia? Ahora puedes iniciar tu carrera con la ayuda del Programa de Año Profesional con ATMC. ATMC ofrece programas de Año Profesional a través de la Sociedad Australiana de Computación (ACS) para graduados en tecnología de la información y programas de contabilidad a través del PYP de Contabilidad. El Programa de Año Profesional (PY) está específicamente diseñado para estudiantes internacionales que se han graduado de una universidad australiana y buscan una vía exitosa desde la universidad hasta el empleo y la residencia en Australia.",
       "imageSrc": "/ATMC-Professional-Year-768x538.webp" 
+    },
+    "migrationHeroSection": {
+      "title": "MIGRACIÓN",
+      "highlightText": ""
     }
 }

@@ -555,6 +555,10 @@
     "highlightText": "ROK PROFESJONALNY",
     "content": "Czy ukończyłeś swoje studia, ale chcesz zdobyć dodatkowe umiejętności techniczne i wiedzę, aby rozpocząć swoją karierę w Australii? Teraz możesz rozpocząć swoją karierę z pomocą Programu Roku Profesjonalnego w ATMC. ATMC oferuje programy Roku Profesjonalnego poprzez Australijskie Towarzystwo Informatyczne (ACS) dla absolwentów technologii informacyjnej oraz programy księgowe poprzez Accounting PYP. Program Roku Profesjonalnego (PY) jest specjalnie zaprojektowany dla międzynarodowych studentów, którzy ukończyli uniwersytet w Australii i szukają udanej ścieżki od uniwersytetu do zatrudnienia i rezydencji w Australii.",
     "imageSrc": "/ATMC-Professional-Year-768x538.webp"
+  },
+  "migrationHeroSection": {
+    "title": "migracja",
+    "highlightText": ""
   }
   }
   
