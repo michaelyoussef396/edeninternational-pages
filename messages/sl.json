@@ -740,6 +740,83 @@
   "trainingVisaHero": {
     "title": "TRENING VIZA",
     "highlightText": "PODRAZRED 407"
+  },
+  "visaDetails": {
+    "aboutTitle": "O TEJ VIZUMI",
+    "aboutDescription1": "Vizum za kvalificirano delo v regionalnih območjih Podrazred 491 je bil uveden s strani Ministrstva za notranje zadeve (DHA) 16. novembra 2019 in je nadomestil prejšnji vizum Podrazred 489. Ta vizum omogoča kvalificiranim delavcem, da živijo in delajo v določenem regionalnem območju Avstralije do 5 let.",
+    "aboutDescription2": "Državna/teritorialna nominacija za ta vizum vam daje dodatnih 15 točk, ki vam pomagajo doseči minimalni prag 65 točk na točkovnem testu Ministrstva za notranje zadeve.",
+    "aboutDescription3": "Če je nekdo nominiran s strani državne ali teritorialne vlade za ta vizum, mora živeti v tej državi/teritoriju v celotnem obdobju trajanja vizuma. Lahko bodo vložili prošnjo za vizum Podrazred 191, če so živeli in delali v regionalnem območju tri leta in morajo imeti minimalno plačo 53.900 AUD na leto. Ko je dodeljen stalni vizum, lahko živijo kjerkoli v Avstraliji. Ne morete začeti živeti kjerkoli v Avstraliji, preden je dodeljen vizum Podrazred 191.",
+    "aboutDescription4": "Če želijo zaprositi za ta vizum SC 491, morajo najprej pridobiti pozitivno oceno spretnosti iz svoje nominirane poklicne poti, nato pa vložiti Izjavo o interesu in prošnjo za nominacijo države ali teritorija. Če je to uspešno, bodo povabljeni k vložitvi prošnje za vizum.",
+    "qualifyTitle": "KAKO SE LAHKO KVALIFICIRAM ZA VIZUM PODRAZRED 190?",
+    "qualifyDescription": "Ko ste povabljeni, da zaprosite za ta vizum, morate:",
+    "qualifyList": {
+      "0": "Biti mlajši od 45 let",
+      "1": "Nominirati poklic, ki je vključen na relevantnem seznamu poklicev (MLTSSL)",
+      "2": "Vložiti EOI in prejeti povabilo",
+      "3": "Doseči minimalni prag 65 točk na točkovnem testu",
+      "4": "Biti sponzoriran s strani sorodnika, ki živi v določenem območju ali države/teritorija",
+      "5": "Imeti kompetentno ali višjo raven znanja angleškega jezika, odvisno od točk, ki jih imate",
+      "6": "Izpolnjevati zdravstvene in karakterne zahteve"
+    },
+    "visaAllowsTitle": "KAJ VAM TA VIZUM OMOGOČA:",
+    "visaAllowsDescription": "Vizum Podrazred 491 omogoča imetniku začasno prebivanje v Avstraliji, pod določenimi pogoji.",
+    "visaAllowsList": {
+      "0": "Imetnik lahko živi, dela in študira v določenem območju Avstralije 5 let od datuma izdaje vizuma",
+      "1": "Imetnik lahko prosto potuje v in iz Avstralije, dokler je vizum veljaven",
+      "2": "Imetnik lahko ima priložnost zaprositi za stalno prebivanje preko vizuma Podrazred 191, ki se bo začel 16. novembra 2022."
+    },
+    "applyTitle": "LAHKO KDO ZAPROSI V AVSTRALIJI ALI V TUJINI?",
+    "applyDescription": "Vsakdo lahko zaprosi za ta vizum bodisi v Avstraliji bodisi v tujini. Če so v Avstraliji, morajo imeti veljaven vizum, preden zaprosijo za to ali prehodni vizum A, B ali C. Ko zaprosijo, bodo prejeli prehodni vizum, dokler ne bo odločeno o njihovem primeru, kar jim bo omogočilo, da ostanejo v Avstraliji do takrat.",
+    "durationTitle": "TRAJANJE IN POGOJI",
+    "durationDescription": "To je 5-letni začasni vizum, ki omogoča imetniku in njihovim vzdrževanim osebam, da živijo, delajo ali študirajo v katerem koli regionalnem ali redko poseljenem območju. Odobrena regionalna območja se razlikujejo glede na to, ali so sponzorirani s strani sorodnika ali državne ali teritorialne vlade:",
+    "durationList": {
+      "0": "Državna ali teritorialna vlada: lahko živijo samo v regionalnem ali redko poseljenem območju",
+      "1": "Sorodnik: lahko živijo v določenem območju"
+    },
+    "applyHowTitle": "KAKO ZAPROSTI ZA VIZUM PODRAZRED 190?",
+    "applyHowDescription": "Vsak, ki želi zaprositi za ta vizum, MORA biti najprej povabljen, da vloži prošnjo s strani Ministrstva za imigracijo. Da bi se kvalificirali za povabilo, morate vložiti 'Izjavo o interesu' (EOI), ki navaja, kako izpolnjujete zahteve za ta vizum.",
+    "initialEligibilityTitle": "FAZA 1: ZAČETNA KVALIFIKACIJA:",
+    "initialEligibilityDescription": "Prvi korak, ki ga bomo izvedli, je začetna ocena vaše kvalifikacije za ta vizum. To vključuje pregled vaših kvalifikacij, delovnih izkušenj, ravni znanja angleškega jezika in drugih okoliščin, da ugotovimo, ali izpolnjujete ustrezne zahteve.",
+    "skillsAssessmentTitle": "FAZA 2: OCENA SPRETNOSTI",
+    "skillsAssessmentDescription": "Če naša začetna ocena kaže, da izpolnjujete pogoje za pozitivno oceno spretnosti in EOI, bomo pripravili vašo prošnjo za oceno spretnosti.",
+    "expressionOfInterestTitle": "FAZA 3: IZJAVA O INTERESU (EOI)",
+    "expressionOfInterestDescription": "Ko prejmete pozitivno oceno spretnosti s strani pristojnega organa za oceno spretnosti, bomo pripravili in vložili vaš EOI. Čeprav na tej stopnji ni potrebno predložiti podpornih dokumentov, MORATE biti sposobni predložiti dokaze, da so podatki, navedeni v EOI, pravilni v času, ko ste povabljeni k vložitvi prošnje za vizum.",
+    "visaApplicationTitle": "FAZA 4: PROŠNJA ZA VIZUM",
+    "visaApplicationDescription": "Ko vas Ministrstvo za imigracijo povabi, da zaprosite za ta vizum, bomo pripravili in vložili vašo prošnjo za vizum v določenem času, skupaj z vsemi dokumenti, ki podpirajo podatke, navedene v EOI.",
+    "otherRequirementsTitle": "DRUGE ZAHTEVE",
+    "otherRequirementsList": {
+      "0": {
+        "title": "ZDRAVJE",
+        "content": "Glavni prosilec in vsi družinski člani morajo izpolnjevati zdravstvene zahteve."
+      },
+      "1": {
+        "title": "KARAKTER",
+        "content": "Morate imeti dober karakter. Morda boste morali predložiti policijska potrdila za vsako državo, v kateri ste živeli 12 mesecev ali več, v zadnjih 10 letih (izračunano neposredno pred vložitvijo prošnje za vizum), od dopolnjenega 16. leta starosti."
+      },
+      "2": {
+        "title": "LOKACIJA",
+        "content": "Lahko ste v Avstraliji ali izven nje, ko vložite prošnjo za vizum in ko je odločeno."
+      },
+      "3": {
+        "title": "DOLGOVI",
+        "content": "Morate poravnati ali dogovoriti za poravnavo vseh neporavnanih dolgov do avstralske vlade."
+      },
+      "4": {
+        "title": "VIZUM PREKLICAN ALI ZAVRNJEN",
+        "content": "Morda ne boste izpolnjevali pogojev za vložitev prošnje za ta vizum, če vam je bil vizum preklican ali zavrnjen, medtem ko ste bili v Avstraliji."
+      }
+    },
+    "processingTimeTitle": "ČAS OBDELAVE",
+    "processingTimeDescription1": "6-12 mesecev.",
+    "processingTimeDescription2": "OPOMBA: Dejanski čas, ki ga potrebuje Ministrstvo za imigracijo za odobritev prošnje in izdajo vizuma, se razlikuje od primera do primera, odvisno od posebnih okoliščin prosilca in količine podpornih informacij, ki jih zahteva Ministrstvo."
+  },
+  "skilledWorkRegionalVisaHero": {
+    "title": "VIZUM ZA KVALIFICIRANO DELO V REGIONALNIH OBMOČJIH",
+    "highlightText": "PODRAZRED 491"
+  },
+  "visaComparison": {
+    "comparisonTitle": "PRIMERJAVA PODRAZRED 189/190/491",
+    "comparisonImageAlt": "Tabela primerjav"
   }
   }
   

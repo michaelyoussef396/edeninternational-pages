@@ -740,5 +740,82 @@
   "trainingVisaHero": {
     "title": "VISA DE FORMATION",
     "highlightText": "SOUS-CLASSE 407"
+  },
+  "visaDetails": {
+    "aboutTitle": "À PROPOS DE CE VISA",
+    "aboutDescription1": "Le visa de travail régional qualifié Sous-classe 491 a été introduit par le Département des Affaires Intérieures (DHA) le 16 novembre 2019, remplaçant le précédent visa Sous-classe 489. Ce visa permet aux travailleurs qualifiés de vivre et de travailler dans une région désignée d'Australie pendant jusqu'à 5 ans.",
+    "aboutDescription2": "La nomination par un État/Territoire pour ce visa vous accorde 15 points supplémentaires pour vous aider à atteindre le seuil de 65 points du test de points du Département des Affaires Intérieures.",
+    "aboutDescription3": "Si une personne est nommée par le gouvernement d'un État ou d'un Territoire pour ce visa, elle doit vivre dans cet État/Territoire pendant toute la durée du visa. Elle pourra déposer une demande de visa Sous-classe 191 si elle a vécu et travaillé dans une région pendant trois ans et doit avoir un salaire minimum de 53 900 AUD par an. Une fois qu'un visa de résidence permanente est accordé, elle pourra vivre n'importe où en Australie. Vous ne pouvez pas commencer à vivre n'importe où en Australie avant que le visa Sous-classe 191 ne soit accordé.",
+    "aboutDescription4": "Si elles souhaitent postuler pour ce visa SC 491, elles doivent d'abord obtenir une évaluation positive des compétences de leur profession nominée, puis déposer une Expression d'Intérêt et une demande de nomination par un État ou un Territoire. Si cela réussit, elles seront invitées à déposer une demande de visa.",
+    "qualifyTitle": "COMMENT PUIS-JE ÊTRE ÉLIGIBLE POUR UN VISA SOUS-CLASSE 190?",
+    "qualifyDescription": "Au moment où vous êtes invité à postuler pour ce visa, vous devez:",
+    "qualifyList": {
+      "0": "Avoir moins de 45 ans",
+      "1": "Nommer une profession qui figure sur la liste des professions pertinentes (MLTSSL)",
+      "2": "Déposer un EOI et recevoir une invitation",
+      "3": "Atteindre le seuil de 65 points du test de points",
+      "4": "Être parrainé par un parent vivant dans une zone désignée ou un État/territoire",
+      "5": "Avoir un niveau d'anglais compétent ou supérieur selon les points que vous avez",
+      "6": "Répondre aux exigences de santé et de caractère"
+    },
+    "visaAllowsTitle": "CE QUE CE VISA VOUS PERMET DE FAIRE:",
+    "visaAllowsDescription": "Le visa Sous-classe 491 offre au titulaire une résidence temporaire en Australie, avec des conditions.",
+    "visaAllowsList": {
+      "0": "Le titulaire peut vivre, travailler et étudier dans une région spécifiée d'Australie pendant 5 ans à partir de la date de délivrance du visa",
+      "1": "Le titulaire peut voyager librement vers et depuis l'Australie pendant que le visa est valide",
+      "2": "Le titulaire peut avoir la possibilité de demander la résidence permanente par le biais du visa de Résidence Permanente Régionale Qualifiée Sous-classe 191, qui débutera le 16 novembre 2022."
+    },
+    "applyTitle": "QUICONQUE PEUT-IL POSTULER EN AUSTRALIE OU À L'ÉTRANGER?",
+    "applyDescription": "Toute personne peut postuler pour ce visa soit en Australie soit à l'étranger. Si elles sont en Australie, elles doivent avoir un visa valide avant de postuler pour celui-ci ou un visa relais A, B ou C. Une fois postulé, elles recevront un visa relais jusqu'à ce qu'une décision soit prise sur leur dossier, leur permettant de rester en Australie jusqu'à ce moment-là.",
+    "durationTitle": "DURÉE ET CONDITIONS",
+    "durationDescription": "Il s'agit d'un visa provisoire de 5 ans permettant au titulaire et à leurs personnes à charge de vivre, travailler ou étudier dans n'importe quelle zone régionale ou à faible densité de population. Les zones régionales approuvées varient selon qu'elles sont parrainées par un parent ou par un gouvernement d'État ou de Territoire:",
+    "durationList": {
+      "0": "Gouvernement d'État ou de Territoire: Ils ne peuvent vivre que dans une zone régionale ou à faible croissance démographique",
+      "1": "Parent: Ils peuvent vivre dans une zone désignée"
+    },
+    "applyHowTitle": "COMMENT POSTULER POUR UN VISA SOUS-CLASSE 190?",
+    "applyHowDescription": "Toute personne souhaitant postuler pour ce visa DOIT d'abord être invitée à déposer une demande par le Département de l'Immigration. Pour être éligible à une invitation, vous devez déposer une 'Expression d'Intérêt' (EOI), qui explique comment vous répondez aux exigences de ce visa.",
+    "initialEligibilityTitle": "ÉTAPE 1: ÉLIGIBILITÉ INITIALE:",
+    "initialEligibilityDescription": "La première étape que nous prendrons est de procéder à une évaluation initiale de votre éligibilité pour ce visa. Cela implique de passer en revue vos qualifications, votre expérience professionnelle, votre niveau d'anglais et d'autres circonstances, afin de déterminer si vous êtes susceptible de répondre aux exigences pertinentes.",
+    "skillsAssessmentTitle": "ÉTAPE 2: ÉVALUATION DES COMPÉTENCES",
+    "skillsAssessmentDescription": "Si notre évaluation initiale indique que vous êtes éligible pour une évaluation positive des compétences et un EOI, nous préparerons votre demande d'évaluation des compétences.",
+    "expressionOfInterestTitle": "ÉTAPE 3: EXPRESSION D'INTÉRÊT (EOI)",
+    "expressionOfInterestDescription": "Une fois que vous avez reçu une évaluation positive des compétences de l'autorité d'évaluation des compétences, nous préparerons et déposerons votre EOI. Bien que vous n'ayez pas besoin de fournir de documents justificatifs à ce stade, vous DEVEZ être en mesure de fournir des preuves que les informations fournies dans l'EOI sont correctes au moment où vous êtes invité à postuler pour le visa.",
+    "visaApplicationTitle": "ÉTAPE 4: DEMANDE DE VISA",
+    "visaApplicationDescription": "Une fois que le Département de l'Immigration vous a invité à postuler pour ce visa, nous préparerons et déposerons votre demande de visa dans le délai imparti, avec tous les documents qui soutiennent les informations que vous avez fournies dans l'EOI.",
+    "otherRequirementsTitle": "AUTRES EXIGENCES",
+    "otherRequirementsList": {
+      "0": {
+        "title": "SANTÉ",
+        "content": "Le demandeur principal et tous les membres de la famille doivent répondre aux exigences de santé."
+      },
+      "1": {
+        "title": "CARACTÈRE",
+        "content": "Vous devez avoir un bon caractère. Il se peut que l'on vous demande de fournir des certificats de police pour chaque pays dans lequel vous avez vécu pendant 12 mois ou plus, au cours des 10 dernières années (calculées immédiatement avant le moment du dépôt de la demande de visa), depuis que vous avez atteint l'âge de 16 ans."
+      },
+      "2": {
+        "title": "EMPLACEMENT",
+        "content": "Vous pouvez être en Australie ou à l'extérieur lorsque vous déposez la demande de visa et lorsque la décision est prise."
+      },
+      "3": {
+        "title": "DETTES",
+        "content": "Vous devez avoir remboursé ou avoir prévu de rembourser toutes les dettes impayées envers le gouvernement australien."
+      },
+      "4": {
+        "title": "VISA ANNULÉ OU REFUSÉ",
+        "content": "Vous pourriez ne pas être éligible pour postuler pour ce visa si vous avez eu un visa annulé ou refusé pendant que vous étiez en Australie."
+      }
+    },
+    "processingTimeTitle": "DÉLAI DE TRAITEMENT",
+    "processingTimeDescription1": "6-12 mois.",
+    "processingTimeDescription2": "VEUILLEZ NOTER: Le délai réel nécessaire au Département de l'Immigration pour approuver une demande et accorder un visa varie d'un cas à l'autre en fonction des circonstances particulières du demandeur et de la quantité d'informations justificatives requises par le Département."
+  },
+  "skilledWorkRegionalVisaHero": {
+    "title": "VISA RÉGIONAL DE TRAVAIL QUALIFIÉ",
+    "highlightText": "SOUS-CLASSE 491"
+  },
+  "visaComparison": {
+    "comparisonTitle": "COMPARAISON SOUS-CLASSE 189/190/491",
+    "comparisonImageAlt": "Tableau de comparaison"
   }
 }

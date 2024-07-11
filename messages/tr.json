@@ -740,5 +740,82 @@
   "trainingVisaHero": {
     "title": "EĞİTİM VİZESİ",
     "highlightText": "ALT SINIF 407"
+  },
+  "visaDetails": {
+    "aboutTitle": "BU VİZE HAKKINDA",
+    "aboutDescription1": "Nitelikli İşgücü Bölgesel Vizesi Alt Sınıf 491, İçişleri Bakanlığı (DHA) tarafından 16 Kasım 2019'da tanıtıldı ve önceki vize Alt Sınıf 489'un yerini aldı. Bu vize, nitelikli işçilerin Avustralya'nın belirlenmiş bir bölgesinde en fazla 5 yıl boyunca yaşamalarını ve çalışmalarını sağlar.",
+    "aboutDescription2": "Bu vize için eyalet/teritoryal adaylık, İçişleri Bakanlığı puan testinde minimum 65 puanlık geçiş barajını karşılamanıza yardımcı olmak için size ek 15 puan sağlar.",
+    "aboutDescription3": "Bu vize için eyalet veya teritoryal hükümet tarafından aday gösterilen bir kişi, vize süresince o eyalet/teritoryumda yaşamak zorundadır. Üç yıl boyunca bir bölgesel alanda yaşadılarsa ve yıllık en az 53.900 AUD maaşa sahiplerse, Alt Sınıf 191 vize başvurusunda bulunabilecekler. Daimi oturma izni vizesi verildiğinde, Avustralya'nın herhangi bir yerinde yaşayabilirler. Alt Sınıf 191 vizesi verilmeden önce Avustralya'nın herhangi bir yerinde yaşamaya başlayamazsınız.",
+    "aboutDescription4": "Bu SC 491 vizesine başvurmak istiyorlarsa, öncelikle aday gösterilen mesleklerinden olumlu bir beceri değerlendirmesi almalı ve ardından İlgi Beyanı ve eyalet veya teritoryal adaylık başvurusu yapmalıdırlar. Bu başarılı olursa, vize başvurusu yapmaları için davet edilecekler.",
+    "qualifyTitle": "ALT SINIF 190 VİZESİNE NASIL UYGUN OLABİLİRİM?",
+    "qualifyDescription": "Bu vizeye başvurmaya davet edildiğinizde, şunları yapmalısınız:",
+    "qualifyList": {
+      "0": "45 yaşından küçük olmalısınız",
+      "1": "İlgili Meslek Listesinde (MLTSSL) yer alan bir mesleği aday göstermelisiniz",
+      "2": "EOI'yi sunmalı ve davet almalısınız",
+      "3": "Puan testinde minimum 65 puanlık geçiş barajını karşılamalısınız",
+      "4": "Belirli bir bölgede veya eyalet/teritoryumda yaşayan bir akrabanız tarafından sponsor edilmelisiniz",
+      "5": "Elinizdeki puanlara bağlı olarak yeterli düzeyde İngilizce bilmelisiniz",
+      "6": "Sağlık ve karakter gereksinimlerini karşılamalısınız"
+    },
+    "visaAllowsTitle": "BU VİZE NEYİ SAĞLAR:",
+    "visaAllowsDescription": "Alt Sınıf 491 vizesi, sahibine belirli şartlar altında Avustralya'da geçici oturum sağlar.",
+    "visaAllowsList": {
+      "0": "Vize sahibinin, vize veriliş tarihinden itibaren 5 yıl boyunca Avustralya'nın belirli bir bölgesinde yaşamasına, çalışmasına ve eğitim almasına izin verilir",
+      "1": "Vize sahibinin vize geçerlilik süresi boyunca Avustralya'ya serbestçe seyahat etmesine izin verilir",
+      "2": "Vize sahibinin, 16 Kasım 2022'de başlayacak olan Alt Sınıf 191 daimi oturum vizesi başvurusu yapma fırsatı olabilir."
+    },
+    "applyTitle": "AVUSTRALYA'DA VEYA YURT DIŞINDA HERKES BAŞVURABİLİR Mİ?",
+    "applyDescription": "Herkes bu vizeye Avustralya'da veya yurt dışında başvurabilir. Avustralya'dalarsa, bu vizeye başvurmadan önce geçerli bir vizeleri olmalı veya geçiş vizesi A, B veya C'ye sahip olmalıdırlar. Başvurduktan sonra, başvurularının karara bağlanmasına kadar geçici bir vize alacaklar, bu da onlara Avustralya'da kalmalarını sağlar.",
+    "durationTitle": "SÜRE VE ŞARTLAR",
+    "durationDescription": "Bu, sahibinin ve bakmakla yükümlü olduklarının herhangi bir bölgesel veya düşük nüfuslu alanda yaşamalarına, çalışmalarına veya eğitim almalarına izin veren 5 yıllık geçici bir vizedir. Onaylanmış bölgesel alanlar, bir akraba tarafından mı yoksa eyalet veya teritoryal hükümet tarafından mı sponsor olduklarına bağlı olarak değişir:",
+    "durationList": {
+      "0": "Eyalet veya teritoryal hükümet: Sadece bölgesel veya düşük nüfuslu bir alanda yaşayabilirler",
+      "1": "Akraba: Belirlenmiş bir alanda yaşayabilirler"
+    },
+    "applyHowTitle": "ALT SINIF 190 VİZESİNE NASIL BAŞVURULUR?",
+    "applyHowDescription": "Bu vizeye başvurmak isteyen herkes önce Göçmenlik Departmanı tarafından başvuruları için davet edilmelidir. Davetiyeye hak kazanmak için, bu vize için gereksinimleri nasıl karşıladığınızı belirten bir 'İlgi Beyanı' (EOI) sunmalısınız.",
+    "initialEligibilityTitle": "AŞAMA 1: İLK UYGUNLUK:",
+    "initialEligibilityDescription": "Atacağımız ilk adım, bu vizeye uygunluğunuzun ilk değerlendirmesini yapmaktır. Bu, niteliklerinizi, iş deneyiminizi, İngilizce seviyenizi ve diğer koşullarınızı gözden geçirmeyi içerir ve ilgili gereksinimleri karşılayıp karşılamadığınızı belirlemek için yapılır.",
+    "skillsAssessmentTitle": "AŞAMA 2: BECERİ DEĞERLENDİRMESİ",
+    "skillsAssessmentDescription": "İlk değerlendirmemiz, beceri değerlendirmesi ve EOI için uygun olduğunuzu gösteriyorsa, beceri değerlendirme başvurunuzu hazırlayacağız.",
+    "expressionOfInterestTitle": "AŞAMA 3: İLGİ BEYANI (EOI)",
+    "expressionOfInterestDescription": "Beceri değerlendirme otoritesinden olumlu bir beceri değerlendirmesi aldıktan sonra, EOI'nizi hazırlayacak ve sunacağız. Bu aşamada destekleyici belgeleri sunmanız gerekmese de, EOI'de verilen bilgilerin doğru olduğuna dair kanıt sunabilmelisiniz.",
+    "visaApplicationTitle": "AŞAMA 4: VİZE BAŞVURUSU",
+    "visaApplicationDescription": "Göçmenlik Departmanı sizi bu vizeye başvurmanız için davet ettikten sonra, başvurunuzu belirli bir süre içinde hazırlayıp sunacağız ve EOI'de verilen bilgileri destekleyen tüm belgelerle birlikte sunacağız.",
+    "otherRequirementsTitle": "DİĞER GEREKSİNİMLER",
+    "otherRequirementsList": {
+      "0": {
+        "title": "SAĞLIK",
+        "content": "Ana başvuru sahibi ve tüm aile üyeleri sağlık gereksinimlerini karşılamalıdır."
+      },
+      "1": {
+        "title": "KARAKTER",
+        "content": "İyi bir karaktere sahip olmalısınız. 16 yaşını doldurduğunuzdan bu yana, başvurunuzu sunduğunuz tarihten önceki son 10 yıl içinde 12 ay veya daha uzun süre yaşadığınız her ülke için polis belgeleri sunmanız istenebilir."
+      },
+      "2": {
+        "title": "KONUM",
+        "content": "Vize başvurusu yaparken ve karar verilirken Avustralya'da veya dışında olabilirsiniz."
+      },
+      "3": {
+        "title": "BORÇLAR",
+        "content": "Avustralya hükümetine olan tüm borçlarınızı ödemiş olmalı veya ödemek için düzenlemeler yapmış olmalısınız."
+      },
+      "4": {
+        "title": "VİZE İPTAL EDİLDİ VEYA REDDEDİLDİ",
+        "content": "Avustralya'da bulunduğunuz sırada vizeniz iptal edildiyse veya reddedildiyse, bu vizeye başvurmak için uygun olmayabilirsiniz."
+      }
+    },
+    "processingTimeTitle": "İŞLEM SÜRESİ",
+    "processingTimeDescription1": "6-12 ay.",
+    "processingTimeDescription2": "NOT: Göçmenlik Departmanı'nın bir başvuruyu onaylaması ve vize vermesi için gereken gerçek süre, başvuru sahibinin özel koşullarına ve Departmanın talep ettiği destekleyici bilgi miktarına bağlı olarak vakadan vakaya değişir."
+  },
+  "skilledWorkRegionalVisaHero": {
+    "title": "NİTELİKLİ İŞGÜCÜ BÖLGESEL VİZESİ",
+    "highlightText": "ALT SINIF 491"
+  },
+  "visaComparison": {
+    "comparisonTitle": "KARŞILAŞTIRMA ALT SINIF 189/190/491",
+    "comparisonImageAlt": "Karşılaştırma Tablosu"
   }
 }

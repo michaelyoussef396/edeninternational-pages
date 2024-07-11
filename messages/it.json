@@ -740,5 +740,82 @@
   "trainingVisaHero": {
     "title": "VISTO DI FORMAZIONE",
     "highlightText": "SOTTOCLASSE 407"
+  },
+  "visaDetails": {
+    "aboutTitle": "INFORMAZIONI SU QUESTO VISTO",
+    "aboutDescription1": "Il visto regionale di lavoro qualificato Sottoclasse 491 è stato introdotto dal Dipartimento degli Affari Interni (DHA) il 16 novembre 2019, sostituendo il precedente visto Sottoclasse 489. Questo visto consente ai lavoratori qualificati di vivere e lavorare in una zona regionale designata dell'Australia per un massimo di 5 anni.",
+    "aboutDescription2": "La nomina da parte di uno Stato/Territorio per questo visto ti fornisce 15 punti aggiuntivi per aiutarti a raggiungere il punteggio minimo di 65 punti del test a punti del Dipartimento degli Affari Interni.",
+    "aboutDescription3": "Se qualcuno viene nominato dal governo di uno Stato o Territorio per questo visto, deve vivere in quello Stato/Territorio per l'intero periodo del visto. Potrà presentare domanda per il visto Sottoclasse 191 se ha vissuto e lavorato in una zona regionale per tre anni e deve avere un salario minimo di 53.900 AUD all'anno. Una volta ottenuto il visto di residenza permanente, potrà vivere ovunque in Australia. Non puoi iniziare a vivere ovunque in Australia prima che venga rilasciato il visto Sottoclasse 191.",
+    "aboutDescription4": "Se desiderano richiedere questo visto SC 491, devono prima ottenere una valutazione positiva delle competenze dalla loro professione nominata e quindi presentare una Dichiarazione di Interesse e una domanda di nomina da parte dello Stato o del Territorio. Se ciò avrà successo, saranno invitati a presentare una domanda di visto.",
+    "qualifyTitle": "COME POSSO QUALIFICARMI PER UN VISTO SOTTOCLASSE 190?",
+    "qualifyDescription": "Al momento in cui sei invitato a richiedere questo visto, devi:",
+    "qualifyList": {
+      "0": "Avere meno di 45 anni",
+      "1": "Nominare una professione inclusa nell'elenco delle professioni rilevanti (MLTSSL)",
+      "2": "Presentare un EOI e ricevere un invito",
+      "3": "Raggiungere il punteggio minimo di 65 punti del test a punti",
+      "4": "Essere sponsorizzato da un parente che vive in una zona designata o in uno Stato/Territorio",
+      "5": "Avere un livello di inglese competente o superiore a seconda dei punti che hai",
+      "6": "Soddisfare i requisiti di salute e carattere"
+    },
+    "visaAllowsTitle": "COSA TI PERMETTE DI FARE QUESTO VISTO:",
+    "visaAllowsDescription": "Il visto Sottoclasse 491 fornisce al titolare una residenza temporanea in Australia, con condizioni.",
+    "visaAllowsList": {
+      "0": "Il titolare può vivere, lavorare e studiare in una regione specificata dell'Australia per 5 anni dalla data di rilascio del visto",
+      "1": "Il titolare può viaggiare liberamente da e verso l'Australia mentre il visto è valido",
+      "2": "Il titolare può avere l'opportunità di richiedere la residenza permanente tramite il visto di Residenza Permanente per Lavoratori Qualificati Regionali Sottoclasse 191, che inizierà il 16 novembre 2022."
+    },
+    "applyTitle": "CHIUNQUE PUÒ FARE DOMANDA IN AUSTRALIA O ALL'ESTERO?",
+    "applyDescription": "Chiunque può fare domanda per questo visto sia in Australia che all'estero. Se sono in Australia, devono avere un visto valido prima di fare domanda per questo o un visto ponte A, B o C. Una volta fatta domanda, riceveranno un visto ponte fino a quando non sarà presa una decisione sul loro file, consentendo loro di rimanere in Australia fino ad allora.",
+    "durationTitle": "DURATA E CONDIZIONI",
+    "durationDescription": "Questo è un visto provvisorio di 5 anni che consente al titolare e ai loro dipendenti di vivere, lavorare o studiare in qualsiasi area regionale o a bassa popolazione. Le aree regionali approvate variano a seconda se sono sponsorizzate da un parente o da un governo statale o territoriale:",
+    "durationList": {
+      "0": "Governo statale o territoriale: possono vivere solo in una zona regionale o a bassa crescita demografica",
+      "1": "Parente: possono vivere in una zona designata"
+    },
+    "applyHowTitle": "COME FARE DOMANDA PER UN VISTO SOTTOCLASSE 190?",
+    "applyHowDescription": "Chiunque desideri fare domanda per questo visto DEVE essere invitato prima dal Dipartimento dell'Immigrazione. Per qualificarsi per un invito, devi presentare una 'Dichiarazione di Interesse' (EOI), che stabilisca come soddisfi i requisiti per questo visto.",
+    "initialEligibilityTitle": "FASE 1: IDONEITÀ INIZIALE:",
+    "initialEligibilityDescription": "Il primo passo che prenderemo è condurre una valutazione iniziale della tua idoneità per questo visto. Ciò comporta la revisione delle tue qualifiche, esperienza lavorativa, livello di inglese e altre circostanze, per stabilire se è probabile che soddisfi i requisiti rilevanti.",
+    "skillsAssessmentTitle": "FASE 2: VALUTAZIONE DELLE COMPETENZE",
+    "skillsAssessmentDescription": "Se la nostra valutazione iniziale indica che sei idoneo per una valutazione positiva delle competenze e un EOI, prepareremo la tua domanda di valutazione delle competenze.",
+    "expressionOfInterestTitle": "FASE 3: DICHIARAZIONE DI INTERESSE (EOI)",
+    "expressionOfInterestDescription": "Una volta ricevuta una valutazione positiva delle competenze dall'autorità di valutazione delle competenze, prepareremo e presenteremo il tuo EOI. Anche se non devi fornire documenti di supporto in questa fase, DEVI essere in grado di fornire prove che le informazioni fornite nell'EOI sono corrette al momento in cui sei invitato a fare domanda per il visto.",
+    "visaApplicationTitle": "FASE 4: DOMANDA DI VISTO",
+    "visaApplicationDescription": "Una volta che il Dipartimento dell'Immigrazione ti ha invitato a fare domanda per questo visto, prepareremo e presenteremo la tua domanda di visto entro il termine specificato, insieme a tutti i documenti che supportano le informazioni fornite nell'EOI.",
+    "otherRequirementsTitle": "ALTRI REQUISITI",
+    "otherRequirementsList": {
+      "0": {
+        "title": "SALUTE",
+        "content": "Il richiedente principale e tutti i membri della famiglia devono soddisfare i requisiti di salute."
+      },
+      "1": {
+        "title": "CARATTERE",
+        "content": "Devi avere un buon carattere. Potrebbe essere richiesto di fornire certificati di polizia per ogni paese in cui hai vissuto per 12 mesi o più, negli ultimi 10 anni (calcolati immediatamente prima del momento della presentazione della domanda di visto), da quando hai compiuto 16 anni."
+      },
+      "2": {
+        "title": "POSIZIONE",
+        "content": "Puoi essere in Australia o fuori dall'Australia quando presenti la domanda di visto e quando viene presa una decisione."
+      },
+      "3": {
+        "title": "DEBITI",
+        "content": "Devi aver pagato o aver organizzato il pagamento di eventuali debiti in sospeso nei confronti del governo australiano."
+      },
+      "4": {
+        "title": "VISTO ANNULLATO O RIFIUTATO",
+        "content": "Potresti non essere idoneo a fare domanda per questo visto se hai avuto un visto annullato o rifiutato mentre eri in Australia."
+      }
+    },
+    "processingTimeTitle": "TEMPO DI ELABORAZIONE",
+    "processingTimeDescription1": "6-12 mesi.",
+    "processingTimeDescription2": "SI PREGA DI NOTARE: Il tempo effettivo necessario al Dipartimento dell'Immigrazione per approvare una domanda e concedere un visto varia da caso a caso a seconda delle circostanze particolari del richiedente e della quantità di informazioni di supporto richieste dal Dipartimento."
+  },
+  "skilledWorkRegionalVisaHero": {
+    "title": "VISTO REGIONALE DI LAVORO QUALIFICATO",
+    "highlightText": "SOTTOCLASSE 491"
+  },
+  "visaComparison": {
+    "comparisonTitle": "CONFRONTO SOTTOCLASSE 189/190/491",
+    "comparisonImageAlt": "Tabella di confronto"
   }
 }

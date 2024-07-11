@@ -740,5 +740,82 @@
   "trainingVisaHero": {
     "title": "TRAINING VISA",
     "highlightText": "SUBCLASS 407"
+  },
+  "visaDetails": {
+    "aboutTitle": "TUNGKOL SA VISANG ITO",
+    "aboutDescription1": "Ang Skilled Work Regional Visa Subclass 491 ay ipinakilala ng Department of Home Affairs (DHA) noong Nobyembre 16, 2019, kapalit ng naunang visa Subclass 489. Ang visa na ito ay nagbibigay-daan sa mga kwalipikadong manggagawa na manirahan at magtrabaho sa isang itinalagang rehiyonal na lugar ng Australia nang hanggang 5 taon.",
+    "aboutDescription2": "Ang nominasyon ng Estado/Teritoryo para sa visa na ito ay nagbibigay sa iyo ng karagdagang 15 puntos upang matulungan kang maabot ang minimum na puntos ng Department of Home Affairs na 65 puntos.",
+    "aboutDescription3": "Kung ang sinuman ay ininomina ng Pamahalaan ng Estado o Teritoryo para sa visa na ito, kailangan nilang manirahan sa Estado/Teritoryo na iyon para sa buong panahon ng visa. Magkakaroon sila ng pagkakataong mag-lodge ng Subclass 191 Visa application kung sila ay nanirahan at nagtrabaho sa isang rehiyonal na lugar sa loob ng tatlong taon at dapat may minimum na sahod na $53,900 bawat taon. Kapag nabigyan na ng permanent residence visa, maaari silang manirahan kahit saan sa Australia. Hindi ka maaaring magsimulang manirahan kahit saan sa Australia bago mabigyan ng Subclass 191 Visa.",
+    "aboutDescription4": "Kung nais nilang mag-apply para sa SC 491 visa na ito, kailangan muna nilang makakuha ng positibong pagsusuri ng kasanayan mula sa kanilang tinukoy na propesyon, at pagkatapos ay mag-lodge ng Expression of Interest & State o Territory nomination application. Kung ito ay matagumpay, sila ay iimbitahan upang mag-lodge ng visa application.",
+    "qualifyTitle": "PAANO AKO MAGIGING KWALIPIKADO PARA SA ISANG SUBCLASS 190 VISA?",
+    "qualifyDescription": "Sa oras na ikaw ay inimbitahan upang mag-apply para sa visa na ito, kailangan mong:",
+    "qualifyList": {
+      "0": "Maging wala pang 45 taong gulang",
+      "1": "Italaga ang isang propesyon na kasama sa nauugnay na Listahan ng mga Propesyon (MLTSSL)",
+      "2": "Mag-lodge ng EOI at makatanggap ng imbitasyon",
+      "3": "Maabot ang minimum na puntos ng puntos na 65 puntos",
+      "4": "Maging sponsoran ng isang kamag-anak na naninirahan sa isang itinalagang lugar o Estado/teritoryo",
+      "5": "Magkaroon ng kompetenteng Ingles o mas mataas depende sa puntos na mayroon ka",
+      "6": "Matugunan ang mga kinakailangan sa kalusugan at karakter"
+    },
+    "visaAllowsTitle": "ANO ANG PINAPAYAGAN NG VISANG ITO:",
+    "visaAllowsDescription": "Ang Subclass 491 visa ay nagbibigay sa may-ari ng pansamantalang paninirahan sa Australia, na may mga kundisyon.",
+    "visaAllowsList": {
+      "0": "Ang may-ari ay maaaring manirahan, magtrabaho at mag-aral sa isang tiyak na rehiyon ng Australia sa loob ng 5 taon mula sa petsa ng pagkakaloob ng visa",
+      "1": "Ang may-ari ay maaaring malayang maglakbay papunta at mula sa Australia habang ang visa ay wasto",
+      "2": "Ang may-ari ay maaaring magkaroon ng pagkakataong mag-apply para sa permanent residence sa pamamagitan ng Permanent Residence Skilled Regional Visa Subclass 191, na magsisimula sa Nobyembre 16, 2022."
+    },
+    "applyTitle": "MAAARI BANG MAG-APPLY ANG SINUMAN SA AUSTRALIA O SA IBANG BANSA?",
+    "applyDescription": "Ang sinuman ay maaaring mag-apply para sa visa na ito alinman sa loob o labas ng Australia. Kung sila ay nasa loob ng Australia, kailangan nilang magkaroon ng isang wasto na visa bago mag-apply para sa visa na ito o isang bridging visa A, B o C. Kapag nag-apply na, bibigyan sila ng isang bridging visa hanggang sa maabot ang desisyon ng iyong file, na nagpapahintulot sa kanila na manatili sa Australia hanggang sa panahong iyon.",
+    "durationTitle": "TAGAL AT MGA KUNDISYON",
+    "durationDescription": "Ito ay isang 5-taong pansamantalang visa na nagpapahintulot sa may-ari at kanilang mga dependents na manirahan, magtrabaho o mag-aral sa anumang rehiyonal o mababang populasyon na mga lugar. Ang mga naaprubahan na rehiyonal na mga lugar ay nag-iiba depende sa kung sila ay sponsoran ng isang kamag-anak o ng isang Gobyerno ng Estado o Teritoryo:",
+    "durationList": {
+      "0": "Gobiyerno ng Estado o Teritoryo: Maaari silang manirahan lamang sa isang Rehiyonal o Mababang Paglago ng Populasyon na Lugar",
+      "1": "Kamag-anak: Maaari silang manirahan sa isang Itinalagang Lugar"
+    },
+    "applyHowTitle": "PAANO AKO MAG-APPLY PARA SA ISANG SUBCLASS 190 VISA?",
+    "applyHowDescription": "Ang sinuman na nais mag-apply para sa visa na ito AY DAPAT muna maimbitahan na mag-lodge ng aplikasyon ng Department of Immigration. Upang maging kwalipikado para sa isang imbitasyon, kailangan mong mag-lodge ng 'Expression of Interest' (EOI), na naglalaman kung paano mo natutugunan ang mga kinakailangan para sa visa na ito.",
+    "initialEligibilityTitle": "STAGE 1: PAUNANG KWALIPIKASYON:",
+    "initialEligibilityDescription": "Ang unang hakbang na aming gagawin ay magsagawa ng isang paunang pagtatasa ng iyong kwalipikasyon para sa visa na ito. Kabilang dito ang pagsusuri ng iyong mga kwalipikasyon, karanasan sa trabaho, kasanayan sa Ingles at iba pang mga pangyayari, upang matukoy kung malamang na matutugunan mo ang mga nauugnay na kinakailangan.",
+    "skillsAssessmentTitle": "STAGE 2: PAGSUSURI NG KASANAYAN",
+    "skillsAssessmentDescription": "Kung ipahiwatig ng aming paunang pagtatasa na ikaw ay kwalipikado para sa isang positibong pagsusuri ng kasanayan at EOI, ihahanda namin ang iyong aplikasyon sa pagsusuri ng kasanayan.",
+    "expressionOfInterestTitle": "STAGE 3: PAGSASABI NG INTERES (EOI)",
+    "expressionOfInterestDescription": "Kapag nakatanggap ka ng isang positibong pagsusuri ng kasanayan mula sa ahensiya ng pagsusuri ng kasanayan, ihahanda namin at isusumite ang iyong EOI. Bagaman hindi mo kailangan magbigay ng mga sumusuportang dokumento sa yugtong ito, DAPAT kang makapagbigay ng katibayan na ang impormasyong ibinigay sa EOI ay tama sa oras na inimbitahan kang mag-apply para sa visa.",
+    "visaApplicationTitle": "STAGE 4: APLIKASYON NG VISA",
+    "visaApplicationDescription": "Kapag ang Department of Immigration ay inimbitahan kang mag-apply para sa visa na ito, ihahanda at isusumite namin ang iyong aplikasyon ng visa sa loob ng tinukoy na oras, kasama ang lahat ng mga dokumento na sumusuporta sa impormasyong ibinigay mo sa EOI.",
+    "otherRequirementsTitle": "IBA PANG MGA KINAKAILANGAN",
+    "otherRequirementsList": {
+      "0": {
+        "title": "KALUSUGAN",
+        "content": "Ang pangunahing aplikante at lahat ng miyembro ng pamilya ay dapat matugunan ang mga kinakailangan sa kalusugan."
+      },
+      "1": {
+        "title": "KARAKTER",
+        "content": "Dapat kang magkaroon ng mabuting karakter. Maaaring hilingin sa iyo na magbigay ng mga sertipiko ng pulisya para sa bawat bansa kung saan ka nanirahan ng 12 buwan o higit pa, sa nakalipas na 10 taon (kalkuladong kaagad bago ang oras ng pagsusumite ng aplikasyon ng visa), mula nang ikaw ay naging 16 taong gulang."
+      },
+      "2": {
+        "title": "LOKASYON",
+        "content": "Maaari kang nasa loob o labas ng Australia kapag nagsumite ng aplikasyon ng visa at kapag ginawa ang desisyon."
+      },
+      "3": {
+        "title": "UTANG",
+        "content": "Dapat kang nagbayad o may kasunduan sa pagbabayad ng anumang natitirang utang sa pamahalaan ng Australia."
+      },
+      "4": {
+        "title": "VISANG KINANSELA O TINANGGIHAN",
+        "content": "Maaari kang hindi kwalipikadong mag-apply para sa visa na ito kung ang iyong visa ay kinansela o tinanggihan habang ikaw ay nasa Australia."
+      }
+    },
+    "processingTimeTitle": "PANAHON NG PROSESO",
+    "processingTimeDescription1": "6-12 buwan.",
+    "processingTimeDescription2": "PAKITANDAAN: Ang aktwal na oras na kinukuha ng Department of Immigration upang aprubahan ang isang aplikasyon at magbigay ng visa ay nag-iiba depende sa partikular na mga pangyayari ng aplikante at sa dami ng mga sumusuportang impormasyon na kinakailangan ng Department."
+  },
+  "skilledWorkRegionalVisaHero": {
+    "title": "SKILLED WORK REGIONAL VISA",
+    "highlightText": "SUBCLASS 491"
+  },
+  "visaComparison": {
+    "comparisonTitle": "PAGHAHAMBING NG SUBCLASS 189/190/491",
+    "comparisonImageAlt": "Talahanayan ng Paghahambing"
   }
 }

@@ -740,5 +740,82 @@
   "trainingVisaHero": {
     "title": "VISA DE ENTRENAMIENTO",
     "highlightText": "SUBCLASE 407"
+  },
+  "visaDetails": {
+    "aboutTitle": "SOBRE ESTA VISA",
+    "aboutDescription1": "El visado regional de trabajo cualificado Subclase 491 fue introducido por el Departamento de Asuntos Internos (DHA) el 16 de noviembre de 2019, reemplazando el anterior visado Subclase 489. Este visado permite a los trabajadores cualificados vivir y trabajar en una zona regional designada de Australia por hasta 5 años.",
+    "aboutDescription2": "La nominación estatal/territorial para este visado le proporciona 15 puntos adicionales para ayudarle a alcanzar la puntuación mínima de 65 puntos en el test de puntos del Departamento de Asuntos Internos.",
+    "aboutDescription3": "Si alguien es nominado por el gobierno estatal o territorial para este visado, debe vivir en ese estado/territorio durante todo el período del visado. Podrá presentar una solicitud de visado Subclase 191 si ha vivido y trabajado en una zona regional durante tres años y debe tener un salario mínimo de 53,900 AUD por año. Una vez que se otorgue un visado de residencia permanente, podrá vivir en cualquier lugar de Australia. No puede comenzar a vivir en ningún lugar de Australia antes de que se otorgue el visado Subclase 191.",
+    "aboutDescription4": "Si desean solicitar este visado SC 491, primero deben obtener una evaluación positiva de habilidades de su ocupación nominada y luego presentar una Expresión de Interés y una solicitud de nominación estatal o territorial. Si tienen éxito, serán invitados a presentar una solicitud de visado.",
+    "qualifyTitle": "¿CÓMO ME CALIFICO PARA UN VISADO SUBCLASE 190?",
+    "qualifyDescription": "En el momento en que se le invite a solicitar este visado, debe:",
+    "qualifyList": {
+      "0": "Tener menos de 45 años",
+      "1": "Nominar una ocupación que esté incluida en la lista de ocupaciones relevantes (MLTSSL)",
+      "2": "Presentar un EOI y recibir una invitación",
+      "3": "Alcanzar la puntuación mínima de 65 puntos en el test de puntos",
+      "4": "Ser patrocinado por un pariente que viva en una zona designada o un estado/territorio",
+      "5": "Tener un nivel de inglés competente o superior dependiendo de los puntos que tenga",
+      "6": "Cumplir con los requisitos de salud y carácter"
+    },
+    "visaAllowsTitle": "¿QUÉ LE PERMITE HACER ESTE VISADO?",
+    "visaAllowsDescription": "El visado Subclase 491 proporciona al titular residencia temporal en Australia, con condiciones.",
+    "visaAllowsList": {
+      "0": "El titular puede vivir, trabajar y estudiar en una región específica de Australia durante 5 años desde la fecha de otorgamiento del visado",
+      "1": "El titular puede viajar libremente hacia y desde Australia mientras el visado esté vigente",
+      "2": "El titular puede tener la oportunidad de solicitar la residencia permanente a través del visado de Residencia Permanente para Trabajadores Regionales Calificados Subclase 191, que comenzará el 16 de noviembre de 2022."
+    },
+    "applyTitle": "¿PUEDE ALGUIEN SOLICITARLO EN AUSTRALIA O EN EL EXTRANJERO?",
+    "applyDescription": "Cualquier persona puede solicitar este visado ya sea dentro de Australia o en el extranjero. Si están dentro de Australia, deben tener un visado válido antes de solicitarlo o un visado puente A, B o C. Una vez solicitado, se les otorgará un visado puente hasta que se tome una decisión sobre su solicitud, permitiéndoles permanecer en Australia hasta entonces.",
+    "durationTitle": "DURACIÓN Y CONDICIONES",
+    "durationDescription": "Este es un visado provisional de 5 años que permite al titular y sus dependientes vivir, trabajar o estudiar en cualquier zona regional o de baja población. Las zonas regionales aprobadas varían según si son patrocinados por un pariente o por un gobierno estatal o territorial:",
+    "durationList": {
+      "0": "Gobierno estatal o territorial: solo pueden vivir en una zona regional o de bajo crecimiento poblacional",
+      "1": "Pariente: pueden vivir en una zona designada"
+    },
+    "applyHowTitle": "¿CÓMO SOLICITO UN VISADO SUBCLASE 190?",
+    "applyHowDescription": "Cualquier persona que desee solicitar este visado DEBE ser invitada primero a presentar una solicitud por el Departamento de Inmigración. Para calificar para una invitación, debe presentar una 'Expresión de Interés' (EOI), que establezca cómo cumple con los requisitos para este visado.",
+    "initialEligibilityTitle": "ETAPA 1: ELEGIBILIDAD INICIAL:",
+    "initialEligibilityDescription": "El primer paso que tomaremos es realizar una evaluación inicial de su elegibilidad para este visado. Esto implica revisar sus calificaciones, experiencia laboral, nivel de inglés y otras circunstancias, para establecer si es probable que cumpla con los requisitos relevantes.",
+    "skillsAssessmentTitle": "ETAPA 2: EVALUACIÓN DE HABILIDADES",
+    "skillsAssessmentDescription": "Si nuestra evaluación inicial indica que es elegible para una evaluación positiva de habilidades y un EOI, prepararemos su solicitud de evaluación de habilidades.",
+    "expressionOfInterestTitle": "ETAPA 3: EXPRESIÓN DE INTERÉS (EOI)",
+    "expressionOfInterestDescription": "Una vez que haya recibido una evaluación positiva de habilidades de la autoridad de evaluación de habilidades, prepararemos y presentaremos su EOI. Aunque no necesita proporcionar documentos de respaldo en esta etapa, DEBE ser capaz de proporcionar evidencia de que la información proporcionada en el EOI es correcta en el momento en que se le invita a solicitar el visado.",
+    "visaApplicationTitle": "ETAPA 4: SOLICITUD DE VISADO",
+    "visaApplicationDescription": "Una vez que el Departamento de Inmigración le haya invitado a solicitar este visado, prepararemos y presentaremos su solicitud de visado dentro del plazo especificado, junto con todos los documentos que respalden la información que proporcionó en el EOI.",
+    "otherRequirementsTitle": "OTROS REQUISITOS",
+    "otherRequirementsList": {
+      "0": {
+        "title": "SALUD",
+        "content": "El solicitante principal y todos los miembros de la familia deben cumplir con los requisitos de salud."
+      },
+      "1": {
+        "title": "CARÁCTER",
+        "content": "Debe ser de buen carácter. Es posible que se le pida que proporcione certificados de antecedentes penales para cada país en el que haya vivido durante 12 meses o más, en los últimos 10 años (calculados inmediatamente antes de la presentación de la solicitud de visado), desde que cumplió 16 años."
+      },
+      "2": {
+        "title": "UBICACIÓN",
+        "content": "Puede estar dentro o fuera de Australia cuando presente la solicitud de visado y cuando se tome una decisión."
+      },
+      "3": {
+        "title": "DEUDAS",
+        "content": "Debe haber pagado o haber arreglado el pago de cualquier deuda pendiente con el gobierno australiano."
+      },
+      "4": {
+        "title": "VISADO CANCELADO O RECHAZADO",
+        "content": "Es posible que no sea elegible para solicitar este visado si le han cancelado o rechazado un visado mientras estaba en Australia."
+      }
+    },
+    "processingTimeTitle": "TIEMPO DE PROCESAMIENTO",
+    "processingTimeDescription1": "6-12 meses.",
+    "processingTimeDescription2": "TENGA EN CUENTA: El tiempo real que tarda el Departamento de Inmigración en aprobar una solicitud y otorgar un visado varía según las circunstancias particulares del solicitante y la cantidad de información de respaldo que requiere el Departamento."
+  },
+  "skilledWorkRegionalVisaHero": {
+    "title": "VISADO REGIONAL DE TRABAJO CUALIFICADO",
+    "highlightText": "SUBCLASE 491"
+  },
+  "visaComparison": {
+    "comparisonTitle": "COMPARACIÓN DE SUBCLASE 189/190/491",
+    "comparisonImageAlt": "Tabla de comparación"
   }
 }

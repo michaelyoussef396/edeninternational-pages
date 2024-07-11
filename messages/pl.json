@@ -740,6 +740,83 @@
   "trainingVisaHero": {
     "title": "WIZA SZKOLENIOWA",
     "highlightText": "PODKLASA 407"
+  },
+  "visaDetails": {
+    "aboutTitle": "O TEJ WIZIE",
+    "aboutDescription1": "Wiza regionalna dla wykwalifikowanych pracowników Podklasa 491 została wprowadzona przez Departament Spraw Wewnętrznych (DHA) 16 listopada 2019 roku, zastępując poprzednią wizę Podklasa 489. Ta wiza pozwala wykwalifikowanym pracownikom mieszkać i pracować w wyznaczonym regionalnym obszarze Australii przez okres do 5 lat.",
+    "aboutDescription2": "Nominacja stanowa/terytorialna do tej wizy zapewnia dodatkowe 15 punktów, które pomagają osiągnąć minimalny próg punktowy 65 punktów w teście punktowym Departamentu Spraw Wewnętrznych.",
+    "aboutDescription3": "Jeśli ktoś zostanie nominowany przez rząd stanowy lub terytorialny do tej wizy, musi mieszkać w tym stanie/terytorium przez cały okres trwania wizy. Będą mogli złożyć wniosek o wizę Podklasa 191, jeśli mieszkali i pracowali w regionie przez trzy lata i muszą mieć minimalne wynagrodzenie wynoszące 53 900 AUD rocznie. Po otrzymaniu wizy na stały pobyt, będą mogli mieszkać w dowolnym miejscu w Australii. Nie można rozpocząć życia w dowolnym miejscu w Australii przed otrzymaniem wizy Podklasa 191.",
+    "aboutDescription4": "Jeśli chcą ubiegać się o tę wizę SC 491, muszą najpierw uzyskać pozytywną ocenę umiejętności w swojej nominowanej profesji, a następnie złożyć Oświadczenie o Zainteresowaniu i wniosek o nominację stanową lub terytorialną. Jeśli to się powiedzie, zostaną zaproszeni do złożenia wniosku o wizę.",
+    "qualifyTitle": "JAK MOGĘ KWALIFIKOWAĆ SIĘ DO WIZY PODKLASA 190?",
+    "qualifyDescription": "W momencie, gdy zostaniesz zaproszony do złożenia wniosku o tę wizę, musisz:",
+    "qualifyList": {
+      "0": "Mieć mniej niż 45 lat",
+      "1": "Nominować profesję, która jest na odpowiedniej liście zawodów (MLTSSL)",
+      "2": "Złożyć EOI i otrzymać zaproszenie",
+      "3": "Osiągnąć minimalny próg punktowy 65 punktów w teście punktowym",
+      "4": "Być sponsorowanym przez krewnego mieszkającego w wyznaczonym obszarze lub przez stan/terytorium",
+      "5": "Mieć kompetentny poziom angielskiego lub wyższy, w zależności od punktów, które masz",
+      "6": "Spełniać wymagania zdrowotne i charakterowe"
+    },
+    "visaAllowsTitle": "CO TA WIZA POZWALA ZROBIĆ:",
+    "visaAllowsDescription": "Wiza Podklasa 491 zapewnia posiadaczowi tymczasowy pobyt w Australii, z pewnymi warunkami.",
+    "visaAllowsList": {
+      "0": "Posiadacz może mieszkać, pracować i studiować w określonym regionie Australii przez 5 lat od daty wydania wizy",
+      "1": "Posiadacz może swobodnie podróżować do i z Australii, podczas gdy wiza jest ważna",
+      "2": "Posiadacz może mieć możliwość ubiegania się o stały pobyt za pomocą wizy Podklasa 191, która zacznie obowiązywać 16 listopada 2022 roku."
+    },
+    "applyTitle": "CZY KAŻDY MOŻE APLIKOWAĆ W AUSTRALII LUB ZAGRANICĄ?",
+    "applyDescription": "Każdy może ubiegać się o tę wizę w Australii lub za granicą. Jeśli są w Australii, muszą mieć ważną wizę przed złożeniem wniosku o tę wizę lub wizę pomostową A, B lub C. Po złożeniu wniosku, otrzymają wizę pomostową do czasu podjęcia decyzji w ich sprawie, co pozwoli im pozostać w Australii do tego czasu.",
+    "durationTitle": "CZAS TRWANIA I WARUNKI",
+    "durationDescription": "Jest to 5-letnia tymczasowa wiza, która pozwala posiadaczowi i jego zależnym mieszkać, pracować lub studiować w dowolnym regionalnym lub nisko zaludnionym obszarze. Zatwierdzone regionalne obszary różnią się w zależności od tego, czy są sponsorowane przez krewnego czy przez rząd stanowy lub terytorialny:",
+    "durationList": {
+      "0": "Rząd stanowy lub terytorialny: mogą mieszkać tylko w regionalnym lub nisko zaludnionym obszarze",
+      "1": "Krewny: mogą mieszkać w wyznaczonym obszarze"
+    },
+    "applyHowTitle": "JAK APLIKOWAĆ O WIZĘ PODKLASA 190?",
+    "applyHowDescription": "Każdy, kto chce ubiegać się o tę wizę, MUSI najpierw zostać zaproszony do złożenia wniosku przez Departament Imigracji. Aby zakwalifikować się do zaproszenia, musisz złożyć 'Oświadczenie o Zainteresowaniu' (EOI), które określa, jak spełniasz wymagania tej wizy.",
+    "initialEligibilityTitle": "FAZA 1: POCZĄTKOWA KWALIFIKACJA:",
+    "initialEligibilityDescription": "Pierwszym krokiem, który podejmiemy, będzie przeprowadzenie wstępnej oceny twojej kwalifikacji do tej wizy. Obejmuje to przegląd twoich kwalifikacji, doświadczenia zawodowego, poziomu angielskiego i innych okoliczności, aby ustalić, czy prawdopodobnie spełniasz odpowiednie wymagania.",
+    "skillsAssessmentTitle": "FAZA 2: OCENA UMIEJĘTNOŚCI",
+    "skillsAssessmentDescription": "Jeśli nasza wstępna ocena wskaże, że kwalifikujesz się do pozytywnej oceny umiejętności i EOI, przygotujemy twój wniosek o ocenę umiejętności.",
+    "expressionOfInterestTitle": "FAZA 3: OŚWIADCZENIE O ZAINTERESOWANIU (EOI)",
+    "expressionOfInterestDescription": "Po uzyskaniu pozytywnej oceny umiejętności od autorytetu oceniającego umiejętności, przygotujemy i złożymy twoje EOI. Chociaż nie musisz dostarczać dokumentów wspierających na tym etapie, MUSISZ być w stanie dostarczyć dowody, że informacje podane w EOI są poprawne w momencie, gdy zostaniesz zaproszony do złożenia wniosku o wizę.",
+    "visaApplicationTitle": "FAZA 4: WNIOSEK O WIZĘ",
+    "visaApplicationDescription": "Po tym, jak Departament Imigracji zaprosi cię do złożenia wniosku o tę wizę, przygotujemy i złożymy twój wniosek o wizę w określonym czasie, wraz ze wszystkimi dokumentami wspierającymi informacje podane w EOI.",
+    "otherRequirementsTitle": "INNE WYMAGANIA",
+    "otherRequirementsList": {
+      "0": {
+        "title": "ZDROWIE",
+        "content": "Główny wnioskodawca i wszyscy członkowie rodziny muszą spełniać wymagania zdrowotne."
+      },
+      "1": {
+        "title": "CHARAKTER",
+        "content": "Musisz mieć dobry charakter. Możesz zostać poproszony o dostarczenie zaświadczeń policyjnych dla każdego kraju, w którym mieszkałeś przez 12 miesięcy lub dłużej, w ciągu ostatnich 10 lat (obliczonych bezpośrednio przed momentem złożenia wniosku o wizę), od ukończenia 16 roku życia."
+      },
+      "2": {
+        "title": "LOKALIZACJA",
+        "content": "Możesz być w Australii lub poza nią podczas składania wniosku o wizę i podczas podejmowania decyzji."
+      },
+      "3": {
+        "title": "DŁUGI",
+        "content": "Musisz spłacić lub zorganizować spłatę wszelkich zaległych długów wobec rządu australijskiego."
+      },
+      "4": {
+        "title": "WIZA ANULOWANA LUB ODRZUCONA",
+        "content": "Możesz nie kwalifikować się do złożenia wniosku o tę wizę, jeśli twoja wiza została anulowana lub odrzucona podczas pobytu w Australii."
+      }
+    },
+    "processingTimeTitle": "CZAS PRZETWARZANIA",
+    "processingTimeDescription1": "6-12 miesięcy.",
+    "processingTimeDescription2": "UWAGA: Rzeczywisty czas potrzebny Departamentowi Imigracji na zatwierdzenie wniosku i wydanie wizy różni się w zależności od szczególnych okoliczności wnioskodawcy i ilości wymaganych informacji wspierających."
+  },
+  "skilledWorkRegionalVisaHero": {
+    "title": "WIZA REGIONALNA DLA WYKWALIFIKOWANYCH PRACOWNIKÓW",
+    "highlightText": "PODKLASA 491"
+  },
+  "visaComparison": {
+    "comparisonTitle": "PORÓWNANIE PODKLASA 189/190/491",
+    "comparisonImageAlt": "Tabela porównawcza"
   }
   }
   

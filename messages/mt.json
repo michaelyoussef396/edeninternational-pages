@@ -740,5 +740,82 @@
   "trainingVisaHero": {
     "title": "VIŻA TA' TAĦRIĠ",
     "highlightText": "SOTTOKLASSI 407"
+  },
+  "visaDetails": {
+    "aboutTitle": "DWAR DAN IL-VISA",
+    "aboutDescription1": "Il-Viża tax-Xogħol Reġjonali għall-Ħaddiema Kwalifikati Subklass 491 ġiet introdotta mid-Dipartiment għall-Affarijiet Interni (DHA) fit-16 ta' Novembru, 2019, li tissostitwixxi l-viża preċedenti Subklass 489. Din il-viża tippermetti lill-ħaddiema kwalifikati jgħixu u jaħdmu f'żona reġjonali speċifikata fl-Awstralja għal sa 5 snin.",
+    "aboutDescription2": "In-nominazzjoni mill-Istat/territorju għal din il-viża tagħtik 15-il punt addizzjonali biex jgħinuk tilħaq il-marka minima ta' 65 punt fit-test tal-punti tad-Dipartiment għall-Affarijiet Interni.",
+    "aboutDescription3": "Jekk xi ħadd jiġi nnominat mill-gvern tal-Istat jew tat-Territorju għal din il-viża, irid jgħix f'dak l-Istat/territorju matul il-perjodu kollu tal-viża. Huma jkunu jistgħu jressqu applikazzjoni għal Viża Subklass 191 jekk ikunu għexu u ħadmu f'żona reġjonali għal tliet snin u għandhom ikollhom salarju minimu ta' $53,900 fis-sena. Ladarba tingħata viża ta' residenza permanenti, jistgħu jgħixu kullimkien fl-Awstralja. Ma tistax tibda tgħix kullimkien fl-Awstralja qabel ma tingħata Viża Subklass 191.",
+    "aboutDescription4": "Jekk jixtiequ japplikaw għal din il-viża SC 491, l-ewwel għandhom jiksbu valutazzjoni pożittiva tal-ħiliet mill-professjoni nnominata tagħhom, u mbagħad jissottomettu Dikjarazzjoni ta' Interess u applikazzjoni ta' nominazzjoni mill-Istat jew Territorju. Jekk dan jirnexxi, jiġu mistiedna jressqu applikazzjoni għal viża.",
+    "qualifyTitle": "KIF NISTA' NIKKUALIFIKA GĦAL VIŻA SOTTKLASS 190?",
+    "qualifyDescription": "Fil-mument li tiġi mistieden biex tapplika għal din il-viża, trid:",
+    "qualifyList": {
+      "0": "Ikun taħt l-età ta' 45 sena",
+      "1": "Innomina professjoni li tkun inkluża fil-lista rilevanti tal-professjonijiet (MLTSSL)",
+      "2": "Issottometti EOI u tirċievi stedina",
+      "3": "Tilħaq il-marka minima ta' 65 punt fit-test tal-punti",
+      "4": "Tkun sponsorjat minn qarib li jgħix f'żona speċifikata jew Stat/territorju",
+      "5": "Ikollok livell ta' Ingliż kompetenti jew ogħla skont il-punti li għandek",
+      "6": "Tilħaq il-ħtiġijiet tas-saħħa u tal-karattru"
+    },
+    "visaAllowsTitle": "X'JIPPERMETTI LI TAGĦMEL DIN IL-VIŻA:",
+    "visaAllowsDescription": "Il-viża Subklass 491 tipprovdi lill-detentur b'residenza temporanja fl-Awstralja, b'kundizzjonijiet.",
+    "visaAllowsList": {
+      "0": "Id-detentur jista' jgħix, jaħdem u jistudja f'żona speċifikata fl-Awstralja għal 5 snin mid-data tal-ħruġ tal-viża",
+      "1": "Id-detentur jista' jivvjaġġa liberament lejn u mill-Awstralja waqt li l-viża tkun valida",
+      "2": "Id-detentur jista' jkollu l-opportunità li japplika għal residenza permanenti permezz tal-Viża Permanenti għar-Reġjuni għall-Ħaddiema Kwalifikati Subklass 191, li tibda fis-16 ta' Novembru 2022."
+    },
+    "applyTitle": "TISTA' TAPPLIKA KULĦADD FL-AWSTRALJA JEW BARRA?",
+    "applyDescription": "Kull min jista' japplika għal din il-viża kemm fl-Awstralja kif ukoll barra. Jekk ikunu fl-Awstralja, iridu jkollhom viża valida qabel ma japplikaw għal din il-viża jew viża ta' tranżizzjoni A, B jew C. Ladarba japplikaw, jingħataw viża ta' tranżizzjoni sakemm tittieħed deċiżjoni dwar il-fajl tagħhom, u jippermettilhom jibqgħu fl-Awstralja sa dakinhar.",
+    "durationTitle": "DURATA U KUNDIZZJONIJIET",
+    "durationDescription": "Din hija viża proviżorja ta' 5 snin li tippermetti lid-detentur u d-dipendenti tagħhom jgħixu, jaħdmu jew jistudjaw f'kull żona reġjonali jew b'popolazzjoni baxxa. Iż-żoni reġjonali approvati jvarjaw skont jekk ikunu sponsorjati minn qarib jew minn gvern statali jew territorjali:",
+    "durationList": {
+      "0": "Gvern statali jew territorjali: jistgħu jgħixu biss f'żona reġjonali jew b'popolazzjoni baxxa",
+      "1": "Qarib: jistgħu jgħixu f'żona speċifikata"
+    },
+    "applyHowTitle": "KIF NISTA' TAPPLIKA GĦAL VIŻA SOTTKLASS 190?",
+    "applyHowDescription": "Kull min jixtieq japplika għal din il-viża IRID l-ewwel jiġi mistieden li jissottometti applikazzjoni mid-Dipartiment għall-Immigrazzjoni. Biex tikkwalifika għall-istedina, trid tissottometti 'Dikjarazzjoni ta' Interess' (EOI), li tistabbilixxi kif tissodisfa l-ħtiġijiet għal din il-viża.",
+    "initialEligibilityTitle": "FAŻI 1: IDONEITÀ INIZZJALI:",
+    "initialEligibilityDescription": "L-ewwel pass li se nieħdu huwa li nagħmlu valutazzjoni inizjali tal-idoneità tiegħek għal din il-viża. Dan jinvolvi reviżjoni tal-kwalifiki tiegħek, esperjenza tax-xogħol, livell ta' Ingliż u ċirkostanzi oħra, biex jiġi stabbilit jekk huwiex probabbli li tissodisfa r-rekwiżiti rilevanti.",
+    "skillsAssessmentTitle": "FAŻI 2: VALUTAZZJONI TAL-ĦILIET",
+    "skillsAssessmentDescription": "Jekk il-valutazzjoni inizjali tagħna tindika li int idoneju għal valutazzjoni pożittiva tal-ħiliet u EOI, aħna se nippreparaw l-applikazzjoni tiegħek għall-valutazzjoni tal-ħiliet.",
+    "expressionOfInterestTitle": "FAŻI 3: DIKJARAZZJONI TA' INTERESS (EOI)",
+    "expressionOfInterestDescription": "Ladarba tirċievi valutazzjoni pożittiva tal-ħiliet mill-awtorità ta' valutazzjoni tal-ħiliet, aħna se nippreparaw u nissottomettu l-EOI tiegħek. Għalkemm m'għandekx għalfejn tipprovdi dokumenti ta' appoġġ f'dan l-istadju, GĦANDEK tkun kapaċi tipprovdi evidenza li l-informazzjoni pprovduta fl-EOI hija korretta fil-mument li int mistieden tapplika għal viża.",
+    "visaApplicationTitle": "FAŻI 4: APPLIKAZZJONI GĦAL VIŻA",
+    "visaApplicationDescription": "Ladarba d-Dipartiment għall-Immigrazzjoni jistiednek tapplika għal din il-viża, aħna se nippreparaw u nissottomettu l-applikazzjoni tiegħek għal viża fi żmien speċifikat, flimkien mad-dokumenti kollha li jappoġġjaw l-informazzjoni li pprovdejt fl-EOI.",
+    "otherRequirementsTitle": "REQWIŻITI OĦRA",
+    "otherRequirementsList": {
+      "0": {
+        "title": "SAĦĦA",
+        "content": "L-applikant ewlieni u l-membri kollha tal-familja għandhom jissodisfaw ir-rekwiżiti tas-saħħa."
+      },
+      "1": {
+        "title": "KARATTRU",
+        "content": "Għandek ikollok karattru tajjeb. Tista' tintalab tipprovdi ċertifikati tal-pulizija għal kull pajjiż li għext fih għal 12-il xahar jew aktar, matul l-aħħar 10 snin (ikkalkulati immedjatament qabel il-mument tal-applikazzjoni tal-viża), mill-età ta' 16-il sena."
+      },
+      "2": {
+        "title": "LOKAZZJONI",
+        "content": "Tista' tkun fl-Awstralja jew barra mill-Awstralja meta tapplika għall-viża u meta tittieħed deċiżjoni."
+      },
+      "3": {
+        "title": "DEJN",
+        "content": "Għandek tħallas jew torganizza biex tħallas id-djun pendenti kollha lejn il-gvern Awstraljan."
+      },
+      "4": {
+        "title": "VIŻA KANĊELLATA JEW MIĊĦUDA",
+        "content": "Tista' ma tkunx eliġibbli biex tapplika għal din il-viża jekk kellek viża kanċellata jew miċħuda waqt li kont fl-Awstralja."
+      }
+    },
+    "processingTimeTitle": "ĦIN TA' IPPROĊESSAR",
+    "processingTimeDescription1": "6-12-il xahar.",
+    "processingTimeDescription2": "NOTA: Il-ħin attwali meħtieġ mid-Dipartiment għall-Immigrazzjoni biex japprova applikazzjoni u joħroġ viża jvarja minn każ għal każ skont iċ-ċirkostanzi partikolari tal-applikant u l-ammont ta' informazzjoni ta' appoġġ meħtieġa mid-Dipartiment."
+  },
+  "skilledWorkRegionalVisaHero": {
+    "title": "VIŻA TAX-XOGĦOL REĠJONALI GĦALL-ĦADDIEMA KWALIFIKATI",
+    "highlightText": "SOTTKLASS 491"
+  },
+  "visaComparison": {
+    "comparisonTitle": "PARAGUN SOTTKLASS 189/190/491",
+    "comparisonImageAlt": "Tabella tal-paragun"
   }
 }

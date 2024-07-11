@@ -740,6 +740,83 @@
   "trainingVisaHero": {
     "title": "TRENING VIZA",
     "highlightText": "PODKLASA 407"
+  },
+  "visaDetails": {
+    "aboutTitle": "O OVOJ VIZI",
+    "aboutDescription1": "Viza za kvalifikovane radnike u regionalnim oblastima Podklasa 491 uvedena je od strane Ministarstva unutrašnjih poslova (DHA) 16. novembra 2019, zamenjujući prethodnu vizu Podklasa 489. Ova viza omogućava kvalifikovanim radnicima da žive i rade u određenoj regionalnoj oblasti Australije do 5 godina.",
+    "aboutDescription2": "Državna/teritorijalna nominacija za ovu vizu daje vam dodatnih 15 bodova kako bi vam pomogla da dostignete minimalni prag od 65 bodova na testu bodova Ministarstva unutrašnjih poslova.",
+    "aboutDescription3": "Ako je neko nominovan od strane državne ili teritorijalne vlade za ovu vizu, mora živeti u toj državi/teritoriji tokom celog trajanja vize. Moći će da podnesu zahtev za vizu Podklasa 191 ako su živeli i radili u regionalnoj oblasti tri godine i treba da imaju minimalnu platu od 53.900 AUD godišnje. Kada se dodeli stalna boravišna viza, mogu živeti bilo gde u Australiji. Ne možete početi da živite bilo gde u Australiji pre nego što se dodeli viza Podklasa 191.",
+    "aboutDescription4": "Ako žele da se prijave za ovu vizu SC 491, prvo moraju dobiti pozitivnu ocenu veština iz svoje nominovane profesije, a zatim podneti Izjavu o interesovanju i zahtev za nominaciju države ili teritorije. Ako je to uspešno, biće pozvani da podnesu zahtev za vizu.",
+    "qualifyTitle": "KAKO MOGU DA SE KVALIFIKUJEM ZA VIZU PODKLASA 190?",
+    "qualifyDescription": "U trenutku kada ste pozvani da podnesete zahtev za ovu vizu, morate:",
+    "qualifyList": {
+      "0": "Biti mlađi od 45 godina",
+      "1": "Nominovati profesiju koja je uključena na relevantnu listu profesija (MLTSSL)",
+      "2": "Podneti EOI i dobiti poziv",
+      "3": "Doseći minimalni prag od 65 bodova na testu bodova",
+      "4": "Biti sponzorisan od strane rođaka koji živi u određenoj oblasti ili države/teritorije",
+      "5": "Imati kompetentno znanje engleskog jezika ili više, u zavisnosti od bodova koje imate",
+      "6": "Ispunjavati zdravstvene i karakterne zahteve"
+    },
+    "visaAllowsTitle": "ŠTA OVA VIZA OMOGUĆAVA:",
+    "visaAllowsDescription": "Viza Podklasa 491 omogućava nosiocu privremeni boravak u Australiji, uz određene uslove.",
+    "visaAllowsList": {
+      "0": "Nosioc može da živi, radi i studira u određenom regionu Australije 5 godina od datuma izdavanja vize",
+      "1": "Nosioc može slobodno da putuje u i iz Australije dok je viza važeća",
+      "2": "Nosioc može imati priliku da se prijavi za stalni boravak putem vize za stalni boravak kvalifikovanih radnika Podklasa 191, koja će početi 16. novembra 2022."
+    },
+    "applyTitle": "MOŽE LI SE BILO KO PRIJAVITI U AUSTRALIJI ILI U INOSTRANSTVU?",
+    "applyDescription": "Svako može da podnese zahtev za ovu vizu bilo u Australiji ili u inostranstvu. Ako su u Australiji, moraju imati važeću vizu pre nego što podnesu zahtev za ovu vizu ili mostnu vizu A, B ili C. Nakon podnošenja zahteva, dobiće mostnu vizu dok se ne donese odluka o njihovom predmetu, omogućujući im da ostanu u Australiji do tada.",
+    "durationTitle": "TRAJANJE I USLOVI",
+    "durationDescription": "Ovo je privremena viza na 5 godina koja omogućava nosiocu i njihovim zavisnim članovima da žive, rade ili studiraju u bilo kojoj regionalnoj ili slabo naseljenoj oblasti. Odobrene regionalne oblasti variraju u zavisnosti od toga da li su sponzorisani od strane rođaka ili državne ili teritorijalne vlade:",
+    "durationList": {
+      "0": "Državna ili teritorijalna vlada: mogu živeti samo u regionalnoj ili slabo naseljenoj oblasti",
+      "1": "Rođak: mogu živeti u određenoj oblasti"
+    },
+    "applyHowTitle": "KAKO DA SE PRIJAVIM ZA VIZU PODKLASA 190?",
+    "applyHowDescription": "Svako ko želi da podnese zahtev za ovu vizu MORA prvo biti pozvan da podnese zahtev od strane Ministarstva za imigraciju. Da bi se kvalifikovali za poziv, morate podneti 'Izjavu o interesovanju' (EOI), koja navodi kako ispunjavate zahteve za ovu vizu.",
+    "initialEligibilityTitle": "FAZA 1: POČETNA KVALIFIKACIJA:",
+    "initialEligibilityDescription": "Prvi korak koji ćemo preduzeti je da sprovedemo početnu procenu vaše kvalifikacije za ovu vizu. To uključuje pregled vaših kvalifikacija, radnog iskustva, nivoa znanja engleskog jezika i drugih okolnosti, kako bismo utvrdili da li ispunjavate relevantne zahteve.",
+    "skillsAssessmentTitle": "FAZA 2: OCENA VEŠTINA",
+    "skillsAssessmentDescription": "Ako naša početna procena pokaže da ispunjavate uslove za pozitivnu ocenu veština i EOI, pripremićemo vaš zahtev za ocenu veština.",
+    "expressionOfInterestTitle": "FAZA 3: IZJAV O INTERESOVANJU (EOI)",
+    "expressionOfInterestDescription": "Nakon što primite pozitivnu ocenu veština od nadležnog organa za ocenu veština, pripremićemo i podneti vaš EOI. Iako na ovoj fazi nije potrebno dostaviti prateće dokumente, MORATE biti u mogućnosti da dostavite dokaze da su informacije date u EOI tačne u trenutku kada ste pozvani da podnesete zahtev za vizu.",
+    "visaApplicationTitle": "FAZA 4: ZAHTEV ZA VIZU",
+    "visaApplicationDescription": "Kada vas Ministarstvo za imigraciju pozove da podnesete zahtev za ovu vizu, pripremićemo i podneti vaš zahtev za vizu u određenom roku, zajedno sa svim dokumentima koji podržavaju informacije koje ste dali u EOI.",
+    "otherRequirementsTitle": "OSTALI ZAHTEVI",
+    "otherRequirementsList": {
+      "0": {
+        "title": "ZDRAVLJE",
+        "content": "Glavni podnosilac zahteva i svi članovi porodice moraju ispunjavati zdravstvene zahteve."
+      },
+      "1": {
+        "title": "KARAKTER",
+        "content": "Morate imati dobar karakter. Možda ćete morati dostaviti policijska uverenja za svaku zemlju u kojoj ste živeli 12 meseci ili više, tokom poslednjih 10 godina (računato neposredno pre podnošenja zahteva za vizu), od navršene 16 godine života."
+      },
+      "2": {
+        "title": "LOKACIJA",
+        "content": "Možete biti u Australiji ili izvan nje kada podnesete zahtev za vizu i kada se donese odluka."
+      },
+      "3": {
+        "title": "DUGOVI",
+        "content": "Morate platiti ili dogovoriti plaćanje svih neizmirenih dugova prema australijskoj vladi."
+      },
+      "4": {
+        "title": "VIZA OTKAZANA ILI ODBIJENA",
+        "content": "Možda ne ispunjavate uslove za podnošenje zahteva za ovu vizu ako vam je viza otkazana ili odbijena dok ste bili u Australiji."
+      }
+    },
+    "processingTimeTitle": "VREME OBRADE",
+    "processingTimeDescription1": "6-12 meseci.",
+    "processingTimeDescription2": "NAPOMENA: Stvarno vreme koje je potrebno Ministarstvu za imigraciju da odobri zahtev i izda vizu varira od slučaja do slučaja, u zavisnosti od posebnih okolnosti podnosioca zahteva i količine pratećih informacija koje Ministarstvo zahteva."
+  },
+  "skilledWorkRegionalVisaHero": {
+    "title": "VIZA ZA KVALIFIKOVANE RADNIKE U REGIONALNIM OBLASTIMA",
+    "highlightText": "PODKLASA 491"
+  },
+  "visaComparison": {
+    "comparisonTitle": "POREĐENJE PODKLASA 189/190/491",
+    "comparisonImageAlt": "Tabela poređenja"
   }
 
   }

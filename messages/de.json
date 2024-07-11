@@ -740,5 +740,82 @@
   "trainingVisaHero": {
     "title": "TRAININGSVISUM",
     "highlightText": "UNTERKLASSE 407"
+  },
+  "visaDetails": {
+    "aboutTitle": "ÜBER DIESES VISUM",
+    "aboutDescription1": "Das Skilled Work Regional Visa der Unterklasse 491 wurde am 16. November 2019 vom Ministerium für Innere Angelegenheiten (DHA) eingeführt und ersetzt das vorherige Visum der Unterklasse 489. Dieses Visum ermöglicht es qualifizierten Arbeitskräften, bis zu 5 Jahre in einem bestimmten regionalen Gebiet Australiens zu leben und zu arbeiten.",
+    "aboutDescription2": "Die Nominierung durch einen Staat/ein Territorium für dieses Visum bringt Ihnen zusätzliche 15 Punkte, um die Mindestpunktzahl von 65 Punkten im Punktetest des Ministeriums für Innere Angelegenheiten zu erreichen.",
+    "aboutDescription3": "Wenn jemand von der Regierung eines Staates oder Territoriums für dieses Visum nominiert wird, muss er während der gesamten Gültigkeitsdauer des Visums in diesem Staat/Territorium leben. Er kann einen Antrag auf ein Visum der Unterklasse 191 stellen, wenn er drei Jahre in einem regionalen Gebiet gelebt und gearbeitet hat und ein Mindestgehalt von 53.900 AUD pro Jahr hat. Sobald ein Visum für dauerhaften Aufenthalt erteilt wird, kann er überall in Australien leben. Vor der Erteilung des Visums der Unterklasse 191 kann er nirgendwo in Australien leben.",
+    "aboutDescription4": "Wenn sie dieses 491er-Visum beantragen möchten, müssen sie zunächst eine positive Bewertung ihrer Fähigkeiten in ihrem nominierten Beruf erhalten und dann einen Antrag auf Ausdruck des Interesses und die Nominierung durch den Staat oder das Territorium einreichen. Wenn dies erfolgreich ist, werden sie eingeladen, einen Visumantrag zu stellen.",
+    "qualifyTitle": "WIE QUALIFIZIERE ICH MICH FÜR EIN VISUM DER UNTERKLASSE 190?",
+    "qualifyDescription": "Zum Zeitpunkt der Einladung zur Beantragung dieses Visums müssen Sie:",
+    "qualifyList": {
+      "0": "Unter 45 Jahre alt sein",
+      "1": "Einen Beruf nominieren, der in der relevanten Berufsliste (MLTSSL) enthalten ist",
+      "2": "Ein EOI einreichen und eine Einladung erhalten",
+      "3": "Die Mindestpunktzahl von 65 Punkten im Punktetest erreichen",
+      "4": "Von einem Verwandten gesponsert werden, der in einem bestimmten Gebiet oder Staat/Territorium lebt",
+      "5": "Über kompetentes Englisch oder höher verfügen, abhängig von den Punkten, die Sie erreicht haben",
+      "6": "Gesundheits- und Charakteranforderungen erfüllen"
+    },
+    "visaAllowsTitle": "WAS DIESES VISUM ERMÖGLICHT:",
+    "visaAllowsDescription": "Das Visum der Unterklasse 491 bietet dem Inhaber vorübergehendes Aufenthaltsrecht in Australien unter bestimmten Bedingungen.",
+    "visaAllowsList": {
+      "0": "Der Inhaber kann ab dem Datum der Visumerteilung bis zu 5 Jahre in einem bestimmten Gebiet Australiens leben, arbeiten und studieren",
+      "1": "Der Inhaber kann während der Gültigkeitsdauer des Visums frei nach Australien ein- und ausreisen",
+      "2": "Der Inhaber kann die Möglichkeit haben, eine dauerhafte Aufenthaltsgenehmigung durch das Permanent Residence Skilled Regional Visa der Unterklasse 191 zu beantragen, das am 16. November 2022 eingeführt wird."
+    },
+    "applyTitle": "KANN JEDER IN AUSTRALIEN ODER ÜBERSEE EINEN ANTRAG STELLEN?",
+    "applyDescription": "Jeder kann entweder in Australien oder im Ausland einen Antrag auf dieses Visum stellen. Wenn sie sich in Australien befinden, müssen sie vor der Beantragung dieses Visums ein gültiges Visum oder ein Überbrückungsvisum A, B oder C haben. Nach der Antragstellung erhalten sie ein Überbrückungsvisum, das ihnen erlaubt, bis zur Entscheidung ihres Antrags in Australien zu bleiben.",
+    "durationTitle": "DAUER UND BEDINGUNGEN",
+    "durationDescription": "Dies ist ein 5-jähriges vorläufiges Visum, das dem Inhaber und seinen Angehörigen erlaubt, in einem regionalen oder wenig besiedelten Gebiet zu leben, zu arbeiten oder zu studieren. Die genehmigten regionalen Gebiete variieren je nachdem, ob sie von einem Verwandten oder von einer Staats- oder Territorialregierung gesponsert werden:",
+    "durationList": {
+      "0": "Staats- oder Territorialregierung: Sie können nur in einem regionalen oder wenig besiedelten Gebiet leben",
+      "1": "Verwandter: Sie können in einem bestimmten Gebiet leben"
+    },
+    "applyHowTitle": "WIE BEANTRAGE ICH EIN VISUM DER UNTERKLASSE 190?",
+    "applyHowDescription": "Jeder, der dieses Visum beantragen möchte, muss zuerst vom Ministerium für Einwanderung eingeladen werden, einen Antrag zu stellen. Um sich für eine Einladung zu qualifizieren, müssen Sie eine „Ausdruck des Interesses“ (EOI) einreichen, in dem dargelegt wird, wie Sie die Anforderungen für dieses Visum erfüllen.",
+    "initialEligibilityTitle": "STUFE 1: ERSTE BERECHTIGUNG:",
+    "initialEligibilityDescription": "Der erste Schritt besteht darin, eine erste Bewertung Ihrer Berechtigung für dieses Visum durchzuführen. Dies umfasst die Überprüfung Ihrer Qualifikationen, Berufserfahrung, Englischkenntnisse und anderer Umstände, um festzustellen, ob Sie die relevanten Anforderungen voraussichtlich erfüllen.",
+    "skillsAssessmentTitle": "STUFE 2: FÄHIGKEITSBEWERTUNG",
+    "skillsAssessmentDescription": "Sollte unsere erste Bewertung darauf hinweisen, dass Sie für eine positive Fähigkeitenbewertung und ein EOI berechtigt sind, werden wir Ihren Antrag auf Fähigkeitenbewertung vorbereiten.",
+    "expressionOfInterestTitle": "STUFE 3: AUSDRUCK DES INTERESSES (EOI)",
+    "expressionOfInterestDescription": "Sobald Sie eine positive Fähigkeitenbewertung von der Bewertungsbehörde erhalten haben, werden wir Ihre EOI vorbereiten und einreichen. Obwohl Sie zu diesem Zeitpunkt keine unterstützenden Dokumente vorlegen müssen, müssen Sie in der Lage sein, nachzuweisen, dass die im EOI angegebenen Informationen zum Zeitpunkt der Einladung zur Beantragung des Visums korrekt sind.",
+    "visaApplicationTitle": "STUFE 4: VISUMANTRAG",
+    "visaApplicationDescription": "Sobald das Ministerium für Einwanderung Sie zur Beantragung dieses Visums eingeladen hat, werden wir Ihren Visumantrag innerhalb des festgelegten Zeitrahmens zusammen mit allen unterstützenden Dokumenten einreichen, die die im EOI angegebenen Informationen belegen.",
+    "otherRequirementsTitle": "ANDERE ANFORDERUNGEN",
+    "otherRequirementsList": {
+      "0": {
+        "title": "GESUNDHEIT",
+        "content": "Der Hauptantragsteller und alle Familienmitglieder müssen die Gesundheitsanforderungen erfüllen."
+      },
+      "1": {
+        "title": "CHARAKTER",
+        "content": "Sie müssen von gutem Charakter sein. Möglicherweise werden Sie aufgefordert, polizeiliche Führungszeugnisse für jedes Land vorzulegen, in dem Sie in den letzten 10 Jahren 12 Monate oder länger gelebt haben (gerechnet ab dem Zeitpunkt der Visumantragstellung), seit Sie 16 Jahre alt sind."
+      },
+      "2": {
+        "title": "STANDORT",
+        "content": "Sie können sich in Australien oder außerhalb Australiens befinden, wenn Sie den Visumantrag einreichen und wenn die Entscheidung getroffen wird."
+      },
+      "3": {
+        "title": "SCHULDEN",
+        "content": "Sie müssen alle ausstehenden Schulden gegenüber der australischen Regierung beglichen oder eine Vereinbarung zur Rückzahlung getroffen haben."
+      },
+      "4": {
+        "title": "VISUM ABGELEHNT ODER WIDERRUFEN",
+        "content": "Sie sind möglicherweise nicht berechtigt, dieses Visum zu beantragen, wenn Ihnen ein Visum in Australien abgelehnt oder widerrufen wurde."
+      }
+    },
+    "processingTimeTitle": "BEARBEITUNGSZEIT",
+    "processingTimeDescription1": "6-12 Monate.",
+    "processingTimeDescription2": "BITTE BEACHTEN SIE: Die tatsächliche Zeit, die das Ministerium für Einwanderung benötigt, um einen Antrag zu genehmigen und ein Visum zu erteilen, variiert von Fall zu Fall, abhängig von den spezifischen Umständen des Antragstellers und der Menge der vom Ministerium geforderten unterstützenden Informationen."
+  },
+  "skilledWorkRegionalVisaHero": {
+    "title": "SKILLED WORK REGIONAL VISA",
+    "highlightText": "UNTERKLASSE 491"
+  },
+  "visaComparison": {
+    "comparisonTitle": "VERGLEICH UNTERKLASSE 189/190/491",
+    "comparisonImageAlt": "Vergleichstabelle"
   }
 }
