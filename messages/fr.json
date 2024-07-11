@@ -980,5 +980,14 @@
   "tempTrainingVisa": {
     "title": "VISA TEMPORAIRE DE FORMATION",
     "highlightText": "SOUS-CLASSE 407"
+  },
+  "heroSectionJob": {
+    "title": "Emplois Sponsorisés",
+    "highlightText": ""
+  },
+  "fiveSteps": {
+    "title": "Cinq étapes faciles pour vivre le rêve australien",
+    "highlightText": "australien",
+    "description": "Découvrez comment le processus de recrutement pour pénurie de compétences a aidé des candidats internationaux comme vous à vivre le rêve australien."
   }
 }

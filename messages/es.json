@@ -980,5 +980,14 @@
   "tempTrainingVisa": {
     "title": "VISADO TEMPORAL DE FORMACIÓN",
     "highlightText": "SUBCLASE 407"
+  },
+  "heroSectionJob": {
+    "title": "Trabajos Patrocinados",
+    "highlightText": ""
+  },
+  "fiveSteps": {
+    "title": "Cinco Pasos Sencillos Para Vivir el Sueño Australiano",
+    "highlightText": "Australiano",
+    "description": "Descubre cómo el proceso de reclutamiento por escasez de habilidades ha ayudado a candidatos internacionales como tú a vivir el sueño australiano."
   }
 }

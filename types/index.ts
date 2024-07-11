@@ -66,6 +66,13 @@ export interface LocaleLayoutProps {
     backgroundImageSrc?: string;
   }
 
+  export interface HeroSectionJobProps {
+    imageSrc: StaticImageData;
+    title: string;
+    highlightText: string;
+    height: string;
+  }
+
   export interface Detail {
     title: string;
     content: string;

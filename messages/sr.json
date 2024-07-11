@@ -980,6 +980,15 @@
   "tempTrainingVisa": {
     "title": "PRIVREMENA VIZA ZA DIPLOMCE",
     "highlightText": "PODKLASA 407"
+  },
+  "heroSectionJob": {
+    "title": "Sponzorisani Poslovi",
+    "highlightText": ""
+  },
+  "fiveSteps": {
+    "title": "Pet Jednostavnih Koraka do Ostvarenja Australijskog Sna",
+    "highlightText": "Australijskog",
+    "description": "Otkrijte kako je proces zapošljavanja zbog nedostatka veština pomogao međunarodnim kandidatima poput vas da ostvare australijski san."
   }
 
   }

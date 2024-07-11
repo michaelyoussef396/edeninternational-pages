@@ -980,6 +980,15 @@
   "tempTrainingVisa": {
     "title": "ZAČASNI VIZUM ZA DIPLOMANTE",
     "highlightText": "PODRAZRED 407"
+  },
+  "heroSectionJob": {
+    "title": "Sponzorirane Službe",
+    "highlightText": ""
+  },
+  "fiveSteps": {
+    "title": "Pet Enostavnih Korakov za Življenje Avstralskih Sanj",
+    "highlightText": "Avstralskih",
+    "description": "Odkrijte, kako je postopek zaposlovanja zaradi pomanjkanja spretnosti pomagal mednarodnim kandidatom, kot ste vi, uresničiti avstralske sanje."
   }
   }
   

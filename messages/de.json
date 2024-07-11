@@ -980,5 +980,14 @@
   "tempTrainingVisa": {
     "title": "TEMPORÄRES TRAININGSVISUM",
     "highlightText": "UNTERKLASSE 407"
+  },
+  "heroSectionJob": {
+    "title": "Gesponserte Jobs",
+    "highlightText": ""
+  },
+  "fiveSteps": {
+    "title": "Fünf einfache Schritte, um den australischen Traum zu leben",
+    "highlightText": "australischen",
+    "description": "Erfahren Sie, wie der Rekrutierungsprozess bei Fachkräftemangel internationalen Kandidaten wie Ihnen geholfen hat, den australischen Traum zu leben."
   }
 }

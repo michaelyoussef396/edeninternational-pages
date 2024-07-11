@@ -980,5 +980,14 @@
   "tempTrainingVisa": {
     "title": "PANSAMANTALANG TRAINING VISA",
     "highlightText": "SUBCLASS 407"
+  },
+  "heroSectionJob": {
+    "title": "Mga Trabahong May Sponsor",
+    "highlightText": ""
+  },
+  "fiveSteps": {
+    "title": "Limang Madaling Hakbang Para Maabot ang Australianong Pangarap",
+    "highlightText": "Australianong",
+    "description": "Alamin kung paano nakatulong ang proseso ng pangangalap dahil sa kakulangan ng kasanayan sa mga internasyonal na kandidato tulad mo upang maabot ang Australianong pangarap."
   }
 }

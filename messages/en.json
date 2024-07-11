@@ -980,5 +980,14 @@
   "tempTrainingVisa": {
     "title": "TEMPORARY GRADUATE VISA",
     "highlightText": "SUBCLASS 407"
+  },
+  "heroSectionJob": {
+    "title": "Sponsored Jobs",
+    "highlightText": ""
+  },
+  "fiveSteps": {
+    "title": "Five Easy Steps To Live The Australian Dream",
+    "highlightText": "Australian",
+    "description": "Discover how the Skills Shortage Recruitment Process has helped international candidates like you live the Australian Dream."
   }
 }

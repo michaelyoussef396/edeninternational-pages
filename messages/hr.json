@@ -980,5 +980,14 @@
   "tempTrainingVisa": {
     "title": "PRIVREMENA DIPLOMA VIZA",
     "highlightText": "PODRAZRED 407"
+  },
+  "heroSectionJob": {
+    "title": "Sponzorirani Poslovi",
+    "highlightText": ""
+  },
+  "fiveSteps": {
+    "title": "Pet Jednostavnih Koraka za Živjeti Australski San",
+    "highlightText": "Australski",
+    "description": "Otkrijte kako je proces zapošljavanja zbog nedostatka vještina pomogao međunarodnim kandidatima poput vas da žive australski san."
   }
 }

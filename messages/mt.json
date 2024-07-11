@@ -980,5 +980,14 @@
   "tempTrainingVisa": {
     "title": "VIŻA TEMPORANJA TA' GRADWAT",
     "highlightText": "SOTTOKLASSI 407"
+  },
+  "heroSectionJob": {
+    "title": "Impjiegi Sponsorizzati",
+    "highlightText": ""
+  },
+  "fiveSteps": {
+    "title": "Ħames Passi Faċli biex Tgħix il-Ħolma Awstraljana",
+    "highlightText": "Awstraljana",
+    "description": "Skopri kif il-Proċess ta' Reklutaġġ ta' Nuqqas ta' Ħiliet għen lill-kandidati internazzjonali bħalek jgħixu l-Ħolma Awstraljana."
   }
 }

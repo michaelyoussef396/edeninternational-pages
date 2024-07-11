@@ -980,5 +980,14 @@
   "tempTrainingVisa": {
     "title": "GEÇİCİ MEZUN VİZESİ",
     "highlightText": "ALT SINIF 407"
+  },
+  "heroSectionJob": {
+    "title": "Sponsorlu İşler",
+    "highlightText": ""
+  },
+  "fiveSteps": {
+    "title": "Avustralya Hayalini Gerçekleştirmenin Beş Kolay Adımı",
+    "highlightText": "Avustralya",
+    "description": "Becerik Eksikliği İşe Alım Sürecinin, sizin gibi uluslararası adayların Avustralya Hayalini gerçekleştirmesine nasıl yardımcı olduğunu keşfedin."
   }
 }

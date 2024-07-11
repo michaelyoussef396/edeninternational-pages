@@ -980,5 +980,14 @@
   "tempTrainingVisa": {
     "title": "임시 졸업 비자",
     "highlightText": "서브클래스 407"
+  },
+  "heroSectionJob": {
+    "title": "스폰서 직업",
+    "highlightText": ""
+  },
+  "fiveSteps": {
+    "title": "호주 꿈을 실현하는 다섯 가지 쉬운 단계",
+    "highlightText": "호주",
+    "description": "기술 부족 채용 과정이 당신과 같은 국제 후보자들이 호주 꿈을 실현하는 데 어떻게 도움을 주었는지 알아보세요."
   }
 }

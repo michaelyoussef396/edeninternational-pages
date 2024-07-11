@@ -980,5 +980,14 @@
   "tempTrainingVisa": {
     "title": "临时培训签证",
     "highlightText": "407类别"
+  },
+  "heroSectionJob": {
+    "title": "赞助工作",
+    "highlightText": ""
+  },
+  "fiveSteps": {
+    "title": "实现澳大利亚梦想的五个简单步骤",
+    "highlightText": "澳大利亚",
+    "description": "了解技能短缺招聘流程如何帮助像你这样的国际候选人实现澳大利亚梦想。"
   }
 }
