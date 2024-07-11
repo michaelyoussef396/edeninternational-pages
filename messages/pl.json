@@ -379,6 +379,11 @@
     "firstHighlightText": "",
     "secondTitle": "NASZE STOWARZYSZONE",
     "secondHighlightText": "INSTYTUCJE"
+  },
+  "affiliatedInstitutions": {
+    "title": "STOWARZYSZONE",
+    "highlightText": "INSTYTUCJE",
+    "description": "Stowarzyszona szkoła lub stowarzyszony college to instytucja edukacyjna, która działa niezależnie, ale ma również formalne porozumienie o współpracy z inną, zazwyczaj większą instytucją, która może mieć pewien poziom kontroli lub wpływu na jej polityki akademickie, standardy lub programy."
   }
   }
   

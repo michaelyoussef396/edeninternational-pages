@@ -379,5 +379,10 @@
       "firstHighlightText": "",
       "secondTitle": "ANG AMING KAANIB NA",
       "secondHighlightText": "INSTITUSYON"
+    },
+    "affiliatedInstitutions": {
+      "title": "KAANIB NA",
+      "highlightText": "INSTITUSYON",
+      "description": "Ang isang affiliated school o affiliated college ay isang educational institution na nag-ooperate nang independently, ngunit mayroon ding pormal na collaborative agreement sa isa pang, karaniwang mas malaking institusyon na maaaring may ilang antas ng kontrol o impluwensya sa mga akademikong patakaran, pamantayan o programa nito."
     }
 }

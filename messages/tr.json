@@ -379,5 +379,10 @@
     "firstHighlightText": "",
     "secondTitle": "BAĞLI",
     "secondHighlightText": "KURUMLARIMIZ"
+  },
+  "affiliatedInstitutions": {
+    "title": "BAĞLI",
+    "highlightText": "KURUMLAR",
+    "description": "Bağlı bir okul veya bağlı bir kolej, bağımsız olarak faaliyet gösteren, ancak başka bir büyük kurumla resmi bir işbirliği anlaşması olan ve akademik politikaları, standartları veya programları üzerinde bir dereceye kadar kontrole veya etkisine sahip olabilen eğitim kurumudur."
   }
 }

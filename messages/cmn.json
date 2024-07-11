@@ -379,5 +379,10 @@
       "firstHighlightText": "",
       "secondTitle": "我们的附属",
       "secondHighlightText": "机构"
+    },
+    "affiliatedInstitutions": {
+      "title": "附属",
+      "highlightText": "机构",
+      "description": "附属学校或附属学院是一种独立运作但与另一家通常较大的机构有正式合作协议的教育机构，该机构可能对其学术政策、标准或课程有一定的控制或影响。"
     }
 }

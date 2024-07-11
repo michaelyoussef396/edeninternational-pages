@@ -379,6 +379,11 @@
     "firstHighlightText": "",
     "secondTitle": "NAŠE POVEZANE",
     "secondHighlightText": "INSTITUCIJE"
+  },
+  "affiliatedInstitutions": {
+    "title": "POVEZANE",
+    "highlightText": "INSTITUCIJE",
+    "description": "Povezana šola ali povezan kolidž je izobraževalna ustanova, ki deluje neodvisno, vendar ima tudi formalni sporazum o sodelovanju z drugo, običajno večjo ustanovo, ki lahko ima določen nivo nadzora ali vpliva na njene akademske politike, standarde ali programe."
   }
   }
   

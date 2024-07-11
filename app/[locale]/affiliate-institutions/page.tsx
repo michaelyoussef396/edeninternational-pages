@@ -4,6 +4,7 @@ import { useTranslations } from "next-intl";
 import HeroSection from '@/components/HeroSection';
 import { images } from '@/constants/images';
 import ScrollingLogos from '@/components/ScrollingLogos';
+import AffiliatedInstitutions from '@/components/AffiliatedInstitutions';
 
 
 
@@ -19,7 +20,7 @@ const IndexPage: React.FC<IndexPageProps> = ({ params: { locale } }) => {
         highlightText={t('firstHighlightText')}
         height="h-96"
       />
-
+      <AffiliatedInstitutions />
       <HeroSection
         imageSrc={images.image}
         title={t('secondTitle')}

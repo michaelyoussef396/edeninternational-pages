@@ -379,5 +379,10 @@
       "firstHighlightText": "",
       "secondTitle": "NOS INSTITUTIONS",
       "secondHighlightText": "AFFILIÉES"
+    },
+    "affiliatedInstitutions": {
+      "title": "INSTITUTIONS",
+      "highlightText": "AFFILIÉES",
+      "description": "Une école affiliée ou un collège affilié est un établissement éducatif qui fonctionne de manière indépendante, mais qui a également un accord de collaboration formel avec un autre établissement, généralement plus grand, qui peut avoir un certain niveau de contrôle ou d'influence sur ses politiques académiques, normes ou programmes."
     }
 }

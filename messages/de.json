@@ -379,5 +379,10 @@
       "firstHighlightText": "",
       "secondTitle": "UNSERE PARTNER",
       "secondHighlightText": "INSTITUTIONEN"
+    },
+    "affiliatedInstitutions": {
+      "title": "PARTNER",
+      "highlightText": "INSTITUTIONEN",
+      "description": "Eine angeschlossene Schule oder Hochschule ist eine Bildungseinrichtung, die unabhängig arbeitet, aber auch eine formelle Kooperationsvereinbarung mit einer anderen, normalerweise größeren Institution hat, die möglicherweise ein gewisses Maß an Kontrolle oder Einfluss auf ihre akademischen Richtlinien, Standards oder Programme hat."
     }
 }

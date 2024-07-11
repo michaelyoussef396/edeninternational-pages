@@ -379,5 +379,10 @@
       "firstHighlightText": "",
       "secondTitle": "우리의 제휴",
       "secondHighlightText": "기관"
+    },
+    "affiliatedInstitutions": {
+      "title": "제휴",
+      "highlightText": "기관",
+      "description": "제휴 학교 또는 제휴 대학은 독립적으로 운영되지만 일반적으로 더 큰 기관과 공식적인 협력 계약을 맺고 있는 교육 기관입니다. 이 더 큰 기관은 제휴 학교의 학술 정책, 기준 또는 프로그램에 일정 수준의 통제 또는 영향을 미칠 수 있습니다."
     }
 }

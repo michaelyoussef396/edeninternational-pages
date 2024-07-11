@@ -379,5 +379,10 @@
       "firstHighlightText": "",
       "secondTitle": "NUESTRAS INSTITUCIONES",
       "secondHighlightText": "AFILIADAS"
+    },
+    "affiliatedInstitutions": {
+      "title": "INSTITUCIONES",
+      "highlightText": "AFILIADAS",
+      "description": "Una escuela afiliada o universidad afiliada es una institución educativa que opera de manera independiente, pero también tiene un acuerdo de colaboración formal con otra institución, generalmente más grande, que puede tener algún nivel de control o influencia sobre sus políticas académicas, estándares o programas."
     }
 }

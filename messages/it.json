@@ -379,5 +379,10 @@
       "firstHighlightText": "",
       "secondTitle": "LE NOSTRE",
       "secondHighlightText": "ISTITUZIONI AFFILIATE"
+    },
+    "affiliatedInstitutions": {
+      "title": "ISTITUZIONI",
+      "highlightText": "AFFILIATE",
+      "description": "Una scuola affiliata o un college affiliato è un'istituzione educativa che opera indipendentemente, ma ha anche un accordo di collaborazione formale con un'altra istituzione, solitamente più grande, che può avere un certo livello di controllo o influenza sulle sue politiche accademiche, standard o programmi."
     }
 }

@@ -379,5 +379,10 @@
       "firstHighlightText": "",
       "secondTitle": "L-ISTITUZZJONIJIET TAGĦNA",
       "secondHighlightText": "AFFILJATI"
+    },
+    "affiliatedInstitutions": {
+      "title": "ISTITUZZJONIJIET",
+      "highlightText": "AFFILJATI",
+      "description": "Skola affiljata jew kulleġġ affiljat hija istituzzjoni edukattiva li taħdem b'mod indipendenti, iżda għandha wkoll ftehim ta' kollaborazzjoni formali ma' istituzzjoni oħra, normalment akbar, li tista' jkollha xi livell ta' kontroll jew influwenza fuq il-politiki akkademiċi, l-istandards jew il-programmi tagħha."
     }
 }

@@ -23,6 +23,11 @@ export interface LocaleLayoutProps {
     content: string;
   }
 
+  export type Institution = {
+    name: string;
+    url: string;
+  };
+
   export interface Step {
     title: string;
     description: string;
