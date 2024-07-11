@@ -307,6 +307,32 @@
       "description": "Piştrastkirina vîzayê wergirtin û amadebûn ji bo rêketinê."
     },
     "buttonText": "Klik bikin bo dîtina pêvajoya temam ya vîzayê"
+  },
+  "studyProcess": {
+    "title": "VÎZA",
+    "highlight": "PÊVA",
+    "steps": [
+      {
+        "title": "WELATÊ ARAM",
+        "description": "Yek ji tiştên girîng ji bo piraniya xwendekarên navneteweyî dema ku bernameya xwendina derveyî yên hilbijêre, ew ye ku ew welat û bajarek taybet tê behra xatirê û ewlekariyê bike. Dêûbavan bi awire bin alîkarîyê û tiştên jî kesandina jinan, ku parastin an jî qeraxasî li ser çûna peyivînê û bandorê yekcar bigihînin dema ku bernameya xwendinê derveyî hilbijêre. Di vê bazarê de, Kanada yek ji cihên ewleh e ku ji bo xwendinê yên ku rêya bilind kirin û tiştên jî li ser qeraxasî. Statistekan Numbeo nîşan dide ku Kanada indexa ewlehiyê ya wan (62.42) pir zêde ye lê indexên ewlehiyê yên cîhanê yên binîşîngê yên xwendinê yên derveyî wekî Dewletên Yekbûyî (49.99), Yekîtiya Keyanî (57.9) û Australîya (57.94)."
+      },
+      {
+        "title": "CÎHANÊ ÇANDÎ",
+        "description": "Kanada yek ji pêşengên navneteweyî ye di tehnologîya informatîk û komputerê de û di kîmasî, anîmasyon, komûnasîyon û injînêriyê de tê hesibandin. Kanada yek ji pêşengên cîhanê ye di vîrenîşkê û balafirgah, hilbijartina bajaran, mikroelektronîk, amûrên medîkal, softwareyên pêşketî, aw û elektrîk û belavkirina lazer û optoelektronîk, bîyoteknologî û hwd. Di cîhanê de Kanada yek ji yekem pêşengên cîhanê ye ku wergirtinê ya zanyarîyê ku xwe di tîpên perwerdehî û bibliothekê de bike. Hemû cîhên modernî pêşkêş dikin û piraniya kampusên ciwan in bi teknolojiyên herî pêşketî yên cîhanê peyda dikin."
+      },
+      {
+        "title": "FURSETÊN KARÊ",
+        "description": "Erê, wek xwendekarên navneteweyî hûn ê zêde bidin ji bo kursê yekemî ya wek hemû hîna pêşengîn, lê kursê yekemî yê ku di welatên dinan de, wekî Dewletên Yekbûyî, Australîya an Yekîtiya Keyanî, ew di darê xebitandinê de zêde ê kirin. Hûn ê ji bo kursê yekemî di Kanada de ne tenê bidin lê xwedan karîberiyê bibin."
+      },
+      {
+        "title": "PERWERDEYA BI XERC Û BI JA",
+        "description": "Kanada ne tenê perwerdeya nûjen pêşkêş dike, lê herwiha ji bo xwendekarên navneteweyî yên ku bi xercyên tenê bibin. Bi nişana welatên wekî UK, Dewletên Yekbûyî û Australîya, xerca perwerdeya di Kanada de herî kêm e."
+      },
+      {
+        "title": "PIŞTRASTIYA TEVGER",
+        "description": "Paşê ku COE wergirtin, EDUCUDE – bi navê xwendekarên xwe hemû belgeyên aborî û wêjeyan ji bo şandina embassy û amade kirina xwendekarên bi zanyariyên biometrîk û kontrola medîkalê yên. Ew dê li 20-30 rojên karib û piştrastiya tevgerê wergire."
+      }
+    ]
   }
   }
   

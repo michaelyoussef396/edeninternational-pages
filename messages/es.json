@@ -307,5 +307,31 @@
         "description": "Recibe la aprobación de la visa y prepárate para viajar."
       },
       "buttonText": "Haz clic aquí para ver el proceso completo de visa"
+    },
+    "studyProcess": {
+      "title": "PROCESO",
+      "highlight": "DE VISA",
+      "steps": [
+        {
+          "title": "PAÍS SEGURO",
+          "description": "Un factor muy importante para la mayoría de los estudiantes internacionales al elegir un programa de estudios en el extranjero es la seguridad del país y de la ciudad en particular. Los padres se preocupan por la seguridad de sus hijos y factores como el crimen contra las mujeres, la discriminación racial, el robo y el hurto juegan un papel importante al elegir un destino para estudiar en el extranjero. En este sentido, Canadá es uno de los lugares más seguros para estudiar con tasas de criminalidad muy bajas y casos de discriminación racial. Las estadísticas de Numbeo revelan que el índice de seguridad de Canadá (62.42) es mucho más alto que los índices de seguridad de otros destinos populares para estudiar en el extranjero como EE.UU. (49.99), Reino Unido (57.9) y Australia (57.94)."
+        },
+        {
+          "title": "ENTORNO MULTICULTURAL",
+          "description": "Canadá es un líder internacional en tecnologías de la información y la computación y tiene una reputación de excelencia en sectores como las telecomunicaciones, la animación, el transporte y la ingeniería; y específicamente, la aeroespacial, el transporte urbano, la microelectrónica, los dispositivos médicos, el software avanzado, la energía hidroeléctrica y nuclear, los láseres y la optoelectrónica, la biotecnología, etc. Canadá fue uno de los primeros en el mundo en reconocer la necesidad de conectar escuelas y bibliotecas a Internet, y su programa SchoolNet está siendo copiado en todo el mundo. Se brindan todo tipo de comodidades modernas y la mayoría de los campus están conectados con las tecnologías más sofisticadas que el mundo tiene para ofrecer."
+        },
+        {
+          "title": "OPORTUNIDADES DE EMPLEO",
+          "description": "Sí, como estudiante internacional aún pagarás más que los canadienses por el mismo curso, pero ese mismo curso en otro país, como Estados Unidos, Australia o Reino Unido, probablemente costaría aún más. Además, ve el punto 1 anterior: no solo estás pagando menos en Canadá, sino que también estás ganando."
+        },
+        {
+          "title": "EDUCACIÓN Y VIDA ASEQUIBLE",
+          "description": "Canadá ofrece no solo una educación de calidad, sino una educación asequible para los estudiantes internacionales, incluidos los indios. En comparación con países como el Reino Unido, EE.UU. y Australia, el costo de la educación en Canadá es bastante moderado."
+        },
+        {
+          "title": "REQUISITOS DE ADMISIÓN",
+          "description": "Después de tener el COE, EDUCUDE, en nombre del estudiante, presentará todos los documentos académicos y financieros a la embajada y preparará a los estudiantes para las pruebas biométricas y el chequeo médico. Se tarda de 20 a 30 días hábiles en obtener una visa."
+        }
+      ]
     }
 }

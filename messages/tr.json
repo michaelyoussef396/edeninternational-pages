@@ -307,5 +307,31 @@
       "description": "Vize onayı alın ve seyahat hazırlıklarına başlayın."
     },
     "buttonText": "Tam vize sürecini görmek için tıklayın"
+  },
+  "studyProcess": {
+    "title": "VİZE",
+    "highlight": "SÜRECİ",
+    "steps": [
+      {
+        "title": "GÜVENLİ ÜLKE",
+        "description": "Çoğu uluslararası öğrenci için yurtdışında eğitim programı seçerken en önemli faktör, ülkenin ve özellikle şehrin güvenliği ve emniyetidir. Ebeveynler çocuklarının güvenliği konusunda endişelenir ve kadınlara karşı suçlar, ırk ayrımcılığı, hırsızlık ve soygun gibi faktörler, yurtdışında eğitim almak için bir yer seçerken önemli bir rol oynar. Bu açıdan, Kanada, çok düşük suç oranları ve ırk ayrımcılığı vakalarıyla eğitim için en güvenli yerlerden biridir."
+      },
+      {
+        "title": "ÇOK KÜLTÜRLÜ ÇEVRE",
+        "description": "Kanada, bilgisayar ve bilgi teknolojilerinde uluslararası bir liderdir ve telekomünikasyon, animasyon, ulaşım ve mühendislik gibi sektörlerde mükemmeliyet için bir üne sahiptir; ve özellikle havacılık, kentsel ulaşım, mikroelektronik, tıbbi cihazlar, ileri yazılım, hidroelektrik ve nükleer enerji, lazerler ve optoelektronik, biyoteknoloji vb. Kanada, okulları ve kütüphaneleri internete bağlama ihtiyacını ilk fark eden ülkelerden biri oldu ve SchoolNet programı dünya çapında kopyalanıyor. Her türlü modern olanak sağlanır ve çoğu kampüs, dünyanın sunabileceği en sofistike teknolojilerle donatılmıştır."
+      },
+      {
+        "title": "İŞ FIRSATLARI",
+        "description": "Evet, bir uluslararası öğrenci olarak hala aynı kurs için Kanadalılardan daha fazla ödeyeceksiniz, ancak aynı kurs başka bir ülkede, örneğin Amerika Birleşik Devletleri, Avustralya veya Birleşik Krallık'ta, muhtemelen daha pahalıya mal olacaktır. Ayrıca, yukarıdaki 1. maddeyi de görün – Kanada'da daha az ödüyorsunuz, ayrıca kazanıyorsunuz."
+      },
+      {
+        "title": "UYGUN FİYATLI EĞİTİM VE YAŞAM",
+        "description": "Kanada, sadece kaliteli eğitim değil, aynı zamanda uluslararası, dahil olmak üzere Hintli öğrenciler için uygun fiyatlı eğitim sunar. İngiltere, ABD ve Avustralya gibi ülkelere kıyasla, Kanada'da eğitim maliyeti oldukça makuldür."
+      },
+      {
+        "title": "KABUL ŞARTLARI",
+        "description": "COE alındıktan sonra, EDUCUDE - öğrenci adına tüm akademik ve mali belgeleri büyükelçiliğe teslim eder ve öğrencileri biyometrik ve tıbbi kontrol için hazırlar. Vize almak 20-30 iş günü sürer."
+      }
+    ]
   }
 }

@@ -307,6 +307,32 @@
       "description": "Prejmite odobritev vizuma in se pripravite na potovanje."
     },
     "buttonText": "Kliknite tukaj, da si ogledate celoten postopek vizuma"
+  },
+  "studyProcess": {
+    "title": "VIZA",
+    "highlight": "POSTOPEK",
+    "steps": [
+      {
+        "title": "VARNA DRŽAVA",
+        "description": "Zelo pomemben dejavnik za večino mednarodnih študentov pri izbiri študijskega programa v tujini je varnost države in mesta, zlasti. Starši so zaskrbljeni glede varnosti svojih otrok, in dejavniki, kot so kriminal nad ženskami, rasna diskriminacija, tatvine in vlomi igrajo pomembno vlogo pri izbiri destinacije za študij v tujini. V tem pogledu je Kanada ena najvarnejših krajev za študij z zelo nizko stopnjo kriminala in primerov rasne diskriminacije. Statistični podatki Numbeo razkrivajo, da je varnostni indeks Kanade (62,42) precej višji od varnostnih indeksov drugih priljubljenih destinacij za študij v tujini, kot so ZDA (49,99), Združeno kraljestvo (57,9) in Avstralija (57,94)."
+      },
+      {
+        "title": "MULTIKULTURNO OKOLJE",
+        "description": "Kanada je mednarodni vodja na področju računalniških in informacijskih tehnologij in ima odličen ugled v sektorjih, kot so telekomunikacije, animacija, transport in inženirstvo; in sicer v letalski industriji, mestnem transportu, mikroelektroniki, medicinskih napravah, napredni programski opremi, hidroelektrični in jedrski energiji, laserjih in optoelektroniki, biotehnologiji itd. Kanada je bila ena prvih na svetu, ki je prepoznala potrebo po povezovanju šol in knjižnic z internetom, njen program SchoolNet pa je kopiran po vsem svetu. Na voljo so vse vrste modernih udobnosti, večina kampusov pa je opremljena z najnaprednejšimi tehnologijami, ki jih svet ponuja."
+      },
+      {
+        "title": "PRILOŽNOSTI ZA ZAPOSLITEV",
+        "description": "Da, kot mednarodni študent boste še vedno plačali več kot Kanadčani za isti tečaj, vendar bi ta isti tečaj v drugi državi, kot so Združene države, Avstralija ali Združeno kraljestvo, verjetno stal še več. Poleg tega, glejte točko 1 zgoraj – ne le, da v Kanadi plačate manj, ampak tudi zaslužite."
+      },
+      {
+        "title": "DOSTOPNO IZOBRAŽEVANJE IN ŽIVLJENJE",
+        "description": "Kanada ne ponuja le kakovostnega izobraževanja, temveč tudi izobraževanje, ki je cenovno dostopno za mednarodne, vključno z indijskimi študenti. V primerjavi z državami, kot so Združeno kraljestvo, ZDA in Avstralija, so stroški izobraževanja v Kanadi precej zmerni."
+      },
+      {
+        "title": "POGOJI ZA VPIS",
+        "description": "Po pridobitvi COE bo EDUCUDE – v imenu študenta predložil vse akademske in finančne dokumente veleposlaništvu in pripravil študente na biometrične in zdravstvene preglede. Za pridobitev vize traja 20-30 delovnih dni."
+      }
+    ]
   }
   }
   

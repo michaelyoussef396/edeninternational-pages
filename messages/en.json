@@ -307,5 +307,31 @@
       "description": "Receive visa approval and prepare for travel."
     },
     "buttonText": "Click here to see the full visa process"
+  },
+  "studyProcess": {
+    "title": "VISA",
+    "highlight": "PROCESS",
+    "steps": [
+      {
+        "title": "SAFE COUNTRY",
+        "description": "A very important factor for most international students while choosing a study abroad program, is the safety and security of the country and the city in particular. Parents are worried about the safety of their children and factors like crime against women, racial discrimination, theft and burglary play an important role while choosing a destination for study abroad. In this respect, Canada is one of the safest places to study with very low crime rates and cases of racial discrimination. Statistics by Numbeo reveal that Canada’s safety index (62.42) is much higher than the safety indices of other popular study abroad destinations such as US (49.99), UK (57.9) and Australia (57.94)."
+      },
+      {
+        "title": "MULTICULTURAL ENVIRONMENT",
+        "description": "Canada is an international leader in computer and information technologies and has a reputation for excellence in such sectors as telecommunications, animation, transportation and engineering; and specifically, aerospace, urban transport, microelectronics, medical devices, advanced software, hydroelectric and nuclear power, lasers and opto-electronics, biotechnology etc. Canada was among the first in the world to recognize the need to connect schools and libraries to the Internet, and its SchoolNet program is being copied around the world. All kinds of modern amenities are provided and most campuses happen to be wired with the most sophisticated technologies the world has to offer."
+      },
+      {
+        "title": "JOB OPPORTUNITIES",
+        "description": "Yes, as an international student you will still pay more than Canadians for the same course, but that same course in another country, such as the United States, Australia or United Kingdom, would likely cost even more. Also, see point 1 above – not only are you paying less in Canada, you’re also earning."
+      },
+      {
+        "title": "AFFORDABLE EDUCATION & LIVING",
+        "description": "Canada offers not only quality education, but education which is affordable for international including Indian students. Compared to countries like the UK, USA and Australia, cost of education in Canada is quite moderate."
+      },
+      {
+        "title": "ADMISSION REQUIREMENT",
+        "description": "After having COE, EDUCUDE – on behalf of the student will submit all academics financial documents to the embassy and prepare students for bio-metrics and medical checkup. It takes 20-30 working days to get a visa."
+      }
+    ]
   }
 }

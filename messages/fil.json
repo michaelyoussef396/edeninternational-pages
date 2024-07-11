@@ -307,5 +307,31 @@
         "description": "Matanggap ang pag-apruba ng visa at maghanda para sa paglalakbay."
       },
       "buttonText": "Mag-click dito upang makita ang buong proseso ng visa"
+    },
+    "studyProcess": {
+      "title": "PROSESO NG",
+      "highlight": "VISA",
+      "steps": [
+        {
+          "title": "LIGTAS NA BANSA",
+          "description": "Isang napakahalagang salik para sa karamihan ng mga international students habang pumipili ng programa sa pag-aaral sa ibang bansa, ay ang kaligtasan at seguridad ng bansa at partikular na lungsod. Ang mga magulang ay nag-aalala tungkol sa kaligtasan ng kanilang mga anak at mga salik tulad ng krimen laban sa mga kababaihan, diskriminasyon sa lahi, pagnanakaw at pagnanakaw ay may mahalagang papel sa pagpili ng destinasyon para sa pag-aaral sa ibang bansa. Sa ganitong aspeto, ang Canada ay isa sa mga pinakaligtas na lugar upang mag-aral na may napakababang mga rate ng krimen at mga kaso ng diskriminasyon sa lahi. Ang mga istatistika ng Numbeo ay nagpapakita na ang safety index ng Canada (62.42) ay mas mataas kaysa sa safety indices ng iba pang mga popular na destinasyon para sa pag-aaral sa ibang bansa tulad ng US (49.99), UK (57.9) at Australia (57.94)."
+        },
+        {
+          "title": "MULTICULTURAL NA KAPALIGIRAN",
+          "description": "Ang Canada ay isang internasyonal na lider sa computer at information technologies at may reputasyon para sa kahusayan sa mga sektor tulad ng telecommunications, animation, transportasyon at engineering; at partikular, aerospace, urban transport, microelectronics, medical devices, advanced software, hydroelectric at nuclear power, lasers at opto-electronics, biotechnology atbp. Ang Canada ay isa sa mga unang bansa sa mundo na kinilala ang pangangailangan na ikonekta ang mga paaralan at mga aklatan sa Internet, at ang SchoolNet program nito ay kinopya sa buong mundo. Lahat ng uri ng mga modernong pasilidad ay ibinibigay at karamihan sa mga kampus ay naka-wire sa mga pinaka-sopistikadong teknolohiya na inaalok ng mundo."
+        },
+        {
+          "title": "MGA PAGKAKATAON SA TRABAHO",
+          "description": "Oo, bilang isang international student ay magbabayad ka pa rin ng higit kaysa sa mga Canadians para sa parehong kurso, ngunit ang parehong kurso sa ibang bansa, tulad ng Estados Unidos, Australia o United Kingdom, ay malamang na mas mahal pa. Gayundin, tingnan ang punto 1 sa itaas - hindi lamang mas mababa ang binabayaran mo sa Canada, kumikita ka rin."
+        },
+        {
+          "title": "ABOT-KAYANG EDUKASYON AT PAMUMUHAY",
+          "description": "Nag-aalok ang Canada hindi lamang ng de-kalidad na edukasyon, ngunit edukasyong abot-kaya para sa mga international kabilang ang mga Indian na estudyante. Kung ihahambing sa mga bansa tulad ng UK, USA at Australia, ang halaga ng edukasyon sa Canada ay medyo katamtaman."
+        },
+        {
+          "title": "PANGANGAILANGAN SA PAGPASOK",
+          "description": "Pagkatapos magkaroon ng COE, ang EDUCUDE - sa ngalan ng estudyante ay magsusumite ng lahat ng akademikong dokumento sa pananalapi sa embahada at maghahanda ng mga estudyante para sa bio-metrics at medikal na pagsusuri. Tumagal ng 20-30 araw ng trabaho upang makakuha ng visa."
+        }
+      ]
     }
 }

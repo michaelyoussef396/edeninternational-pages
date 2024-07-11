@@ -5,6 +5,8 @@ import HeroSection from '@/components/HeroSection';
 import { images } from '@/constants/images';
 import WhyStudyAustralia from '@/components/WhyStudyAustralia';
 import QuickSteps from '@/components/QuickSteps';
+import StudyProcess from '@/components/StudyProcess';
+import CardGrid from '@/components/CardGrid';
 
 
 
@@ -22,6 +24,8 @@ const IndexPage: React.FC<IndexPageProps> = ({ params: { locale } }) => {
       />
       <WhyStudyAustralia />
       <QuickSteps />
+      <StudyProcess />
+      <CardGrid />
     </main>
   );
 };

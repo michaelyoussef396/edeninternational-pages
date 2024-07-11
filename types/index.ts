@@ -19,6 +19,10 @@ export interface LocaleLayoutProps {
     };
   }
 
+  export interface Step {
+    title: string;
+    description: string;
+  }
   export interface FloatingNavProps {
     className?: string;
     locale: string;

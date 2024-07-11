@@ -307,5 +307,31 @@
         "description": "Erhalten Sie die Visumgenehmigung und bereiten Sie sich auf die Reise vor."
       },
       "buttonText": "Klicken Sie hier, um den gesamten Visumprozess zu sehen"
+    },
+    "studyProcess": {
+      "title": "VISUM",
+      "highlight": "PROZESS",
+      "steps": [
+        {
+          "title": "SICHERES LAND",
+          "description": "Ein sehr wichtiger Faktor für die meisten internationalen Studenten bei der Auswahl eines Auslandsstudienprogramms ist die Sicherheit und der Schutz des Landes und der Stadt im Besonderen. Eltern machen sich Sorgen um die Sicherheit ihrer Kinder, und Faktoren wie Verbrechen gegen Frauen, Rassendiskriminierung, Diebstahl und Einbruch spielen eine wichtige Rolle bei der Wahl eines Studienziels im Ausland. In dieser Hinsicht ist Kanada einer der sichersten Orte zum Studieren mit sehr niedrigen Kriminalitätsraten und Fällen von Rassendiskriminierung. Statistiken von Numbeo zeigen, dass der Sicherheitsindex von Kanada (62,42) viel höher ist als die Sicherheitsindizes anderer beliebter Studienziele im Ausland wie USA (49,99), Großbritannien (57,9) und Australien (57,94)."
+        },
+        {
+          "title": "MULTIKULTURELLE UMGEBUNG",
+          "description": "Kanada ist ein internationaler Führer in den Bereichen Computer- und Informationstechnologie und hat einen hervorragenden Ruf in Branchen wie Telekommunikation, Animation, Transport und Ingenieurwesen; und insbesondere in Luft- und Raumfahrt, städtischem Transport, Mikroelektronik, medizinischen Geräten, fortschrittlicher Software, Wasserkraft und Kernkraft, Lasern und Optoelektronik, Biotechnologie usw. Kanada war eines der ersten Länder weltweit, das die Notwendigkeit erkannte, Schulen und Bibliotheken mit dem Internet zu verbinden, und sein SchoolNet-Programm wird weltweit kopiert. Alle Arten von modernen Annehmlichkeiten werden bereitgestellt, und die meisten Campus sind mit den fortschrittlichsten Technologien der Welt ausgestattet."
+        },
+        {
+          "title": "BERUFSCHANCEN",
+          "description": "Ja, als internationaler Student zahlen Sie immer noch mehr als Kanadier für denselben Kurs, aber derselbe Kurs in einem anderen Land, wie den Vereinigten Staaten, Australien oder dem Vereinigten Königreich, würde wahrscheinlich noch mehr kosten. Siehe auch Punkt 1 oben – nicht nur zahlen Sie weniger in Kanada, Sie verdienen auch mehr."
+        },
+        {
+          "title": "ERSCHWINGLICHE BILDUNG & LEBEN",
+          "description": "Kanada bietet nicht nur qualitativ hochwertige Bildung, sondern auch erschwingliche Bildung für internationale, einschließlich indische, Studenten. Im Vergleich zu Ländern wie Großbritannien, USA und Australien sind die Bildungskosten in Kanada ziemlich moderat."
+        },
+        {
+          "title": "ZULASSUNGSANFORDERUNG",
+          "description": "Nach Erhalt des COE wird EDUCUDE – im Namen des Studenten – alle akademischen und finanziellen Dokumente bei der Botschaft einreichen und die Studenten auf Biometrie und medizinische Untersuchungen vorbereiten. Es dauert 20-30 Arbeitstage, um ein Visum zu erhalten."
+        }
+      ]
     }
 }

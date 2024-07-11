@@ -307,5 +307,31 @@
         "description": "Primanje odobrenja vize i priprema za putovanje."
       },
       "buttonText": "Kliknite ovdje da vidite cijeli proces vize"
+    },
+    "studyProcess": {
+      "title": "PROCES",
+      "highlight": "VIZE",
+      "steps": [
+        {
+          "title": "SIGURNA ZEMLJA",
+          "description": "Vrlo važan faktor za većinu međunarodnih studenata pri odabiru programa studiranja u inozemstvu je sigurnost i sigurnost zemlje, posebno grada. Roditelji brinu o sigurnosti svoje djece, a čimbenici poput zločina protiv žena, rasne diskriminacije, krađe i provale igraju važnu ulogu pri odabiru destinacije za studiranje u inozemstvu. U tom smislu, Kanada je jedno od najsigurnijih mjesta za studiranje s vrlo niskim stopama kriminala i slučajevima rasne diskriminacije. Statistike Numbea otkrivaju da je kanadski indeks sigurnosti (62,42) mnogo viši od indeksa sigurnosti drugih popularnih destinacija za studiranje u inozemstvu kao što su SAD (49,99), UK (57,9) i Australija (57,94)."
+        },
+        {
+          "title": "MULTIKULTURNO OKRUŽENJE",
+          "description": "Kanada je međunarodni lider u računalnim i informacijskim tehnologijama i ima reputaciju izvrsnosti u sektorima kao što su telekomunikacije, animacija, transport i inženjering; a posebno zrakoplovstvo, urbani prijevoz, mikroelektronika, medicinski uređaji, napredni softver, hidroelektrična i nuklearna energija, laseri i optoelektronika, biotehnologija itd. Kanada je među prvima u svijetu prepoznala potrebu povezivanja škola i knjižnica na Internet, a njen program SchoolNet se kopira diljem svijeta. Sve vrste modernih pogodnosti su osigurane i većina kampusa je opremljena najsofisticiranijim tehnologijama koje svijet nudi."
+        },
+        {
+          "title": "MOGUĆNOSTI ZAPOSLENJA",
+          "description": "Da, kao međunarodni student i dalje ćete plaćati više od Kanađana za isti tečaj, ali taj isti tečaj u drugoj zemlji, poput Sjedinjenih Država, Australije ili Ujedinjenog Kraljevstva, vjerojatno bi koštao još više. Također, pogledajte točku 1 gore – ne samo da plaćate manje u Kanadi, već i zarađujete."
+        },
+        {
+          "title": "PRISTUPAČNO OBRAZOVANJE I ŽIVOT",
+          "description": "Kanada nudi ne samo kvalitetno obrazovanje, već i obrazovanje koje je pristupačno za međunarodne, uključujući indijske studente. U usporedbi s zemljama poput Velike Britanije, SAD-a i Australije, troškovi obrazovanja u Kanadi su prilično umjereni."
+        },
+        {
+          "title": "UVJETI ZA UPIS",
+          "description": "Nakon što dobijete COE, EDUCUDE – u ime studenta će podnijeti sve akademske i financijske dokumente ambasadi i pripremiti studente za biometriju i liječnički pregled. Potrebno je 20-30 radnih dana da se dobije viza."
+        }
+      ]
     }
 }
