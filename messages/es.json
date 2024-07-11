@@ -333,5 +333,45 @@
           "description": "Después de tener el COE, EDUCUDE, en nombre del estudiante, presentará todos los documentos académicos y financieros a la embajada y preparará a los estudiantes para las pruebas biométricas y el chequeo médico. Se tarda de 20 a 30 días hábiles en obtener una visa."
         }
       ]
+    },
+    "accordionCanada": {
+      "title": "RAZONES PRINCIPALES PARA ELEGIR",
+      "highlightText": "CANADÁ",
+      "buttonText": "OBTÉN UNA EVALUACIÓN INICIAL GRATUITA DE TU ELEGIBILIDAD",
+      "items": [
+        {
+          "title": "PAÍS SEGURO",
+          "content": "Un factor muy importante para la mayoría de los estudiantes internacionales al elegir un programa de estudios en el extranjero es la seguridad del país y de la ciudad en particular. Los padres se preocupan por la seguridad de sus hijos y factores como el crimen contra las mujeres, la discriminación racial, el robo y el hurto juegan un papel importante al elegir un destino para estudiar en el extranjero. En este sentido, Canadá es uno de los lugares más seguros para estudiar con tasas de criminalidad muy bajas y casos de discriminación racial. Las estadísticas de Numbeo revelan que el índice de seguridad de Canadá (62.42) es mucho más alto que los índices de seguridad de otros destinos populares para estudiar en el extranjero como EE.UU. (49.99), Reino Unido (57.9) y Australia (57.94)."
+        },
+        {
+          "title": "ENTORNO MULTICULTURAL",
+          "content": "Canadá es un líder internacional en tecnologías de la información y la computación y tiene una reputación de excelencia en sectores como las telecomunicaciones, la animación, el transporte y la ingeniería; y específicamente, la aeroespacial, el transporte urbano, la microelectrónica, los dispositivos médicos, el software avanzado, la energía hidroeléctrica y nuclear, los láseres y la optoelectrónica, la biotecnología, etc. Canadá fue uno de los primeros en el mundo en reconocer la necesidad de conectar escuelas y bibliotecas a Internet, y su programa SchoolNet está siendo copiado en todo el mundo. Se brindan todo tipo de comodidades modernas y la mayoría de los campus están conectados con las tecnologías más sofisticadas que el mundo tiene para ofrecer."
+        },
+        {
+          "title": "OPORTUNIDADES DE EMPLEO",
+          "content": "Sí, como estudiante internacional aún pagarás más que los canadienses por el mismo curso, pero ese mismo curso en otro país, como Estados Unidos, Australia o Reino Unido, probablemente costaría aún más. Además, ve el punto 1 anterior: no solo estás pagando menos en Canadá, sino que también estás ganando."
+        },
+        {
+          "title": "EDUCACIÓN Y VIDA ASEQUIBLE",
+          "content": "Canadá ofrece no solo una educación de calidad, sino una educación asequible para los estudiantes internacionales, incluidos los indios. En comparación con países como el Reino Unido, EE.UU. y Australia, el costo de la educación en Canadá es bastante moderado."
+        },
+        {
+          "title": "REQUISITOS DE ADMISIÓN",
+          "content": "Todos los estudiantes deben cumplir con estos siguientes criterios para tomar admisión en cualquier Universidad/Colegio/Instituto en Canadá: Calificaciones Académicas: Mínimo 60% de calificaciones en todos los programas de grado anteriores, es decir, nivel secundario y nivel superior o nivel intermedio y licenciatura o honores. Curso ESL (Inglés como Segundo Idioma): Calificaciones de inglés: Con/Sin IELTS pueden aplicar. Diploma: Calificaciones de inglés: Los estudiantes requieren obtener un mínimo de banda 5.5 (ninguna banda por debajo de 5.0) en IELTS o 46 en PTE o 62 en TOEFL. Programa de Licenciatura: Calificaciones de inglés: Los estudiantes requieren obtener un mínimo de banda 6.0 (ninguna banda por debajo de 5.5) en IELTS o 54 en PTE o 73 en TOEFL. Programa de Maestría: Calificaciones de inglés: Los estudiantes requieren obtener un mínimo de banda 6.5 (ninguna banda por debajo de 6.0) en IELTS o 61 en PTE o 85 en TOEFL."
+        }
+      ]
+    },
+    "whyStudyInCanada": {
+      "title": "¿POR QUÉ ESTUDIAR EN",
+      "highlightText": "CANADÁ?",
+      "description": {
+        "part1": "30 de abril de 2018 – Con 21 de las",
+        "part2": "500 mejores universidades del mundo",
+        "part3": "y 32 entre las",
+        "part4": "mejores 1000",
+        "part5": ", Canadá recibe más de",
+        "part6": "400,000 estudiantes internacionales",
+        "part7": "cada año. Ofrece los mejores programas de estudio del mundo y alberga algunas de las mejores instalaciones de investigación y instituciones académicas del mundo. Si estudiar en el extranjero es tu plan, Canadá debería estar en la parte superior de tu lista."
+      }
     }
 }

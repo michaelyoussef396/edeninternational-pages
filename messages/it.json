@@ -333,5 +333,45 @@
           "description": "Dopo aver ottenuto il COE, EDUCUDE – a nome dello studente presenterà tutti i documenti accademici e finanziari all'ambasciata e preparerà gli studenti per la biometria e il controllo medico. Ci vogliono 20-30 giorni lavorativi per ottenere un visto."
         }
       ]
+    },
+    "accordionCanada": {
+      "title": "PRINCIPALI MOTIVI PER SCEGLIERE",
+      "highlightText": "CANADA",
+      "buttonText": "OTTENERE UNA VALUTAZIONE INIZIALE GRATUITA DELLA TUA IDONEITÀ",
+      "items": [
+        {
+          "title": "PAESE SICURO",
+          "content": "Un fattore molto importante per la maggior parte degli studenti internazionali nella scelta di un programma di studio all'estero è la sicurezza del paese e in particolare della città. I genitori sono preoccupati per la sicurezza dei loro figli e fattori come i crimini contro le donne, la discriminazione razziale, il furto e la rapina giocano un ruolo importante nella scelta di una destinazione per lo studio all'estero. In questo senso, il Canada è uno dei posti più sicuri per studiare con tassi di criminalità molto bassi e casi di discriminazione razziale. Le statistiche di Numbeo rivelano che l'indice di sicurezza del Canada (62,42) è molto più alto rispetto agli indici di sicurezza di altre destinazioni popolari per lo studio all'estero come gli Stati Uniti (49,99), il Regno Unito (57,9) e l'Australia (57,94)."
+        },
+        {
+          "title": "AMBIENTE MULTICULTURALE",
+          "content": "Il Canada è un leader internazionale nelle tecnologie informatiche e dell'informazione e ha una reputazione di eccellenza in settori come le telecomunicazioni, l'animazione, i trasporti e l'ingegneria; e in particolare, l'aerospaziale, i trasporti urbani, la microelettronica, i dispositivi medici, i software avanzati, l'energia idroelettrica e nucleare, i laser e l'optoelettronica, la biotecnologia, ecc. Il Canada è stato tra i primi al mondo a riconoscere la necessità di collegare scuole e biblioteche a Internet, e il suo programma SchoolNet viene copiato in tutto il mondo. Tutti i tipi di moderni servizi sono forniti e la maggior parte dei campus sono dotati delle tecnologie più sofisticate che il mondo ha da offrire."
+        },
+        {
+          "title": "OPPORTUNITÀ DI LAVORO",
+          "content": "Sì, come studente internazionale pagherai comunque più dei canadesi per lo stesso corso, ma lo stesso corso in un altro paese, come gli Stati Uniti, l'Australia o il Regno Unito, probabilmente costerebbe ancora di più. Inoltre, vedi il punto 1 sopra - non solo paghi meno in Canada, ma guadagni anche."
+        },
+        {
+          "title": "ISTRUZIONE E VITA ABBORDABILE",
+          "content": "Il Canada offre non solo un'istruzione di qualità, ma anche un'istruzione che è abbordabile per gli studenti internazionali, compresi quelli indiani. Rispetto a paesi come il Regno Unito, gli Stati Uniti e l'Australia, il costo dell'istruzione in Canada è abbastanza moderato."
+        },
+        {
+          "title": "REQUISITI DI AMMISSIONE",
+          "content": "Tutti gli studenti devono soddisfare i seguenti criteri per essere ammessi in qualsiasi Università/College/Istituto in Canada: Qualifiche Accademiche: Minimo 60% di voti in tutti i programmi di laurea precedenti, cioè livello secondario e superiore secondario o livello intermedio e laurea o onore. Corso ESL (English as a Second Language): Qualifiche di lingua inglese: Con/Senza IELTS possono fare domanda. Diploma: Qualifiche di lingua inglese: Gli studenti devono ottenere un punteggio minimo di 5,5 (nessuna banda inferiore a 5,0) in IELTS o 46 in PTE o 62 in TOEFL. Programma di Laurea: Qualifiche di lingua inglese: Gli studenti devono ottenere un punteggio minimo di 6,0 (nessuna banda inferiore a 5,5) in IELTS o 54 in PTE o 73 in TOEFL. Programma di Master: Qualifiche di lingua inglese: Gli studenti devono ottenere un punteggio minimo di 6,5 (nessuna banda inferiore a 6,0) in IELTS o 61 in PTE o 85 in TOEFL."
+        }
+      ]
+    },
+    "whyStudyInCanada": {
+      "title": "PERCHÉ STUDIARE IN",
+      "highlightText": "CANADA?",
+      "description": {
+        "part1": "30 apr 2018 – Con 21 delle prime",
+        "part2": "500 università",
+        "part3": "del mondo e 32 nelle",
+        "part4": "prime 1000",
+        "part5": ", il Canada accoglie più di",
+        "part6": "400.000 studenti internazionali",
+        "part7": "ogni anno. Offre i migliori programmi di studio del mondo ed è sede di alcune delle principali strutture di ricerca e istituzioni accademiche del mondo. Se il tuo piano è studiare all'estero, il Canada dovrebbe essere in cima alla tua lista."
+      }
     }
 }

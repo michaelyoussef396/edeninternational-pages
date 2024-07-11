@@ -333,6 +333,46 @@
         "description": "Paşê ku COE wergirtin, EDUCUDE – bi navê xwendekarên xwe hemû belgeyên aborî û wêjeyan ji bo şandina embassy û amade kirina xwendekarên bi zanyariyên biometrîk û kontrola medîkalê yên. Ew dê li 20-30 rojên karib û piştrastiya tevgerê wergire."
       }
     ]
+  },
+  "accordionCanada": {
+    "title": "HEFTE YEKEMÎN BO HILBIJARTINA",
+    "highlightText": "KANADA",
+    "buttonText": "WARGIRINA PÊŞKIRINA SERKETÎ YA SERFRONTÎ YA TE",
+    "items": [
+      {
+        "title": "WELATÊ ARAM",
+        "content": "Yek ji tiştên girîng ji bo piraniya xwendekarên navneteweyî dema ku bernameya xwendina derveyî yên hilbijêre, ew ye ku ew welat û bajarek taybet tê behra xatirê û ewlekariyê bike. Dêûbavan bi awire bin alîkarîyê û tiştên jî kesandina jinan, ku parastin an jî qeraxasî li ser çûna peyivînê û bandorê yekcar bigihînin dema ku bernameya xwendinê derveyî hilbijêre. Di vê bazarê de, Kanada yek ji cihên ewleh e ku ji bo xwendinê yên ku rêya bilind kirin û tiştên jî li ser qeraxasî. Statistekan Numbeo nîşan dide ku Kanada indexa ewlehiyê ya wan (62.42) pir zêde ye lê indexên ewlehiyê yên cîhanê yên binîşîngê yên xwendinê yên derveyî wekî Dewletên Yekbûyî (49.99), Yekîtiya Keyanî (57.9) û Australîya (57.94)."
+      },
+      {
+        "title": "CÎHANÊ ÇANDÎ",
+        "content": "Kanada yek ji pêşengên navneteweyî ye di tehnologîya informatîk û komputerê de û di kîmasî, anîmasyon, komûnasîyon û injînêriyê de tê hesibandin. Kanada yek ji pêşengên cîhanê ye di vîrenîşkê û balafirgah, hilbijartina bajaran, mikroelektronîk, amûrên medîkal, softwareyên pêşketî, aw û elektrîk û belavkirina lazer û optoelektronîk, bîyoteknologî û hwd. Di cîhanê de Kanada yek ji yekem pêşengên cîhanê ye ku wergirtinê ya zanyarîyê ku xwe di tîpên perwerdehî û bibliothekê de bike. Hemû cîhên modernî pêşkêş dikin û piraniya kampusên ciwan in bi tehnologiyên herî pêşketî yên cîhanê peyda dikin."
+      },
+      {
+        "title": "FURSETÊN KARÊ",
+        "content": "Erê, wek xwendekarên navneteweyî hûn ê zêde bidin ji bo kursê yekemî ya wek hemû hîna pêşengîn, lê kursê yekemî yê ku di welatên dinan de, wekî Dewletên Yekbûyî, Australîya an Yekîtiya Keyanî, ew di darê xebitandinê de zêde ê kirin. Hûn ê ji bo kursê yekemî di Kanada de ne tenê bidin lê xwedan karîberiyê bibin."
+      },
+      {
+        "title": "PERWERDEYA BI XERC Û BI JA",
+        "content": "Kanada ne tenê perwerdeya nûjen pêşkêş dike, lê herwiha ji bo xwendekarên navneteweyî yên ku bi xercyên tenê bibin. Bi nişana welatên wekî UK, Dewletên Yekbûyî û Australîya, xerca perwerdeya di Kanada de herî kêm e."
+      },
+      {
+        "title": "PÊVA JI BO SERKETÎ",
+        "content": "Hemû xwendekarên hewce ne ku ew tiştan binirxînin ku wergirtina têkiliyê li her zanîngehê, koledî, an institûtê ya li Kanada. Kualifikasyonên Akademîk: Piçûkî ya 60% divê bibe di hemû bernameyên degree yên berê de. Kursê ESL (Zimanê Îngilîzî wek Zimanê Duyemîn): Kualifikasyonên zimanê îngilîzî: Bi/Ne bi IELTS dixebitin. Diploma: Kualifikasyonên zimanê îngilîzî: Xwendekarên pêdivî ye ku jî di band 5.5 (ne band jî kêmtir ji band 5.0) ya IELTS de tê de hînin an jî 46 di PTE de an 62 di TOEFL de. Bernameya Bachelor: Kualifikasyonên zimanê îngilîzî: Xwendekarên pêdivî ye ku jî di band 6.0 (ne band jî kêmtir ji band 5.5) ya IELTS de tê de hînin an jî 54 di PTE de an 73 di TOEFL de. Bernameya Masters: Kualifikasyonên zimanê îngilîzî: Xwendekarên pêdivî ye ku jî di band 6.5 (ne band jî kêmtir ji band 6.0) ya IELTS de tê de hînin an jî 61 di PTE de an 85 di TOEFL de."
+      }
+    ]
+  },
+  "whyStudyInCanada": {
+    "title": "ÇIMA XWENDIN LI",
+    "highlightText": "KANADA?",
+    "description": {
+      "part1": "30 Apr, 2018 – Bi 21 zanîngehên herî bilind yên cîhanê",
+      "part2": "500 zanîngehên",
+      "part3": "û 32 di",
+      "part4": "top 1000",
+      "part5": "de, Kanada zêdetir ji",
+      "part6": "400,000 xwendekarên navneteweyî",
+      "part7": "di her salê de qebûl dike. Ew bernameyên xwendinê yên herî baş ên cîhanê pêşkêş dike û di xwe de hinek tiştên pêşeng yên lêkolîn û zanîngehên akademîkên cîhanê heye. Ger xwendinê derveyî li plana te ye, divê Kanada li ser rûyê hûriya te be."
+    }
   }
   }
   

@@ -333,5 +333,45 @@
         "description": "After having COE, EDUCUDE – on behalf of the student will submit all academics financial documents to the embassy and prepare students for bio-metrics and medical checkup. It takes 20-30 working days to get a visa."
       }
     ]
+  },
+  "accordionCanada": {
+    "title": "TOP REASONS TO CHOOSE",
+    "highlightText": "CANADA",
+    "buttonText": "GET A FREE INITIAL ASSESSMENT OF YOUR ELIGIBILITY",
+    "items": [
+      {
+        "title": "SAFE COUNTRY",
+        "content": "A very important factor for most international students while choosing a study abroad program, is the safety and security of the country and the city in particular. Parents are worried about the safety of their children and factors like crime against women, racial discrimination, theft and burglary play an important role while choosing a destination for study abroad. In this respect, Canada is one of the safest places to study with very low crime rates and cases of racial discrimination. Statistics by Numbeo reveal that Canada’s safety index (62.42) is much higher than the safety indices of other popular study abroad destinations such as US (49.99), UK (57.9) and Australia (57.94)."
+      },
+      {
+        "title": "MULTICULTURAL ENVIRONMENT",
+        "content": "Canada is an international leader in computer and information technologies and has a reputation for excellence in such sectors as telecommunications, animation, transportation and engineering; and specifically, aerospace, urban transport, microelectronics, medical devices, advanced software, hydroelectric and nuclear power, lasers and opto-electronics, biotechnology etc. Canada was among the first in the world to recognize the need to connect schools and libraries to the Internet, and its SchoolNet program is being copied around the world. All kinds of modern amenities are provided and most campuses happen to be wired with the most sophisticated technologies the world has to offer."
+      },
+      {
+        "title": "JOB OPPORTUNITIES",
+        "content": "Yes, as an international student you will still pay more than Canadians for the same course, but that same course in another country, such as the United States, Australia or United Kingdom, would likely cost even more. Also, see point 1 above – not only are you paying less in Canada, you’re also earning."
+      },
+      {
+        "title": "AFFORDABLE EDUCATION & LIVING",
+        "content": "Canada offers not only quality education, but education which is affordable for international including Indian students. Compared to countries like the UK, USA and Australia, cost of education in Canada is quite moderate."
+      },
+      {
+        "title": "ADMISSION REQUIREMENT",
+        "content": "All students must fulfill these following criteria to take admission in any University/College/Institute in Canada: Academic Qualifications: Minimum 60% marks in all previous degree programs i.e. secondary and higher secondary level or intermediate level and bachelor or honors. ESL Course (English as a Second Language): English language qualifications: With/Without IELTS can apply. Diploma: English language qualifications: Students require to score minimum band 5.5 (no band less than 5.0) in IELTS or 46 in PTE or 62 in TOEFL. Bachelor Program: English language qualifications: Students require to score minimum band 6.0 (no band less than 5.5) in IELTS or 54 in PTE or 73 in TOEFL. Masters Program: English language qualifications: Students require to score minimum band 6.5 (no band less than 6.0) in IELTS or 61 in PTE or 85 in TOEFL."
+      }
+    ]
+  },
+  "whyStudyInCanada": {
+    "title": "WHY STUDY IN",
+    "highlightText": "CANADA?",
+    "description": {
+      "part1": "Apr 30, 2018 – With 21 of the world’s top",
+      "part2": "500 universities",
+      "part3": "and 32 in the",
+      "part4": "top 1000",
+      "part5": ", Canada welcomes more than",
+      "part6": "400,000 international students",
+      "part7": "each year. It offers the world’s best study programs and is home to some of the world’s leading research facilities and academic institutions. If studying abroad is your plan, Canada should be at the top of your list."
+    }
   }
 }

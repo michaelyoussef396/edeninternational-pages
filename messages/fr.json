@@ -333,5 +333,45 @@
           "description": "Après avoir obtenu le COE, EDUCUDE - au nom de l'étudiant - soumettra tous les documents académiques et financiers à l'ambassade et préparera les étudiants pour les empreintes digitales et l'examen médical. Il faut 20 à 30 jours ouvrables pour obtenir un visa."
         }
       ]
+    },
+    "accordionCanada": {
+      "title": "RAISONS PRINCIPALES DE CHOISIR",
+      "highlightText": "LE CANADA",
+      "buttonText": "OBTENEZ UNE ÉVALUATION INITIALE GRATUITE DE VOTRE ÉLIGIBILITÉ",
+      "items": [
+        {
+          "title": "PAYS SÛR",
+          "content": "Un facteur très important pour la plupart des étudiants internationaux lors du choix d'un programme d'études à l'étranger est la sécurité du pays et de la ville en particulier. Les parents sont inquiets de la sécurité de leurs enfants et des facteurs comme la criminalité contre les femmes, la discrimination raciale, le vol et le cambriolage jouent un rôle important dans le choix d'une destination pour étudier à l'étranger. À cet égard, le Canada est l'un des endroits les plus sûrs pour étudier avec des taux de criminalité très bas et des cas de discrimination raciale rares. Les statistiques de Numbeo révèlent que l'indice de sécurité du Canada (62,42) est bien supérieur aux indices de sécurité d'autres destinations d'études populaires comme les États-Unis (49,99), le Royaume-Uni (57,9) et l'Australie (57,94)."
+        },
+        {
+          "title": "ENVIRONNEMENT MULTICULTUREL",
+          "content": "Le Canada est un leader international dans les technologies de l'information et de la communication et jouit d'une réputation d'excellence dans des secteurs tels que les télécommunications, l'animation, le transport et l'ingénierie; et en particulier, l'aérospatiale, les transports urbains, la microélectronique, les dispositifs médicaux, les logiciels avancés, l'énergie hydroélectrique et nucléaire, les lasers et l'optique, la biotechnologie, etc. Le Canada a été parmi les premiers au monde à reconnaître la nécessité de connecter les écoles et les bibliothèques à Internet, et son programme SchoolNet est copié dans le monde entier. Toutes sortes de commodités modernes sont fournies et la plupart des campus sont équipés des technologies les plus sophistiquées que le monde a à offrir."
+        },
+        {
+          "title": "OPPORTUNITÉS D'EMPLOI",
+          "content": "Oui, en tant qu'étudiant international, vous paierez toujours plus que les Canadiens pour le même cours, mais ce même cours dans un autre pays, comme les États-Unis, l'Australie ou le Royaume-Uni, coûterait probablement encore plus. De plus, voir le point 1 ci-dessus – non seulement vous payez moins au Canada, mais vous gagnez aussi."
+        },
+        {
+          "title": "ÉDUCATION ET VIE ABORDABLES",
+          "content": "Le Canada offre non seulement une éducation de qualité, mais une éducation abordable pour les étudiants internationaux, y compris les étudiants indiens. Comparé à des pays comme le Royaume-Uni, les États-Unis et l'Australie, le coût de l'éducation au Canada est assez modéré."
+        },
+        {
+          "title": "EXIGENCE D'ADMISSION",
+          "content": "Tous les étudiants doivent remplir les critères suivants pour être admis dans toute université/école/Institut au Canada : Qualifications académiques : minimum 60% de notes dans tous les programmes de diplôme antérieurs, c'est-à-dire au niveau secondaire et supérieur secondaire ou au niveau intermédiaire et au niveau baccalauréat ou honneurs. Cours d'anglais (anglais comme langue seconde) : Qualifications en anglais : avec/sans IELTS peuvent postuler. Diplôme : Qualifications en anglais : Les étudiants doivent obtenir un score minimum de 5,5 (aucune bande inférieure à 5,0) dans IELTS ou 46 dans PTE ou 62 dans TOEFL. Programme de baccalauréat : Qualifications en anglais : Les étudiants doivent obtenir un score minimum de 6,0 (aucune bande inférieure à 5,5) dans IELTS ou 54 dans PTE ou 73 dans TOEFL. Programme de maîtrise : Qualifications en anglais : Les étudiants doivent obtenir un score minimum de 6,5 (aucune bande inférieure à 6,0) dans IELTS ou 61 dans PTE ou 85 dans TOEFL."
+        }
+      ]
+    },
+    "whyStudyInCanada": {
+      "title": "POURQUOI ÉTUDIER AU",
+      "highlightText": "CANADA?",
+      "description": {
+        "part1": "30 avr. 2018 – Avec 21 des",
+        "part2": "500 meilleures universités",
+        "part3": "du monde et 32 dans les",
+        "part4": "1000 meilleures",
+        "part5": ", le Canada accueille plus de",
+        "part6": "400 000 étudiants internationaux",
+        "part7": "chaque année. Il offre les meilleurs programmes d'études au monde et abrite certaines des meilleures installations de recherche et institutions académiques au monde. Si étudier à l'étranger fait partie de votre plan, le Canada devrait figurer en tête de votre liste."
+      }
     }
 }

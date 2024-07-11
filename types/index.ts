@@ -18,6 +18,10 @@ export interface LocaleLayoutProps {
       locale: string;
     };
   }
+  export interface AccordionItemProps {
+    title: string;
+    content: string;
+  }
 
   export interface Step {
     title: string;

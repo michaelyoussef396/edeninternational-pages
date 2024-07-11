@@ -333,6 +333,46 @@
         "description": "Po uzyskaniu COE, EDUCUDE – w imieniu studenta, prześle wszystkie dokumenty finansowe i akademickie do ambasady i przygotuje studentów do biometryki i badania lekarskiego. Uzyskanie wizy zajmuje 20-30 dni roboczych."
       }
     ]
+  },
+  "accordionCanada": {
+    "title": "GŁÓWNE POWODY WYBORU",
+    "highlightText": "KANADY",
+    "buttonText": "UZYSKAJ BEZPŁATNĄ WSTĘPNĄ OCENĘ SWOJEJ KWALIFIKACJI",
+    "items": [
+      {
+        "title": "BEZPIECZNY KRAJ",
+        "content": "Bardzo ważnym czynnikiem dla większości międzynarodowych studentów przy wyborze programu studiów za granicą jest bezpieczeństwo kraju i miasta, w szczególności. Rodzice martwią się o bezpieczeństwo swoich dzieci, a takie czynniki jak przestępstwa przeciwko kobietom, dyskryminacja rasowa, kradzieże i włamania odgrywają ważną rolę przy wyborze miejsca studiów za granicą. W tym zakresie Kanada jest jednym z najbezpieczniejszych miejsc do studiowania z bardzo niskimi wskaźnikami przestępczości i przypadkami dyskryminacji rasowej. Statystyki Numbeo pokazują, że wskaźnik bezpieczeństwa Kanady (62,42) jest znacznie wyższy niż wskaźniki bezpieczeństwa innych popularnych destynacji studiów za granicą, takich jak USA (49,99), Wielka Brytania (57,9) i Australia (57,94)."
+      },
+      {
+        "title": "WIELOKULTUROWE ŚRODOWISKO",
+        "content": "Kanada jest międzynarodowym liderem w dziedzinie technologii komputerowych i informacyjnych oraz cieszy się doskonałą reputacją w takich sektorach jak telekomunikacja, animacja, transport i inżynieria; a konkretnie, przemysł lotniczy, transport miejski, mikroelektronika, urządzenia medyczne, zaawansowane oprogramowanie, energia hydroelektryczna i jądrowa, lasery i optoelektronika, biotechnologia itd. Kanada była jedną z pierwszych na świecie, która uznała potrzebę połączenia szkół i bibliotek z Internetem, a jej program SchoolNet jest kopiowany na całym świecie. Wszystkie rodzaje nowoczesnych udogodnień są zapewniane, a większość kampusów jest wyposażona w najbardziej zaawansowane technologie, jakie świat ma do zaoferowania."
+      },
+      {
+        "title": "MOŻLIWOŚCI ZATRUDNIENIA",
+        "content": "Tak, jako międzynarodowy student nadal będziesz płacić więcej niż Kanadyjczycy za ten sam kurs, ale ten sam kurs w innym kraju, takim jak Stany Zjednoczone, Australia czy Wielka Brytania, prawdopodobnie kosztowałby jeszcze więcej. Ponadto, patrz punkt 1 powyżej - nie tylko płacisz mniej w Kanadzie, ale także zarabiasz."
+      },
+      {
+        "title": "PRZYSTĘPNA EDUKACJA I ŻYCIE",
+        "content": "Kanada oferuje nie tylko wysokiej jakości edukację, ale również edukację przystępną cenowo dla międzynarodowych studentów, w tym studentów z Indii. W porównaniu do krajów takich jak Wielka Brytania, USA i Australia, koszty edukacji w Kanadzie są dość umiarkowane."
+      },
+      {
+        "title": "WYMAGANIA REKRUTACYJNE",
+        "content": "Wszyscy studenci muszą spełniać następujące kryteria, aby móc podjąć studia na jakimkolwiek uniwersytecie/koleżu/instytucie w Kanadzie: Kwalifikacje akademickie: Minimum 60% wyników we wszystkich poprzednich programach studiów, tj. na poziomie średnim i wyższym średnim lub na poziomie średnim i licencjackim lub honorowym. Kurs ESL (Angielski jako Drugi Język): Kwalifikacje z języka angielskiego: Z/Bez IELTS można aplikować. Dyplom: Kwalifikacje z języka angielskiego: Studenci muszą uzyskać minimum 5,5 punktów (żaden wynik nie mniejszy niż 5,0) w IELTS lub 46 w PTE lub 62 w TOEFL. Program licencjacki: Kwalifikacje z języka angielskiego: Studenci muszą uzyskać minimum 6,0 punktów (żaden wynik nie mniejszy niż 5,5) w IELTS lub 54 w PTE lub 73 w TOEFL. Program magisterski: Kwalifikacje z języka angielskiego: Studenci muszą uzyskać minimum 6,5 punktów (żaden wynik nie mniejszy niż 6,0) w IELTS lub 61 w PTE lub 85 w TOEFL."
+      }
+    ]
+  },
+  "whyStudyInCanada": {
+    "title": "DLACZEGO STUDIOWAĆ W",
+    "highlightText": "KANADZIE?",
+    "description": {
+      "part1": "30 kwietnia 2018 – Z 21 najlepszymi",
+      "part2": "500 uniwersytetami",
+      "part3": "i 32 w",
+      "part4": "top 1000",
+      "part5": ", Kanada przyjmuje ponad",
+      "part6": "400 000 międzynarodowych studentów",
+      "part7": "każdego roku. Oferuje najlepsze programy studiów na świecie i jest siedzibą niektórych z wiodących światowych placówek badawczych i instytucji akademickich. Jeśli planujesz studia za granicą, Kanada powinna być na szczycie twojej listy."
+    }
   }
   }
   

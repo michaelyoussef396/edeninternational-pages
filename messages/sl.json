@@ -333,6 +333,46 @@
         "description": "Po pridobitvi COE bo EDUCUDE – v imenu študenta predložil vse akademske in finančne dokumente veleposlaništvu in pripravil študente na biometrične in zdravstvene preglede. Za pridobitev vize traja 20-30 delovnih dni."
       }
     ]
+  },
+  "accordionCanada": {
+    "title": "GLAVNI RAZLOGI ZA IZBIRO",
+    "highlightText": "KANADA",
+    "buttonText": "PRIDOBITE BREZPLAČNO PRVO OCENO VAŠE USTREZNOSTI",
+    "items": [
+      {
+        "title": "VARNA DRŽAVA",
+        "content": "Zelo pomemben dejavnik za večino mednarodnih študentov pri izbiri študijskega programa v tujini je varnost države in mesta, zlasti. Starši so zaskrbljeni glede varnosti svojih otrok, in dejavniki, kot so kriminal nad ženskami, rasna diskriminacija, tatvine in vlomi igrajo pomembno vlogo pri izbiri destinacije za študij v tujini. V tem pogledu je Kanada ena najvarnejših krajev za študij z zelo nizko stopnjo kriminala in primerov rasne diskriminacije. Statistični podatki Numbeo razkrivajo, da je varnostni indeks Kanade (62,42) precej višji od varnostnih indeksov drugih priljubljenih destinacij za študij v tujini, kot so ZDA (49,99), Združeno kraljestvo (57,9) in Avstralija (57,94)."
+      },
+      {
+        "title": "MULTIKULTURNO OKOLJE",
+        "content": "Kanada je mednarodni vodja na področju računalniških in informacijskih tehnologij in ima odličen ugled v sektorjih, kot so telekomunikacije, animacija, transport in inženirstvo; in sicer v letalski industriji, mestnem transportu, mikroelektroniki, medicinskih napravah, napredni programski opremi, hidroelektrični in jedrski energiji, laserjih in optoelektroniki, biotehnologiji itd. Kanada je bila ena prvih na svetu, ki je prepoznala potrebo po povezovanju šol in knjižnic z internetom, njen program SchoolNet pa je kopiran po vsem svetu. Na voljo so vse vrste modernih udobnosti, večina kampusov pa je opremljena z najnaprednejšimi tehnologijami, ki jih svet ponuja."
+      },
+      {
+        "title": "PRILOŽNOSTI ZA ZAPOSLITEV",
+        "content": "Da, kot mednarodni študent boste še vedno plačali več kot Kanadčani za isti tečaj, vendar bi ta isti tečaj v drugi državi, kot so Združene države, Avstralija ali Združeno kraljestvo, verjetno stal še več. Poleg tega, glejte točko 1 zgoraj – ne le, da v Kanadi plačate manj, ampak tudi zaslužite."
+      },
+      {
+        "title": "DOSTOPNO IZOBRAŽEVANJE IN ŽIVLJENJE",
+        "content": "Kanada ne ponuja le kakovostnega izobraževanja, temveč tudi izobraževanje, ki je cenovno dostopno za mednarodne, vključno z indijskimi študenti. V primerjavi z državami, kot so Združeno kraljestvo, ZDA in Avstralija, so stroški izobraževanja v Kanadi precej zmerni."
+      },
+      {
+        "title": "POGOJI ZA VPIS",
+        "content": "Vsi študenti morajo izpolnjevati naslednja merila, da se lahko vpišejo na katero koli univerzo/kolidž/institut v Kanadi: Akademske kvalifikacije: Najmanj 60% ocen v vseh prejšnjih študijskih programih, tj. na sekundarni in višji sekundarni ravni ali na vmesni ravni in na ravni dodiplomskega ali častnega študija. ESL tečaj (Angleščina kot drugi jezik): Kvalifikacije iz angleškega jezika: Z/Brez IELTS lahko zaprosijo. Diploma: Kvalifikacije iz angleškega jezika: Študenti morajo doseči najmanj 5,5 točk (nobena točka ne sme biti manjša od 5,0) v IELTS ali 46 v PTE ali 62 v TOEFL. Program za dodiplomski študij: Kvalifikacije iz angleškega jezika: Študenti morajo doseči najmanj 6,0 točk (nobena točka ne sme biti manjša od 5,5) v IELTS ali 54 v PTE ali 73 v TOEFL. Program za magistrski študij: Kvalifikacije iz angleškega jezika: Študenti morajo doseči najmanj 6,5 točk (nobena točka ne sme biti manjša od 6,0) v IELTS ali 61 v PTE ali 85 v TOEFL."
+      }
+    ]
+  },
+  "whyStudyInCanada": {
+    "title": "ZAKAJ ŠTUDIRATI V",
+    "highlightText": "KANADI?",
+    "description": {
+      "part1": "30. aprila 2018 – S 21 najboljšimi",
+      "part2": "500 univerzami",
+      "part3": "in 32 v",
+      "part4": "top 1000",
+      "part5": ", Kanada sprejema več kot",
+      "part6": "400.000 mednarodnih študentov",
+      "part7": "vsako leto. Ponuja najboljše študijske programe na svetu in je dom nekaterih vodilnih svetovnih raziskovalnih ustanov in akademskih institucij. Če je študij v tujini tvoj načrt, bi morala Kanada biti na vrhu tvoje liste."
+    }
   }
   }
   

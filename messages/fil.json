@@ -333,5 +333,45 @@
           "description": "Pagkatapos magkaroon ng COE, ang EDUCUDE - sa ngalan ng estudyante ay magsusumite ng lahat ng akademikong dokumento sa pananalapi sa embahada at maghahanda ng mga estudyante para sa bio-metrics at medikal na pagsusuri. Tumagal ng 20-30 araw ng trabaho upang makakuha ng visa."
         }
       ]
+    },
+    "accordionCanada": {
+      "title": "NANGUNGUNANG MGA DAHILAN PARA PUMILI NG",
+      "highlightText": "CANADA",
+      "buttonText": "KUMUHA NG LIBRENG PAUNANG PAGSUSURI NG IYONG KARAPAT-DAPAT",
+      "items": [
+        {
+          "title": "LIGTAS NA BANSA",
+          "content": "Isang napakahalagang salik para sa karamihan ng mga international students habang pumipili ng programa sa pag-aaral sa ibang bansa, ay ang kaligtasan at seguridad ng bansa at partikular na lungsod. Ang mga magulang ay nag-aalala tungkol sa kaligtasan ng kanilang mga anak at mga salik tulad ng krimen laban sa mga kababaihan, diskriminasyon sa lahi, pagnanakaw at pagnanakaw ay may mahalagang papel sa pagpili ng destinasyon para sa pag-aaral sa ibang bansa. Sa ganitong aspeto, ang Canada ay isa sa mga pinakaligtas na lugar upang mag-aral na may napakababang mga rate ng krimen at mga kaso ng diskriminasyon sa lahi. Ang mga istatistika ng Numbeo ay nagpapakita na ang safety index ng Canada (62.42) ay mas mataas kaysa sa safety indices ng iba pang mga popular na destinasyon para sa pag-aaral sa ibang bansa tulad ng US (49.99), UK (57.9) at Australia (57.94)."
+        },
+        {
+          "title": "MULTICULTURAL NA KAPALIGIRAN",
+          "content": "Ang Canada ay isang internasyonal na lider sa computer at information technologies at may reputasyon para sa kahusayan sa mga sektor tulad ng telecommunications, animation, transportasyon at engineering; at partikular, aerospace, urban transport, microelectronics, medical devices, advanced software, hydroelectric at nuclear power, lasers at opto-electronics, biotechnology atbp. Ang Canada ay isa sa mga unang bansa sa mundo na kinilala ang pangangailangan na ikonekta ang mga paaralan at mga aklatan sa Internet, at ang SchoolNet program nito ay kinopya sa buong mundo. Lahat ng uri ng mga modernong pasilidad ay ibinibigay at karamihan sa mga kampus ay naka-wire sa mga pinaka-sopistikadong teknolohiya na inaalok ng mundo."
+        },
+        {
+          "title": "MGA PAGKAKATAON SA TRABAHO",
+          "content": "Oo, bilang isang international student ay magbabayad ka pa rin ng higit kaysa sa mga Canadians para sa parehong kurso, ngunit ang parehong kurso sa ibang bansa, tulad ng Estados Unidos, Australia o United Kingdom, ay malamang na mas mahal pa. Gayundin, tingnan ang punto 1 sa itaas - hindi lamang mas mababa ang binabayaran mo sa Canada, kumikita ka rin."
+        },
+        {
+          "title": "ABOT-KAYANG EDUKASYON AT PAMUMUHAY",
+          "content": "Nag-aalok ang Canada hindi lamang ng de-kalidad na edukasyon, ngunit edukasyong abot-kaya para sa mga international kabilang ang mga Indian na estudyante. Kung ihahambing sa mga bansa tulad ng UK, USA at Australia, ang halaga ng edukasyon sa Canada ay medyo katamtaman."
+        },
+        {
+          "title": "PANGANGAILANGAN SA PAGPASOK",
+          "content": "Lahat ng estudyante ay dapat matugunan ang mga sumusunod na pamantayan upang makapasok sa anumang Unibersidad/Kolehiyo/Institute sa Canada: Academic Qualifications: Minimum 60% na marka sa lahat ng naunang programa ng degree i.e. secondary at higher secondary level o intermediate level at bachelor o honors. ESL Course (English as a Second Language): English language qualifications: With/Without IELTS maaaring mag-apply. Diploma: English language qualifications: Ang mga estudyante ay nangangailangan ng minimum band na 5.5 (walang band na mas mababa sa 5.0) sa IELTS o 46 sa PTE o 62 sa TOEFL. Bachelor Program: English language qualifications: Ang mga estudyante ay nangangailangan ng minimum band na 6.0 (walang band na mas mababa sa 5.5) sa IELTS o 54 sa PTE o 73 sa TOEFL. Masters Program: English language qualifications: Ang mga estudyante ay nangangailangan ng minimum band na 6.5 (walang band na mas mababa sa 6.0) sa IELTS o 61 sa PTE o 85 sa TOEFL."
+        }
+      ]
+    },
+    "whyStudyInCanada": {
+      "title": "BAKIT MAG-ARAL SA",
+      "highlightText": "CANADA?",
+      "description": {
+        "part1": "Abril 30, 2018 – Mayroong 21 sa pinakamataas na",
+        "part2": "500 unibersidad",
+        "part3": "at 32 sa",
+        "part4": "top 1000",
+        "part5": ", tinatanggap ng Canada ang mahigit sa",
+        "part6": "400,000 international students",
+        "part7": "bawat taon. Nag-aalok ito ng mga pinakamahusay na programa sa pag-aaral sa mundo at tahanan ng ilan sa mga nangungunang pasilidad sa pananaliksik at mga institusyong akademiko sa mundo. Kung ang pag-aaral sa ibang bansa ay iyong plano, ang Canada ay dapat nasa tuktok ng iyong listahan."
+      }
     }
 }

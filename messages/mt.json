@@ -333,5 +333,45 @@
           "description": "Wara li jkollhom COE, EDUCUDE – f'isem l-istudent se jissottometti d-dokumenti finanzjarji akkademiċi kollha lill-ambaxxata u jipprepara lill-istudenti għall-bijo-metrika u kontroll mediku. Jieħu 20-30 jum ta' ħidma biex tikseb viża."
         }
       ]
+    },
+    "accordionCanada": {
+      "title": "RAĠUNijiet EWLENIN BIEX TAGĦŻEL",
+      "highlightText": "KANADA",
+      "buttonText": "IKSEB VALUTAZZJONI INIZZJALI B'XEJN TA' L-ELIGIBILITÀ TIEGĦEK",
+      "items": [
+        {
+          "title": "PAJJIŻ SIGUR",
+          "content": "Fattur importanti ħafna għal ħafna studenti internazzjonali waqt li jagħżlu programm ta' studju barra minn xtutna, hija s-sigurtà u s-sigurtà tal-pajjiż u l-belt b'mod partikolari. Il-ġenituri huma mħassba dwar is-sigurtà tat-tfal tagħhom u fatturi bħal kriminalità kontra n-nisa, diskriminazzjoni razzjali, serq u serq għandhom rwol importanti waqt li jagħżlu destinazzjoni għall-istudju barra minn xtutna. F'dan ir-rigward, il-Kanada hija waħda mill-aktar postijiet siguri biex tistudja b'rati baxxi ħafna ta' kriminalità u każijiet ta' diskriminazzjoni razzjali. Statistiċi minn Numbeo juru li l-indiċi tas-sigurtà tal-Kanada (62.42) huwa ferm ogħla mill-indiċi tas-sigurtà ta' destinazzjonijiet oħra popolari għall-istudju barra l-pajjiż bħall-Istati Uniti (49.99), ir-Renju Unit (57.9) u l-Awstralja (57.94)."
+        },
+        {
+          "title": "AMBIJENT MULTIKULTURALI",
+          "content": "Il-Kanada hija mexxejja internazzjonali fil-kompjuter u t-teknoloġiji tal-informazzjoni u għandha reputazzjoni għall-eċċellenza f'setturi bħal telekomunikazzjonijiet, animazzjoni, trasport u inġinerija; u speċifikament, ajrużvja, trasport urban, mikroeletronika, apparat mediku, softwer avvanzat, enerġija idroelettrika u nukleari, lasers u opto-elettronika, bijoteknoloġija eċċ. Il-Kanada kienet fost l-ewwel fid-dinja li rrikonoxxiet il-ħtieġa li tgħaqqad skejjel u libreriji mal-Internet, u l-programm SchoolNet tagħha qed jiġi kkupjat madwar id-dinja. Tipi kollha ta' servizzi moderni huma pprovduti u l-maġġoranza tal-kampusijiet jiġru jkunu mqabbda mal-aktar teknoloġiji sofistikati li d-dinja għandha toffri."
+        },
+        {
+          "title": "OPPORTUNITAJIET TA' XOGĦOL",
+          "content": "Iva, bħala student internazzjonali xorta tħallas aktar mill-Kanadiżi għall-istess kors, iżda dak l-istess kors f'pajjiż ieħor, bħall-Istati Uniti, l-Awstralja jew ir-Renju Unit, x'aktarx jiswa anke aktar. Ukoll, ara l-punt 1 hawn fuq - mhux biss qed tħallas inqas fil-Kanada, int ukoll qed taqla'."
+        },
+        {
+          "title": "EDUKAZZJONI AFFORDABLI & ĦAJJA",
+          "content": "Il-Kanada toffri mhux biss edukazzjoni ta' kwalità, iżda edukazzjoni li hija affordabbli għal studenti internazzjonali inklużi l-Indjani. Meta mqabbla ma' pajjiżi bħal ir-Renju Unit, l-Istati Uniti u l-Awstralja, l-ispiża tal-edukazzjoni fil-Kanada hija pjuttost moderata."
+        },
+        {
+          "title": "REQUISITI TA' AMMISSJONI",
+          "content": "L-istudenti kollha għandhom jissodisfaw dawn ir-rekwiżiti biex jidħlu fi kwalunkwe Università/Kulleġġ/Istituzzjoni fil-Kanada: Kwalifikazzjonijiet Akkademiċi: Minimu ta' 60% marka fl-programmi tal-lawrji kollha preċedenti, jiġifieri livell sekondarju u superjuri jew livell intermedju u baċellerat jew unuri. Kors ESL (Ingliż bħala Lingwa Ġdida): Kwalifikazzjonijiet tal-lingwa Ingliża: Bi jew mingħajr IELTS jistgħu japplikaw. Diploma: Kwalifikazzjonijiet tal-lingwa Ingliża: L-istudenti jeħtieġ li jiksbu skor ta' mill-inqas band 5.5 (ebda band inqas minn 5.0) fl-IELTS jew 46 fil-PTE jew 62 fit-TOEFL. Programm tal-Baċellerat: Kwalifikazzjonijiet tal-lingwa Ingliża: L-istudenti jeħtieġ li jiksbu skor ta' mill-inqas band 6.0 (ebda band inqas minn 5.5) fl-IELTS jew 54 fil-PTE jew 73 fit-TOEFL. Programm tal-Masters: Kwalifikazzjonijiet tal-lingwa Ingliża: L-istudenti jeħtieġ li jiksbu skor ta' mill-inqas band 6.5 (ebda band inqas minn 6.0) fl-IELTS jew 61 fil-PTE jew 85 fit-TOEFL."
+        }
+      ]
+    },
+    "whyStudyInCanada": {
+      "title": "GĦALIEX TISTUDJA FIL",
+      "highlightText": "KANADA?",
+      "description": {
+        "part1": "30 ta' April, 2018 – B'21 mill-aqwa",
+        "part2": "500 universitajiet",
+        "part3": "tad-dinja u 32 fl-aqwa",
+        "part4": "1000",
+        "part5": ", il-Kanada tilqa' aktar minn",
+        "part6": "400,000 studenti internazzjonali",
+        "part7": "kull sena. Toffri l-aqwa programmi ta' studju tad-dinja u hija d-dar ta' xi wħud mill-aqwa faċilitajiet ta' riċerka u istituzzjonijiet akkademiċi tad-dinja. Jekk l-istudju barra l-pajjiż huwa l-pjan tiegħek, il-Kanada għandha tkun fl-ewwel post tal-lista tiegħek."
+      }
     }
 }
