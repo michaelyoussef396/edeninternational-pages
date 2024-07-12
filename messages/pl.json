@@ -1023,6 +1023,23 @@
     "submitting": "Wysyłanie...",
     "successMessage": "Spotkanie zostało pomyślnie umówione!",
     "errorMessage": "Błąd podczas umawiania spotkania"
-  }
+  },
+  "contactForm": {
+  "title": "Nie wahaj się się z nami skontaktować",
+  "namePlaceholder": "Twoje imię",
+  "emailPlaceholder": "Twój email",
+  "phonePlaceholder": "Twój telefon",
+  "messagePlaceholder": "Wpisz wiadomość",
+  "submitButton": "Wyślij wiadomość",
+  "sendingButton": "Wysyłanie...",
+  "successMessage": "Email wysłany pomyślnie!",
+  "errorMessage": "Błąd podczas wysyłania emaila"
+},
+"heroSectionCon": {
+  "contactUsTitle": "Nie wahaj się",
+  "contactUsHighlightText": " Skontaktować z nami"
+}
+
+
   }
   

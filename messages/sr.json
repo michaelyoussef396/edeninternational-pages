@@ -1023,7 +1023,23 @@
     "submitting": "Шаљем...",
     "successMessage": "Термин је успешно закажен!",
     "errorMessage": "Грешка при закаживању термина"
-  }
+  },
+  "contactForm": {
+  "title": "Ne oklevajte da nas kontaktirate",
+  "namePlaceholder": "Vaše ime",
+  "emailPlaceholder": "Vaša email adresa",
+  "phonePlaceholder": "Vaš telefon",
+  "messagePlaceholder": "Unesite poruku",
+  "submitButton": "Pošalji poruku",
+  "sendingButton": "Slanje...",
+  "successMessage": "Email uspešno poslat!",
+  "errorMessage": "Greška pri slanju emaila"
+},
+"heroSectionCon": {
+  "contactUsTitle": "Ne oklevajte da",
+  "contactUsHighlightText": " nas kontaktirate"
+}
+
 
   }
   

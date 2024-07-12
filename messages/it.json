@@ -1023,5 +1023,22 @@
     "submitting": "Invio in corso...",
     "successMessage": "Appuntamento programmato con successo!",
     "errorMessage": "Errore nella programmazione dell'appuntamento"
-  }
+  },
+  "contactForm": {
+  "title": "Non esitare a contattarci",
+  "namePlaceholder": "Il tuo nome",
+  "emailPlaceholder": "La tua email",
+  "phonePlaceholder": "Il tuo telefono",
+  "messagePlaceholder": "Scrivi il messaggio",
+  "submitButton": "Invia Messaggio",
+  "sendingButton": "Invio in corso...",
+  "successMessage": "Email inviata con successo!",
+  "errorMessage": "Errore durante l'invio dell'email"
+},
+"heroSectionCon": {
+  "contactUsTitle": "Non esitare a",
+  "contactUsHighlightText": " Contattarci"
+}
+
+
 }

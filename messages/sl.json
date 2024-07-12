@@ -1023,6 +1023,22 @@
     "submitting": "Odosielanie...",
     "successMessage": "Schôdzka bola úspešne naplánovaná!",
     "errorMessage": "Chyba pri plánovaní schôdzky"
-  }
+  },
+  "contactForm": {
+  "title": "Ne oklevajte nas kontaktirati",
+  "namePlaceholder": "Vaše ime",
+  "emailPlaceholder": "Vaš email",
+  "phonePlaceholder": "Vaš telefon",
+  "messagePlaceholder": "Vnesite sporočilo",
+  "submitButton": "Pošlji sporočilo",
+  "sendingButton": "Pošiljanje...",
+  "successMessage": "Email uspešno poslan!",
+  "errorMessage": "Napaka pri pošiljanju emaila"
+},
+"heroSectionCon": {
+  "contactUsTitle": "Ne oklevajte",
+  "contactUsHighlightText": " Nas Kontaktirati"
+}
+
   }
   

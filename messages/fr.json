@@ -1023,5 +1023,21 @@
     "submitting": "Soumission...",
     "successMessage": "Rendez-vous pris avec succès!",
     "errorMessage": "Erreur lors de la prise de rendez-vous"
-  }
+  },
+  "contactForm": {
+  "title": "N'hésitez pas à nous contacter",
+  "namePlaceholder": "Votre Nom",
+  "emailPlaceholder": "Votre Email",
+  "phonePlaceholder": "Votre Téléphone",
+  "messagePlaceholder": "Tapez votre message",
+  "submitButton": "Envoyer le Message",
+  "sendingButton": "Envoi en cours...",
+  "successMessage": "Email envoyé avec succès !",
+  "errorMessage": "Erreur lors de l'envoi de l'email"
+},
+"heroSectionCon": {
+  "contactUsTitle": "N'hésitez pas à",
+  "contactUsHighlightText": " Nous contacter"
+}
+
 }

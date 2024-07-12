@@ -1027,6 +1027,21 @@
     "submitting": "Submitting...",
     "successMessage": "Appointment scheduled successfully!",
     "errorMessage": "Error scheduling appointment"
+  },
+  "heroSectionCon": {
+    "contactUsTitle": "Don't Hesitate to",
+    "contactUsHighlightText": " Contact Us"
+  },
+  "contactForm": {
+    "title": "Do not Hesitate to Contact Us",
+    "namePlaceholder": "Your Name",
+    "emailPlaceholder": "Your Email",
+    "phonePlaceholder": "Your Phone",
+    "messagePlaceholder": "Type message",
+    "submitButton": "Send Message",
+    "sendingButton": "Sending...",
+    "successMessage": "Email sent successfully!",
+    "errorMessage": "Error sending email"
   }
   
 }

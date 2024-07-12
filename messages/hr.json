@@ -1023,5 +1023,22 @@
     "submitting": "Podnošenje...",
     "successMessage": "Termin uspješno zakazan!",
     "errorMessage": "Greška pri zakazivanju termina"
-  }
+  },
+  "contactForm": {
+  "title": "Ne ustručavajte se kontaktirati nas",
+  "namePlaceholder": "Vaše ime",
+  "emailPlaceholder": "Vaša e-pošta",
+  "phonePlaceholder": "Vaš telefon",
+  "messagePlaceholder": "Upišite poruku",
+  "submitButton": "Pošalji poruku",
+  "sendingButton": "Slanje...",
+  "successMessage": "Poruka uspješno poslana!",
+  "errorMessage": "Pogreška pri slanju poruke"
+},
+"heroSectionCon": {
+  "contactUsTitle": "Ne oklijevajte",
+  "contactUsHighlightText": " Nas Kontaktirati"
+}
+
+
 }

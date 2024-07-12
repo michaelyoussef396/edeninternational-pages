@@ -1023,5 +1023,21 @@
     "submitting": "提交中...",
     "successMessage": "预约成功！",
     "errorMessage": "预约错误"
-  }
+  },
+  "contactForm": {
+  "title": "请随时与我们联系",
+  "namePlaceholder": "您的姓名",
+  "emailPlaceholder": "您的邮箱",
+  "phonePlaceholder": "您的电话",
+  "messagePlaceholder": "请输入消息",
+  "submitButton": "发送消息",
+  "sendingButton": "发送中...",
+  "successMessage": "邮件发送成功！",
+  "errorMessage": "发送邮件时出错"
+},
+"heroSectionCon": {
+  "contactUsTitle": "随时",
+  "contactUsHighlightText": " 联系我们"
+}
+
 }

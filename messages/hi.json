@@ -1023,5 +1023,21 @@
     "submitting": "जमा किया जा रहा है...",
     "successMessage": "नियुक्ति सफलतापूर्वक निर्धारित की गई!",
     "errorMessage": "नियुक्ति निर्धारित करने में त्रुटि"
-  }
+  },
+  "contactForm": {
+  "title": "हमसे संपर्क करने में हिचकिचाएं नहीं",
+  "namePlaceholder": "आपका नाम",
+  "emailPlaceholder": "आपका ईमेल",
+  "phonePlaceholder": "आपका फोन",
+  "messagePlaceholder": "संदेश टाइप करें",
+  "submitButton": "संदेश भेजें",
+  "sendingButton": "भेजा जा रहा है...",
+  "successMessage": "ईमेल सफलतापूर्वक भेजा गया!",
+  "errorMessage": "ईमेल भेजने में त्रुटि"
+},
+"heroSectionCon": {
+  "contactUsTitle": "हमसे संपर्क में",
+  "contactUsHighlightText": " हिचकिचाएं नहीं"
+}
+
 }

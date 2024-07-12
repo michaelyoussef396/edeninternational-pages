@@ -1023,5 +1023,22 @@
     "submitting": "Tissottometti...",
     "successMessage": "Appuntament skedat b'suċċess!",
     "errorMessage": "Żball fl-iskedar tal-appuntament"
-  }
+  },
+  "contactForm": {
+  "title": "L-ewwel li titlaqx tikkuntattjana",
+  "namePlaceholder": "Ismek",
+  "emailPlaceholder": "Email tiegħek",
+  "phonePlaceholder": "Telefon tiegħek",
+  "messagePlaceholder": "Ikteb il-messaġġ",
+  "submitButton": "Ibgħat Messaġġ",
+  "sendingButton": "Ibgħat...",
+  "successMessage": "Email ippassjata b'suċċess!",
+  "errorMessage": "Żball f'ippassjar tal-email"
+},
+"heroSectionCon": {
+  "contactUsTitle": "L-ewwel li",
+  "contactUsHighlightText": " Tikkuntattjana"
+}
+
+
 }

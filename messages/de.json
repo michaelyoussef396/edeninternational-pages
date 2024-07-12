@@ -1023,5 +1023,21 @@
     "submitting": "Wird gesendet...",
     "successMessage": "Termin erfolgreich geplant!",
     "errorMessage": "Fehler bei der Terminplanung"
-  }
+  },
+  "contactForm": {
+  "title": "Zögern Sie nicht, uns zu kontaktieren",
+  "namePlaceholder": "Ihr Name",
+  "emailPlaceholder": "Ihre E-Mail",
+  "phonePlaceholder": "Ihre Telefonnummer",
+  "messagePlaceholder": "Nachricht eingeben",
+  "submitButton": "Nachricht senden",
+  "sendingButton": "Senden...",
+  "successMessage": "E-Mail erfolgreich gesendet!",
+  "errorMessage": "Fehler beim Senden der E-Mail"
+},
+"heroSectionCon": {
+  "contactUsTitle": "Zögern Sie nicht,",
+  "contactUsHighlightText": " Kontaktieren Sie uns"
+}
+
 }

@@ -1023,5 +1023,21 @@
     "submitting": "جار الإرسال...",
     "successMessage": "تم جدولة الموعد بنجاح!",
     "errorMessage": "حدث خطأ أثناء جدولة الموعد"
-  }
+  },
+  "contactForm": {
+  "title": "لا تتردد في الاتصال بنا",
+  "namePlaceholder": "اسمك",
+  "emailPlaceholder": "بريدك الإلكتروني",
+  "phonePlaceholder": "رقم هاتفك",
+  "messagePlaceholder": "اكتب رسالتك",
+  "submitButton": "إرسال الرسالة",
+  "sendingButton": "جاري الإرسال...",
+  "successMessage": "تم إرسال البريد الإلكتروني بنجاح!",
+  "errorMessage": "حدث خطأ أثناء إرسال البريد الإلكتروني"
+},
+"heroSectionCon": {
+  "contactUsTitle": "لا تتردد في",
+  "contactUsHighlightText": " الاتصال بنا"
+}
+
 }

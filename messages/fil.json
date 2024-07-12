@@ -1023,5 +1023,21 @@
     "submitting": "Nagsusumite...",
     "successMessage": "Matagumpay na na-schedule ang appointment!",
     "errorMessage": "Error sa pag-schedule ng appointment"
-  }
+  },
+  "contactForm": {
+  "title": "Huwag Mag-Atubiling Makipag-ugnayan sa Amin",
+  "namePlaceholder": "Iyong Pangalan",
+  "emailPlaceholder": "Iyong Email",
+  "phonePlaceholder": "Iyong Telepono",
+  "messagePlaceholder": "Mag-type ng mensahe",
+  "submitButton": "Ipadala ang Mensahe",
+  "sendingButton": "Nagpapadala...",
+  "successMessage": "Tagumpay na naipadala ang Email!",
+  "errorMessage": "May Error sa Pagpapadala ng Email"
+},
+"heroSectionCon": {
+  "contactUsTitle": "Huwag mag-atubiling",
+  "contactUsHighlightText": " Makipag-ugnayan sa Amin"
+}
+
 }

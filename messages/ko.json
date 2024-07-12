@@ -1023,5 +1023,22 @@
     "submitting": "제출 중...",
     "successMessage": "약속이 성공적으로 예약되었습니다!",
     "errorMessage": "약속 예약 오류"
-  }
+  },
+  "contactForm": {
+  "title": "언제든지 연락 주세요",
+  "namePlaceholder": "당신의 이름",
+  "emailPlaceholder": "당신의 이메일",
+  "phonePlaceholder": "당신의 전화번호",
+  "messagePlaceholder": "메시지 입력",
+  "submitButton": "메시지 보내기",
+  "sendingButton": "전송 중...",
+  "successMessage": "이메일 전송 성공!",
+  "errorMessage": "이메일 전송 오류"
+},
+"heroSectionCon": {
+  "contactUsTitle": "언제든지",
+  "contactUsHighlightText": " 연락 주세요"
+}
+
+
 }

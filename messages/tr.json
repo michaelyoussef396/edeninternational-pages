@@ -1023,5 +1023,21 @@
     "submitting": "Gönderiliyor...",
     "successMessage": "Randevu başarıyla planlandı!",
     "errorMessage": "Randevu planlanırken hata oluştu"
-  }
+  },
+  "contactForm": {
+  "title": "Bize Çekinmeden Ulaşın",
+  "namePlaceholder": "Adınız",
+  "emailPlaceholder": "E-posta adresiniz",
+  "phonePlaceholder": "Telefon numaranız",
+  "messagePlaceholder": "Mesajınızı yazın",
+  "submitButton": "Mesaj Gönder",
+  "sendingButton": "Gönderiliyor...",
+  "successMessage": "E-posta başarıyla gönderildi!",
+  "errorMessage": "E-posta gönderirken hata oluştu"
+},
+"heroSectionCon": {
+  "contactUsTitle": "Çekinmeden",
+  "contactUsHighlightText": " Bizimle İletişime Geçin"
+}
+
 }

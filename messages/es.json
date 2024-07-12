@@ -1023,5 +1023,21 @@
     "submitting": "Enviando...",
     "successMessage": "¡Cita programada exitosamente!",
     "errorMessage": "Error al programar la cita"
-  }
+  },
+  "contactForm": {
+  "title": "No dudes en contactarnos",
+  "namePlaceholder": "Tu Nombre",
+  "emailPlaceholder": "Tu Correo Electrónico",
+  "phonePlaceholder": "Tu Teléfono",
+  "messagePlaceholder": "Escribe tu mensaje",
+  "submitButton": "Enviar Mensaje",
+  "sendingButton": "Enviando...",
+  "successMessage": "¡Correo enviado exitosamente!",
+  "errorMessage": "Error al enviar el correo"
+},
+"heroSectionCon": {
+  "contactUsTitle": "No dudes en",
+  "contactUsHighlightText": " Contactarnos"
+}
+
 }
