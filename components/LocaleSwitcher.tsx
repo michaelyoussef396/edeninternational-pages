@@ -37,8 +37,8 @@ export default function LocaleSwitcher() {
         <option value='tr'>{t('tr')}</option>
         <option value='mt'>{t('mt')}</option>
         <option value='de'>{t('de')}</option>
-        <option value='fil'>{t('fil')}</option>
-        <option value='ko'>{t('ko')}</option>
+        <option value='ph'>{t('fil')}</option>
+        <option value='kr'>{t('ko')}</option>
         <option value='cmn'>{t('cmn')}</option>
         <option value='si'>{t('si')}</option>
         <option value='sr'>{t('sr')}</option>

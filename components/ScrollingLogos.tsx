@@ -34,7 +34,7 @@ const ScrollingLogos: React.FC = () => {
         <div ref={logosRef} className="flex">
           {logos.map((logo, index) => (
             <div key={index} className="flex-shrink-0 w-1/5 px-4">
-              <Image width={100} height={90} src={logo} alt={`Logo ${index + 1}`} className="h-24 mx-auto" />
+              <Image width={170} height={180} src={logo} alt={`Logo ${index + 1}`} className="h-24 mx-auto" />
             </div>
           ))}
         </div>
