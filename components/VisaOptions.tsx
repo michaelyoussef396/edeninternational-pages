@@ -46,8 +46,8 @@ const VisaOptions: FC = () => {
         <Image
           src="/footer-3.png" // Ensure this image is placed in the public folder
           alt="Background"
-          layout="fill"
-          objectFit="cover"
+          fill
+          style={{ objectFit: 'cover' }}
           quality={100}
           className="opacity-50"
         />

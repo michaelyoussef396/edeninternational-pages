@@ -8,8 +8,11 @@ import { imageAnimation, textAnimation, listItemAnimation } from '@/utils/animat
 import Button from '@/components/Button';
 import { images } from '@/constants/images';
 
+interface AboutUsProps {
+  locale: string;
+}
 
-const AboutUs: React.FC = () => {
+const AboutUs: React.FC<AboutUsProps> = ({ locale }) => {
   const t = useTranslations('aboutUs');
 
   const { ref: imageRef, inView: imageInView } = useInView({ triggerOnce: true });
@@ -57,7 +60,7 @@ const AboutUs: React.FC = () => {
             <h2 className="text-3xl font-bold mb-4">{t('title')}</h2>
             <p className="mb-4">{t('description')}</p>
             <motion.ul
-              className="list-none text-left md:text-left space-y-2 mx-auto md:mx-0"
+              className="list-none text-left md:text-left space-y-2 mx-auto md:mx-0 max-w-xs md:max-w-full"
               ref={listRef}
               initial="hidden"
               animate={listControls}
@@ -74,7 +77,7 @@ const AboutUs: React.FC = () => {
               ))}
             </motion.ul>
             <div className="mt-4 text-center md:text-left">
-              <Button href="/about-us" text={t('buttonText')} />
+              <Button href="/about-us" text={t('buttonText')} locale={locale} />
             </div>
           </motion.div>
         </div>

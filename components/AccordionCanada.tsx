@@ -5,8 +5,6 @@ import htmlParser from 'html-react-parser';
 import { useTranslations } from "next-intl";
 import { AccordionItemProps } from "@/types";
 
-
-
 const AccordionItem: FC<AccordionItemProps> = ({ title, content }) => {
   const [isOpen, setIsOpen] = useState(false);
 
@@ -42,10 +40,13 @@ const AccordionItem: FC<AccordionItemProps> = ({ title, content }) => {
 
 interface AccordionProps {
   items: AccordionItemProps[];
+  locale: string;
 }
 
-const AccordionCanada: FC<AccordionProps> = ({ items }) => {
+const AccordionCanada: FC<AccordionProps> = ({ items, locale }) => {
   const t = useTranslations('accordionCanada');
+
+  const getLocalizedLink = (path: string) => `/${locale}${path}`;
 
   return (
     <section className="bg-white py-12">
@@ -59,7 +60,7 @@ const AccordionCanada: FC<AccordionProps> = ({ items }) => {
           ))}
         </div>
         <div className="mt-8 text-center">
-          <a href="/contact-us">
+          <a href={getLocalizedLink("/contact-us")}>
             <button className="px-6 py-3 text-white bg-red-500 hover:bg-red-600 font-bold">
               {t('buttonText')}
             </button>

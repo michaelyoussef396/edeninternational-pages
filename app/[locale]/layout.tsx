@@ -34,7 +34,7 @@ export default async function LocaleLayout({
           <FloatingNav locale={locale || 'en'} />
           <Header />
           {children}
-          <Footer />
+          <Footer locale={locale || 'en'} />
         </NextIntlClientProvider>
       </body>
     </html>

@@ -18,8 +18,8 @@ const HeroSectionJob: React.FC<HeroSectionJobProps> = ({ imageSrc, title, highli
       <Image
         src={imageSrc}
         alt="Background"
-        layout="fill"
-        objectFit="cover"
+        fill
+        style={{ objectFit: 'cover' }}
         quality={100}
       />
       <div className="absolute inset-0 flex items-center justify-center bg-black bg-opacity-50 text-center px-4">

@@ -59,8 +59,8 @@ const QuickSteps = () => {
         <Image
           src="/footer-3.png"
           alt="Background"
-          layout="fill"
-          objectFit="cover"
+          fill
+          style={{ objectFit: 'cover' }}
           quality={100}
           className="opacity-50"
         />
@@ -83,9 +83,9 @@ const QuickSteps = () => {
         ))}
       </div>
       <div className="relative z-10 flex justify-center mt-8">
-        <button className="bg-red-500 text-white font-bold py-2 px-4 rounded">
+        {/* <button className="bg-red-500 text-white font-bold py-2 px-4 rounded">
           {t('buttonText')}
-        </button>
+        </button>*/}
       </div>
     </div>
   );

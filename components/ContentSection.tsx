@@ -38,7 +38,7 @@ const ContentSection: React.FC<ContentSectionProps> = ({
           alt={highlightText}
           width={400}
           height={300}
-          objectFit="cover"
+          style={{ objectFit: 'cover' }}
           className="rounded-lg"
         />
       </div>

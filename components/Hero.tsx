@@ -6,7 +6,11 @@ import { slideShow, subtitleAnimation, descriptionAnimation, buttonAnimation } f
 import Button from "@/components/Button";
 import { Slide } from "@/types/index";
 
-const Hero: React.FC = () => {
+interface HeroProps {
+  locale: string;
+}
+
+const Hero: React.FC<HeroProps> = ({ locale }) => {
   const t = useTranslations('hero');
   
   const slides: Slide[] = [
@@ -78,7 +82,7 @@ const Hero: React.FC = () => {
                     variants={buttonAnimation}
                     className="mt-8"
                   >
-                    <Button href={slide.buttonLink} text={slide.buttonText} />
+                    <Button href={slide.buttonLink} text={slide.buttonText} locale={locale} />
                   </motion.div>
                 </div>
               </motion.div>

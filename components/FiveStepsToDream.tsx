@@ -20,7 +20,7 @@ const FiveStepsToDream = () => {
             src={sponserJobsImage}
             alt="Five Easy Steps"
             layout="responsive"
-            objectFit="contain"
+            style={{ objectFit: 'contain' }}
             quality={100}
           />
         </div>

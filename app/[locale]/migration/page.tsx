@@ -24,7 +24,7 @@ const IndexPage: React.FC<IndexPageProps> = ({ params: { locale } }) => {
       />
       <VisaOptions />
       <VisasWeSpecialiseIn />
-      <FAQAccordion />
+      <FAQAccordion locale={locale || 'en'}/>
       <ScrollingLogos />
     </main>
   );

@@ -8,7 +8,7 @@ const IndexPage: React.FC<IndexPageProps> = ({ params: { locale } }) => {
   unstable_setRequestLocale(locale);
   return (
     <main className="">
-      <TheAboutUs />
+      <TheAboutUs locale={locale || 'en'}/>
     </main>
   );
 };

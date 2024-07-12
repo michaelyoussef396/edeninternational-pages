@@ -6,8 +6,14 @@ import Image from 'next/image';
 import { useTranslations } from 'next-intl';
 import { images } from '@/constants/images';
 
-const Footer = () => {
+interface FooterProps {
+  locale: string;
+}
+
+const Footer: React.FC<FooterProps> = ({ locale }) => {
   const t = useTranslations('footer');
+
+  const getLocalizedLink = (path: string) => `/${locale}${path}`;
 
   return (
     <footer className="bg-black text-white py-12 bg-cover bg-center bg-no-repeat">
@@ -49,26 +55,26 @@ const Footer = () => {
           <div className='flex flex-col items-center md:items-start mt-9'>
             <ul className='text-lg'>
               <li className="mb-2">
-                <a href="/Professional-year" className="hover:text-heroRed">{t('explore')}</a>
+                <a href={getLocalizedLink("/Professional-year")} className="hover:text-heroRed">{t('explore')}</a>
               </li>
               <li className="mb-2">
-                <a href="/affiliate-institutions" className="hover:text-heroRed">{t('affiliates')}</a>
+                <a href={getLocalizedLink("/affiliate-institutions")} className="hover:text-heroRed">{t('affiliates')}</a>
               </li>
               <li>
-                <a href="/contact-us" className="hover:text-heroRed">{t('contactUs')}</a>
+                <a href={getLocalizedLink("/contact-us")} className="hover:text-heroRed">{t('contactUs')}</a>
               </li>
             </ul>
           </div>
           <div className='flex flex-col items-center md:items-start mt-9'>
             <ul className='text-lg'>
               <li className="mb-2">
-                <a href="/point-calculation" className="hover:text-heroRed">{t('usefulLinks')}</a>
+                <a href={getLocalizedLink("/point-calculation")} className="hover:text-heroRed">{t('usefulLinks')}</a>
               </li>
               <li className="mb-2">
-                <a href="/student-visa" className="hover:text-heroRed">{t('studentVisa')}</a>
+                <a href={getLocalizedLink("/student-visa")} className="hover:text-heroRed">{t('studentVisa')}</a>
               </li>
               <li>
-                <a href="/migration" className="hover:text-heroRed">{t('migration')}</a>
+                <a href={getLocalizedLink("/migration")} className="hover:text-heroRed">{t('migration')}</a>
               </li>
             </ul>
           </div>

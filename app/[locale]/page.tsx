@@ -16,9 +16,9 @@ const IndexPage: React.FC<IndexPageProps> = ({ params: { locale } }) => {
 
   return (
     <main className="">
-      <Hero />
-      <AboutUs />
-      <VisaCategories />
+      <Hero locale={locale || 'en'}/>
+      <AboutUs locale={locale || 'en'}/>
+      <VisaCategories locale={locale || 'en'} />
       <CountryList />
       <WorkingProcess />
       <Statistics />

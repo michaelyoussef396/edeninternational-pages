@@ -26,7 +26,7 @@ const IndexPage: React.FC<IndexPageProps> = ({ params: { locale } }) => {
       />
       <WhyStudyInCanada />
       <QuickSteps />
-      <AccordionCanada items ={studyInCanadaItems} />
+      <AccordionCanada locale={locale || 'en'} items ={studyInCanadaItems} />
       <ScrollingLogos />
     </main>
   );

@@ -1,4 +1,3 @@
-// components/TheAboutUs.tsx
 'use strict';
 
 import React from 'react';
@@ -6,7 +5,11 @@ import Image from 'next/image';
 import Button from '@/components/Button';
 import { useTranslations } from 'next-intl';
 
-const TheAboutUs: React.FC = () => {
+interface TheAboutUsProps {
+  locale: string;
+}
+
+const TheAboutUs: React.FC<TheAboutUsProps> = ({ locale }) => {
   const t = useTranslations('aboutUsSection');
 
   return (
@@ -18,7 +21,7 @@ const TheAboutUs: React.FC = () => {
             <span className="text-xl font-semibold text-red-600">{t("title")}</span>
             <h2 className="text-3xl font-bold mb-4">{t("subtitle")}</h2>
             <p className="mb-4">{t("content")}</p>
-            <Button href="/contact-us" text={t('buttonText')} />
+            <Button href="/contact-us" text={t('buttonText')} locale={locale} />
           </div>
           <div className="md:w-1/2 flex justify-center md:justify-end mt-8 md:mt-0">
             <div className="relative w-full h-auto">

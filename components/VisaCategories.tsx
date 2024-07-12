@@ -7,7 +7,11 @@ import Image from 'next/image';
 import { sectionTitleAnimation, cardAnimation } from '@/utils/animations';
 import { images } from '@/constants/images';
 
-const VisaCategories: React.FC = () => {
+interface VisaCategoriesProps {
+  locale: string;
+}
+
+const VisaCategories: React.FC<VisaCategoriesProps> = ({ locale }) => {
   const { ref: sectionRef, inView: sectionInView } = useInView({ triggerOnce: true });
   const { ref: card1Ref, inView: card1InView } = useInView({ triggerOnce: true });
   const { ref: card2Ref, inView: card2InView } = useInView({ triggerOnce: true });
@@ -21,6 +25,8 @@ const VisaCategories: React.FC = () => {
   if (card2InView) card2Controls.start("visible");
 
   const t = useTranslations('visaCategories');
+
+  const getLocalizedLink = (path: string) => `/${locale}${path}`;
 
   return (
     <section className="pt-16 bg-black text-white" ref={sectionRef}>
@@ -51,9 +57,9 @@ const VisaCategories: React.FC = () => {
           </div>
           <h4 className="text-xl font-semibold mt-4">{t('studentVisa.title')}</h4>
           <p className="mt-2">{t('studentVisa.description')}</p>
-            <a href={t('studentVisa.buttonLink')} className="inline-block mt-4 bg-red-600 text-white px-6 py-2 rounded-full hover:bg-red-700">
-              {t('studentVisa.buttonText')}
-            </a>
+          <a href={getLocalizedLink(t('studentVisa.buttonLink'))} className="inline-block mt-4 bg-red-600 text-white px-6 py-2 rounded-full hover:bg-red-700">
+            {t('studentVisa.buttonText')}
+          </a>
         </motion.div>
         <motion.div
           className="bg-white text-black p-6 rounded-lg shadow-lg"
@@ -72,9 +78,9 @@ const VisaCategories: React.FC = () => {
           </div>
           <h4 className="text-xl font-semibold mt-4">{t('migration.title')}</h4>
           <p className="mt-2">{t('migration.description')}</p>
-            <a href={t('migration.buttonLink')} className="inline-block mt-4 bg-red-600 text-white px-6 py-2 rounded-full hover:bg-red-700">
-              {t('migration.buttonText')}
-            </a>
+          <a href={getLocalizedLink(t('migration.buttonLink'))} className="inline-block mt-4 bg-red-600 text-white px-6 py-2 rounded-full hover:bg-red-700">
+            {t('migration.buttonText')}
+          </a>
         </motion.div>
       </div>
     </section>

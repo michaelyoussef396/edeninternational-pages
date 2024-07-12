@@ -4,8 +4,6 @@ import { motion } from "framer-motion";
 import { useTranslations } from "next-intl";
 import { AccordionItemProps } from "@/types";
 
-
-
 const AccordionItem: FC<AccordionItemProps> = ({ title, content }) => {
   const [isOpen, setIsOpen] = useState(false);
 
@@ -39,7 +37,11 @@ const AccordionItem: FC<AccordionItemProps> = ({ title, content }) => {
   );
 };
 
-const FAQAccordion: FC = () => {
+interface FAQAccordionProps {
+  locale: string;
+}
+
+const FAQAccordion: FC<FAQAccordionProps> = ({ locale }) => {
   const t = useTranslations('faqAccordion');
 
   const items = [
@@ -65,6 +67,8 @@ const FAQAccordion: FC = () => {
     },
   ];
 
+  const getLocalizedLink = (path: string) => `/${locale}${path}`;
+
   return (
     <section className="bg-white py-12">
       <div className="container mx-auto px-8 md:px-20">
@@ -81,7 +85,7 @@ const FAQAccordion: FC = () => {
           ))}
         </div>
         <div className="mt-8 text-center">
-          <a href="/contact-us">
+          <a href={getLocalizedLink("/contact-us")}>
             <button className="px-6 py-3 text-white bg-red-500 hover:bg-red-600 font-bold">
               {t('cta')}
             </button>
