@@ -9,10 +9,10 @@
     "migration": "Migration",
     "temporarySkillShortageTssVisaSubclass482": "Temporary Skilled Shortage TSS Visa Subclass 482 (AUS)",
     "trainingVisaSubclass407": "Training Visa Subclass 407",
-    "skilledWorkRegionalVisa": "Skilled Work Regional Visa",
-    "skilledNominatedVisa": "Skilled Nominated Visa",
-    "skilledIndependentVisa": "Skilled Independent Visa",
-    "temporaryGraduateVisaSubclass485": "Temporary Graduate Visa",
+    "skilledWorkRegionalVisa": "Skilled Work Regional Visa Subclass 491",
+    "skilledNominatedVisa": "Skilled Nominated Visa Subclass 190",
+    "skilledIndependentVisa": "Skilled Independent Visa Subclass 189",
+    "temporaryGraduateVisaSubclass485": "Temporary Graduate Visa Subclass 407",
     "sponsoredJobs": "Sponsored Jobs",
     "pointCalculation": "Point Calculation",
     "contactUs": "Contact Us",
@@ -113,8 +113,8 @@
       "satisfiedClientsMaintains": "Satisfied Clients Maintains"
     },
     "heroSectionStudent": {
-      "title": "student",
-      "highlightText": "visa"
+      "title": "STUDENT",
+      "highlightText": "VISA"
     },
     "shoreServices": {
       "onShoreTitle": "OUR ON SHORE SERVICES",

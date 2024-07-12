@@ -46,7 +46,6 @@ const ContactForm: FC = () => {
       <div className="container mx-auto px-4 md:px-20">
         <h2 className="text-4xl font-bold text-center mb-8">
           {t('title')}
-          <span className="text-red-500">Contact Us</span>
         </h2>
         <form onSubmit={handleSubmit} className="space-y-4">
           <div className="flex flex-col space-y-4 items-center">

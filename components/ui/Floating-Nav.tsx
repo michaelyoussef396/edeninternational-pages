@@ -108,7 +108,7 @@ export const FloatingNav = ({ className, locale }: FloatingNavProps) => {
               <HoveredLink href={getLocalizedLink("/point-calculation")}>{t("pointCalculation")}</HoveredLink>
             </div>
           </MenuItem>
-          <MenuItem
+          {/*<MenuItem
             setActive={setActive}
             active={active}
             item={t("contactUs")}
@@ -118,7 +118,8 @@ export const FloatingNav = ({ className, locale }: FloatingNavProps) => {
             <div className="flex flex-col space-y-4 text-sm">
               <NavHoveredLink href={getLocalizedLink("/booking")}>{t("bookAnAppointment")}</NavHoveredLink>
             </div>
-          </MenuItem>
+          </MenuItem>*/}
+          <NavHoveredLink href={getLocalizedLink("/contact-us")}>{t("contactUs")}</NavHoveredLink>
         </motion.div>
       </AnimatePresence>
     </>
