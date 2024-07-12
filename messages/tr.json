@@ -989,5 +989,39 @@
     "title": "Avustralya Hayalini Gerçekleştirmenin Beş Kolay Adımı",
     "highlightText": "Avustralya",
     "description": "Becerik Eksikliği İşe Alım Sürecinin, sizin gibi uluslararası adayların Avustralya Hayalini gerçekleştirmesine nasıl yardımcı olduğunu keşfedin."
+  },
+  "pointCalc": {
+    "otherUsefulLinks": "Diğer Faydalı Bağlantılar",
+    "migration": "Göç",
+    "tssVisa": "Geçici Vasıf Eksikliği (TSS) Vizesi - Alt Sınıf 482",
+    "trainingVisa": "Eğitim Vizesi - Alt Sınıf 407",
+    "independentVisa": "Vasıflı Bağımsız Vize - Alt Sınıf 189",
+    "nominatedVisa": "Vasıflı Aday Vizesi - Alt Sınıf 190",
+    "regionalVisa": "Vasıflı İş Bölgesel Vizesi - Alt Sınıf 491",
+    "sponsoredJobs": "Sponsorlu İşler"
+  },
+  "appointmentForm": {
+    "appointmentSchedule": "Randevu Takvimi",
+    "personalInformation": "Kişisel Bilgiler",
+    "appointmentScheduleTitle": "Randevu Takvimi",
+    "phoneConsultation": "Telefon veya Çevrimiçi Danışma",
+    "faceConsultation": "Yüz Yüze Danışma",
+    "professionalDevelopment": "Profesyonel Gelişim - RPL",
+    "migrationTeam": "Göç Ekibi",
+    "admissionTeam": "Kabul Ekibi",
+    "chooseDateTime": "Tarih ve Saat Seçin",
+    "chooseDate": "Tarih Seçin",
+    "chooseTime": "Saat Seçin",
+    "next": "İleri",
+    "personalInformationTitle": "Kişisel Bilgiler",
+    "firstName": "Ad",
+    "lastName": "Soyad",
+    "email": "E-posta",
+    "phoneNumber": "Telefon Numarası",
+    "submit": "Gönder",
+    "loading": "Yükleniyor...",
+    "submitting": "Gönderiliyor...",
+    "successMessage": "Randevu başarıyla planlandı!",
+    "errorMessage": "Randevu planlanırken hata oluştu"
   }
 }

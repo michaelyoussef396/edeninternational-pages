@@ -989,5 +989,39 @@
     "title": "Fünf einfache Schritte, um den australischen Traum zu leben",
     "highlightText": "australischen",
     "description": "Erfahren Sie, wie der Rekrutierungsprozess bei Fachkräftemangel internationalen Kandidaten wie Ihnen geholfen hat, den australischen Traum zu leben."
+  },
+  "pointCalc": {
+    "otherUsefulLinks": "Andere nützliche Links",
+    "migration": "Migration",
+    "tssVisa": "Temporary Skill Shortage (TSS) Visa - Unterklasse 482",
+    "trainingVisa": "Trainingsvisum - Unterklasse 407",
+    "independentVisa": "Qualifizierte Unabhängige Visum - Unterklasse 189",
+    "nominatedVisa": "Qualifizierte Nominierte Visum - Unterklasse 190",
+    "regionalVisa": "Qualifizierte Arbeit Regionalvisum - Unterklasse 491",
+    "sponsoredJobs": "Gesponserte Jobs"
+  },
+  "appointmentForm": {
+    "appointmentSchedule": "Terminplan",
+    "personalInformation": "Persönliche Informationen",
+    "appointmentScheduleTitle": "Terminplan",
+    "phoneConsultation": "Telefonische oder Online-Beratung",
+    "faceConsultation": "Persönliche Beratung",
+    "professionalDevelopment": "Berufliche Entwicklung - RPL",
+    "migrationTeam": "Migrationsteam",
+    "admissionTeam": "Aufnahme-Team",
+    "chooseDateTime": "Datum und Uhrzeit wählen",
+    "chooseDate": "Datum wählen",
+    "chooseTime": "Uhrzeit wählen",
+    "next": "Weiter",
+    "personalInformationTitle": "Persönliche Informationen",
+    "firstName": "Vorname",
+    "lastName": "Nachname",
+    "email": "E-Mail",
+    "phoneNumber": "Telefonnummer",
+    "submit": "Absenden",
+    "loading": "Lädt...",
+    "submitting": "Wird gesendet...",
+    "successMessage": "Termin erfolgreich geplant!",
+    "errorMessage": "Fehler bei der Terminplanung"
   }
 }

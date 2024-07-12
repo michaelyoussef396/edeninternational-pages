@@ -989,5 +989,39 @@
     "title": "Cinq étapes faciles pour vivre le rêve australien",
     "highlightText": "australien",
     "description": "Découvrez comment le processus de recrutement pour pénurie de compétences a aidé des candidats internationaux comme vous à vivre le rêve australien."
+  },
+  "pointCalc": {
+    "otherUsefulLinks": "Autres liens utiles",
+    "migration": "Migration",
+    "tssVisa": "Visa de Pénurie de Compétences Temporaires (TSS) - Sous-classe 482",
+    "trainingVisa": "Visa de Formation - Sous-classe 407",
+    "independentVisa": "Visa Indépendant Qualifié - Sous-classe 189",
+    "nominatedVisa": "Visa Nominé Qualifié - Sous-classe 190",
+    "regionalVisa": "Visa de Travail Régional Qualifié - Sous-classe 491",
+    "sponsoredJobs": "Emplois Sponsorisés"
+  },
+  "appointmentForm": {
+    "appointmentSchedule": "Programme de rendez-vous",
+    "personalInformation": "Informations personnelles",
+    "appointmentScheduleTitle": "Programme de rendez-vous",
+    "phoneConsultation": "Consultation téléphonique ou en ligne",
+    "faceConsultation": "Consultation en face à face",
+    "professionalDevelopment": "Développement professionnel - RPL",
+    "migrationTeam": "Équipe de migration",
+    "admissionTeam": "Équipe d'admission",
+    "chooseDateTime": "Choisissez une date et une heure",
+    "chooseDate": "Choisissez une date",
+    "chooseTime": "Choisissez une heure",
+    "next": "Suivant",
+    "personalInformationTitle": "Informations personnelles",
+    "firstName": "Prénom",
+    "lastName": "Nom de famille",
+    "email": "E-mail",
+    "phoneNumber": "Numéro de téléphone",
+    "submit": "Soumettre",
+    "loading": "Chargement...",
+    "submitting": "Soumission...",
+    "successMessage": "Rendez-vous pris avec succès!",
+    "errorMessage": "Erreur lors de la prise de rendez-vous"
   }
 }

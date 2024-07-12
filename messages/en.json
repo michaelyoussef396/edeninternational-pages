@@ -989,5 +989,44 @@
     "title": "Five Easy Steps To Live The Australian Dream",
     "highlightText": "Australian",
     "description": "Discover how the Skills Shortage Recruitment Process has helped international candidates like you live the Australian Dream."
+  },
+  "home2": {
+    "title": "Sponsored Jobs",
+    "highlightText": ""
+  },
+"pointCalc": {
+    "otherUsefulLinks": "Other Useful Links",
+    "migration": "Migration",
+    "tssVisa": "Temporary Skill Shortage (TSS) Visa - Subclass 482",
+    "trainingVisa": "Training Visa - Subclass 407",
+    "independentVisa": "Skilled Independent Visa - Subclass 189",
+    "nominatedVisa": "Skilled Nominated Visa - Subclass 190",
+    "regionalVisa": "Skilled Work Regional Visa - Subclass 491",
+    "sponsoredJobs": "Sponsored Jobs"
+  },
+  "appointmentForm": {
+    "appointmentSchedule": "Appointment Schedule",
+    "personalInformation": "Personal Information",
+    "appointmentScheduleTitle": "Appointment Schedule",
+    "phoneConsultation": "Phone or Online Consultation",
+    "faceConsultation": "Face to Face Consultation",
+    "professionalDevelopment": "Professional Development - RPL",
+    "migrationTeam": "Migration Team",
+    "admissionTeam": "Admission Team",
+    "chooseDateTime": "Choose Date & Time",
+    "chooseDate": "Choose Date",
+    "chooseTime": "Choose Time",
+    "next": "Next",
+    "personalInformationTitle": "Personal Information",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "phoneNumber": "Phone Number",
+    "submit": "Submit",
+    "loading": "Loading...",
+    "submitting": "Submitting...",
+    "successMessage": "Appointment scheduled successfully!",
+    "errorMessage": "Error scheduling appointment"
   }
+  
 }

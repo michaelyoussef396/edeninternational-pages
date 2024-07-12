@@ -989,5 +989,39 @@
     "title": "ऑस्ट्रेलियाई सपना जीने के लिए पाँच आसान कदम",
     "highlightText": "ऑस्ट्रेलियाई",
     "description": "जानें कैसे कौशल कमी भर्ती प्रक्रिया ने आपके जैसे अंतरराष्ट्रीय उम्मीदवारों को ऑस्ट्रेलियाई सपना जीने में मदद की है।"
+  },
+  "pointCalc": {
+    "otherUsefulLinks": "अन्य उपयोगी लिंक",
+    "migration": "प्रवासन",
+    "tssVisa": "अस्थायी कौशल कमी (TSS) वीजा - उपवर्ग 482",
+    "trainingVisa": "प्रशिक्षण वीजा - उपवर्ग 407",
+    "independentVisa": "कुशल स्वतंत्र वीजा - उपवर्ग 189",
+    "nominatedVisa": "कुशल नामांकित वीजा - उपवर्ग 190",
+    "regionalVisa": "कुशल कार्य क्षेत्रीय वीजा - उपवर्ग 491",
+    "sponsoredJobs": "प्रायोजित नौकरियाँ"
+  },
+  "appointmentForm": {
+    "appointmentSchedule": "नियुक्ति समय तालिका",
+    "personalInformation": "व्यक्तिगत जानकारी",
+    "appointmentScheduleTitle": "नियुक्ति समय तालिका",
+    "phoneConsultation": "फोन या ऑनलाइन परामर्श",
+    "faceConsultation": "सामना-से-सामना परामर्श",
+    "professionalDevelopment": "व्यावसायिक विकास - आरपीएल",
+    "migrationTeam": "प्रवासन टीम",
+    "admissionTeam": "प्रवेश टीम",
+    "chooseDateTime": "तारीख और समय चुनें",
+    "chooseDate": "तारीख चुनें",
+    "chooseTime": "समय चुनें",
+    "next": "अगला",
+    "personalInformationTitle": "व्यक्तिगत जानकारी",
+    "firstName": "पहला नाम",
+    "lastName": "अंतिम नाम",
+    "email": "ईमेल",
+    "phoneNumber": "फोन नंबर",
+    "submit": "जमा करें",
+    "loading": "लोड हो रहा है...",
+    "submitting": "जमा किया जा रहा है...",
+    "successMessage": "नियुक्ति सफलतापूर्वक निर्धारित की गई!",
+    "errorMessage": "नियुक्ति निर्धारित करने में त्रुटि"
   }
 }

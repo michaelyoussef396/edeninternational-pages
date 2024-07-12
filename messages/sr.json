@@ -989,6 +989,40 @@
     "title": "Pet Jednostavnih Koraka do Ostvarenja Australijskog Sna",
     "highlightText": "Australijskog",
     "description": "Otkrijte kako je proces zapošljavanja zbog nedostatka veština pomogao međunarodnim kandidatima poput vas da ostvare australijski san."
+  },
+  "pointCalc": {
+    "otherUsefulLinks": "Други Корисни Линкови",
+    "migration": "Миграција",
+    "tssVisa": "Тимски Краткорочни Виза (TSS) - Подкласа 482",
+    "trainingVisa": "Виза За Обуку - Подкласа 407",
+    "independentVisa": "Виза За Самосталну Радњу - Подкласа 189",
+    "nominatedVisa": "Виза За Именик - Подкласа 190",
+    "regionalVisa": "Виза За Рад У Региону - Подкласа 491",
+    "sponsoredJobs": "Спонзорисани Послови"
+  },
+  "appointmentForm": {
+    "appointmentSchedule": "Распоред Термина",
+    "personalInformation": "Личне Информације",
+    "appointmentScheduleTitle": "Распоред Термина",
+    "phoneConsultation": "Телефонска Или Онлајн Консултација",
+    "faceConsultation": "Лице У Лице Консултација",
+    "professionalDevelopment": "Професионални Развој - RPL",
+    "migrationTeam": "Тим За Миграцију",
+    "admissionTeam": "Тим За Упис",
+    "chooseDateTime": "Изаберите Датум И Време",
+    "chooseDate": "Изаберите Датум",
+    "chooseTime": "Изаберите Време",
+    "next": "Следеће",
+    "personalInformationTitle": "Личне Информације",
+    "firstName": "Име",
+    "lastName": "Презиме",
+    "email": "Е-пошта",
+    "phoneNumber": "Телефонски Број",
+    "submit": "Пошаљи",
+    "loading": "Учитавање...",
+    "submitting": "Шаљем...",
+    "successMessage": "Термин је успешно закажен!",
+    "errorMessage": "Грешка при закаживању термина"
   }
 
   }

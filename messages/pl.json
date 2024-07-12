@@ -989,6 +989,40 @@
     "title": "Pięć Łatwych Kroków do Realizacji Australijskiego Marzenia",
     "highlightText": "Australijskiego",
     "description": "Dowiedz się, jak proces rekrutacji z powodu niedoboru umiejętności pomógł międzynarodowym kandydatom takim jak Ty w realizacji australijskiego marzenia."
+  },
+  "pointCalc": {
+    "otherUsefulLinks": "Inne Przydatne Linki",
+    "migration": "Migracja",
+    "tssVisa": "Wiza Tymczasowego Braku Umiejętności (TSS) - Podklasa 482",
+    "trainingVisa": "Wiza Szkoleniowa - Podklasa 407",
+    "independentVisa": "Niezależna Wiza Zawodowa - Podklasa 189",
+    "nominatedVisa": "Wiza Zawodowo Nominowana - Podklasa 190",
+    "regionalVisa": "Wiza Pracy Regionalnej - Podklasa 491",
+    "sponsoredJobs": "Sponsorowane Oferty Pracy"
+  },
+  "appointmentForm": {
+    "appointmentSchedule": "Harmonogram Spotkań",
+    "personalInformation": "Dane Osobowe",
+    "appointmentScheduleTitle": "Harmonogram Spotkań",
+    "phoneConsultation": "Konsultacja telefoniczna lub online",
+    "faceConsultation": "Konsultacja osobista",
+    "professionalDevelopment": "Rozwój Zawodowy - RPL",
+    "migrationTeam": "Zespół Migracyjny",
+    "admissionTeam": "Zespół Rekrutacyjny",
+    "chooseDateTime": "Wybierz Datę i Godzinę",
+    "chooseDate": "Wybierz Datę",
+    "chooseTime": "Wybierz Godzinę",
+    "next": "Dalej",
+    "personalInformationTitle": "Dane Osobowe",
+    "firstName": "Imię",
+    "lastName": "Nazwisko",
+    "email": "Email",
+    "phoneNumber": "Numer Telefonu",
+    "submit": "Wyślij",
+    "loading": "Ładowanie...",
+    "submitting": "Wysyłanie...",
+    "successMessage": "Spotkanie zostało pomyślnie umówione!",
+    "errorMessage": "Błąd podczas umawiania spotkania"
   }
   }
   

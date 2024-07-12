@@ -989,6 +989,40 @@
     "title": "Pet Enostavnih Korakov za Življenje Avstralskih Sanj",
     "highlightText": "Avstralskih",
     "description": "Odkrijte, kako je postopek zaposlovanja zaradi pomanjkanja spretnosti pomagal mednarodnim kandidatom, kot ste vi, uresničiti avstralske sanje."
+  },
+  "pointCalc": {
+    "otherUsefulLinks": "Iné Užitočné Odkazy",
+    "migration": "Migrácia",
+    "tssVisa": "Víza na Dočasný Nedostatok Zručností (TSS) - Podtrieda 482",
+    "trainingVisa": "Víza na Vzdelávanie - Podtrieda 407",
+    "independentVisa": "Nezávislé Víza - Podtrieda 189",
+    "nominatedVisa": "Nominované Víza - Podtrieda 190",
+    "regionalVisa": "Víza na Pracovisko v Regióne - Podtrieda 491",
+    "sponsoredJobs": "Sponzorované Pracovné Pozície"
+  },
+  "appointmentForm": {
+    "appointmentSchedule": "Harmonogram Schôdzok",
+    "personalInformation": "Osobné Informácie",
+    "appointmentScheduleTitle": "Harmonogram Schôdzok",
+    "phoneConsultation": "Telefonická Alebo Online Konzultácia",
+    "faceConsultation": "Konzultácia Tvárou v Tvár",
+    "professionalDevelopment": "Profesionálny Rozvoj - RPL",
+    "migrationTeam": "Tím pre Migráciu",
+    "admissionTeam": "Tím pre Prihlášky",
+    "chooseDateTime": "Vyberte Dátum a Čas",
+    "chooseDate": "Vyberte Dátum",
+    "chooseTime": "Vyberte Čas",
+    "next": "Ďalej",
+    "personalInformationTitle": "Osobné Informácie",
+    "firstName": "Meno",
+    "lastName": "Priezvisko",
+    "email": "Email",
+    "phoneNumber": "Telefónne Číslo",
+    "submit": "Odoslať",
+    "loading": "Načítavanie...",
+    "submitting": "Odosielanie...",
+    "successMessage": "Schôdzka bola úspešne naplánovaná!",
+    "errorMessage": "Chyba pri plánovaní schôdzky"
   }
   }
   

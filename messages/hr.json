@@ -989,5 +989,39 @@
     "title": "Pet Jednostavnih Koraka za Živjeti Australski San",
     "highlightText": "Australski",
     "description": "Otkrijte kako je proces zapošljavanja zbog nedostatka vještina pomogao međunarodnim kandidatima poput vas da žive australski san."
+  },
+  "pointCalc": {
+    "otherUsefulLinks": "Ostali korisni linkovi",
+    "migration": "Migracija",
+    "tssVisa": "Privremena viza za nedostatak vještina (TSS) - Podrazred 482",
+    "trainingVisa": "Viza za obuku - Podrazred 407",
+    "independentVisa": "Skilled Independent Visa - Podrazred 189",
+    "nominatedVisa": "Skilled Nominated Visa - Podrazred 190",
+    "regionalVisa": "Regionalna viza za kvalificirani rad - Podrazred 491",
+    "sponsoredJobs": "Sponzorirani poslovi"
+  },
+  "appointmentForm": {
+    "appointmentSchedule": "Raspored termina",
+    "personalInformation": "Osobni podaci",
+    "appointmentScheduleTitle": "Raspored termina",
+    "phoneConsultation": "Telefonska ili online konzultacija",
+    "faceConsultation": "Konzultacija licem u lice",
+    "professionalDevelopment": "Profesionalni razvoj - RPL",
+    "migrationTeam": "Migracijski tim",
+    "admissionTeam": "Prijemni tim",
+    "chooseDateTime": "Odaberite datum i vrijeme",
+    "chooseDate": "Odaberite datum",
+    "chooseTime": "Odaberite vrijeme",
+    "next": "Sljedeće",
+    "personalInformationTitle": "Osobni podaci",
+    "firstName": "Ime",
+    "lastName": "Prezime",
+    "email": "Email",
+    "phoneNumber": "Broj telefona",
+    "submit": "Podnesi",
+    "loading": "Učitavanje...",
+    "submitting": "Podnošenje...",
+    "successMessage": "Termin uspješno zakazan!",
+    "errorMessage": "Greška pri zakazivanju termina"
   }
 }

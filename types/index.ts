@@ -65,7 +65,19 @@ export interface LocaleLayoutProps {
     imageSrc: StaticImageData;
     backgroundImageSrc?: string;
   }
-
+  export interface AppointmentEmailTemplateProps {
+    appointmentType: string;
+    scheduleType: string;
+    appointmentDate: Date | null;
+    appointmentTime: string;
+    formData: {
+      firstName: string;
+      lastName: string;
+      email: string;
+      phone: string;
+    };
+  }
+  
   export interface HeroSectionJobProps {
     imageSrc: StaticImageData;
     title: string;

@@ -989,5 +989,39 @@
     "title": "Cinque Facili Passi per Vivere il Sogno Australiano",
     "highlightText": "Australiano",
     "description": "Scopri come il processo di reclutamento per carenza di competenze ha aiutato candidati internazionali come te a vivere il sogno australiano."
+  },
+  "pointCalc": {
+    "otherUsefulLinks": "Altri Link Utili",
+    "migration": "Migrazione",
+    "tssVisa": "Visto Temporaneo per Carenza di Competenze (TSS) - Subclasse 482",
+    "trainingVisa": "Visto di Formazione - Subclasse 407",
+    "independentVisa": "Visto Qualificato Indipendente - Subclasse 189",
+    "nominatedVisa": "Visto Qualificato Nominato - Subclasse 190",
+    "regionalVisa": "Visto di Lavoro Regionale Qualificato - Subclasse 491",
+    "sponsoredJobs": "Lavori Sponsorizzati"
+  },
+  "appointmentForm": {
+    "appointmentSchedule": "Programma Appuntamenti",
+    "personalInformation": "Informazioni Personali",
+    "appointmentScheduleTitle": "Programma Appuntamenti",
+    "phoneConsultation": "Consulenza Telefonica o Online",
+    "faceConsultation": "Consulenza Faccia a Faccia",
+    "professionalDevelopment": "Sviluppo Professionale - RPL",
+    "migrationTeam": "Team di Migrazione",
+    "admissionTeam": "Team di Ammissione",
+    "chooseDateTime": "Scegli Data e Ora",
+    "chooseDate": "Scegli Data",
+    "chooseTime": "Scegli Ora",
+    "next": "Avanti",
+    "personalInformationTitle": "Informazioni Personali",
+    "firstName": "Nome",
+    "lastName": "Cognome",
+    "email": "Email",
+    "phoneNumber": "Numero di Telefono",
+    "submit": "Invia",
+    "loading": "Caricamento...",
+    "submitting": "Invio in corso...",
+    "successMessage": "Appuntamento programmato con successo!",
+    "errorMessage": "Errore nella programmazione dell'appuntamento"
   }
 }

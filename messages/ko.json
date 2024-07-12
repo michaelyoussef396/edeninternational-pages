@@ -989,5 +989,39 @@
     "title": "호주 꿈을 실현하는 다섯 가지 쉬운 단계",
     "highlightText": "호주",
     "description": "기술 부족 채용 과정이 당신과 같은 국제 후보자들이 호주 꿈을 실현하는 데 어떻게 도움을 주었는지 알아보세요."
+  },
+  "pointCalc": {
+    "otherUsefulLinks": "다른 유용한 링크",
+    "migration": "이민",
+    "tssVisa": "임시 기술 부족 (TSS) 비자 - 하위 클래스 482",
+    "trainingVisa": "훈련 비자 - 하위 클래스 407",
+    "independentVisa": "기술 독립 비자 - 하위 클래스 189",
+    "nominatedVisa": "기술 지명 비자 - 하위 클래스 190",
+    "regionalVisa": "기술 작업 지역 비자 - 하위 클래스 491",
+    "sponsoredJobs": "후원된 일자리"
+  },
+  "appointmentForm": {
+    "appointmentSchedule": "약속 일정",
+    "personalInformation": "개인 정보",
+    "appointmentScheduleTitle": "약속 일정",
+    "phoneConsultation": "전화 또는 온라인 상담",
+    "faceConsultation": "대면 상담",
+    "professionalDevelopment": "전문 개발 - RPL",
+    "migrationTeam": "이민 팀",
+    "admissionTeam": "입학 팀",
+    "chooseDateTime": "날짜 및 시간 선택",
+    "chooseDate": "날짜 선택",
+    "chooseTime": "시간 선택",
+    "next": "다음",
+    "personalInformationTitle": "개인 정보",
+    "firstName": "이름",
+    "lastName": "성",
+    "email": "이메일",
+    "phoneNumber": "전화번호",
+    "submit": "제출",
+    "loading": "로딩 중...",
+    "submitting": "제출 중...",
+    "successMessage": "약속이 성공적으로 예약되었습니다!",
+    "errorMessage": "약속 예약 오류"
   }
 }

@@ -989,5 +989,39 @@
     "title": "实现澳大利亚梦想的五个简单步骤",
     "highlightText": "澳大利亚",
     "description": "了解技能短缺招聘流程如何帮助像你这样的国际候选人实现澳大利亚梦想。"
+  },
+  "pointCalc": {
+    "otherUsefulLinks": "其他有用的链接",
+    "migration": "移民",
+    "tssVisa": "临时技能短缺 (TSS) 签证 - 子类 482",
+    "trainingVisa": "培训签证 - 子类 407",
+    "independentVisa": "独立技术签证 - 子类 189",
+    "nominatedVisa": "技术提名签证 - 子类 190",
+    "regionalVisa": "技术工作地区签证 - 子类 491",
+    "sponsoredJobs": "赞助工作"
+  },
+  "appointmentForm": {
+    "appointmentSchedule": "预约时间表",
+    "personalInformation": "个人信息",
+    "appointmentScheduleTitle": "预约时间表",
+    "phoneConsultation": "电话或在线咨询",
+    "faceConsultation": "面对面咨询",
+    "professionalDevelopment": "专业发展 - RPL",
+    "migrationTeam": "移民团队",
+    "admissionTeam": "招生团队",
+    "chooseDateTime": "选择日期和时间",
+    "chooseDate": "选择日期",
+    "chooseTime": "选择时间",
+    "next": "下一步",
+    "personalInformationTitle": "个人信息",
+    "firstName": "名字",
+    "lastName": "姓氏",
+    "email": "电子邮件",
+    "phoneNumber": "电话号码",
+    "submit": "提交",
+    "loading": "加载中...",
+    "submitting": "提交中...",
+    "successMessage": "预约成功！",
+    "errorMessage": "预约错误"
   }
 }

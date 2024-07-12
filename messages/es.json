@@ -989,5 +989,39 @@
     "title": "Cinco Pasos Sencillos Para Vivir el Sueño Australiano",
     "highlightText": "Australiano",
     "description": "Descubre cómo el proceso de reclutamiento por escasez de habilidades ha ayudado a candidatos internacionales como tú a vivir el sueño australiano."
+  },
+  "pointCalc": {
+    "otherUsefulLinks": "Otros Enlaces Útiles",
+    "migration": "Migración",
+    "tssVisa": "Visa de Escasez de Habilidades Temporales (TSS) - Subclase 482",
+    "trainingVisa": "Visa de Entrenamiento - Subclase 407",
+    "independentVisa": "Visa Independiente Cualificada - Subclase 189",
+    "nominatedVisa": "Visa Nominada Cualificada - Subclase 190",
+    "regionalVisa": "Visa Regional de Trabajo Cualificado - Subclase 491",
+    "sponsoredJobs": "Trabajos Patrocinados"
+  },
+  "appointmentForm": {
+    "appointmentSchedule": "Horario de Citas",
+    "personalInformation": "Información Personal",
+    "appointmentScheduleTitle": "Horario de Citas",
+    "phoneConsultation": "Consultación Telefónica o En Línea",
+    "faceConsultation": "Consultación Presencial",
+    "professionalDevelopment": "Desarrollo Profesional - RPL",
+    "migrationTeam": "Equipo de Migración",
+    "admissionTeam": "Equipo de Admisión",
+    "chooseDateTime": "Elegir Fecha y Hora",
+    "chooseDate": "Elegir Fecha",
+    "chooseTime": "Elegir Hora",
+    "next": "Siguiente",
+    "personalInformationTitle": "Información Personal",
+    "firstName": "Nombre",
+    "lastName": "Apellido",
+    "email": "Correo Electrónico",
+    "phoneNumber": "Número de Teléfono",
+    "submit": "Enviar",
+    "loading": "Cargando...",
+    "submitting": "Enviando...",
+    "successMessage": "¡Cita programada exitosamente!",
+    "errorMessage": "Error al programar la cita"
   }
 }

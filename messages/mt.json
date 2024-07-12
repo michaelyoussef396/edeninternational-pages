@@ -989,5 +989,39 @@
     "title": "Ħames Passi Faċli biex Tgħix il-Ħolma Awstraljana",
     "highlightText": "Awstraljana",
     "description": "Skopri kif il-Proċess ta' Reklutaġġ ta' Nuqqas ta' Ħiliet għen lill-kandidati internazzjonali bħalek jgħixu l-Ħolma Awstraljana."
+  },
+  "pointCalc": {
+    "otherUsefulLinks": "Links Utli Oħra",
+    "migration": "Migrazzjoni",
+    "tssVisa": "Viża ta' Nuqqas ta' Ħiliet Temporanja (TSS) - Sottoklassi 482",
+    "trainingVisa": "Viża ta' Taħriġ - Sottoklassi 407",
+    "independentVisa": "Viża Indipendenti Sengħa - Sottoklassi 189",
+    "nominatedVisa": "Viża Sengħa Nominata - Sottoklassi 190",
+    "regionalVisa": "Viża Reġjonali ta' Ħidma Sengħa - Sottoklassi 491",
+    "sponsoredJobs": "Impjiegi Sponsorjati"
+  },
+  "appointmentForm": {
+    "appointmentSchedule": "Skeda ta' Appuntament",
+    "personalInformation": "Informazzjoni Personali",
+    "appointmentScheduleTitle": "Skeda ta' Appuntament",
+    "phoneConsultation": "Konsultazzjoni Telefonika jew Online",
+    "faceConsultation": "Konsultazzjoni Face to Face",
+    "professionalDevelopment": "Żvilupp Professjonali - RPL",
+    "migrationTeam": "Tim tal-Migrazzjoni",
+    "admissionTeam": "Tim tal-Ammissjoni",
+    "chooseDateTime": "Agħżel Data u Ħin",
+    "chooseDate": "Agħżel Data",
+    "chooseTime": "Agħżel Ħin",
+    "next": "Li jmiss",
+    "personalInformationTitle": "Informazzjoni Personali",
+    "firstName": "Isem",
+    "lastName": "Kunjom",
+    "email": "Email",
+    "phoneNumber": "Numru tat-Telefon",
+    "submit": "Ibgħat",
+    "loading": "Tagħbija...",
+    "submitting": "Tissottometti...",
+    "successMessage": "Appuntament skedat b'suċċess!",
+    "errorMessage": "Żball fl-iskedar tal-appuntament"
   }
 }

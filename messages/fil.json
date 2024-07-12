@@ -989,5 +989,39 @@
     "title": "Limang Madaling Hakbang Para Maabot ang Australianong Pangarap",
     "highlightText": "Australianong",
     "description": "Alamin kung paano nakatulong ang proseso ng pangangalap dahil sa kakulangan ng kasanayan sa mga internasyonal na kandidato tulad mo upang maabot ang Australianong pangarap."
+  },
+  "pointCalc": {
+    "otherUsefulLinks": "Iba Pang Mga Kapaki-pakinabang na Link",
+    "migration": "Migrasyon",
+    "tssVisa": "Temporary Skill Shortage (TSS) Visa - Subclass 482",
+    "trainingVisa": "Training Visa - Subclass 407",
+    "independentVisa": "Skilled Independent Visa - Subclass 189",
+    "nominatedVisa": "Skilled Nominated Visa - Subclass 190",
+    "regionalVisa": "Skilled Work Regional Visa - Subclass 491",
+    "sponsoredJobs": "Sponsored Jobs"
+  },
+  "appointmentForm": {
+    "appointmentSchedule": "Schedule ng Appointment",
+    "personalInformation": "Personal na Impormasyon",
+    "appointmentScheduleTitle": "Schedule ng Appointment",
+    "phoneConsultation": "Telepono o Online Consultation",
+    "faceConsultation": "Face to Face Consultation",
+    "professionalDevelopment": "Propesyonal na Pag-unlad - RPL",
+    "migrationTeam": "Koponan ng Migrasyon",
+    "admissionTeam": "Koponan ng Admission",
+    "chooseDateTime": "Pumili ng Petsa at Oras",
+    "chooseDate": "Pumili ng Petsa",
+    "chooseTime": "Pumili ng Oras",
+    "next": "Susunod",
+    "personalInformationTitle": "Personal na Impormasyon",
+    "firstName": "Pangalan",
+    "lastName": "Apelyido",
+    "email": "Email",
+    "phoneNumber": "Numero ng Telepono",
+    "submit": "Isumite",
+    "loading": "Naglo-load...",
+    "submitting": "Nagsusumite...",
+    "successMessage": "Matagumpay na na-schedule ang appointment!",
+    "errorMessage": "Error sa pag-schedule ng appointment"
   }
 }

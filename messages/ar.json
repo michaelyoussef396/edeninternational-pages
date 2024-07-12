@@ -989,5 +989,39 @@
     "title": "خمس خطوات سهلة لتحقيق الحلم الأسترالي",
     "highlightText": "الأسترالي",
     "description": "اكتشف كيف ساعدت عملية التوظيف لنقص المهارات المرشحين الدوليين مثلك على تحقيق الحلم الأسترالي."
+  },
+  "pointCalc": {
+    "otherUsefulLinks": "روابط مفيدة أخرى",
+    "migration": "الهجرة",
+    "tssVisa": "تأشيرة نقص المهارات المؤقتة (TSS) - الفئة الفرعية 482",
+    "trainingVisa": "تأشيرة التدريب - الفئة الفرعية 407",
+    "independentVisa": "تأشيرة المستقلين المهرة - الفئة الفرعية 189",
+    "nominatedVisa": "تأشيرة المهرة المرشحين - الفئة الفرعية 190",
+    "regionalVisa": "تأشيرة العمل الإقليمي المهرة - الفئة الفرعية 491",
+    "sponsoredJobs": "الوظائف المدعومة"
+  },
+  "appointmentForm": {
+    "appointmentSchedule": "جدولة الموعد",
+    "personalInformation": "المعلومات الشخصية",
+    "appointmentScheduleTitle": "جدولة الموعد",
+    "phoneConsultation": "استشارة هاتفية أو عبر الإنترنت",
+    "faceConsultation": "استشارة وجهًا لوجه",
+    "professionalDevelopment": "التطوير المهني - RPL",
+    "migrationTeam": "فريق الهجرة",
+    "admissionTeam": "فريق القبول",
+    "chooseDateTime": "اختر التاريخ والوقت",
+    "chooseDate": "اختر التاريخ",
+    "chooseTime": "اختر الوقت",
+    "next": "التالي",
+    "personalInformationTitle": "المعلومات الشخصية",
+    "firstName": "الاسم الأول",
+    "lastName": "اسم العائلة",
+    "email": "البريد الإلكتروني",
+    "phoneNumber": "رقم الهاتف",
+    "submit": "إرسال",
+    "loading": "جار التحميل...",
+    "submitting": "جار الإرسال...",
+    "successMessage": "تم جدولة الموعد بنجاح!",
+    "errorMessage": "حدث خطأ أثناء جدولة الموعد"
   }
 }
