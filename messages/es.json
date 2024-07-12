@@ -1038,6 +1038,13 @@
 "heroSectionCon": {
   "contactUsTitle": "No dudes en",
   "contactUsHighlightText": " Contactarnos"
+},
+"aboutUsSection": {
+  "title": "¿QUIÉNES SOMOS?",
+  "subtitle": "Unas palabras sobre nosotros",
+  "content": "EDEN INTERNATIONAL se fundó en 2010, con el objetivo de ayudar a clientes que enfrentan dificultades para determinar su camino profesional en el extranjero para la educación superior en tierra o marítima, y migración. Como empresa multinacional con sede en Sídney, contamos con consultores de clase mundial galardonados con certificados PIER y MARA tanto en Sídney, Melbourne, Italia, Croacia, Malta, Turquía y la sucursal de Bangladesh, para ofrecer un servicio impecable a nuestros estudiantes y clientes en todo el mundo.",
+  "buttonText": "Contáctenos"
 }
+
 
 }

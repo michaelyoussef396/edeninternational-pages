@@ -1038,6 +1038,13 @@
 "heroSectionCon": {
   "contactUsTitle": "Çekinmeden",
   "contactUsHighlightText": " Bizimle İletişime Geçin"
+},
+"aboutUsSection": {
+  "title": "BİZ KİMİZ?",
+  "subtitle": "Bizim Hakkımızda Birkaç Kelime",
+  "content": "EDEN INTERNATIONAL, 2010 yılında kurulmuş olup, kara veya denizde yüksek öğrenim veya göç için kariyer yolunu belirlemede zorluk yaşayan müşterilere yardımcı olmak amacıyla kurulmuştur. Sydney merkezli bir çok uluslu şirket olarak, Sidney, Melbourne, İtalya, Hırvatistan, Malta, Türkiye ve Bangladeş şubelerinde PIER ve MARA sertifikalı dünya standartlarında danışmanlarımızla dünya genelinde öğrenci ve müşterilerimize sorunsuz hizmet sunmayı hedeflemekteyiz.",
+  "buttonText": "Bize Ulaşın"
 }
+
 
 }

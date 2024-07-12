@@ -51,15 +51,13 @@
         "subtitle": "学生签证",
         "description": "学生签证是非移民签证，不要求申请人获得公民身份。",
         "image": "/hero1.png",
-        "buttonText": "更多信息",
-        "buttonLink": "/student-visa"
+        "buttonText": "更多信息"
       },
       "slide2": {
         "subtitle": "移民",
         "description": "你会惊讶地发现你的经验和资格可能为澳大利亚的技术移民开辟道路。",
         "image": "/hero2.png",
-        "buttonText": "更多信息",
-        "buttonLink": "/migration"
+        "buttonText": "更多信息"
       }
     },
     "aboutUs": {
@@ -1038,6 +1036,12 @@
 "heroSectionCon": {
   "contactUsTitle": "随时",
   "contactUsHighlightText": " 联系我们"
+},
+"aboutUsSection": {
+  "title": "我们是谁？",
+  "subtitle": "关于我们的几句话",
+  "content": "EDEN INTERNATIONAL成立于2010年，专注于帮助那些在确定海外高等教育、移民路径方面遇到困难的客户。作为一家跨国公司，总部设在悉尼，拥有世界一流的顾问团队，他们在悉尼、墨尔本、意大利、克罗地亚、马耳他、土耳其以及孟加拉国分部获得了PIER和MARA认证，旨在为我们的学生和客户提供全球无缝的服务。",
+  "buttonText": "联系我们"
 }
 
 }

@@ -51,15 +51,13 @@
       "subtitle": "Student Visa",
       "description": "Student visas are non-immigrant visas and do not require the applicant to gain citizenship.",
       "image": "/hero1.png",
-      "buttonText": "More Info",
-      "buttonLink": "/student-visa"
+      "buttonText": "More Info"
     },
     "slide2": {
       "subtitle": "Migration",
       "description": "You'll be surprised to know that your experience and qualification may create pathways to skilled migration in Australia.",
       "image": "/hero2.png",
-      "buttonText": "More Info",
-      "buttonLink": "/migration"
+      "buttonText": "More Info"
     }
   },
   "aboutUs": {
@@ -1042,6 +1040,12 @@
     "sendingButton": "Sending...",
     "successMessage": "Email sent successfully!",
     "errorMessage": "Error sending email"
+  },
+  "aboutUsSection": {
+    "title": "WHO WE ARE?",
+    "subtitle": "A Few Words About Us",
+    "content": "EDEN INTERNATIONAL was built in 2010, keeping in mind those struggling clients finding it hard to determine their career pathway abroad for onshore or offshore higher education, migration. Being a multinational company, with a head office in Sydney, equipped with worlds class consultants awarded with PIER and MARA certificates both in Sydney, Melbourne, Italy, Croatia Malta, Turkey and Bangladesh branch in order to provide our students and clients a seamless service all across the world.",
+    "buttonText": "Contact Us"
   }
   
 }

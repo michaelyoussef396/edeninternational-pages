@@ -1038,7 +1038,14 @@
 "heroSectionCon": {
   "contactUsTitle": "L-ewwel li",
   "contactUsHighlightText": " Tikkuntattjana"
+},
+"aboutUsSection": {
+  "title": "MIN AHNA?",
+  "subtitle": "Xi kliem dwarna",
+  "content": "EDEN INTERNATIONAL ġie mwaqqaf fl-2010, biex jgħin lill-klijenti li qed jiffaċċjaw diffikultajiet biex jiddeterminaw it-trajett tal-karriera tagħhom barra għall-edukazzjoni għolja fuq il-baħar jew fuq l-art, u għall-immigrazzjoni. Bħala kumpanija multinazzjonali b'sede f'Sydney, għandna konsulenti tal-klassi dinjija mħallsin b'ċertifikati PIER u MARA kemm f'Sydney, Melbourne, l-Italja, il-Kroazja, Malta, it-Turkija u fil-filial ta' Bangladexx biex nipprovdu servizz imdawl għall-istudenti u l-klijenti tagħna madwar id-dinja.",
+  "buttonText": "Ikkuntattjana"
 }
+
 
 
 }

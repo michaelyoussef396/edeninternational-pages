@@ -1038,7 +1038,14 @@
 "heroSectionCon": {
   "contactUsTitle": "Ne oklijevajte",
   "contactUsHighlightText": " Nas Kontaktirati"
+},
+"aboutUsSection": {
+  "title": "TKO SMO MI?",
+  "subtitle": "Nekoliko riječi o nama",
+  "content": "EDEN INTERNATIONAL osnovan je 2010. godine s ciljem da pomogne klijentima koji se bore s određivanjem svoje karijerne putanje u inozemstvu za visoko obrazovanje na kopnu ili na moru, te migraciju. Kao multinacionalna tvrtka sa sjedištem u Sydneyu, opremljeni smo svjetskim savjetnicima nagrađenim certifikatima PIER i MARA u Sydneyu, Melbourneu, Italiji, Hrvatskoj, Malti, Turskoj i Bangladeškoj podružnici kako bismo našim studentima i klijentima pružili besprijekornu uslugu diljem svijeta.",
+  "buttonText": "Kontaktirajte nas"
 }
+
 
 
 }

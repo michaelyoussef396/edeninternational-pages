@@ -1038,7 +1038,14 @@
 "heroSectionCon": {
   "contactUsTitle": "언제든지",
   "contactUsHighlightText": " 연락 주세요"
+},
+"aboutUsSection": {
+  "title": "우리는 누구인가요?",
+  "subtitle": "우리에 대한 몇 마디",
+  "content": "EDEN INTERNATIONAL은 2010년에 설립되었으며, 해외에서 고등 교육, 이주를 위한 경로를 결정하는 데 어려움을 겪는 고객들을 지원하기 위해 시작되었습니다. 시드니를 본사로 하는 이 멀티네셔널 기업은 PIER 및 MARA 자격증을 획득한 세계적인 컨설턴트들로 구성되어 있으며, 시드니, 멜버른, 이탈리아, 크로아티아, 몰타, 터키 및 방글라데시 지점을 통해 전 세계의 학생들과 고객들에게 원활한 서비스를 제공합니다.",
+  "buttonText": "문의하기"
 }
+
 
 
 }

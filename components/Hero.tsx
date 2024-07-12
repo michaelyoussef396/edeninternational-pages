@@ -15,14 +15,14 @@ const Hero: React.FC = () => {
       description: t('slide1.description'),
       image: t('slide1.image'),
       buttonText: t('slide1.buttonText'),
-      buttonLink: t('slide1.buttonLink')
+      buttonLink: "/student-visa"
     },
     {
       subtitle: t('slide2.subtitle'),
       description: t('slide2.description'),
       image: t('slide2.image'),
       buttonText: t('slide2.buttonText'),
-      buttonLink: t('slide2.buttonLink')
+      buttonLink: "/migration"
     }
   ];
 

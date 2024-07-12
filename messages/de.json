@@ -1038,6 +1038,12 @@
 "heroSectionCon": {
   "contactUsTitle": "Zögern Sie nicht,",
   "contactUsHighlightText": " Kontaktieren Sie uns"
+},
+"aboutUsSection": {
+  "title": "WER SIND WIR?",
+  "subtitle": "Ein paar Worte über uns",
+  "content": "EDEN INTERNATIONAL wurde 2010 gegründet, mit dem Ziel, Kunden zu unterstützen, die Schwierigkeiten haben, ihren Karriereweg im In- und Ausland für Hochschulbildung oder Migration zu bestimmen. Als multinationales Unternehmen mit Hauptsitz in Sydney verfügen wir über weltklasse Berater, die sowohl in Sydney, Melbourne, Italien, Kroatien, Malta, der Türkei als auch in der Bangladesch-Filiale mit PIER- und MARA-Zertifikaten ausgezeichnet sind, um unseren Studenten und Kunden weltweit nahtlose Dienstleistungen anzubieten.",
+  "buttonText": "Kontaktieren Sie uns"
 }
 
 }
