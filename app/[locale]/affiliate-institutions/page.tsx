@@ -7,8 +7,6 @@ import ScrollingLogos from '@/components/ScrollingLogos';
 import AffiliatedInstitutions from '@/components/AffiliatedInstitutions';
 import Affiliated from '@/components/Affiliated';
 
-
-
 const IndexPage: React.FC<IndexPageProps> = ({ params: { locale } }) => {
   unstable_setRequestLocale(locale);
   const t = useTranslations('heroSection');
@@ -22,17 +20,18 @@ const IndexPage: React.FC<IndexPageProps> = ({ params: { locale } }) => {
         height="h-96"
       />
       <AffiliatedInstitutions />
+      <div className="hidden sm:block">
       <HeroSection
         imageSrc={images.image}
         title={t('secondTitle')}
         highlightText={t('secondHighlightText')}
         height="h-36"
       />
+      </div>
       <Affiliated />
       <ScrollingLogos />
     </main>
   );
 };
-
 
 export default IndexPage;

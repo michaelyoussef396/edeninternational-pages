@@ -29,7 +29,7 @@ export async function POST(req: Request) {
 
     const { data, error } = await resend.emails.send({
       from: 'Acme <onboarding@resend.dev>',
-      to: ['michaelyoussef396@gmail.com'],
+      to: ['info.edeninternational@gmail.com'],
       subject: 'New Appointment Request',
       react: emailContent,
       text: textContent,

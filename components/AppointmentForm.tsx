@@ -105,8 +105,8 @@ const AppointmentForm = () => {
       {step === 1 && (
         <div className="space-y-4">
           <h2 className="text-xl font-bold">Appointment Schedule</h2>
-          <div>
-            <label className="mr-4">
+          <div className="space-y-2">
+            <label className="block">
               <input
                 type="radio"
                 value="Phone"
@@ -115,7 +115,7 @@ const AppointmentForm = () => {
               />
               Phone or Online Consultation
             </label>
-            <label>
+            <label className="block">
               <input
                 type="radio"
                 value="Face"
@@ -125,8 +125,8 @@ const AppointmentForm = () => {
               Face to Face Consultation
             </label>
           </div>
-          <div>
-            <label className="mr-4">
+          <div className="space-y-2">
+            <label className="block">
               <input
                 type="radio"
                 value="Professional"
@@ -135,7 +135,7 @@ const AppointmentForm = () => {
               />
               Professional Development - RPL
             </label>
-            <label>
+            <label className="block">
               <input
                 type="radio"
                 value="Migration"
@@ -144,7 +144,7 @@ const AppointmentForm = () => {
               />
               Migration Team
             </label>
-            <label className="ml-4">
+            <label className="block">
               <input
                 type="radio"
                 value="Admission"
@@ -156,17 +156,17 @@ const AppointmentForm = () => {
           </div>
           <div>
             <label>Choose Date & Time</label>
-            <div className="flex space-x-4">
+            <div className="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4">
               <DatePicker
                 selected={appointmentDate}
                 onChange={(date) => setAppointmentDate(date)}
-                className="border p-2 rounded"
+                className="border p-2 rounded w-full sm:w-auto"
                 placeholderText="Select Date"
               />
               <select
                 value={appointmentTime}
                 onChange={(e) => setAppointmentTime(e.target.value)}
-                className="border p-2 rounded"
+                className="border p-2 rounded w-full sm:w-auto"
               >
                 <option value="">Select Time</option>
                 {times.map((time, index) => (
@@ -245,7 +245,7 @@ const AppointmentForm = () => {
       )}
 
       {success && <p className="text-green-500 mt-4">{success}</p>}
-
+      {error && <p className="text-red-500 mt-4">{error}</p>}
     </div>
   );
 };

@@ -12,10 +12,10 @@ const ReusableMigrationVisa: React.FC<ReusableMigrationVisaProps> = ({ data }) =
 
       {data.sections.map((section, index) => (
         <div key={index}>
-          <h3 className="text-3xl font-bold text-center md:text-left mb-4">{section.heading}</h3>
+          <h3 className="text-2xl sm:text-3xl font-bold text-center md:text-left mb-4">{section.heading}</h3>
           {section.subSections?.map((subSection, subIndex) => (
             <div key={subIndex}>
-              <h4 className="text-2xl font-bold text-center md:text-left mb-2">{subSection.subHeading}</h4>
+              <h4 className="text-xl sm:text-2xl font-bold text-center md:text-left mb-2">{subSection.subHeading}</h4>
               {subSection.details.map((detail, detailIndex) => (
                 <div key={detailIndex}>
                   <p className="mb-2 text-center md:text-left"><strong>{detail.title}</strong></p>

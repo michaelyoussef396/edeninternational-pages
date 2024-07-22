@@ -50,7 +50,7 @@ export const FloatingNav = ({ className, locale }: FloatingNavProps) => {
 
   return (
     <>
-      <HamburgerMenu />
+      <HamburgerMenu locale={locale || 'en'}/>
       <AnimatePresence mode="wait">
         <motion.div
           initial={{
