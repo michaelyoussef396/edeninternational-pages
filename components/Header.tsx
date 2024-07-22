@@ -1,4 +1,3 @@
-// components/Header.tsx
 import React from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
@@ -10,12 +9,12 @@ import { images } from '@/constants/images';
 const Header = () => {
   return (
     <nav className="flex h-29 items-center justify-between px-8 bg-diagonal-split">
-      <div className="flex-1">
-          <a href="/">
-            <Image src={images.logo} alt="eden international" width={300} height={250} className="block p-8" />
-          </a>
+      <div className="flex-1 hidden sm:block"> {/* Hide on small devices */}
+        <a href="/">
+          <Image src={images.logo} alt="eden international" width={300} height={250} className="block p-8" />
+        </a>
       </div>
-      <div className="flex space-x-4 p-8 items-center">
+      <div className="flex justify-between w-full sm:w-auto space-x-4 p-8 items-center">
         <div className="flex space-x-4">
           <a
             href="https://www.facebook.com/profile.php?id=61561459479275"
