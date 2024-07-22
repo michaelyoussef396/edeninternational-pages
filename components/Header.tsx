@@ -1,21 +1,29 @@
+"use client";
 import React from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
+import { motion } from 'framer-motion';
 import LocaleSwitcher from './LocaleSwitcher';
 import { CiInstagram } from 'react-icons/ci';
 import { FaFacebookSquare, FaTiktok } from 'react-icons/fa';
 import { images } from '@/constants/images';
+import { headerAnimation } from '@/utils/animations';
 
 const Header = () => {
   return (
-    <nav className="flex h-29 items-center justify-between px-8 bg-diagonal-split">
+    <motion.nav
+      initial={headerAnimation.initial}
+      animate={headerAnimation.animate}
+      transition={headerAnimation.transition}
+      className="flex items-center justify-between px-4 sm:px-8 bg-diagonal-split h-20 sm:h-auto" // Set height for small devices and auto for larger devices
+    >
       <div className="flex-1 hidden sm:block"> {/* Hide on small devices */}
         <a href="/">
           <Image src={images.logo} alt="eden international" width={300} height={250} className="block p-8" />
         </a>
       </div>
-      <div className="flex justify-between w-full sm:w-auto space-x-4 p-8 items-center">
-        <div className="flex space-x-4">
+      <div className="flex justify-between w-full sm:w-auto items-center">
+        <div className="flex space-x-2 sm:space-x-4 ml-2 sm:ml-0"> {/* Adjusted spacing and alignment */}
           <a
             href="https://www.facebook.com/profile.php?id=61561459479275"
             target="_blank"
@@ -41,9 +49,11 @@ const Header = () => {
             <FaTiktok size={30} />
           </a>
         </div>
-        <LocaleSwitcher />
+        <div className="ml-auto sm:mr-0 mr-2"> {/* Adjusted alignment */}
+          <LocaleSwitcher />
+        </div>
       </div>
-    </nav>
+    </motion.nav>
   );
 };
 
