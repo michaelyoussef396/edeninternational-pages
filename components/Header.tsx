@@ -49,7 +49,7 @@ const Header = () => {
             <FaTiktok size={30} />
           </a>
         </div>
-        <div className="ml-auto sm:mr-0 mr-2"> {/* Adjusted alignment */}
+        <div className="ml-2 sm:ml-4 md:ml-6 lg:ml-8 mr-2"> {/* Adjusted alignment with a gap on medium and large devices */}
           <LocaleSwitcher />
         </div>
       </div>
