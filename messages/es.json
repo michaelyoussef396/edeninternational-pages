@@ -16,7 +16,9 @@
       "sponsoredJobs": "Trabajos Patrocinados",
       "pointCalculation": "Cálculo de Puntos",
       "contactUs": "Contáctanos",
-      "bookAnAppointment": "Reservar una Cita"
+      "bookAnAppointment": "Reservar una Cita",
+      "bookAZoom": "Reservar una Cita"
+
     },
     "languages": {
     "en": "Inglés",

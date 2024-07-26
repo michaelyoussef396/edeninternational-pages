@@ -105,10 +105,9 @@ export const FloatingNav = ({ className, locale }: FloatingNavProps) => {
               <HoveredLink href={getLocalizedLink("/skilled-independent-visa")}>{t("skilledIndependentVisa")}</HoveredLink>
               <HoveredLink href={getLocalizedLink("/temporary-graduate-visa-subclass-485")}>{t("temporaryGraduateVisaSubclass485")}</HoveredLink>
               <HoveredLink href={getLocalizedLink("/sponsored-jobs")}>{t("sponsoredJobs")}</HoveredLink>
-              <HoveredLink href={getLocalizedLink("/point-calculation")}>{t("pointCalculation")}</HoveredLink>
             </div>
           </MenuItem>
-          {/*<MenuItem
+          <MenuItem
             setActive={setActive}
             active={active}
             item={t("contactUs")}
@@ -116,10 +115,10 @@ export const FloatingNav = ({ className, locale }: FloatingNavProps) => {
             href={getLocalizedLink("/contact-us")}
           >
             <div className="flex flex-col space-y-4 text-sm">
-              <NavHoveredLink href={getLocalizedLink("/booking")}>{t("bookAnAppointment")}</NavHoveredLink>
+              <NavHoveredLink href={getLocalizedLink("/appointment")}>{t("bookAnAppointment")}</NavHoveredLink>
+              <NavHoveredLink href={getLocalizedLink("/booking")}>{t("bookAZoom")}</NavHoveredLink>
             </div>
-          </MenuItem>*/}
-          <NavHoveredLink href={getLocalizedLink("/contact-us")}>{t("contactUs")}</NavHoveredLink>
+          </MenuItem>
         </motion.div>
       </AnimatePresence>
     </>

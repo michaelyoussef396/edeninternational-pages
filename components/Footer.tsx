@@ -68,7 +68,7 @@ const Footer: React.FC<FooterProps> = ({ locale }) => {
           <div className='flex flex-col items-center md:items-start mt-9'>
             <ul className='text-lg'>
               <li className="mb-2">
-                <a href={getLocalizedLink("/point-calculation")} className="hover:text-heroRed">{t('usefulLinks')}</a>
+                <a href={getLocalizedLink("/booking")} className="hover:text-heroRed">{t('usefulLinks')}</a>
               </li>
               <li className="mb-2">
                 <a href={getLocalizedLink("/student-visa")} className="hover:text-heroRed">{t('studentVisa')}</a>
